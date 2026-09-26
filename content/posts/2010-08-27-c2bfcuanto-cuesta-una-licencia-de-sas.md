@@ -22,7 +22,7 @@ Nada si tienes los contactos necesarios o te manejas por la parte turbia de inte
 
 O unos 120 dólares si te conformas con una licencia restrictiva de SAS, la llamada [SAS Learning Edition](http://support.sas.com/learn/le/), que puede descargarse desde los servidores de SAS o adquirir en lugares tipo Amazon. Claro, si tus conjuntos de datos no tienen más de 1.500 filas (a fecha de hoy).
 
-Existe un producto específico de SAS, [SAS Analytics Pro](http://www.sas.com/technologies/analytics/statistics/analytics-pro/), que incluye los elementos más habituales del universo SAS (SAS/BASE, SAS/STAT, SAS/GRAPH, etc.) que _sólo_ cuesta
+Existe un producto específico de SAS, [SAS Analytics Pro](https://web.archive.org/web/20131105090424/http://www.sas.com/technologies/analytics/statistics/analytics-pro/), que incluye los elementos más habituales del universo SAS (SAS/BASE, SAS/STAT, SAS/GRAPH, etc.) que _sólo_ cuesta
 
 ![](/img/2010/08/sas_analytics_pro.png#center)
 
@@ -30,8 +30,10 @@ Tengo entendido que el producto tiene algunas restricciones. Por ejemplo, que so
 
 Pero, ¿cuánto valen los productos _de verdad_? La información no es pública y está sujeta a variaciones según múltiples criterios: país, tipo de cliente, habilidad del comercial, etc. Varía también según el sistema operativo utilizado, el número de CPU's, el de usuarios,... Es más opaco, en definitiva, que la telefonía móvil.
 
-Pero hay un cliente muy especial que exige datos públicos: el gobierno de los EE.UU. Este obliga a todos sus proveedores a revelar sus precios por motivos muy democráticos que no imitamos en España, claro. Así, en [esta página](http://www.execinfosys.com/GSA%20Contract.htm) puede descargarse [este documento que detalla los precios de todos los productos de SAS](https://web.archive.org/web/20091229012250/http://www.execinfosys.com:80/SAS%20GSA%20PriceList.pdf) _sólo para el gobierno estadounidense_.
+Pero hay un cliente muy especial que exige datos públicos: el gobierno de los EE.UU. Este obliga a todos sus proveedores a revelar sus precios por motivos muy democráticos que no imitamos en España, claro. Así, en [esta página](https://web.archive.org/web/20200723181542/http://www.execinfosys.com:80/GSA%20Contract.htm) puede descargarse [este documento que detalla los precios de todos los productos de SAS](https://web.archive.org/web/20091229012250/http://www.execinfosys.com:80/SAS%20GSA%20PriceList.pdf) _sólo para el gobierno estadounidense_.
 
-No sé si parecen caros o baratos a mis lectores. Pero, por ejemplo, al organismo que gestiona la Seguridad Social en Estados Unidos le parecen tan desaforados que está tratando de encontrar una alternativa a SAS de una manera muy peculiar: [busca un proveedor (que no sea el mismo SAS Institute) que le proporcione un intérprete de código SAS](https://www.fbo.gov/index?s=opportunity&mode=form&id=eafa46972518bf1c7f38c17791d887fe&tab=core&_cview=0).
+No sé si parecen caros o baratos a mis lectores. Pero, por ejemplo, al organismo que gestiona la Seguridad Social en Estados Unidos le parecen tan desaforados que está tratando de encontrar una alternativa a SAS de una manera muy peculiar: busca un proveedor (que no sea el mismo SAS Institute) que le proporcione un intérprete de código SAS[^1].
 
 Seguro que [Raúl](https://analisisydecision.datanalytics.com/) tiene comentarios la mar de jugosos que hacer a esta entrada.
+
+[^1]: El enlace que debería ir aquí desapareció sin dejar rastro alguno.

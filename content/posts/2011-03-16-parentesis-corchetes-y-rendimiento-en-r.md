@@ -14,13 +14,14 @@ related:
 tags:
 - programación
 - r
+- eficiencia
 title: Paréntesis, llaves y rendimiento en R
 url: /2011/03/16/parentesis-llaves-y-rendimiento-en-r/
 ---
 
 Conforme se populariza el uso de R, cobran creciente importancia las cuestiones relativas a su rendimiento, su gestión de la memoria, etc. Hasta el punto de que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su [descontento con las limitaciones de R](http://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf) (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.
 
-Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas. Por ejemplo, Radford Neal estudió el [desigual desempeño de R](http://radfordneal.wordpress.com/2010/08/15/two-surprising-things-about-r/) frente a ciertas expresiones matemáticas equivalentes: en particular, la expresión
+Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas. Por ejemplo, Radford Neal estudió el [desigual desempeño de R](https://radfordneal.wordpress.com/2010/08/15/two-surpising-things-about-r/) frente a ciertas expresiones matemáticas equivalentes: en particular, la expresión
 
 ```r
 1/{a*{b+c}}
@@ -32,7 +33,7 @@ frente a
 1/(a*(b+c))
 ```
 
-Puede verse más información sobre el mismo tema [aquí](http://radfordneal.wordpress.com/2010/08/19/speeding-up-parentheses-and-lots-more-in-r/), [aquí](http://xianblog.wordpress.com/2010/09/06/insane/) y [aquí](http://blog.binfalse.de/2011/02/readability-vs-speed-in-r/).
+Puede verse más información sobre el mismo tema [aquí](http://radfordneal.wordpress.com/2010/08/19/speeding-up-parentheses-and-lots-more-in-r/), [aquí](http://xianblog.wordpress.com/2010/09/06/insane/) y [aquí](https://www.binfalse.de/2011/02/19/readability-vs-speed-in-r/).
 
 Lo que resulta curioso, cuando no denunciable, es que los autores de todos estos análisis renuncien al rigor estadístico y comparen A contra B a partir de una única observación de cada caso. El código que presento debajo es sustancialmente más riguroso en ese aspecto: replica, aleatoriza y utiliza un análisis de la varianza para ver qué de cierto hay en la hipótesis del Sr. Neal:
 

@@ -18,7 +18,7 @@ title: De números y funcionarios
 url: /2010/05/31/de-numeros-y-funcionarios/
 ---
 
-El otro día apareció una noticia en El País sobre los funcionarios en España y el resto de Europa en el que aparecía [este gráfico](http://www.elpais.com/graficos/economia/funcionarios/Espana/Europa/elpgraeco/20100528elpepueco_1/Ges/).
+El otro día apareció una noticia en El País sobre los funcionarios en España y el resto de Europa en el que aparecía [este gráfico](https://web.archive.org/web/20140106043733/https://www.elpais.com/graficos/economia/funcionarios/Espana/Europa/elpgraeco/20100528elpepueco_1/Ges/).
 
 Como me resultaron curiosos los datos relativos a nuestros vecinos, me entretuve en sacarles algo de punta. Así que fui a la Wikipedia y asocié a cada país su [renta per cápita PPA](http://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_PIB_%28PPA%29_per_c%C3%A1pita) (son datos del 2008, creo) y obtuve esto:
 

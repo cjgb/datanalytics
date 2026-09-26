@@ -17,7 +17,7 @@ title: SAS, el mejor empleador (en EE.UU.)
 url: /2010/01/28/sas-el-mejor-empleador-en-ee-uu/
 ---
 
-Ha aparecido publicado recientemente que SAS ha vuelto (creo que sí, que ya lo ha sido alguna vez, pero cito de memoria) a ser elegido [_la mejor empresa para la que trabajar_](http://money.cnn.com/2010/01/21/technology/sas_best_companies.fortune/). Claro está, en EE.UU. Y, más concretamente, en la sede de Carolina del Norte.
+Ha aparecido publicado recientemente que SAS ha vuelto (creo que sí, que ya lo ha sido alguna vez, pero cito de memoria) a ser elegido [_la mejor empresa para la que trabajar_](https://web.archive.org/web/20250407175400/https://money.cnn.com/2010/01/21/technology/sas_best_companies.fortune/). Claro está, en EE.UU. Y, más concretamente, en la sede de Carolina del Norte.
 
 De ello se congratula hasta mi buen amigo Ali, empleado de SAS Pakistán en Karachi (donde la empresa no tiene oficina), a pesar de la de noches que hemos tenido que bajar por las escaleras desde un noveno piso a las cuatro de la mañana alumbrándonos con los móviles y los portátiles por falta de suministro eléctrico (y, por ende, ascensores).
 

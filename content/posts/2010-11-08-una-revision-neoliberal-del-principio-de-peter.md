@@ -17,7 +17,7 @@ title: Una revisión neoliberal del principio de Peter
 url: /2010/11/08/una-revision-neoliberal-del-principio-de-peter/
 ---
 
-El premio [Ig-Nobel](http://es.wikipedia.org/wiki/Premio_Ig_Nobel) de Gestión del año 2010 se lo llevó un [equipo de investigadores de la Universidad de Catania](http://oldweb.ct.infn.it/cactus/peter_principle_sup_material.html) por un estudio sobre el [principio de Peter](http://es.wikipedia.org/wiki/Principio_de_Peter). Su formulación es la siguiente:
+El premio [Ig-Nobel](http://es.wikipedia.org/wiki/Premio_Ig_Nobel) de Gestión del año 2010 se lo llevó un [equipo de investigadores de la Universidad de Catania](https://www.sciencedirect.com/science/article/abs/pii/S037843710900822X) por un estudio sobre el [principio de Peter](http://es.wikipedia.org/wiki/Principio_de_Peter). Su formulación es la siguiente:
 
 >En una jerarquía, todo empleado tiende a ascender hasta alcanzar su máximo nivel de incompetencia
 >
@@ -27,7 +27,6 @@ En esta entrada voy primero a plantear el problema, revisar después brevemente 
 
 ### El principio de Peter
 
-
 Haré una introducción al principio de Peter usando un ejemplo basado en una organización hipotética de tres niveles jerárquicos: programadores, jefes de equipo y vendedores. La organización contrata programadores y éstos, de acuerdo con ciertos criterios, van ascendiendo por la jerarquía. Es manifiesto que las habilidades requeridas en los tres niveles son distintas y que no todos los individuos están igualmente dotados para cada una de ellas: de hecho, habrá pésimos programadores que pudieran ser excelentes vendedores, etc.
 
 Esta organización decide ascender a los individuos según un criterio más o menos objetivo de aptitud: el mejor programador asciende a jefe de equipo y el mejor jefe de equipo asciende a vendedor. Entonces, dicha organización está expuesta a las consecuencias más crudas del principio de Peter: sus escalafones estarán llenos de ineptos.
@@ -36,7 +35,7 @@ Demostración: si Vd. pertenece a la organización y tiene un puesto X eso es po
 
 ### Análisis de Pluchino et al.
 
-Pluchino et al. realizaron y publicaron un [estudio del principio de Peter](http://lanl.arxiv.org/abs/0907.0455) basado en simulaciones. Incluso han hecho público un [applet de java](http://oldweb.ct.infn.it/cactus/peter_principle_sup_material.html) para que los interesados puedan realizar las suyas propias. Uno puede parametrizar en él la organización (y, en particular, cómo de disímiles son las aptitudes necesarias en cada nivel del escalafón), el criterio de ascenso, etc.
+Pluchino et al. realizaron y publicaron un [estudio del principio de Peter](http://lanl.arxiv.org/abs/0907.0455) basado en simulaciones. Incluso han hecho público un applet de java[^1] para que los interesados puedan realizar las suyas propias. Uno puede parametrizar en él la organización (y, en particular, cómo de disímiles son las aptitudes necesarias en cada nivel del escalafón), el criterio de ascenso, etc.
 
 ![](/img/2010/11/principio_de_peter.png#center)
 
@@ -62,3 +61,5 @@ Me di cuenta de que ahí radicaba en esencia el _quid_ del principio de Peter: l
 ¿Y si a alguien no le interesase este tipo de arreglo por un motivo dado? Pues no estaría obligado ni a comprar ni a vender sus ascensos. Podría hacer como hasta la fecha. No saldría perjudicado.
 
 Existen, por supuesto, variantes más sofisticadas (y prolijas: por eso no las describo acá) de esta propuesta. Me interesa más en este momento la opinión de mis caros lectores.
+
+[^1]: Actualmente desaparecido.

@@ -18,7 +18,7 @@ title: 'Datanalytics: segunda posición en competición internacional de minerí
 url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/
 ---
 
-Me es más que grato anunciar que he alcanzado la segunda posición en el _[IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation](http://tunedit.org/challenge/IEEE-ICDM-2010/traffic?m=leaderboard)_ (sección de tráfico):
+Me es más que grato anunciar que he alcanzado la segunda posición en el [_IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation_](https://web.archive.org/web/20100710041538/http://tunedit.org/challenge/IEEE-ICDM-2010/traffic) (sección de tráfico):
 
 ![](/img/2010/09/competicion_prediccion_trafico.png#center)
 
@@ -28,4 +28,4 @@ La competición constaba de tres partes (o subcompeticiones) distintas relaciona
 * otra para predecir segmentos de calle donde se van a producir atascos a partir de la lista de otros que han ido atascándose previamente y
 * una final para predecir la velocidad media del tráfico en determinadas calles a partir de datos de posición y velocidad enviados por sistemas de GPS instalados en un porcentaje de los vehículos a un servidor central.
 
-He logrado la segunda posición en la primera de ellas (usando R, obviamente) y espero redactar pronto un informe sobre la estrategia y métodos utilizados de cara a su posible publicación en las actas de la [IEEE International Conference on Data Mining 2010 (ICDM10)](http://datamining.it.uts.edu.au/icdm10/), que tendrá lugar en Sydney en diciembre.
+He logrado la segunda posición en la primera de ellas (usando R, obviamente) y espero redactar pronto un informe sobre la estrategia y métodos utilizados de cara a su posible publicación en las actas de la [IEEE International Conference on Data Mining 2010 (ICDM10)](https://web.archive.org/web/20100811173133/http://datamining.it.uts.edu.au/icdm10/), que tendrá lugar en Sydney en diciembre.

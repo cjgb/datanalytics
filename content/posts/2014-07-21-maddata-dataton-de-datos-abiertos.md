@@ -24,7 +24,7 @@ url: /2014/07/21/maddata-dataton-de-datos-abiertos/
 
 Copio (adaptándolo) de [aquí](http://medialab-prado.es/article/maddata):
 
-_[everis](http://www.everis.com/spain/es-ES/inicio/Paginas/inicio.aspx) y [MadridEmprende](http://www.madridemprende.com/) organizan el primer Open Datathon de Madrid.
+_[everis](https://es.wikipedia.org/wiki/NTT_Data_Espa%C3%B1a) y [MadridEmprende](http://www.madridemprende.com/) organizan el primer Open Datathon de Madrid.
 
 La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
 

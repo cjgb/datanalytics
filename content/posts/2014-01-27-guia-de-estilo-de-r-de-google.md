@@ -300,4 +300,4 @@ Las convenciones expresadas más arriba deberían ser seguidas de no haber un bu
 
 ### Notas
 
-Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
+Esta guía de estilo de R es una traducción literal de [la de Google](https://google.github.io/styleguide/Rguide.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.

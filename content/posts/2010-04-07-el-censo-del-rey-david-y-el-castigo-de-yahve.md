@@ -18,9 +18,9 @@ url: /2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/
 
 A la vuelta de la Semana Santa, voy a escribir sobre una historia que leí en un librito muy recomendable de [I.B. Cohen](http://es.wikipedia.org/wiki/Bernard_Cohen): _El triunfo de los números_. Imagino que mis lectores, más eruditos que yo, seguramente la conocerán de antiguo.
 
-La Biblia está plagada de números e incluso define en cierto punto [el valor de pi como tres](http://www.bitperbit.com/2007/11/el-valor-de-pi-en-la-biblia/). También trae noticia de algunos censos realizados en el antiguo Israel/Judea. El más famoso de todos, supongo, es el que condujo a José y María a Belén. Pero el que comento en esta entrada no deja de tener su interés.
+La Biblia está plagada de números e incluso define en cierto punto [el valor de pi como tres](https://web.archive.org/web/20100228133153id_/http://www.bitperbit.com/2007/11/el-valor-de-pi-en-la-biblia/). También trae noticia de algunos censos realizados en el antiguo Israel/Judea. El más famoso de todos, supongo, es el que condujo a José y María a Belén. Pero el que comento en esta entrada no deja de tener su interés.
 
-El primer censo realizado por los judíos fue el que realizaron Moisés y Aarón a la salida de Egipto. Años más tarde, sucedió [lo que se leyó en todas las iglesias el 3 de febrero](http://www.archimadrid.es/evangelio/2010/02/03022010.html) (me refiero a la primera lectura, la del libro de Samuel) y que se resume en lo siguiente:
+El primer censo realizado por los judíos fue el que realizaron Moisés y Aarón a la salida de Egipto. Años más tarde, sucedió [lo que se leyó en todas las iglesias el 3 de febrero](https://web.archive.org/web/20100206014536id_/http://www.archimadrid.es/evangelio/2010/02/03022010.html) (me refiero a la primera lectura, la del libro de Samuel) y que se resume en lo siguiente:
 
 * El rey David ordenó realizar uno de los primeros censos de los que se tiene noticia en la historia de la humanidad.
 * Después de obtenidos los resultados del censo, al rey, por algún motivo, le remordió la conciencia.

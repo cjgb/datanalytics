@@ -18,7 +18,7 @@ title: 'Para que copien, peguen y disfruten: addenda'
 url: /2010/04/21/para-que-copien-peguen-y-disfruten-addenda/
 ---
 
-Ayer dejé publicadas [unas cuantas líneas de R](http://datanalytics.wordpress.com/2010/04/21/para-que-copien-peguen-y-disfruten/) y la promesa de contar de qué iba la cosa. Adelantando acontecimientos, he recibido comentarios públicos y privados al respecto que en esta entrada trataré de contestar.
+Ayer dejé publicadas [unas cuantas líneas de R](https://datanalytics.com/2010/04/21/para-que-copien-peguen-y-disfruten/) y la promesa de contar de qué iba la cosa. Adelantando acontecimientos, he recibido comentarios públicos y privados al respecto que en esta entrada trataré de contestar.
 
 El código era, una vez mínimamente desofuscado (no quería dar demasiadas pistas):
 
@@ -45,7 +45,7 @@ He aquí lo que hace:
 5. La función genera una sucesión de puntos comenzando por uno al azar. Por eficiencia, es mejor asignar espacio previamente. En este caso es un vector de longitud igual al de la muestra de puntos.
 6. El bucle calcula de hecho la sucesión de puntos. Cada uno de ellos es el punto medio entre el anterior y el vértice (elegido al azar, recordemos) correspondiente. Por lo tanto, la sucesión de puntos trata de acercarse a los vértices del triángulo en una especie de caminata aleatoria sin en realidad llegar a poder alcanzar jamás ninguno de ellos. (Supongo que este algoritmo [le habría quitado el sueño](http://es.wikipedia.org/wiki/Paradojas_de_Zenón) malamente al pobre [Zenón](http://es.wikipedia.org/wiki/Zenón_de_Elea)).
 
-Finalmente, se representan los puntos gráficamente en el plano. El resultado, como todo atento lector de las páginas 42 a 45 de [este libro](http://www.lalibreriadelau.com/catalog/product_info.php/products_id/20070?sid=d91772b6b3e33c6fb1e91105bc83686b) debería haber reconocido, es el [triángulo de Sierpinsky](http://es.wikipedia.org/wiki/Triángulo_de_Sierpinski) (como dice el autor del libro, el resultado es dicho triángulo _querámoslo o no_).
+Finalmente, se representan los puntos gráficamente en el plano. El resultado es el [triángulo de Sierpinsky](http://es.wikipedia.org/wiki/Triángulo_de_Sierpinski):
 
 ![Triángulo de Sierpinsky](/img/2010/04/triangulo_sierpinsky1.png#center)
 

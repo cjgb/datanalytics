@@ -64,7 +64,7 @@ Otros| 9.37| 9.61| -0.24| -2.49|
 
 donde la primera columna corresponde a los porcentajes de votos obtenidos en la encuesta del CIS, la segunda a los reales (descontados en ambos casos los nulos y blancos) y las demás son las diferencias. Cierto, quedan sin computar los 55 sujetos que no recuerdan su voto y los 196 que se negaron a contestar esa pregunta. Pero a ti, lector, ¿te parece que las discrepancias están _dentro de rango_?
 
-Ahora, el [tema Rosell](http://economia.elpais.com/economia/2013/02/07/actualidad/1360270022_879827.html). Viene el tal señor y critica la [EPA](http://www.datanalytics.com/tag/epa/). Dizque no es fiable. Que es una encuesta. Que no se cree los números que arroja. Que si en España no hay seis millones de parados. Etc.
+Ahora, el [tema Rosell](http://economia.elpais.com/economia/2013/02/07/actualidad/1360270022_879827.html). Viene el tal señor y critica la [EPA](http://datanalytics.com/tag/epa/). Dizque no es fiable. Que es una encuesta. Que no se cree los números que arroja. Que si en España no hay seis millones de parados. Etc.
 
 Y se le responde _en masse_ con [esto](http://www.europapress.es/economia/laboral-00346/noticia-economia-ine-responde-rosell-epa-basa-metodologia-comun-ue-refrendada-propia-ceoe-20130208200315.html), [esto](http://www.eldiario.es/economia/INE-Rosell-EPA-UE-CEOE_0_99040709.html) o [esto](http://economia.elpais.com/economia/2013/02/08/actualidad/1360349971_964973.html). Salvo en algunos casos, como [este](http://www.eldiario.es/zonacritica/datos-EPA-fiables_6_99100105.html), la defensa de la EPA se realiza [_ad verecundiam_](http://es.wikipedia.org/wiki/Argumento_ad_verecundiam).
 

@@ -32,7 +32,7 @@ library(geosphere)
 
 ## datos: provincias y población
 
-nodos <- read.table( "http://www.datanalytics.com/uploads/prov_pop_lat_lon.txt",
+nodos <- read.table( "http://datanalytics.com/uploads/prov_pop_lat_lon.txt",
               sep = ",", dec = ",", header = T, encoding = "latin1")
 
 ## aristas

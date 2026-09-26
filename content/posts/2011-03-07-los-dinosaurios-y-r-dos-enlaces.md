@@ -31,9 +31,7 @@ De hecho, por eso estuvieron tan cerca SAS y [Teradata](http://es.wikipedia.org/
 
 Lo que es cierto es que Oracle, Teradata y otras empresas del ramo han desarrollado sus propios algoritmos de minería de datos. Y ahora —ahora llegan mis dos anunciados enlaces— nos brindan una interfaz a dichos algoritmos desde R:
 
-
-
-* Así, Teradata ha desarrollado el [paquete TeradataR](http://developer.teradata.com/applications/articles/teradatar-enables-in-database-analytics-with-r).
-* Y Oracle, que lleva años desarrollando [sus propios algoritmos de minería de datos](http://en.wikipedia.org/wiki/Oracle_Data_Mining) —desarrollados a partir del trabajo original de [Thinking Machines](http://en.wikipedia.org/wiki/Thinking_Machines_Corporation)— ha desarrollado y liberado [RODM](http://cran.fhcrc.org/web/packages/RODM/index.html).
+* Así, Teradata ha desarrollado el [paquete TeradataR](https://web.archive.org/web/20110215142944/http://developer.teradata.com:80/applications/articles/teradatar-enables-in-database-analytics-with-r).
+* Y Oracle, que lleva años desarrollando [sus propios algoritmos de minería de datos](http://en.wikipedia.org/wiki/Oracle_Data_Mining) —desarrollados a partir del trabajo original de [Thinking Machines](http://en.wikipedia.org/wiki/Thinking_Machines_Corporation)— ha desarrollado y liberado [RODM](https://cran.r-project.org/src/contrib/Archive/RODM/).
 
 A pesar del escepticismo que muestra el empresariado patrio frente a la emergencia de R, el que dos dinosaurios corporativos hayan pelado sus barbas puede ser el indicio de que telefónicas, santanderes, bebeuveás y demás tienen que ir poniendo las suyas a remojar.

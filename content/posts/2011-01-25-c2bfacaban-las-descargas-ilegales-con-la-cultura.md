@@ -55,7 +55,7 @@ Es curioso además constatar cómo declina entre 2003 y 2009 el número de activ
 ### Libros
 
 
-El número de títulos publicados en España ha crecido durante la última década como se aprecia en el gráfico adjunto. Supongo que a la vista del bajón de 2004, todavía es temprano para decidir si el de 2009 se debe a la crisis, a una emigración masiva de musas, o a la competencia de los [próvidos _piratas_](http://www.ebookee.com).
+El número de títulos publicados en España ha crecido durante la última década como se aprecia en el gráfico adjunto. Supongo que a la vista del bajón de 2004, todavía es temprano para decidir si el de 2009 se debe a la crisis, a una emigración masiva de musas, o a la competencia de los [próvidos _piratas_](https://web.archive.org/web/20230501183825/https://ebookee.com/).
 
 
 ![](/img/2011/01/numero_titulos_publicados_espanna.png#center)

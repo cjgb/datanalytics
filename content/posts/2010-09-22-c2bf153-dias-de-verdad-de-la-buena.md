@@ -16,7 +16,7 @@ title: ¿153 días de verdad de la buena?
 url: /2010/09/22/153-dias-de-verdad-de-la-buena/
 ---
 
-Hoy he encontrado una cifra en el periódico: [153 días](http://blogs.elpais.com/eco-lab/2010/09/lo-que-contamina-un-aerogenerador.html). Se refiere al tiempo que presuntamente tarda un aerogenerador en producir la energía que consume su construcción.
+Hoy he encontrado una cifra en el periódico: [153 días](https://web.archive.org/web/20250426001020/https://blogs.elpais.com/eco-lab/2010/09/lo-que-contamina-un-aerogenerador.html). Se refiere al tiempo que presuntamente tarda un aerogenerador en producir la energía que consume su construcción.
 
 Como curioso que soy, por el interés que tengo en la materia y porque nunca, nunca, nunca me creo un número que veo publicado, he hecho algunas comprobaciones por si el autor me trataba de colar un bulo. Es que, además, me ha sorprendido la cifra por pequeña, por demasiado favorable a la causa de las energías renovables cuando, años atrás, hablando del tema con mi antiguo profesor de física, habíamos llegado a una conclusión bastante distinta haciendo cuentas en la servilleta del bar.
 
@@ -27,7 +27,7 @@ Primero, he buscado en Internet las [especificaciones técnicas de un aerogenera
 * que la torre, la componente más pesada, contiene unas 150 toneladas de acero y
 * que la potencia máxima del aerogenerador es de 1300 kW.
 
-Por otro lado, he averiguado que [elaborar una tonelada de acero requiere 600 kg de carbón](http://www.worldcoal.org/coal/uses-of-coal/coal-steel/) de una variedad, _coke_, que [contiene  35000 kJ por kg](http://en.wikipedia.org/wiki/Coal), que equivalen a (prácticamente) 10 [kWh](http://es.wikipedia.org/wiki/Kilovatio-hora).
+Por otro lado, he averiguado que [elaborar una tonelada de acero requiere 600 kg de carbón](https://web.archive.org/web/20150918063059/http://www.worldcoal.org/coal/uses-of-coal/coal-steel/) de una variedad, _coke_, que [contiene  35000 kJ por kg](http://en.wikipedia.org/wiki/Coal), que equivalen a (prácticamente) 10 [kWh](http://es.wikipedia.org/wiki/Kilovatio-hora).
 
 Así que si la torre pesa 150 toneladas, fundir tal cantidad de acero requiere 90 toneladas de carbón, es decir, 900.000 kWh.
 

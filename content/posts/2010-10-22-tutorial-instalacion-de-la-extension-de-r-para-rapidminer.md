@@ -25,9 +25,9 @@ No sé mucho de Windows y las diferentes versiones y configuraciones que pueda t
 Los pasos son los siguientes:
 
 
-1. Descargar RapidMiner de esta [página](http://rapid-i.com/content/view/26/82/) e instalarlo _a la Windows_: doble click, aceptar, aceptar, etc.
+1. Descargar RapidMiner de esta [página](https://web.archive.org/web/20131025225243/http://rapid-i.com:80/content/view/26/82/) e instalarlo _a la Windows_: doble click, aceptar, aceptar, etc.
 2. Tal vez mientras tanto, instalar R y el paquete [rJava](http://cran.r-project.org/web/packages/rJava/index.html) (de no tener alguno de los dos instalados ya previamente).
-3. Añadir el directorio en el que se encuentran R y R.dll a la [variable de entorno %PATH% de Windows](http://mikengel.com/java-jdk-configurar-variables-de-entorno-windows-7) para que RapidMiner pueda encontrarlos. En mi instalación son dos directorios distintos: C:/archivos de programa/r/r-2.12.0/bin para R y C:/archivos de programa/r/r-2.12.0/bin/i386 para R.dll.
+3. Añadir el directorio en el que se encuentran R y R.dll a la variable de entorno `%PATH%` de Windows para que RapidMiner pueda encontrarlos. En mi instalación son dos directorios distintos: C:/archivos de programa/r/r-2.12.0/bin para R y C:/archivos de programa/r/r-2.12.0/bin/i386 para R.dll.
 4. Tener adecuadamente instalado Java en el ordenador. En particular, tener definida la variable de entorno JAVA_HOME apuntando al directorio que contenga un JRE. Es más que probable que sea necesario uno no demasiado antiguo. En mi sistema he usado este que está en C:/archivos de programa/java/jre6. Hay otro en el directorio de instalación de RapidMiner que también debería funcionar.
 5. Arrancar RapidMiner. Al iniciarse por primera vez, RapidMiner nos pregunta por el directorio donde ubicar el _repositorio_. Se puede crear uno para él. Inmediatamente se abre una ventana en la que RapidMiner indica que existen actualizaciones disponibles. Como se aprecia en la captura de pantalla, una de ellas es la extensión para R (imagino que quienes tengan ya instalado RapidMiner pueden acceder a la misma ventana de actualizaciones a través de los menús de la aplicación):
 

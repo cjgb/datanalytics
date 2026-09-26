@@ -22,6 +22,6 @@ La gráfica
 
 ![](/img/2017/02/graficos_prensa.png#center)
 
-muestra el número (manifiestamente creciente) de gráficas publicadas en una muestra de ejemplares del NYT (una quinquenal en un día laborable de septiembre) tal como se cuenta [aquí](https://priceonomics.com/when-did-charts-become-popular/).
+muestra el número (manifiestamente creciente) de gráficas publicadas en una muestra de ejemplares del NYT (de un día laborable de un septiembre de cada cinco años) tal como se cuenta [aquí](https://priceonomics.com/when-did-charts-become-popular/).
 
 ¿Sería posible hacer un estudio similar con la prensa de aquí? Interesante, seguro, sí.

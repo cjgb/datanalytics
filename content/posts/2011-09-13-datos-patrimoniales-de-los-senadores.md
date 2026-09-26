@@ -27,7 +27,7 @@ No estoy particularmente inspirado en estos días. Así que no voy a tratar de c
 
 
 ```r
-senado <- read.table("http://www.datanalytics.com/uploads/declaracion_bienes_senadores.csv", header = T, sep = ";", dec = ",")
+senado <- read.table("http://datanalytics.com/uploads/declaracion_bienes_senadores.csv", header = T, sep = ";", dec = ",")
 table(senado$grupo)
 
 plot(senado$irpf ~ senado$grupo)

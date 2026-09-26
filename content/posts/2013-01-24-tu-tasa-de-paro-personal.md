@@ -22,7 +22,7 @@ title: Tu tasa de paro personal
 url: /2013/01/24/tu-tasa-de-paro-personal/
 ---
 
-En el pasado nos hemos ocupado en estas páginas del [desempleo](http://www.datanalytics.com/tag/epa/). Hoy, día en el que se han anunciado los datos de la EPA del último trimestre de 2012, sale a la luz [TTParo.es](http://tutasadeparo.es/), un proyecto en el que he colaborado (aunque en el que todo lo que se ve es obra de [Kaleidos](http://kaleidos.net/)) y que permite calcular _tu tasa de paro personal_.
+En el pasado nos hemos ocupado en estas páginas del [desempleo](http://datanalytics.com/tag/epa/). Hoy, día en el que se han anunciado los datos de la EPA del último trimestre de 2012, sale a la luz [TTParo.es](http://tutasadeparo.es/), un proyecto en el que he colaborado (aunque en el que todo lo que se ve es obra de [Kaleidos](http://kaleidos.net/)) y que permite calcular _tu tasa de paro personal_.
 
 Por ejemplo, en
 
@@ -34,4 +34,4 @@ Desde hace mucho tiempo vengo repitiendo que la forma en la que se informa de lo
 
 Y la información sobre este fenómeno con una _dimensión micro_ tan humana debería, creo yo, reflejar mejor estas circunstancias.
 
-(Y sí, hemos usado subterráneamente R y el paquete [MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/)).
+(Y sí, hemos usado subterráneamente R y el paquete [MicroDatosEs](http://datanalytics.com/tag/microdatoses/)).

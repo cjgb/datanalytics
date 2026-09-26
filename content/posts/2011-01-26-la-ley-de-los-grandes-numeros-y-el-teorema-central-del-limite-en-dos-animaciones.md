@@ -27,4 +27,4 @@ y a la del [teorema central del límite](http://es.wikipedia.org/wiki/Teorema_ce
 
 ![](/img/2011/01/teorema_central_del_limite.png#center)
 
-La animación completa (hecha con R) y los detalles, [en este enlace](http://freakonometrics.blog.free.fr/index.php?post/2011/01/17/Statistiques%2C-STT2700%2C-cours-du-19/01%3A-%C3%A9chantillonnage%2C-TCL-et-LGN).
+La animación completa (hecha con R) y los detalles, [en este enlace](https://freakonometrics.hypotheses.org/2186).

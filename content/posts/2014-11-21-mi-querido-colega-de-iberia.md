@@ -44,4 +44,4 @@ Y da guerra para que te pasen los datos de reclamaciones para lo de tu proyecto 
 Salud,
 
 Carlos J. Gil Bellosta
-`http://www.datanalytics.com`
+`http://datanalytics.com`

@@ -27,7 +27,7 @@ El argumento del artículo _[Paraísos Fiscales, Wealth Taxation, and Mobility](
 
 ![](/img/2021/05/causalidad_patrimonio_madrid.png#center)
 
-que resultará familiar a muchos lectores de este blog (y, si no, mirad [esto](https://www.datanalytics.com/tag/causalimpact/)). Se trata de un estudio causal _de libro_ en el que se pretende medir el efecto de una política ocurrida en 2010 sobre la línea roja y la línea azul.
+que resultará familiar a muchos lectores de este blog (y, si no, mirad [esto](https://datanalytics.com/tag/causalimpact/)). Se trata de un estudio causal _de libro_ en el que se pretende medir el efecto de una política ocurrida en 2010 sobre la línea roja y la línea azul.
 
 La política en cuestión es la reintroducción del impuesto del patrimonio en España en 2010 y las líneas azul y rojas... no está claro. Deberían ser, pretenden ser, el incremento de personas sujetas a dicho impuesto en Madrid (en rojo) y en otras regiones (azul). Los autores lo resumen diciendo que el número de ricos viviendo en Madrid ha subido en 6000 mientras que en el resto de las 16 regiones ha decrecido en una media de 375. Convenientemente, 16 * 375 = 6000.
 

@@ -19,7 +19,7 @@ title: Divide y compararás
 url: /2011/02/18/divide-y-compararas/
 ---
 
-De este [artículo sobre Facebook ](http://seekingalpha.com/article/245157-betting-against-facebook) extraigo dos cifras:
+De este [artículo sobre Facebook ](http://seekingalpha.com/article/245157-betting-against-facebook) ([copia archivada](https://web.archive.org/web/20151221082948/http://seekingalpha.com/article/245157-betting-against-facebook)) extraigo dos cifras:
 
 
 

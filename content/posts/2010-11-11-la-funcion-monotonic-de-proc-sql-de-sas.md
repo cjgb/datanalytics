@@ -23,7 +23,7 @@ Previamente he hablado en este blog de las ventajas que ofrece PROC SQL en SAS s
 
 No obstante, existe una función no documentada de SAS que permite implementar con SQL muchas operaciones de este tipo: monotonic.
 
-He aquí [un ejemplo](http://www.amadeus.co.uk/sas-technical-services/tips-and-techniques/a-to-z-of-data-step-functions/the-monotonic-function/):
+He aquí un ejemplo[^1]:
 
 
 ```sql
@@ -41,9 +41,7 @@ proc sql;
 quit;
 ```
 
-
 He aquí otro de mi factura para muestrear la cuarta parte de las observaciones de una tabla:
-
 
 ```sql
 proc sql;
@@ -55,5 +53,6 @@ proc sql;
 quit;
 ```
 
-
 Estoy seguro de que mis lectores encontrarán otras aplicaciones. ¿Será que alguno querrá compartirlas a través de estas páginas, quizás, para ilustración de todos?
+
+[^1]: La fuente desapareció sin dejar rastro alguno.

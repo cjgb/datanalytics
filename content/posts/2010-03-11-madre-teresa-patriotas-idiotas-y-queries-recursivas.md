@@ -51,7 +51,7 @@ Es decir, con with se puede crear una tabla (la expresión que aparece entre par
 
 Si `with` se acompaña de `recursive`, la tabla que se define fuera del paréntesis puede invocarse dentro de él, como en el ejemplo del cálculo del factorial. En él, entre paréntesis, aparecen dos tablas concatenadas mediante un `union all`. La segunda se construye mediante una referencia a `factorial`, que se define fuera del paréntesis. Utilizando un símil [markoviano](http://es.wikipedia.org/wiki/Cadena_de_Markov), la primera tabla sería el estado inicial y la segunda definiría la transición. El `union all` permitiría seguir la traza del paseo markoviano.
 
-Modificando la _query_ anterior se puede construir, por ejemplo, el otro ejemplo paradigmático de la recursividad: la [sucesión de Fibonacci](http://es.wikipedia.org/wiki/Sucesion_de_Fibonacci). Pero [ya lo ha hecho alguien por mí](http://www.storytotell.org/blog/2009/08/12/fibonacci-in-postgresql.html).
+Modificando la _query_ anterior se puede construir, por ejemplo, el otro ejemplo paradigmático de la recursividad: la [sucesión de Fibonacci](http://es.wikipedia.org/wiki/Sucesion_de_Fibonacci). Pero [ya lo ha hecho alguien por mí](https://web.archive.org/web/20090917012555/http://www.storytotell.org/blog/2009/08/12/fibonacci-in-postgresql.html).
 
 Información sobre cuestiones relativas a cómo ejecuta PostgreSQL este tipo de _queries_ puede obtenerse de [aquí](http://archives.postgresql.org/pgsql-hackers/2008-02/msg00642.php).
 

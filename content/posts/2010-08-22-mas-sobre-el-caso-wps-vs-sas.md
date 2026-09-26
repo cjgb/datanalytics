@@ -19,7 +19,7 @@ title: Más sobre el caso WPS vs. SAS
 url: /2010/08/22/mas-sobre-el-caso-wps-vs-sas/
 ---
 
-Ayer quise publicar un comentario a [este artículo](http://www.informationweek.com/news/business_intelligence/analytics/showArticle.jhtml;jsessionid=34KXP4YZ520ALQE1GHRSKHWATMY32JVN?articleID=226500288&pgno=1&queryText=&isPrev=) sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ignotas razones), hago constancia de mi comentario aquí:
+Ayer quise publicar un comentario a [este artículo](https://www.informationweek.com/data-management/sas-lawsuit-referred-to-european-court) sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ignotas razones), hago constancia de mi comentario aquí:
 
 
 >The article is misleading in the sense that computer languages (and there exists such a thing as a _SAS computer language_) are not subject to copyright.
@@ -35,4 +35,4 @@ Ayer quise publicar un comentario a [este artículo](http://www.informationweek.
 >If the author of the article thinks that it is so easy making a successful clone of a well established software product in Europe and get rich doing it... well, he is quite invited to come here and start cloning!
 
 
-Resulta curioso cómo ambas partes, [WPS](http://www.teamwpc.co.uk/press/world_programming_secures_high_court_victory_against_SAS) y [SAS](http://www.sas.com/news/preleases/WPL.html), se arrogan la victoria en el caso. Lo que hace falta ahora es que se abra el mercado y el precio del _software_ se racionalice (¿cero?).
+Resulta curioso cómo ambas partes, [WPS](https://web.archive.org/web/20151228011117/http://www.teamwpc.co.uk:80/press/world_programming_secures_high_court_victory_against_SAS) y [SAS](https://web.archive.org/web/20150323012510/http://www.sas.com/news/preleases/WPL.html), se arrogan la victoria en el caso. Lo que hace falta ahora es que se abra el mercado y el precio del _software_ se racionalice (¿cero?).

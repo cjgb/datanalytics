@@ -19,8 +19,11 @@ url: /2010/06/08/dia-mundial-de-la-estadistica-y-terremotos/
 
 El 3 de junio, la ONU declaró [Día Mundial de la Estadística](http://unstats.un.org/unsd/wsd/) el 20 de octubre de 2010 con el objeto de _celebrar los muchos éxitos alcanzados por los sistemas y organismos de estadística oficial_.
 
-Y para demostrar el poco caso que le hacemos al INE, ahí va un inquietante gráfico con datos extraídos de [aquí](http://www.ine.es/jaxi/tabla.do?type=pcaxis&path=/t43/a013/a1998/l0/&file=t30013.px):
+Y para demostrar el poco caso que le hacemos al INE, ahí va un inquietante gráfico con datos extraídos de aquí[^1]:
 
 ![](/img/2010/06/terremotos_espana_ine.png#center)
 
-Inquietante, ¿verdad?
+Desasosegante, ¿verdad?
+
+
+[^1]: El enlace se rompió hace tiempo, pero los datos deberían seguir disponibles en algún recoveco del portal del INE.

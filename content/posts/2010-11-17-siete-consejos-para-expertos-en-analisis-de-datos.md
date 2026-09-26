@@ -20,7 +20,7 @@ title: Siete consejos para expertos en análisis de datos
 url: /2010/11/17/siete-consejos-para-expertos-en-analisis-de-datos/
 ---
 
-En mis deambulaciones por internet topé con una [página interesante](http://dataspora.com/blog/the-seven-secrets-of-successful-data-scientists/) que bien merece ser comentada en este blog. Enumera siete técnicas (o secretos en su formulación primigenia) que habrían de hacer suyas los expertos en análisis de datos. Son:
+En mis deambulaciones por internet topé con una [página interesante](https://web.archive.org/web/20110301053645/http://www.dataspora.com:80/blog/the-seven-secrets-of-successful-data-scientists/) que bien merece ser comentada en este blog. Enumera siete técnicas (o secretos en su formulación primigenia) que habrían de hacer suyas los expertos en análisis de datos. Son:
 
 **Usa una herramienta del tamaño adecuado**
 
@@ -28,7 +28,7 @@ SAS u Oracle no deberían considerarse las herramientas por defecto. Para proces
 
 Python (o Perl) y la misma línea de comandos de Linux/UNIX pueden resultar de una ayuda inestimable.
 
-Incluso cuando el tamaño de los datos crece por encima de lo que puede procesar un portátil corriente, puede plantearse el uso de Hadoop, [CouchDB](http://en.wikipedia.org/wiki/CouchDB), [Hibari](http://www.geminimobile.com/products/Hibari.html) u otros similares antes que recurrir por inercia o falta de imaginación a soluciones onerosas.
+Incluso cuando el tamaño de los datos crece por encima de lo que puede procesar un portátil corriente, puede plantearse el uso de Hadoop, [CouchDB](http://en.wikipedia.org/wiki/CouchDB), [Hibari](https://web.archive.org/web/20110111121814/http://www.geminimobile.com:80/products/Hibari.html) u otros similares antes que recurrir por inercia o falta de imaginación a soluciones onerosas.
 
 Sea como sea, a la hora de elegir herramientas, hay que poner el énfasis en los resultados, en el fin, antes que en la herramienta (o medio) misma.
 

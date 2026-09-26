@@ -44,4 +44,4 @@ table(rpois(1000, 1))
 
 No sé si alguien quiere participar su ejemplo de infradispersión favorito. Tiene los comentarios a su entera disposición.
 
-**Addenda:** Véase [esto](http://www.datanalytics.com/tags/infradispersión).
+**Addenda:** Véase [esto](http://datanalytics.com/tags/infradispersión).

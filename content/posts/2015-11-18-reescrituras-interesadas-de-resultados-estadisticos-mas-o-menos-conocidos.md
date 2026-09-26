@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-11-18 08:13:17+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:03:48.332658'
 related:
 - 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md

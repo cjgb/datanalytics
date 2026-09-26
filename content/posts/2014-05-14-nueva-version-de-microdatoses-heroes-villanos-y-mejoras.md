@@ -27,7 +27,7 @@ Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: v�
 >
 > -- Jose Luis Cañadas (@joscani) [May 13, 2014](https://twitter.com/joscani/statuses/466120464788889600)
 
-Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del [paquete MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/) recién subida a [CRAN](http://cran.ms.unimelb.edu.au/web/packages/MicroDatosEs/index.html) pero... en fin.
+Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del [paquete MicroDatosEs](http://datanalytics.com/tag/microdatoses/) recién subida a [CRAN](http://cran.ms.unimelb.edu.au/web/packages/MicroDatosEs/index.html) pero... en fin.
 
 De todos modos José Luis no es el villano de la historia. El villano es el INE, que parió en la mañana del 29 de abril los nuevos resultados de la EPA con un cambio retroactivo de formato en los ficheros de microdatos que rompió mis funciones justo cuando más falta hacían. ¡Contento me tiene el INE! ¡Apañaos dejó a los usuarios mi paquete! ¿Sabéis cuántos correos desesperados recibí esa mañana?
 

@@ -17,7 +17,7 @@ title: 'Energía y medio ambiente en 2035: algunos números'
 url: /2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/
 ---
 
-Energía y medio ambiente concitan una gran atención de los medios. Sin embargo, éstos ofrecen discusiones parciales, sesgadas y, sobre todo, cortoplacistas. Para forjarse una idea más global de lo que pasa y puede pasar hay que acudir a otras fuentes. Una de las más pertinentes es el [World Energy Outlook 2010](http://www.worldenergyoutlook.org) de la que, a modo de abreboca, extraigo algunos de los hechos más significativos.
+Energía y medio ambiente concitan una gran atención de los medios. Sin embargo, éstos ofrecen discusiones parciales, sesgadas y, sobre todo, cortoplacistas. Para forjarse una idea más global de lo que pasa y puede pasar hay que acudir a otras fuentes. Una de las más pertinentes es el [World Energy Outlook 2010](https://web.archive.org/web/20161115205238id_/http://www.worldenergyoutlook.org/) de la que, a modo de abreboca, extraigo algunos de los hechos más significativos.
 
 En la conferencia sobre el clima de la ONU en Copenhague de diciembre de 2009 se estableció un acuerdo _no vinculante_ para limitar el incremento global de temperatura a 2 grados por encima de los niveles preindustriales. La [IEA](http://www.iea.org/) ha realizado un estudio sobre cómo podría ser el futuro del uso de la energía con el año 2035 en el horizonte planteando tres escenarios alternativos:
 

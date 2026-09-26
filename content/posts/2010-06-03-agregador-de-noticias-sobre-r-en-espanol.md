@@ -21,7 +21,7 @@ url: /2010/06/03/agregador-de-noticias-sobre-r-en-espanol/
 
 Me es grato anunciar que está disponible (una versión beta de) un agregador de noticias sobre R en español. Ha sido desarrollado con el objetivo de proporcionar a la comunidad de usuarios un punto de acceso único a cuantas noticias sobre R se publiquen en la blogosfera en español. Es equivalente a su [versión en inglés](http://www.r-bloggers.com).
 
-También está disponible como [RSS](http://datanalytics.com/r_blogs_mashup.rss).
+También está disponible como RSS[^1].
 
 ### Contenido agregable
 
@@ -38,3 +38,5 @@ El agregador se ha construido utilizando tres blogs que discuten temas relaciona
 ### Bajas de blogs
 
 Si por algún motivo el autor de alguno de los blogs no quisiese que sus noticias sobre R fuesen agregadas, lo daría de baja una vez me fuese comunicado.
+
+[^1]: Ya no.

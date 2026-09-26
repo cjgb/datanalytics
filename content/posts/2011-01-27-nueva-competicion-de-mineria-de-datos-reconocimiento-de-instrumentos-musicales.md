@@ -18,7 +18,7 @@ title: 'Nueva competición de minería de datos: reconocimiento de instrumentos 
 url: /2011/01/27/nueva-competicion-de-mineria-de-datos-reconocimiento-de-instrumentos-musicales/
 ---
 
-[TunedIT](http://tunedit.org) ha organizado una nueva competición de minería de datos, [ISMIS 2011 Contest: Music Information Retrieval](http://tunedit.org/challenge/music-retrieval),  que forma parte del _[19th International Symposium on Methodologies for Intelligent Systems](http://ismis2011.ii.pw.edu.pl)_.
+[TunedIT](http://tunedit.org) ha organizado una nueva competición de minería de datos, [ISMIS 2011 Contest: Music Information Retrieval](https://web.archive.org/web/20111223122248/http://tunedit.org:80/challenge/music-retrieval),  que forma parte del _[19th International Symposium on Methodologies for Intelligent Systems](https://web.archive.org/web/20240524125856/http://ismis2011.ii.pw.edu.pl/)_.
 
 Consta de dos tareas distintas:
 

@@ -20,7 +20,7 @@ title: II Jornadas de Usuarios de R
 url: /2010/10/29/ii-jornadas-de-usuarios-de-r/
 ---
 
-Ya es oficial: está abierta la inscripción para participar en las [II Jornadas de Usuarios de R](http://epm.uniovi.es/actividades/-/asset_publisher/0012/content/ii-jornadas-de-usuarios-de-r-en-castellano?redirect=%2Finicio) que tendrán lugar en la [Escuela  Politécnica de Mieres](http://epm.uniovi.es/laescuela) los días 1 y 2 de diciembre.
+Ya es oficial: está abierta la inscripción para participar en las [II Jornadas de Usuarios de R](https://web.archive.org/web/20110722031230/http://epm.uniovi.es/actividades/-/asset_publisher/0012/content/ii-jornadas-de-usuarios-de-r-en-castellano;jsessionid=10EEB344408A8418D9D6797369139AE9?redirect=%2Finicio) que tendrán lugar en la [Escuela  Politécnica de Mieres](http://epm.uniovi.es/laescuela) los días 1 y 2 de diciembre.
 
 Me complace también formar parte del comité científico de dichas jornadas y de encargarme del taller avanzado de R (día 1 de diciembre a las siete de la tarde).
 

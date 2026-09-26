@@ -18,7 +18,7 @@ title: ¿Cómo mejorar tu estilo de programación en R?
 url: /2011/03/08/como-mejorar-tu-estilo-de-programacion-en-r/
 ---
 
-En un hilo reciente en la lista de desarrollo de R ha habido una discusión interesante acerca de [buenas prácticas a la hora programar con R](http://r.789695.n4.nabble.com/Request-Suggestions-for-quot-good-teaching-quot-packages-esp-with-C-code-td3307289.html) y concretamente, para desarrollar paquetes que contuviesen llamadas a código desarrollado en C/C++.
+En un hilo reciente en la lista de desarrollo de R ha habido una discusión interesante acerca de [buenas prácticas a la hora programar con R](https://web.archive.org/web/20190106073524/http://r.789695.n4.nabble.com/Request-Suggestions-for-quot-good-teaching-quot-packages-esp-with-C-code-td3307289.html) y concretamente, para desarrollar paquetes que contuviesen llamadas a código desarrollado en C/C++.
 
 En particular, el autor del primer mensaje del hilo criticaba varios usos que consideraba inadecuados a la hora de programar en R:
 

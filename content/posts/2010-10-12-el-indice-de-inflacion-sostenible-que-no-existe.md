@@ -28,7 +28,7 @@ El INE cuenta con una metodología muy concienzudamente calibrada, coherente con
 
 Exagero un poco: existen otros índices de precios (como el de la inflación subyacente o el de los productos industriales), pero nunca he visto el índice de precios al consumo para el jubilado medio. O para la familia con niños media. O para la mujer media. O para el taxista medio. ¡Y estoy seguro de que las canastas de productos típicas de estos colectivos son muy distintas entre sí! A lo más, se distinguen los índices de precios —que no las canastas básicas— por comunidad autónoma, manifestación de esa obsesión española por la _territorialidad_.
 
-Aunque hay esperanzas. No en todos sitios pasa así. En el Reino Unido, la BBC ha puesto a disposición del público una herramienta para que cada cual pueda calcular su propio [índice de inflación personal](http://news.bbc.co.uk/2/hi/business/7669072.stm). Lo mismo ha hecho el [_INE de allá_](http://www.statistics.gov.uk/pic/).
+Aunque hay esperanzas. No en todos sitios pasa así. En el Reino Unido, la BBC ha puesto a disposición del público una herramienta para que cada cual pueda calcular su propio [índice de inflación personal](http://news.bbc.co.uk/2/hi/business/7669072.stm). Lo mismo ha hecho el [_INE de allá_](https://web.archive.org/web/20110825122509/http://www.statistics.gov.uk/pic/).
 
 ¿Importa todo esto? Entiendo que sí: ¿ha oído alguien a algún gobierno alegar que no es oportuno subir el precio del tabaco porque eso afectaría a la tasa de inflación? Oyéndolo, uno se pregunta: ¿a la tasa de inflación de quién? ¿de los fumadores? ¿de los no fumadores?
 

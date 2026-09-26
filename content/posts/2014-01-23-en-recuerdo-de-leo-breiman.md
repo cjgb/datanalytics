@@ -23,7 +23,7 @@ title: En recuerdo de Leo Breiman
 url: /2014/01/23/en-recuerdo-de-leo-breiman/
 ---
 
-Recomiendo leer [esto](http://arxiv.org/abs/1101.0917v1). Es un artículo que repasa la labor de [Leo Breiman](http://en.wikipedia.org/wiki/Leo_Breiman), pionero en esa nueva forma de plantear el análisis de datos que acabó convirtiéndose en la minería de datos y de algunos de los algoritmos y métodos más comunes que conforman la caja de herramientas de quienes lo practican hoy en día. Entre ellos, los árboles de decisión y de regresión y los [_random forests_](http://www.datanalytics.com/tag/random-forests/).
+Recomiendo leer [esto](http://arxiv.org/abs/1101.0917v1). Es un artículo que repasa la labor de [Leo Breiman](http://en.wikipedia.org/wiki/Leo_Breiman), pionero en esa nueva forma de plantear el análisis de datos que acabó convirtiéndose en la minería de datos y de algunos de los algoritmos y métodos más comunes que conforman la caja de herramientas de quienes lo practican hoy en día. Entre ellos, los árboles de decisión y de regresión y los [_random forests_](http://datanalytics.com/tag/random-forests/).
 
 Así comienza el artículo:
 

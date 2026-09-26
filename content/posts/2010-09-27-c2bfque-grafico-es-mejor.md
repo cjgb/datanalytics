@@ -17,8 +17,7 @@ title: ¿Qué gráfico es mejor?
 url: /2010/09/27/que-grafico-es-mejor/
 ---
 
-Los servidores del Parlamento Británico alojan (y ponen a disposición del público) una serie [documentos agrupados por temas](http://www.parliament.uk/topics/index.htm) de los que hoy nos interesarán los relativos a _política estadística_ y, dentro de ellos, un breve [manual muy útil para elaborar gráficas](http://web.archive.org/web/20110202153401/http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) que se atengan a los tres principios fundamentales de este esquivo arte:
-
+Los servidores del Parlamento Británico alojan (y ponen a disposición del público) una serie [documentos agrupados por temas](https://web.archive.org/web/20180227163026/http://www.parliament.uk:80/topics/index.htm) de los que hoy nos interesarán los relativos a _política estadística_ y, dentro de ellos, un breve [manual muy útil para elaborar gráficas](http://web.archive.org/web/20110202153401/http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) que se atengan a los tres principios fundamentales de este esquivo arte:
 
 * **Veracidad:** la gráfica debe reflejar verazmente los datos subyacentes
 * **Economía:** la gráfica debe mostrar únicamente aquellos elementos necesarios para comprenderla

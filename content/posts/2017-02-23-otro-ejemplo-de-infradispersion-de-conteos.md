@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2017-02-23 08:13:01+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:57:26.593078'
 related:
 - 2020-09-15-infradispersion-en-la-logistica.md
@@ -21,4 +21,4 @@ url: /2017/02/23/otro-ejemplo-de-infradispersion-de-conteos/
 
 {{< x user="RadiactivoMan" id="832287769330380801" >}}
 
-Esta entrada, obviamente, viene a cuento de [esta otra](https://datanalytics.com/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/).
+Esta entrada, obviamente, remite a [esta otra](https://datanalytics.com/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/).

@@ -45,29 +45,29 @@ library(quantreg)
 library(splines)
 ```
 
-Cargamos el [famoso conjunto de datos de Engel](http://www2.bc.edu/~lewbel/palengel.pdf) (no el Engel de siempre; otro), que relaciona el ingreso con el gasto en alimentación de decimonónicos obreros belgas:
+Cargamos el famoso conjunto de datos de Engel (no el Engel de siempre; otro), que relaciona el ingreso con el gasto en alimentación de decimonónicos obreros belgas:
 
 ```r
 data(engel)
 head(engel)
-income foodexp
-1 420.16  255.84
-2 541.41  310.96
-3 901.16  485.68
-4 639.08  403.00
-5 750.88  495.56
-6 945.80  633.80
+# income foodexp
+# 1 420.16  255.84
+# 2 541.41  310.96
+# 3 901.16  485.68
+# 4 639.08  403.00
+# 5 750.88  495.56
+# 6 945.80  633.80
 ```
 
 Representamos los datos:
 
 ```r
-with( engel, plot( log( income ), log( foodexp ),
+with(engel, plot(log(income), log(foodexp),
         xlab = "Log - Income",
         ylab = "Log - Food Expense",
         main = "Engel's Food Expense Data" ) )
 ```
-     
+
 ![](/img/2010/05/engel_dat1.png#center)
 
 Y creamos una función auxiliar:
@@ -83,7 +83,7 @@ foo <- function( x, y, tau ){
 Nótese cómo en ella ajustamos un modelo de regresión por cuantiles, `fit`, usando la función `rq` del paquete `quantreg` y cómo también elegimos un regresor basado en _splines_, la función `bs` del paquete `splines`. Sin incurrir en tanta pedantería, podíamos también haber especificado el modelo de la forma
 
 ```r
-    fit <- rq( y ~ x, tau = tau ),
+fit <- rq(y ~ x, tau = tau)
 ```
 
 dejándose el estudio del resultado de esta alternativa como ejercicio al lector más diligente.
@@ -91,14 +91,11 @@ dejándose el estudio del resultado de esta alternativa como ejercicio al lector
 El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo tanto, un valor entre 0 y 1. Ahora podemos añadir a nuestro gráfico anterior las curvas estimación de los cuantiles 0,2; 0,5 y 0,8 de la distribución de la siguiente manera:
 
 ```r
-    with( engel, lines( foo( log( income ), log( foodexp) , 0.2 ),
-       col="gray") )
-    with( engel, lines( foo( log( income ), log( foodexp) , 0.8 ),
-       col="gray") )
-    with( engel, lines( foo( log( income ), log( foodexp) , 0.5 ),
-       col="red" ) )
+with(engel, lines(foo(log(income), log(foodexp), 0.2), col="gray"))
+with(engel, lines(foo(log(income), log(foodexp), 0.8), col="gray"))
+with(engel, lines(foo(log(income), log(foodexp), 0.5), col="red" ))
 ```
 
 ![](/img/2010/05/engel_dat_quant1.png?w=300)
 
-El lector interesado encontrará en internet [dónde seguir instruyéndose](http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf) y, además, ejemplos de [gráficos espectaculares ](http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109)que pueden realizarse con `quantreg`, tiempo y buen gusto.
+El lector interesado encontrará en internet dónde seguir instruyéndose y, además, ejemplos de gráficos espectaculares que pueden realizarse con `quantreg`, tiempo y buen gusto.

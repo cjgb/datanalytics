@@ -38,6 +38,6 @@ La segunda tiene que ver con la violación de los tres principios más básicos 
 
 ![](/img/2011/02/analytics_piechart.jpg)
 
-extraído de esta [magnífica bitácora](http://www.juiceanalytics.com/writing/the-problem-with-pie-charts/), y que se resume en un único número, 9,94.
+extraído de esta [magnífica bitácora](https://web.archive.org/web/20140223182129/http://www.juiceanalytics.com:80/writing/the-problem-with-pie-charts/), y que se resume en un único número, 9,94.
 
 Así las cosas, apenas hay un único [gráfico de tarta](http://flowingdata.com/2008/09/19/pie-i-have-eaten-and-pie-i-have-not-eaten/) que me haya resultado satisfactorio. Los demás, graficaca.

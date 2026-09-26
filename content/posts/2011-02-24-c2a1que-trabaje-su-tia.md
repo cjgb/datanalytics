@@ -22,9 +22,9 @@ De un [blog cuya lectura recomiendo](http://www.fedeablogs.net/economia/?p=9207)
 
 ![](/img/2011/02/fig1b.png#center)
 
-Se trata de la llamada [curva de Beveridge](http://en.wikipedia.org/wiki/Beveridge_curve) para España, que relaciona la tasa de paro con la de [puestos de trabajo vacantes](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Glossary:Job_vacancy_rate).
+Se trata de la llamada [curva de Beveridge](http://en.wikipedia.org/wiki/Beveridge_curve) para España, que relaciona la tasa de paro con la de [puestos de trabajo vacantes](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Job_vacancy_rate).
 
-Los datos relativos a vacantes para España [pueden obtenerse de Eurostats](http://epp.eurostat.ec.europa.eu/portal/page/portal/labour_market/job_vacancies/main_tables). En la gráfica parecen estar representados en una escala distinta (por mil) que en las tablas (por ciento). Pero deberían ser magnitudes comparables.
+Los datos relativos a vacantes para España [pueden obtenerse de Eurostats](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Job_vacancy_statistics). En la gráfica parecen estar representados en una escala distinta (por mil) que en las tablas (por ciento). Pero deberían ser magnitudes comparables.
 
 [Aquí](http://econfix.wordpress.com/2010/12/31/structural-unemployment-the-beveridge-curve/) aparece una explicación de cómo interpretar la curva: en épocas de bonanza económica debería acercarse al eje Y (poco desempleo, muchos puestos vacantes) y en las de depresión, al X (falta de ofertas de trabajo, desempleo elevado).
 

@@ -19,7 +19,7 @@ title: Edición especial del Journal of Statistical Software sobre GUIs para R
 url: /2010/02/28/edicion-especial-del-journal-of-statistical-software-sobre-guis-para-r/
 ---
 
-Se ha [anunciado](http://permalink.gmane.org/gmane.comp.lang.r.devel/23721) recientemente una edición especial del [Journal of Statistical Software](http://www.jstatsoft.org/) acerca de interfaces gráficas para R. Los editores son [Pedro Valero Mora](http://www.uv.es/valerop/) y Rubén Ledesma.
+Se ha anunciado recientemente una edición especial del [Journal of Statistical Software](http://www.jstatsoft.org/) acerca de interfaces gráficas para R. Los editores son Pedro Valero Mora y Rubén Ledesma.
 
 Me tomo la libertad de traducir el anuncio para este blog:
 

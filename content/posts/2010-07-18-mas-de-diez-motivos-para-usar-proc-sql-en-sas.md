@@ -18,7 +18,7 @@ title: Más de diez motivos para usar PROC SQL en SAS
 url: /2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/
 ---
 
-Hace no mucho escribí una [entrada](https://datanalytics.com/2010/07/03/¿programa-vd-en-sas-¡aprenda-a-ser-indispensable/) en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido _in situ_ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada _ad hoc_. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.
+Hace no mucho escribí una [entrada](https://datanalytics.com/2010/07/03/programa-vd-en-sas-aprenda-a-ser-indispensable/) en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido _in situ_ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada _ad hoc_. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.
 
 El comentario venía a ser una crítica al uso de SQL dentro de SAS motivada parcialmente por el hecho de que quienes abusan de tal procedimiento de SAS son, precisamente, quienes menos SAS conocen (opinión con la que estoy bastante de acuerdo).
 
@@ -74,7 +74,6 @@ Además, código que utiliza SQL es más fácil de migrar a otros sistemas y ent
 **Condiciones de rendimiento**
 
 Una de las pegas que los programadores de SAS de la vieja escuela ponen al uso de SQL en sus programas es el rendimiento. Gustan alegar que _merge_ es mucho más eficiente que un _join_ de SQL. Y eso siempre me parece síntoma de que la Wikipedia se lee menos de lo que se debiera. Existen varios algoritmos para cruzar tablas, uno de los cuales, el llamado [merge join](http://en.wikipedia.org/wiki/Sort-merge_join), es:
-
 
 * Uno de los menos eficientes (con las salvedades que apunto debajo).
 * El que usa _merge_ en SAS Base.

@@ -42,7 +42,7 @@ Ese comando crea en el directorio actual el directorio mipaquete con la estructu
 
 A partir de ese momento, basta con ir completando los detalles: esencialmente, editar y completar los ficheros `DESCRIPTION `y los `.Rd` del directorio `man`. Para ello, es útil tener en cuenta los siguientes consejos:
 
-1. Crear cabeceras en los ficheros de código y, en general, seguir algún [criterio de estilo en el código](http://www.datanalytics.com/guia_estilo_r.html) y añadir comentarios en los lugares adecuados.
+1. Crear cabeceras en los ficheros de código y, en general, seguir algún [criterio de estilo en el código](http://datanalytics.com/guia_estilo_r.html) y añadir comentarios en los lugares adecuados.
 2. Consultar el [documento de creación de extensiones de R](http://cran.r-project.org/doc/manuals/R-exts.pdf) para los detalles concretos acerca de cómo debe completarse el fichero DESCRIPTION o qué secciones son necesarias en los ficheros .Rd.
 3. Mantener la coherencia entre la definición de las funciones en su fichero `.R` y el correspondiente fichero de documentación `.Rd`: si no, será imposible crear el paquete porque R comprueba automáticamente que no existen discrepancias entre código y documentación.
 4. Crear ejemplos en los ficheros `.Rd`: son muy útiles porque R comprueba que se ejecutan correctamente. Eso permite controlar que todo funciona correctamente de una manera automática.

@@ -22,7 +22,7 @@ El otro día incurrí de nuevo en la tan habitual como aburridora conversación 
 
 Carpetovetónico él, encumbrado a un otero mesetario, lo circunscribía al impermeable mundo académico español. Puede, sí, que la montaña no venga a Mahoma _motu proprio_; pero no hay que olvidar que a Mahoma no le faltan cumbres a las que encaramarse.
 
-Y hete que en el día de hoy he topado con un correo electrónico dirigido a la lista de desarrolladores de R por parte de un ingeniero de Microsoft preguntando por la manera de [integrarlo con C# para implementar una regresión logística](http://tolstoy.newcastle.edu.au/R/e10/devel/10/05/0327.html).
+Y hete que en el día de hoy he topado con un correo electrónico dirigido a la lista de desarrolladores de R por parte de un ingeniero de Microsoft preguntando por la manera de [integrarlo con C# para implementar una regresión logística](https://web.archive.org/web/20100606111224/http://tolstoy.newcastle.edu.au:80/R/e10/devel/10/05/0327.html).
 
 De su firma se deduce que trabaja en un área de Microsoft, Advertiser & Publisher Solutions, APS, que
 

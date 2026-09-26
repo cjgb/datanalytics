@@ -17,15 +17,15 @@ title: Un grupo de usuarios de R en España... ¿cuándo?
 url: /2010/09/24/un-grupo-de-usuarios-de-r-en-espana-cuando/
 ---
 
-Hace poco recibí noticia de la creación de un [grupo de usuarios de R en Brisbane](http://blog.revolutionanalytics.com/2010/09/new-r-user-group-in-brisbane.html), que no deja de ser una [ciudad chiquita](http://es.wikipedia.org/wiki/Brisbane) en un país poblacionalmente chiquito. ¡Y es ya el cuarto en Australia!
+Hace poco recibí noticia de la creación de un [grupo de usuarios de R en Brisbane](https://web.archive.org/web/20250912130146/https://blog.revolutionanalytics.com/2010/09/new-r-user-group-in-brisbane.html), que no deja de ser una [ciudad chiquita](http://es.wikipedia.org/wiki/Brisbane) en un país poblacionalmente chiquito. ¡Y es ya el cuarto en Australia!
 
 Miro también el siguiente gráfico y me da algo de grima:
 
 [![Mapa de grupos de usuarios de R](/img/2010/09/mapa_grupos_usuarios_r.png#center)
-](http://r-project-for-statistical-computing.meetup.com/)
+](https://web.archive.org/web/20220811121128/https://r-project-for-statistical-computing.meetup.com/)
 
 
 ¡No hay ni un solo cerca de Madrid (que es la ubicación que a mí y ahora más me compete)! Así que si alguno de mis lectores está interesado en el asunto, podemos ir urdiendo cómo hacer para colocarle un _pinchico_ rojo a ese mapa justo en Sol.
 
 
-**Nota:** existe una lista más exhaustiva de [grupos locales de usuarios de R](http://blog.revolutionanalytics.com/local-r-groups.html) que espero que pronto se vuelva inmanejable. ¡Y aprovecho para felicitar a los integrantes de GURU, el Grupo de Usuarios de R en Uruguay!
+**Nota:** existe una lista más exhaustiva de [grupos locales de usuarios de R](https://web.archive.org/web/20250914074714/https://blog.revolutionanalytics.com/local-r-groups.html) que espero que pronto se vuelva inmanejable. ¡Y aprovecho para felicitar a los integrantes de GURU, el Grupo de Usuarios de R en Uruguay!

@@ -42,7 +42,7 @@ No estoy seguro de hasta qué punto ese tipo de gráficos resultan superiores a 
 library( ggplot2 )
 library( treemap )
 
-dat <- read.table("http://www.datanalytics.com/uploads/datos_treemap.txt", sep = "\t", header = T)
+dat <- read.table("http://datanalytics.com/uploads/datos_treemap.txt", sep = "\t", header = T)
 dat$div[is.na(dat$div)] <- 0
 
 tmPlot(dat, index = "valor", vSize = "cap", vColor = "div", sortID = "-cap")

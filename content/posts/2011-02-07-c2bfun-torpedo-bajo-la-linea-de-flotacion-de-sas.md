@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-02-07 09:52:19+00:00
-draft: false
 lastmod: '2025-04-06T18:55:45.594308'
+noindex: true
 related:
 - 2011-03-04-1680.md
 - 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
@@ -19,15 +19,17 @@ title: ¿Un torpedo bajo la línea de flotación de SAS?
 url: /2011/02/07/un-torpedo-bajo-la-linea-de-flotacion-de-sas/
 ---
 
-[Revolution Analytics](http://www.revolutionanalytics.com/) ha disparado un torpedo apuntando bajo la línea de flotación de SAS. Se trata del _[SAS to R challenge](http://www.revolutionanalytics.com/sas-challenge/)_, una muy inteligente campaña de publicidad por la que se compromete a reescribir en R gratuitamente código SAS de clientes potenciales si el primero es más eficaz que el segundo.
+[Revolution Analytics](https://web.archive.org/web/20160722221709/http://www.revolutionanalytics.com:80/) ha disparado un torpedo apuntando bajo la línea de flotación de SAS. Se trata del _SAS to R challenge_, una muy inteligente campaña de publicidad por la que se compromete a reescribir en R gratuitamente código SAS de clientes potenciales si el primero es más eficaz que el segundo.
 
 Más allá de lo que la campaña _parece ser_, se esconde lo que realmente _es_: la constatación de que **el premio gordo en el mundo de análisis empresarial es la actual base instalada de SAS** y de que Revolution va a por todas.
 
-¿Cómo espera Revolution Analytics desbancar a SAS? Utilizando su nueva extensión propietaria **RevoScaleR**, un paquete de R diseñado para afrontar los retos que supone el análisis de los conjuntos de datos _grandes_ que manejan típicamente las organizaciones. Los lectores de esta bitácora, con la ayuda de Google o [Blekko](http://blekko.com/) serán capaces de encontrar por sí mismos la típica información comercial ([vídeos](http://www.youtube.com/watch?v=Cc5qvs1vA-8), folletos, etc.) acerca del producto.
+¿Cómo espera Revolution Analytics desbancar a SAS? Utilizando su nueva extensión propietaria **RevoScaleR**, un paquete de R diseñado para afrontar los retos que supone el análisis de los conjuntos de datos _grandes_ que manejan típicamente las organizaciones. Los lectores de esta bitácora, con la ayuda de Google o [Blekko](https://web.archive.org/web/20120103090741/http://blekko.com/) serán capaces de encontrar por sí mismos la típica información comercial ([vídeos](http://www.youtube.com/watch?v=Cc5qvs1vA-8), folletos, etc.) acerca del producto.
 
 Sin embargo, destacaré aquí dos de los aspectos técnicos RevoScaleR que han trascendido:
 
 * Utiliza un **formato propietario de almacenamiento de datos**, XDF (¿estará emparentado con [este](http://en.wikipedia.org/wiki/Extensible_Data_Format)?), diseñado para permitir un acceso rápido a filas y columnas de los datos (y sin necesidad de volcar su contenido en la memoria).
 * Contiene **reimplementaciones de diversos algoritmos** habituales en estadística y minería de datos que no necesitan disponer de la totalidad de los datos en memoria (supongo que al estilo de [biglm](http://cran.r-project.org/web/packages/biglm/index.html))
 
-Puede encontrarse una discusión técnica (de uso, no de arquitectura) [en este artículo](http://www.rochester.edu/College/psc/thestarlab/help/Big-Data-WP.pdf). Además, los interesados en aprender más sobre nuevos paradigmas de almacenamiento de datos que combinan las ventajas de los sistemas de almacenamiento por filas (como casi todos los RDBMs) y columnas (como R), encontrarán, seguro, de interés [este enlace](http://db.csail.mit.edu/chunkystore/).
+Puede encontrarse una discusión técnica (de uso, no de arquitectura) [en este artículo](https://web.archive.org/web/20150304211310/http://www.rochester.edu/College/psc/thestarlab/help/Big-Data-WP.pdf). Además, los interesados en aprender más sobre nuevos paradigmas de almacenamiento de datos que combinan las ventajas de los sistemas de almacenamiento por filas (como casi todos los RDBMs) y columnas (como R), encontrarán, seguro, de interés este enlace [^1].
+
+[^1]: El enlace acabó desapareciendo sin dejar rastro alguno.

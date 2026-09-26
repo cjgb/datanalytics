@@ -17,7 +17,7 @@ title: Un curioso bug de R
 url: /2010/07/24/un-curioso-bug-de-r/
 ---
 
-A vueltas con los _bugs_, el otro día leí sobre uno [bastante curioso de R](http://r.789695.n4.nabble.com/Table-vs-unique-td2297029.html). En resumen:
+A vueltas con los _bugs_, el otro día leí sobre uno [bastante curioso de R](https://web.archive.org/web/20190108013801/http://r.789695.n4.nabble.com/Table-vs-unique-td2297029.html). En resumen:
 
 ```r
 > a <- c(1,2, sqrt( 2) ^ 2 )

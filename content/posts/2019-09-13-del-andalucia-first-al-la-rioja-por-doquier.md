@@ -43,7 +43,7 @@ library(pxR)
 library(reshape2)
 library(plyr)
 
-dat <- as.data.frame(read.px("http://www.datanalytics.com/uploads/sociedades_mercantiles_201909.px"))
+dat <- as.data.frame(read.px("http://datanalytics.com/uploads/sociedades_mercantiles_201909.px"))
 
 dat$Forma.jurídica <- NULL
 dat$Número.de.sociedades.y.capital..en.miles.de.euros. <- NULL

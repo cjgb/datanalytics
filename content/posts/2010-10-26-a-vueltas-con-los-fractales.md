@@ -40,7 +40,7 @@ Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](
     write.gif(X, "Mandelbrot.gif", col=tim.colors(256), delay=100)
 ```
 
-(extraído de [aquí](http://tolstoy.newcastle.edu.au/R/help/05/10/13198.html)).
+(extraído de [aquí](https://stat.ethz.ch/pipermail/r-help/2005-October/080230.html)).
 
 El resultado, infinitamente mejor que la tele:
 

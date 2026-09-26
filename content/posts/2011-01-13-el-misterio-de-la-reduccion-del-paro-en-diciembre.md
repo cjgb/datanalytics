@@ -18,12 +18,12 @@ title: El misterio de la reducción del paro en diciembre
 url: /2011/01/13/el-misterio-de-la-reduccion-del-paro-en-diciembre/
 ---
 
-Hace poco nos contaron que el [paro había descendido en España en 10.000 personas durante el mes de diciembre](http://www.nuevatribuna.es/noticia/43950/ECONOM%C3%8DA/paro-baja-diciembre-10221-personas.html). Son dos las cosas sorprendentes alrededor de la noticia:
+Hace poco nos contaron que [el paro había descendido en España en 10.000 personas durante el mes de diciembre](https://www.rtve.es/noticias/20110104/paro-registrado-cierra-2010-con-4100073-desempleados-pese-a-mejora-diciembre/392376.shtml). Son dos las cosas sorprendentes alrededor de la noticia:
 
 * La noticia en sí.
 * El poco revuelo que ha causado: ni gobierno ni oposición han aireado las cifras tanto como suelen en estos casos.
 
-Puede que [este artículo ](http://www.elpais.com/articulo/economia/global/Mejorar/confianza/tarea/2011/elpepueconeg/20110109elpnegeco_2/Tes)pueda explicar los motivos (y aprovecho para invitar a mis lectores a seguir los comentarios semanales del Sr. Laborda, su autor, todo un ejemplo a seguir en el periodismo económico patrio):
+Puede que [este artículo](http://www.elpais.com/articulo/economia/global/Mejorar/confianza/tarea/2011/elpepueconeg/20110109elpnegeco_2/Tes) permita explicar los motivos (y aprovecho para invitar a mis lectores a seguir los comentarios semanales del Sr. Laborda, su autor, todo un ejemplo a seguir en el periodismo económico patrio):
 
 >También fue aparentemente positiva la disminución de los parados registrados en diciembre en 10.221 personas. Ahora bien, no hay razones económicas que expliquen este dato, [...]. Es curioso que esta disminución se concentre principalmente en dos comunidades autónomas, Andalucía y Madrid, donde se produjeron caídas de 17.335 y 7.151 parados, respectivamente. Estas cifras no se observan ni de lejos en toda la serie histórica, [...]
 >

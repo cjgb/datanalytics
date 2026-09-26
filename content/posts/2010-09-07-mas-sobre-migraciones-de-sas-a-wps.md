@@ -30,4 +30,4 @@ Habedlos:
 
 ¿Cuál será la anomalía de la empresa española que no tengo noticia de ningún ERE en SAS? ¡Con la que está cayendo!
 
-**Nota:** he modificado la página de Datanalytics y ahora, en la sección de servicios, dentro del apartado de [consultoría SAS](http://www.datanalytics.com/consultoria_sas.html), detallo específicamente la migración a WPS como uno de ellos. ¡A ver si pronto suena el teléfono!
+**Nota:** he modificado la página de Datanalytics y ahora, en la sección de servicios, dentro del apartado de [consultoría SAS](http://datanalytics.com/consultoria_sas.html), detallo específicamente la migración a WPS como uno de ellos. ¡A ver si pronto suena el teléfono!

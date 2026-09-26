@@ -48,7 +48,7 @@ Lo que discuto es que:
 3. Cuando se habla de media poblacional, muchas veces, lo que realmente se desea estimar es otra cosa: una medida de centralidad, una estimación del total, etc.
 4. A pesar de su utilidad en ciertos contextos concretos, es un parámetro del que se abusa.
 
-En los primeros tres argumentos me explayaré otro día. Me gustaría referirme al cuarto por hacer referencia a [una entrada anterior](http://datanalytics.wordpress.com/2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/). Analicemos para ello uno de los comentarios de la discusión mencionada más arriba:
+En los primeros tres argumentos me explayaré otro día. Me gustaría referirme al cuarto por hacer referencia a [una entrada anterior](https://datanalytics.com/2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/). Analicemos para ello uno de los comentarios de la discusión mencionada más arriba:
 
 
 >The mean (or conditional mean, if you have explanatory variables) minimizes the mean squared error. From the stan[d]point of statistical decision theory, you should use the mean as your "best guess" for a random variable if your loss function is the squared error. You should use the median if your loss function is the absolute error. These results do not depend on the distribution of values, but only on the loss function.

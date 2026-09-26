@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2016-03-10 09:13:12+00:00
-draft: false
 lastmod: '2025-04-06T18:51:37.114121'
 related:
 - 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md

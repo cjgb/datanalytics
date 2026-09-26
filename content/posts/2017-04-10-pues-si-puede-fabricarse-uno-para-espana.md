@@ -37,7 +37,7 @@ library(ggplot2)
 
 #---- Carga y transformacion de datos
 
-download.file("http://www.datanalytics.com/uploads/3199.px", "3199.px")
+download.file("http://datanalytics.com/uploads/3199.px", "3199.px")
 
 pob <- read.px("3199.px", encoding = "latin1")
 pob <- as.data.frame(pob)

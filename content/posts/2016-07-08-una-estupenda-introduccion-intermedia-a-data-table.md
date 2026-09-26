@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-07-08 08:13:05+00:00
-draft: false
 lastmod: '2025-04-06T19:01:54.407412'
 related:
 - 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
@@ -19,7 +18,7 @@ title: Una estupenda introducción intermedia a data.table
 url: /2016/07/08/una-estupenda-introduccion-intermedia-a-data-table/
 ---
 
-Jan Gorecki ha resumido las soluciones a las cincuenta preguntas _más populares_ sobre [el paquete data.table de R](https://cran.r-project.org/web/packages/data.table/index.html) en Stack Overflow y las ha resumido en forma de tutorial [aquí](https://www.toptal.com/r/boost-your-data-munging-with-r).
+Jan Gorecki ha resumido las soluciones a [las cincuenta preguntas _más populares_ sobre el paquete data.table de R](https://cran.r-project.org/web/packages/data.table/index.html) en Stack Overflow y [las ha publicado en forma de tutorial](https://www.toptal.com/r/boost-your-data-munging-with-r).
 
 Muy recomendable. Muy recomendable también `data.table`.
 

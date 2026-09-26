@@ -32,7 +32,6 @@ for (i in 1:length(lista1)){
 }
 ```
 
-
-Ese horrendo pecado contra las más elementales reglas de la estética lo he cometido yo en más de una ocasión. Mea culpa. Como lo feo tiene que ser necesariamente incorrecto, dejaré que sea el mismo Jorge Iván el que nos muestre cómo hacerlo correctamente. Puede verse [aquí](http://n4.nabble.com/Using-lapply-with-two-lists-td1692883.html). Todo un placer para quienes creemos que el código también puede ser poesía.
+Ese horrendo pecado contra las más elementales reglas de la estética lo he cometido yo en más de una ocasión. Mea culpa. Como lo feo tiene que ser necesariamente incorrecto, dejaré que sea el mismo [Jorge Iván el que nos muestre cómo hacerlo correctamente](https://mailman.stat.ethz.ch/pipermail/r-help/2010-March/233317.html). Todo un placer para quienes creemos que el código también puede ser poesía.
 
 ¿Cómo haré para retroactivamente corregir todo ese mal código que he ido dejando por ahí?

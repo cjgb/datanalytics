@@ -29,7 +29,7 @@ Los consejos son:
 
 * Nunca uses representaciones en dos o tres dimensiones si una basta.
 * Nunca uses tartas, tartas en tres dimensiones, barras apiladas o barras en tres dimensiones.
-* Reduce la _[graficaca](http://www.datanalytics.com/tag/graficaca/)_ al mínimo: sombras, bordes, etc.
+* Reduce la _[graficaca](http://datanalytics.com/tag/graficaca/)_ al mínimo: sombras, bordes, etc.
 * Trata de representar el ruido presente en los datos usando intervalos de confianza o similares.
 * Para representar un mismo conjunto de datos en varios grupos distintos, usa gráficos multipanel. Sobre todo si el sobreimprimir los gráficos crea confusión.
 * Trata de eliminar la leyenda: casi nunca es necesaria.

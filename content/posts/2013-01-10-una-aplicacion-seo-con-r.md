@@ -19,11 +19,11 @@ url: /2013/01/10/una-aplicacion-seo-con-r/
 
 Leyendo [_Bad Data_](http://shop.oreilly.com/product/0636920024422.do) vine a saber que Google deja en los _logs_ de Apache información muy relevante sobre la optimización del sitio. En efecto, cuando alguien encuentra tu página en Google, Apache deja (casi siempre) en los logs una línea similar a
 
-`188.77.154.135 - - [30/Dec/2012:09:35:28 +0000] "GET /blog/page/33/?p=... HTTP/1.1" 200 15348 "http://www.google.es/url?sa=t&rct=j&q=breiman%20dos%20culturas%20estadistica&source=web&cd=21&cad=rja&ved=0CDIQFjAAOBQ&url=http%3A%2F%2Fwww.datanalytics.com%2Fblog%2Fpage%2F33%2F%3Fp%3D...&ei=1QrgULj7E6qk0QXRwYHgCQ&usg=AFQjCNHpdZUVD15sC7CdOvUOppdcXAjweQ&sig2=hKh3vCnCrvublGxQXoojyg&bvm=bv.1355534169,d.d2k" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; ca-es) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1"`
+`188.77.154.135 - - [30/Dec/2012:09:35:28 +0000] "GET /blog/page/33/?p=... HTTP/1.1" 200 15348 "http://www.google.es/url?sa=t&rct=j&q=breiman%20dos%20culturas%20estadistica&source=web&cd=21&cad=rja&ved=0CDIQFjAAOBQ&url=http%3A%2F%2Fdatanalytics.com%2Fblog%2Fpage%2F33%2F%3Fp%3D...&ei=1QrgULj7E6qk0QXRwYHgCQ&usg=AFQjCNHpdZUVD15sC7CdOvUOppdcXAjweQ&sig2=hKh3vCnCrvublGxQXoojyg&bvm=bv.1355534169,d.d2k" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; ca-es) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1"`
 
 La parte
 
-`"http://www.google.es/url?sa=t&rct=j&q=breiman%20dos%20culturas%20estadistica&source=web&cd=21&cad=rja&ved=0CDIQFjAAOBQ&url=http%3A%2F%2Fwww.datanalytics.com%2Fblog%2Fpage%2F33%2F%3Fp%3D...&ei=1QrgULj7E6qk0QXRwYHgCQ&usg=AFQjCNHpdZUVD15sC7CdOvUOppdcXAjweQ&sig2=hKh3vCnCrvublGxQXoojyg&bvm=bv.1355534169,d.d2k"`
+`"http://www.google.es/url?sa=t&rct=j&q=breiman%20dos%20culturas%20estadistica&source=web&cd=21&cad=rja&ved=0CDIQFjAAOBQ&url=http%3A%2F%2Fdatanalytics.com%2Fblog%2Fpage%2F33%2F%3Fp%3D...&ei=1QrgULj7E6qk0QXRwYHgCQ&usg=AFQjCNHpdZUVD15sC7CdOvUOppdcXAjweQ&sig2=hKh3vCnCrvublGxQXoojyg&bvm=bv.1355534169,d.d2k"`
 
 indica que el usuario buscó en `google.es` la cadena `breiman dos culturas estadistica` y la expresión `cd=21` significa que mi página era el resultado número 21 según los algoritmos de Google. (Aunque dicha posición puede variar según el idioma del navegador y otras circunstancias que Google usa para _personalizar_ las búsquedas).
 
@@ -74,7 +74,7 @@ estoy en primera posición en Google. Aunque también para otras tales como
 * regresion cuantiles en r
 * the risk of using spreadsheets for statistical analysis
 * trabajar con fechas en r
-* www.datanalytics.com
+* datanalytics.com
 
 Y que, por otra parte, algunos de mis usuarios son contumaces y recorren y recorren las páginas de resultados de Google hasta que me encuentran. En la lista siguiente aparecen algunas cadenas y su posición en la lista de resultados:
 

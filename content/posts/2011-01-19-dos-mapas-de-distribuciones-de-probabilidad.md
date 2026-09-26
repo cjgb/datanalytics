@@ -17,7 +17,7 @@ title: Dos mapas de distribuciones de probabilidad
 url: /2011/01/19/dos-mapas-de-distribuciones-de-probabilidad/
 ---
 
-Si hace unos días  enlazamos desde estas páginas a un cuadro sinóptico que contextualizaba los  [algoritmos de minería de datos](http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm), hoy aprovechamos para divulgar la noticia de  otra que relaciona [las distribuciones de probabilidad más habituales y sus  interdependencias](http://www.johndcook.com/distribution_chart.html).
+Si hace unos días  enlazamos desde estas páginas a un cuadro sinóptico que contextualizaba los  [algoritmos de minería de datos](https://web.archive.org/web/20180902220811/http://chem-eng.utoronto.ca:80/~datamining/dmc/data_mining_map.htm), hoy aprovechamos para divulgar la noticia de  otra que relaciona [las distribuciones de probabilidad más habituales y sus  interdependencias](http://www.johndcook.com/distribution_chart.html).
 
 El lector es libre  de plantearse (e incluso responderse) estas preguntas: partiendo de la  distribución normal que ocupa el centro del diagrama,
 
@@ -30,4 +30,4 @@ El lector es libre  de plantearse (e incluso responderse) estas preguntas: parti
 
 
 
-A quienes  busquen una tabla más completa (aunque sustancialmente más prolija) tal vez  les satisfaga la que encuentren en [este artículo de L. Leemis y J. McQueston](http://www.math.wm.edu/~leemis/2008amstat.pdf) (reproducido también en esta [_chuleta_](http://www.johndcook.com/blog/2010/10/04/probability-and-statistics-cheat-sheet/)).
+A quienes  busquen una tabla más completa (aunque sustancialmente más prolija) tal vez  les satisfaga la que encuentren en [este artículo de L. Leemis y J. McQueston](https://web.archive.org/web/20260710081012id_/https://www.math.wm.edu/~leemis/2008amstat.pdf) (reproducido también en esta [_chuleta_](http://www.johndcook.com/blog/2010/10/04/probability-and-statistics-cheat-sheet/)).

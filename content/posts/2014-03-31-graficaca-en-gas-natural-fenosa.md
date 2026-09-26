@@ -19,7 +19,7 @@ title: Graficaca en Gas Natural Fenosa
 url: /2014/03/31/graficaca-en-gas-natural-fenosa/
 ---
 
-Hoy he querido entrar a la página de Gas Natural Fenosa para echarles un vistazo a mis facturas y he encontrado el siguiente y magnífico ejemplar de [graficaca](http://www.datanalytics.com/tag/graficaca/):
+Hoy he querido entrar a la página de Gas Natural Fenosa para echarles un vistazo a mis facturas y he encontrado el siguiente y magnífico ejemplar de [graficaca](http://datanalytics.com/tag/graficaca/):
 
 ![consumo_electricidad_fenosa](/img/2014/03/consumo_electricidad_fenosa.png#center)
 

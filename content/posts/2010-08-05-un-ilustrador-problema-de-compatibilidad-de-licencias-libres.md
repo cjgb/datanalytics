@@ -31,7 +31,7 @@ En resumen, que por acá, todo lo que está en tu disco duro es tuyo y con él p
 Veamos pues en qué consistió el embrollo. El paquete rJython consta de tres partes distintas:
 
 * Código en R desarrollado por los autores. Ambos estamos felices de distribuirlo con una licencia tal como la GPL.
-* Un fichero binario, jython.jar, sujeto a la [Jython Public License](http://www.jython.org/license.html).
+* Un fichero binario, jython.jar, sujeto a la [Jython Public License](https://web.archive.org/web/20190418140728/https://www.jython.org/license.html).
 * Un módulo de Python, [simplejson](http://code.google.com/p/simplejson/), ligeramente modificado y cubierto por la [licencia del MIT](http://es.wikipedia.org/wiki/MIT_License).
 
 CRAN nos obliga a liberar el paquete con una única licencia. La [solución que plantea Fedora para este tipo de situaciones](http://fedoraproject.org/wiki/Packaging/LicensingGuidelines#Multiple_Licensing_Scenarios) no le satisface.

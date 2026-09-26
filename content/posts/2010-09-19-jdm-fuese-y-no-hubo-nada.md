@@ -33,7 +33,7 @@ Estos objetivos son verdaderamente ambiciosos. A diferencia de JDBC, donde la in
 
 ### Casos de uso
 
-El uso más directo de esta API es el del desarrollo de **interfaces** multiplataforma y _multiproveedor_. A través de una única aplicación, los usuarios podrán realizar actividades típicas de minería de datos ---crear modelos, medir su eficiencia, realizar el _scoring_ de nuevos casos, etc.--- independientemente de la plataforma sobre la que éstos se desarrollen: podrían estar utilizando, de manera transparente, [SAS](http://www.sas.com), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), [SPSS](http://www.spss.com), [KXEN](http://www.kxen.com), [Statistica](http://www.statsoft.com/) u otros.
+El uso más directo de esta API es el del desarrollo de **interfaces** multiplataforma y _multiproveedor_. A través de una única aplicación, los usuarios podrán realizar actividades típicas de minería de datos ---crear modelos, medir su eficiencia, realizar el _scoring_ de nuevos casos, etc.--- independientemente de la plataforma sobre la que éstos se desarrollen: podrían estar utilizando, de manera transparente, [SAS](http://www.sas.com), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), [SPSS](http://www.spss.com), [KXEN](https://en.wikipedia.org/wiki/KXEN_Inc.), [Statistica](https://en.wikipedia.org/wiki/Statistica) u otros.
 
 Esta aplicación podría simplificar el proceso de **migración** entre versiones de una misma herramienta de minería de datos o, incluso, la migración de una a otra porque todas ellas entenderían las peticiones de la aplicación cliente de la misma manera y devolverían resultados en el mismo formato.
 

@@ -67,5 +67,5 @@ Invito a mis lectores a lo siguiente:
 1. A ejecutarlo en su ordenador
 2. A leer [esto](http://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 3. A releer el título del mensaje que envié a la lista de desarrolladores (por referencia, _Unexpected behabiour of min, tapply and POSIXct/POSIXlt classes?_)
-4. A leer [lo que me contestó un tal Joris](http://comments.gmane.org/gmane.comp.lang.r.devel/25864)
+4. A leer [lo que me contestó un tal Joris](https://stat.ethz.ch/pipermail/r-devel/2010-October/058938.html)
 5. A explicarme qué tiene que ver unas cosas con otras (porque yo no entiendo nada de nada de nada)

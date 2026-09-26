@@ -25,4 +25,4 @@ Os puedo jurar que lo he vivido.
 
 Así, literalmente. Tenían que ser tres y no más.
 
-Más vídeos similares, [aquí](http://www.xtranormal.com/watch/6878253/).
+Más vídeos similares, [aquí](https://web.archive.org/web/20110310114041/http://www.xtranormal.com/watch/6878253/).

@@ -18,7 +18,7 @@ url: /2010/09/29/huelga-el-titulo-hoy/
 ---
 
 ```r
-dat <- read.table("http://www.datanalytics.com/uploads/jornadas_huelga.csv", header = T)
+dat <- read.table("https://datanalytics.com/uploads/jornadas_huelga.csv", header = T)
 huelgas <- as.numeric( dat )
 huelgas <- ts( huelgas, start = 1990, frequency = 12 )
 plot( huelgas / 1000, xlab = "mes", ylab="", main = "Jornadas de huelga por mes en España (en miles)" )
@@ -29,4 +29,4 @@ plot( huelgas / 1000, xlab = "mes", ylab="", main = "Jornadas de huelga por mes 
 
 
 
-La fuente, el [INE](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t22/a063/l0/&file=0202009.px&type=pcaxis&L=0).
+La fuente, el [INE](https://web.archive.org/web/20131116062718/http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t22/a063/l0/&file=0202009.px&type=pcaxis&L=0).

@@ -25,4 +25,4 @@ Animado por el éxito, se aventuró a realizar otro: comprobar si dos litros de 
 
 No es necesario abundar, so pena de insultar a la inteligencia de mis lectores, en el papel que en esta historia desempeñó la [caneca](http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=caneca). Me limitaré a invitarlos a consultar el significado del vocablo y a que adviertan su origen portugués y no precolombino, como erróneamente he visto sostener a más de un desavisado.
 
-La moraleja tampoco exige mucho raciocinio... excepto cuando uno desenvuelve el [mutatis mutandis](http://es.wikipedia.org/wiki/Mutatis_mutandis) y lee con desasosegador provecho [lo que aquí se cuenta](http://predictive.wordpress.com/2010/03/04/otra-agradable-propiedad-del-p-valor-no-es-una-medida-de-soporte/).
+La moraleja tampoco exige mucho raciocinio... excepto cuando uno desenvuelve el [mutatis mutandis](http://es.wikipedia.org/wiki/Mutatis_mutandis) y lee con desasosegador provecho [lo que aquí se cuenta](https://web.archive.org/web/20100311053650/http://predictive.wordpress.com/2010/03/04/otra-agradable-propiedad-del-p-valor-no-es-una-medida-de-soporte/).

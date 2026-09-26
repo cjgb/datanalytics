@@ -22,11 +22,11 @@ title: Voy a demostrar (con la ayuda del INE) que Airbnb no existe
 url: /2019/10/08/voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe/
 ---
 
-Tan vasto es el fenómeno Airbnb que malo será no haya dejado traza en las estadísticas oficiales. Que como oficiales, son verdad.
+Tan vasto es el fenómeno Airbnb que malo será que no haya dejado traza en las estadísticas oficiales. Que, por oficiales, son verdad.
 
 No podemos hacer caso a las estadísticas de ocupación hotelera del INE porque son de lo de que dicen: hoteles (y asimilados). Airbnb tiene que dejarse notar en otra parte.
 
-¿Cuál? Frontur, la estadística de movimientos turísticos en frontera del INE. (Sin enlace: los enlaces del INE van y vienen). Las cifras de Frontur proceden de encuestas a turistas que salen de España a los que se somete a un cuestionario y cuyos resultados se extrapolan al total de la población extranjera que circulan por las fronteras. Así que, a diferencia de la estadística de ocupación hotelera (donde el INE solo adquiere información de turistas que pernoctan en hoteles), en esta encuesta son los turistas, independientemente de donde hayan dormido, los que dicen dónde lo hicieron. Y los resultados son estos:
+¿Cuál? Frontur, la estadística de movimientos turísticos en frontera del INE. (Sin enlace: los enlaces del INE van y vienen). Las cifras de Frontur proceden de encuestas a turistas que salen de España a los que se somete a un cuestionario y cuyos resultados se extrapolan al total de la población extranjera que circula por las fronteras. Así que, a diferencia de la estadística de ocupación hotelera (donde el INE solo adquiere información de turistas que pernoctan en hoteles), en esta encuesta son los turistas, independientemente de donde hayan dormido, los que dicen dónde lo hicieron. Y los resultados son estos:
 
 ![](/img/2019/10/frontur_alojamiento.png#center)
 
@@ -50,7 +50,7 @@ Y de colofón, el código que genera la gráfica anterior, del que lo más aprov
 library(pxR)
 library(ggplot2)
 
-datos <- as.data.frame(read.px("http://www.datanalytics.com/uploads/alojamientos_frontur.px"))
+datos <- as.data.frame(read.px("http://datanalytics.com/uploads/alojamientos_frontur.px"))
 datos$Periodo <- as.Date(paste0(datos$Periodo, "01"), "%YM%m%d")
 
 datos <- datos[datos$Tipo.de.alojamiento != "Total",]

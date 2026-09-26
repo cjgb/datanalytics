@@ -17,9 +17,9 @@ title: ¿Puedes todavía vencer a un ordenador?
 url: /2011/02/11/puedes-todavia-vencer-a-un-ordenador/
 ---
 
-Los seres humanos estamos (todavía) de enhorabuena. Todavía sabemos hacer ciertas cosas mejor que los ordenadores. Podrán jugar al ajedrez mejor que nosotros, podrán [ganarnos jugando a Jeopardy](http://www-03.ibm.com/innovation/us/watson/index.shtml), etc. pero todavía sabemos, parece, resolver ciertos problemas mejor que ellos.
+Los seres humanos estamos (todavía) de enhorabuena. Todavía sabemos hacer ciertas cosas mejor que los ordenadores. Podrán jugar al ajedrez mejor que nosotros, podrán [ganarnos jugando a Jeopardy](https://web.archive.org/web/20180317041138id_/http://www-03.ibm.com/innovation/us/watson/index.shtml), etc. pero todavía sabemos, parece, resolver ciertos problemas mejor que ellos.
 
-Reconociéndolo, [bioinformáticos de la Universidad McGill han creado un juego](http://phylo.cs.mcgill.ca/eng/index.html) que invita a humanos a resolver lúdicamente problemas que para un ser humano resultan relativamente sencillos pero frente a los que las máquinas parecen atragantarse. Consiste en la búsqueda y desciframiento de secuencias genéticas buscando relaciones entre segmentos de material genético de diversas especies. Los distintos nucleótidos se codifican con colores, se disponen en una malla y el juego consiste en buscar configuraciones en las que exista el mayor grado posible de coincidencia entre filas de ellas.
+Reconociéndolo, [bioinformáticos de la Universidad McGill han creado un juego](http://phylo.cs.mcgill.ca/eng/index.html) ([copia archivada](https://web.archive.org/web/20130523062631id_/http://phylo.cs.mcgill.ca/eng/index.html)) que invita a humanos a resolver lúdicamente problemas que para un ser humano resultan relativamente sencillos pero frente a los que las máquinas parecen atragantarse. Consiste en la búsqueda y desciframiento de secuencias genéticas buscando relaciones entre segmentos de material genético de diversas especies. Los distintos nucleótidos se codifican con colores, se disponen en una malla y el juego consiste en buscar configuraciones en las que exista el mayor grado posible de coincidencia entre filas de ellas.
 
 
 ![](/img/2011/02/phylogenics11.png#center)

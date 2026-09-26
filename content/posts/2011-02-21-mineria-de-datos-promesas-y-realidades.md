@@ -24,8 +24,8 @@ Incluso a los que conocemos el mercado desde dentro, la lectura de [artículos c
 
 No obstante, parece conveniente distinguir las promesas, tan pomposamente descritas en algunos medios, de las realidades, mucho menos _noticiables_ y que apenas se dan a conocer tímidamente en letra chiquita. Por eso, recojo hoy dos noticias recientes con las que alimentar el sano escepticismo.
 
-La primera es la del [fin del sistema](http://www.dhs.gov/files/programs/Copy_of_press_release_0046.shtm) de [códigos de alerta del departamento de interior de los EE.UU.](http://en.wikipedia.org/wiki/National_Terrorism_Advisory_System), que aspiraba a predecir la probabilidad de un ataque terrorista. La CNN, que hace lo que debe hacer un medio de comunicación, es decir, aportar contexto y análisis a lo escueto de la nota, [afirma ](http://edition.cnn.com/2011/OPINION/01/28/schneier.terror.threat.level/index.html?hpt=Sbin)(mi traducción):
+La primera es la del [fin del sistema](https://web.archive.org/web/20120304134920/http://www.dhs.gov:80/files/programs/Copy_of_press_release_0046.shtm) de [códigos de alerta del departamento de interior de los EE.UU.](http://en.wikipedia.org/wiki/National_Terrorism_Advisory_System), que aspiraba a predecir la probabilidad de un ataque terrorista. La CNN, que hace lo que debe hacer un medio de comunicación, es decir, aportar contexto y análisis a lo escueto de la nota, [afirma ](http://edition.cnn.com/2011/OPINION/01/28/schneier.terror.threat.level/index.html?hpt=Sbin)(mi traducción):
 
 >Los ataques fueron más frecuentes cuando el nivel era amarillo (riesgo significativo) que cuando era naranja (riesgo alto). La única vez en que fue rojo (riesgo severo), no pasó nada. Nunca ha sido azul o verde, los niveles que indican una menor probabilidad de riesgo.
 
-La segunda noticia al respecto sobre los límites de este tipo de proyectos, [en Wired](http://www.wired.com/dangerroom/2011/02/pentagon-predict-egypt-unrest/).
+La segunda noticia al respecto sobre los límites de este tipo de proyectos, [en Wired](https://web.archive.org/web/20140320030935/http://www.wired.com:80/dangerroom/2011/02/pentagon-predict-egypt-unrest/).
