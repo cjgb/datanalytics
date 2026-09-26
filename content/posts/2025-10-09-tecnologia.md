@@ -17,7 +17,7 @@ tags:
 - energía
 - criptografía
 title: Unas cuantas notas sobre tecnología
-url: /2025/10/09/cortos-tecnología/
+url: /2025/10/09/cortos-tecnologia/
 ---
 
 Hoy traigo a la atención de mis escasísimos pero selectos lectores una serie de notas que he recopilado en los últimos tiempos porque han llamado mi atención y que he arrejuntado alrededor de la genérica etiqueta de "tecnología".

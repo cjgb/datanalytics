@@ -15,7 +15,7 @@ tags:
 - r
 - twitter
 title: '@R_Hisp, la cuenta oficial de la Comunidad R Hispano'
-url: /2014/04/14/r_hips-la-cuenta-oficial-de-la-comunidad-r-hispano/
+url: /2014/04/14/r-hips-la-cuenta-oficial-de-la-comunidad-r-hispano/
 ---
 
 Finalmente, la Comunidad R Hispano dispone de una [cuenta oficial en Twitter](https://twitter.com/R_Hisp).

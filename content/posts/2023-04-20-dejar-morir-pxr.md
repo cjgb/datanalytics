@@ -16,7 +16,7 @@ tags:
 - pxr
 - estadística oficial
 title: ¿Dejar morir pxR?
-url: /2023/04/20/dejar-morir-pxR/
+url: /2023/04/20/dejar-morir-pxr/
 ---
 
 ¿Dejar morir [`pxR`](https://cran.rstudio.com/web/packages/pxR/index.html)? He ahí la cuestión.

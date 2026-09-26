@@ -17,7 +17,7 @@ tags:
 - correlación
 title: Una aportación adicional a la extensa literatura sobre potenciales extensiones
   del coeficiente de correlación
-url: /2026/06/04/coeficiente-correlación/
+url: /2026/06/04/coeficiente-correlacion/
 ---
 
 [En 2019 escribí sobre variantes «modernas» del coeficiente de correlación.](/2019/08/29/la-multivarianza-total-de-la-distancia-no-implica-causalidad/).

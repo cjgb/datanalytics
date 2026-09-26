@@ -20,7 +20,7 @@ tags:
 - mercantilismo
 - letfs
 title: 'Notas (32): una serie de apuntes sobre economía'
-url: /2026/09/01/cortos-econommía/
+url: /2026/09/01/cortos-economia/
 ---
 
 En el baloncesto, cuando un equipo pierde por dos puntos o menos, tiene la posesión del balón y quedan apenas uno o dos segundos de partido, tiene pocas alternativas a intentar un tiro a la desesperada desde lejos «sobre la bocina». Sin embargo, esta práctica estaba en retirada en la NBA por un motivo: los fallos en este tipo de tiros a canasta penalizaban ---casi siempre se fallan--- las estadísticas individuales de los jugadores que probaban fortuna. Ahora la regla ha cambiado y estos tiros se excluyen de ellas. La consecuencia, [un incremento sustancial en esta práctica](https://marginalrevolution.com/marginalrevolution/2026/07/incentives-matter-installment-1637-2.html).

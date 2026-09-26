@@ -19,7 +19,7 @@ tags:
 - anonimidad
 - ine
 title: 'Notas (31): una serie de apuntes sobre estadística'
-url: /2026/07/21/cortos-estadística/
+url: /2026/07/21/cortos-estadistica/
 ---
 
 Francisco Marcos cierra en Almacén de Derecho su [serie sobre el cártel de la leche](https://almacendederecho.org/cuanto-vale-el-cartel-de-la-leche-y-ii) analizando las ocho sentencias de la Audiencia Provincial de Barcelona señalando cómo el juez rechazó las estimaciones de daños realizadas por ambas partes usando objetivísimos modelos macroeconómicos y prefirió evaluar su impacto, poco más o menos, por la cuenta de la vieja. Un episodio más que nos recuerda que la estadística es poco más que un recurso retórico.

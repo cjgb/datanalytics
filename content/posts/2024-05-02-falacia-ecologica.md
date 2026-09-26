@@ -22,7 +22,7 @@ url: /2024/05/02/falacia-ecologica-aun-mas/
 #### I.
 
 Voy a retomar un hilo perdido en mi discusión del otro día
-[sobre la falacia ecológica](/2024/4/30/falacia-ecologica/)
+[sobre la falacia ecológica](/2024/04/30/falacia-ecologica/)
 para abundar en una cuestión que tiende a obviarse a pesar de su gran importancia.
 
 En aquella entrada fusilé/usufructé el siguiente gráfico:
