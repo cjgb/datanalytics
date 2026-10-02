@@ -21,8 +21,10 @@ url: /2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/
 
 Os puedo jurar que lo he vivido.
 
-
-
 Así, literalmente. Tenían que ser tres y no más.
 
-Más vídeos similares, [aquí](https://web.archive.org/web/20110310114041/http://www.xtranormal.com/watch/6878253/).
+Los que hayan vivido situaciones similares, disfrutarán de este vídeo:
+
+{{< youtube PbODigCZqL8 >}}
+
+(Que fue realizado usando una herramienta de otros tiempos y de la que se encuentran todavía trazas en esquinitas de internet como [esta](https://web.archive.org/web/20110310114041/http://www.xtranormal.com/watch/6878253/)).
