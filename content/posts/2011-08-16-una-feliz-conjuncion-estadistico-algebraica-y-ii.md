@@ -31,11 +31,11 @@ En el caso que estudiábamos el otro día, podemos hacer
 
 
 ```r
-b.i <- function( i ) svd.b$d[i] * outer( svd.b$u[,i], svd.b$v[,i] )
-b.i( 1 ) # primer sumando
-b.i( 2 ) # segundo sumando
+b.i <- function(i) svd.b$d[i] * outer(svd.b$u[,i], svd.b$v[,i])
+b.i(1) # primer sumando
+b.i(2) # segundo sumando
 
-b – ( b.i( 1 ) + b.i( 2 ) ) # la aproximación es razonable con la suma de dos componentes
+b – (b.i(1) + b.i(2)) # la aproximación es razonable con la suma de dos componentes
 ```
 
 
@@ -48,7 +48,7 @@ Si el otro día descompusimos el valor del estadístico $\chi^2$ como la suma de
 
 
 ```r
-pchisq( sum( svd.b$d[-1]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
+pchisq(sum(svd.b$d[-1]^2), (nrow(b) -1) * (ncol(b) -1), lower.tail = F)
 # 2.248518e-29
 ```
 
@@ -57,7 +57,7 @@ indica que la falta de independencia todavía sería significativa. Pero si no e
 
 
 ```r
-pchisq( sum( svd.b$d[-(1:2)]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
+pchisq(sum(svd.b$d[-(1:2)]^2), (nrow(b) -1) * (ncol(b) -1), lower.tail = F)
 # 0.9692099
 ```
 

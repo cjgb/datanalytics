@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2016-11-22 08:13:25+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:04:45.967245'
 related:
 - 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md

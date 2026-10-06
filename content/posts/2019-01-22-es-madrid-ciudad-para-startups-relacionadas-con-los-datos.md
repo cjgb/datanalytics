@@ -20,7 +20,7 @@ title: ¿Es Madrid ciudad para startups (relacionadas con los datos)?
 url: /2019/01/22/es-madrid-ciudad-para-startups-relacionadas-con-los-datos/
 ---
 
-_[Esta entrada, simplemente, plantea una hipótesis altamente especulativa; expone una serie de argumentos su pro pero deja la pregunta abierta y la respuesta al buen criterio del lector.]_
+_[Esta entrada, simplemente, plantea una hipótesis altamente especulativa; expone una serie de argumentos en su pro pero deja la pregunta abierta y la respuesta al buen criterio del lector.]_
 
 El año pasado di un curso de estadística bayesiana (¿a alguien le interesaría que lo impartiese en su empresa o institución?) en la UPC, en Barcelona. En un descanso hablé brevemente con una alumna que estaba buscando trabajo en el mundo de la _ciencia de datos_. Le pregunté si no le interesaría mudarse a Madrid (quienes vivimos en Madrid _sabemos_ que no hay vida inteligente fuera de nuestra provincia, ¿verdad?) y me contestó que en Madrid no había nada, que no había empresas, que no había movimiento; que en BCN había muchas, pero que en la villa no le constaba. Me sorprendió (y lo admito, me ofendió un poquito) y respondí lo obvio: que si BBVA, que si Santander, que si Telefónica, que si Amadeus, que si... ¡tenemos decenas de factorías/churrerías de _ciencia de datos_ por toda la periferia de la M-30!
 

@@ -19,7 +19,7 @@ title: Paralelización de bucles con foreach
 url: /2011/04/08/paralelizacion-de-bucles-con-foreach/
 ---
 
-Parcialmente en agradecimiento a [Revolution Analytics](http://www.revolutionanalytics.com/) por haber concedido una subvención a las [III Jornadas de usuarios de R](http://usar.org.es/) voy a discutir en esta entrada cómo paralelizar bucles usando los paquetes `foreach` y `doMC` desarrollados por dicha empresa.
+Parcialmente en agradecimiento a [Revolution Analytics](https://en.wikipedia.org/wiki/Revolution_Analytics) por haber concedido una subvención a las [III Jornadas de usuarios de R](http://usar.org.es/), voy a discutir en esta entrada cómo paralelizar bucles usando los paquetes `foreach` y `doMC` desarrollados por dicha empresa.
 
 El paquete `foreach` contiene, esencialmente, una única función, `foreach`, que, en su forma más básica, permite ejecutar bucles con una sintaxis un tanto peculiar:
 

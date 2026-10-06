@@ -20,7 +20,7 @@ title: Hoy sí, sobre tetas y culos (e Instagram, como excipiente)
 url: /2020/09/02/hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente/
 ---
 
-Hoy voy a aprovechar una excusa peregrina para hablar de lo que por algún motivo se me antoja imperiosamente, que son tetas y culos. Que (este pronombre es un puntero a _excusa_) es
+Hoy voy a aprovechar una excusa peregrina para hablar de lo que por algún motivo se me antoja imperiosamente: tetas y culos. Que (este pronombre es un puntero a _excusa_) es
 
 _[Nota: aquí quise incrustar un tuit de Analía Plaza que, aparentemente, fue borrado por su autora meses después.]_
 

@@ -26,6 +26,6 @@ Esta entrega es más sustancial que las anteriores y seguro que el lector intere
 * [Visual literacy](http://www.visual-literacy.org/) es un compendio de herramientas de aprendizaje para lo que tal vez debiera traducirse como _alfabetización gráfica_, es decir, la capacidad de crear y evaluar representaciones visuales en ámbitos como los negocios, el periodismo o la ingeniería.
 * [Data Visualization](http://datavisualization.ch/) incluye una bitácora pero es más que eso: contiene tutoriales sobre el uso de diversas herramientas y el proceso de creación de un gráfico, desde el primer boceto con lápiz y papel hasta su publicación final.
 * [Juice Analytics](http://www.juiceanalytics.com/) es una empresa que vende servicios relacionados con la infografía; pero es tal la cantidad de recursos que almacena en su página que merece ser añadida a esta lista.
-* Por supuesto, no debe faltar este tutorial sobre cómo el departamento de infografía del [New York Times utiliza R](http://www.drewconway.com/zia/?p=2658).
+* Por supuesto, no debe faltar este tutorial sobre cómo el departamento de infografía del [New York Times utiliza R](https://web.archive.org/web/20110321105528/http://www.drewconway.com/zia/?p=2658).
 
 Y eso es todo en esta entrega. Por supuesto, si alguien conoce algún recurso adicional que ameritase formar parte de esta lista, ¡que no olvide hacérmelo saber!

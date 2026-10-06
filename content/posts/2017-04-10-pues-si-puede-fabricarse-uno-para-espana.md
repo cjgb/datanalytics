@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2017-04-10 08:13:28+00:00
-draft: false
 lastmod: '2025-04-06T19:04:48.304683'
 related:
 - 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
@@ -25,7 +24,7 @@ Es
 
 ![](/img/2017/04/ggplot_spain_format.png#center)
 
-responde a [mi entrada de la semana pasada](https://datanalytics.com/2017/04/07/podria-fabricarse-uno-para-espana/) y se lo debemos a la gentileza de [Sergio J](https://twitter.com/sergiojsj).
+responde a [mi entrada de la semana pasada](/2017/04/07/podria-fabricarse-uno-para-espana/) y se lo debemos a la gentileza de [Sergio J](https://twitter.com/sergiojsj).
 
 El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
 

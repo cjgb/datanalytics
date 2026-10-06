@@ -16,9 +16,9 @@ title: Nunca más de cinco
 url: /2011/04/11/nunca-mas-de-cinco/
 ---
 
-Me preguntan a veces por qué me gusta leer _The Economist_ (¿porque se nota que lo escribe gente muy inteligente, para variar?). Y me pregunto yo por qué leo a veces [McKinsey Quarterly](http://www.mckinseyquarterly.com/) (¿porque es gratis? ¿porque me aburro?). Lo que tiene la primera publicación de agudo, lo tiene la segunda de fome.
+Me preguntan a veces por qué me gusta leer _The Economist_ (¿porque se nota que lo escribe gente muy inteligente, para variar?). Me pregunto yo por qué leo a veces [McKinsey Quarterly](https://www.mckinsey.com/quarterly/overview) (¿porque es gratis? ¿porque me aburro?). Lo que tiene la primera publicación de agudo, lo tiene la segunda de fome.
 
-Pero no todo es desaprovechable. En una de las últimas ediciones, traía la revista un breve resumen de un libro, [Brainsteering](http://www.brainsteering.com/), sobre el asunto del llamado _brainstorming_. Más bien, sobre cómo hacerlo menos enojoso y más eficaz. Quien se sienta intrigado, podrá encontrar siete consejos, probablemente buenos, [aquí](http://www.mckinseyquarterly.com/Seven_steps_to_better_brainstorming_2767).
+Pero no todo es desaprovechable. En una de las últimas ediciones, traía la revista un breve resumen de un libro, [Brainsteering](http://www.brainsteering.com/), sobre el asunto del llamado _brainstorming_. Más bien, sobre cómo hacerlo menos enojoso y más eficaz. Quien se sienta intrigado, podrá encontrar siete consejos, probablemente buenos, [aquí](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/seven-steps-to-better-brainstorming).
 
 Considero inoportunas las llamadas sesiones de _brainstorming_ porque las ideas llegan cuando las mandan las musas, no de diez a doce en la sala seis. Y porque suele faltar en ellas un elemento fundamental: un monitor preñado de datos. Y porque el exceso de formalismo coarta la inspiración. Personalmente, prefiero la serendipia mientras me afeito o el tú a tú en el café.
 

@@ -35,6 +35,6 @@ En el programa aparecen sesiones tan interesantes como las siguientes:
 * 09.02.2012. Mini taller y charla sobre el análisis y el tratamiento de los datos
 * 08.03.2012. Mini taller y charla sobre la presentación y visualización de los datos.
 
-Tengo la impresión de que la comunidad de usuarios de R tiene mucho que aportar a esta iniciativa tan radical en el mundo del periodismo. De hecho, [Amanda Cox, del New York Times](http://www.drewconway.com/zia/?p=2658), ha participado en grupos de usuarios de R mostrando cómo los ayuda a desarrollar su labor.
+Tengo la impresión de que la comunidad de usuarios de R tiene mucho que aportar a esta iniciativa tan radical en el mundo del periodismo. De hecho, [Amanda Cox, del New York Times](https://web.archive.org/web/20110321105528/http://www.drewconway.com/zia/?p=2658), ha participado en grupos de usuarios de R mostrando cómo los ayuda a desarrollar su labor.
 
 Voy a ver cómo gestiono mi agenda para estar presente en alguna de esas reuniones. ¿Encontraría allá alguna cara conocida? Más aún, ¿alguien de la comunidad de usuarios de R se atrevería a ilustrar las bondades de R frente a una inhabitual audiencia de periodistas?

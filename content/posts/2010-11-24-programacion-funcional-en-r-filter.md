@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-11-24 09:08:05+00:00
-draft: false
 lastmod: '2025-04-06T18:52:56.922966'
 related:
 - 2010-08-17-una-tarea-para-mis-lectores.md
@@ -18,7 +17,7 @@ title: 'Programación funcional en R: Filter'
 url: /2010/11/24/programacion-funcional-en-r-filter/
 ---
 
-Quienes acudan a [Mieres la semana que viene](https://datanalytics.com/2010/10/29/ii-jornadas-de-usuarios-de-r/) me oirán hablar de programación funcional en R. Algo de lo que no hablaré pero que dejaré acá escrito como abrebocas es un pequeño ejemplo de cómo la programación funcional hace tu vida más simple y, sobre todo, prolonga la vida de tu teclado.
+Quienes acudan a [Mieres la semana que viene](https://datanalytics.com/2010/10/29/ii-jornadas-de-usuarios-de-r/) me oirán hablar de programación funcional en R. Algo de lo que no hablaré pero que dejaré acá escrito como abrebocas es un pequeño ejemplo de cómo la programación funcional simplifica tu vida y alarga la de tu teclado.
 
 Voy a ilustrar el uso de una función de R que echábamos de menos los usuarios de Python: `Filter`. Estaba ahí, sí, pero como escondida.
 

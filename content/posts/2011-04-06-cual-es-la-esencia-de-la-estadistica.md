@@ -18,7 +18,7 @@ title: ¿Cuál es la esencia de la estadística?
 url: /2011/04/06/cual-es-la-esencia-de-la-estadistica/
 ---
 
-¿Qué tienen que ver minería de datos y estadística? Podría opinar personalmente sobre el asunto, pero serviré en esta ocasión de pregonero de las [ideas que Jerome H. Friedman dejó escritas al respecto](http://www.salford-systems.com/doc/dm-stat.pdf). Aunque el artículo tiene ya sus casi quince años, las ideas que contiene están todavía en plena vigencia.
+¿Qué tienen que ver minería de datos y estadística? Podría opinar personalmente sobre el asunto, pero serviré en esta ocasión de pregonero de las [ideas que Jerome H. Friedman dejó escritas al respecto](https://web.archive.org/web/20120907125325id_/http://www.salford-systems.com/doc/dm-stat.pdf). Aunque el artículo tiene ya sus casi quince años, las ideas que contiene están todavía en plena vigencia.
 
 ![](/img/2011/04/friedman.jpg)
 

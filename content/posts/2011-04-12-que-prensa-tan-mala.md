@@ -20,24 +20,18 @@ title: ¡Qué prensa tan mala!
 url: /2011/04/12/que-prensa-tan-mala/
 ---
 
-Al autor de estas páginas se le cae la baba con las _infografías_ del [New York Times](http://learning.blogs.nytimes.com/2011/04/08/data-visualized-more-on-teaching-with-infographics/?scp=1&sq=infographics&st=cse) (¿sabéis que [en ese periódico usan R](http://www.drewconway.com/zia/?p=2658)?) y de [The Guardian](http://www.guardian.co.uk/news/datablog). Y esperaba, ¡qué menos!, algo si no ya similar, al menos sí decente del, dicen, más serio de los periódicos españoles.
+Al autor de estas páginas se le cae la baba con las _infografías_ del [New York Times](http://learning.blogs.nytimes.com/2011/04/08/data-visualized-more-on-teaching-with-infographics/?scp=1&sq=infographics&st=cse) (¿sabéis que [en ese periódico usan R](https://web.archive.org/web/20110321105528/http://www.drewconway.com/zia/?p=2658)?) y de [The Guardian](http://www.guardian.co.uk/news/datablog). Y esperaba, ¡qué menos!, algo si no ya similar, al menos sí decente del, dicen, más serio de los periódicos españoles.
 
 Pero hoy [se me ha caído el alma a los pies](http://www.elpais.com/graficos/internacional/Gasto/militar/internacional/elpepuint/20110411elpepuint_1/Ges/). Fijáos, fijáos lectores:
 
-
 ![](/img/2011/04/el_pais_gasto_militar_1.png#center)
-
-
 
 ¿Veis cómo los porcentajes no tienen nada que ver con las cifras absolutas? Comparad Europa con Oriente Próximo. O con Oceanía. ¿Alguien entiende algo?
 
 Y mirad ahora con atención la otra pestaña:
 
-
 ![](/img/2011/04/el_pais_gasto_militar_2.png#center)
-
-
 
 No miente, cierto, pero... ¿da la impresión correcta? ¿No sugiere que los países que aparecen a la derecha son los que más gastan en _defensa_ en términos de porcentaje del PIB en el mundo? ¿No sería más relevante mostrar [estos otros números](http://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_gastos_militares#Lista_de_pa.C3.ADses_por_el_gasto_militar_como_porcentaje_del_PIB)?
 
-¿Soy demasiado tiquismiquis? ¿O sería justo exigir al Grupo Prisa un patrocinio para las [III Jornadas de Usuarios de R](http://usar.org.es/) en desagravio?
+¿Soy demasiado tiquismiquis? ¿O sería justo exigir al Grupo Prisa un patrocinio para las [III Jornadas de Usuarios de R](https://r-es.org/03jr/) en desagravio?

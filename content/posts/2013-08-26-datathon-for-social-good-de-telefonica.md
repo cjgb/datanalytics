@@ -22,7 +22,7 @@ title: '"Datathon for Social Good" de Telefónica'
 url: /2013/08/26/datathon-for-social-good-de-telefonica/
 ---
 
-El _[Datathon for Social Good](http://new.dynamicinsights.telefonica.com/674/the-details)_ es una iniciativa de Telefónica para desarrollar aplicaciones analíticas que redunden en un _bien social_ que está teniendo lugar estos días (¡aún hay tiempo para [registrarse](http://new.dynamicinsights.telefonica.com/765/enter-the-datathon)!).
+El _[Datathon for Social Good](http://new.dynamicinsights.telefonica.com/674/the-details)_ es una iniciativa de Telefónica para desarrollar _aplicaciones analíticas_ que redunden en un _bien social_. Está teniendo lugar estos días (¡aún hay tiempo para [registrarse](http://new.dynamicinsights.telefonica.com/765/enter-the-datathon)!).
 
 Estos son los tres tipos de datos con los que se contará:
 
@@ -32,4 +32,4 @@ Estos son los tres tipos de datos con los que se contará:
 
 Además, la competición será inaugurada con una conferencia a cargo del profesor Alex "Sandy" Pentland del MIT y Gavin Starks, director del [Open Data Institute](http://www.theodi.org/) el martes 3 de septiembre.
 
-(Gracias a [Pedro Concejero](https://twitter.com/ConcejeroPedro) por avisarme de esta competición).
+(Gracias a [Pedro Concejero](https://twitter.com/ConcejeroPedro) por ponerme al tanto de esta competición).

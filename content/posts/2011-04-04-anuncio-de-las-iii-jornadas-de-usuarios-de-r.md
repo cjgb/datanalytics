@@ -19,7 +19,7 @@ url: /2011/04/04/anuncio-de-las-iii-jornadas-de-usuarios-de-r/
 
 Más que me complace anunciar públicamente la convocatoria de las III Jornadas de usuarios de R, que tendrán lugar los días 17 y 18 de noviembre en la Escuela de Organización Industrial, Madrid.
 
-Los interesados en asistir, participar y patrocinar —y subrayo lo de patrocinar— podrán encontrar los detalles en la [página de las jornadas](http://www.usar.org.es).
+Los interesados en asistir, participar y patrocinar —y subrayo lo de patrocinar— podrán encontrar los detalles en la [página de las jornadas](https://r-es.org/03jr/).
 
 Desde esta bitácora, además, quiero invitar muy especialmente a los usuarios y entusiastas de R que trabajan en empresas e instituciones ajenas al mundo académico a aportar su peculiar visión sobre el universo de usos, aplicaciones y experiencias con el lenguaje.
 

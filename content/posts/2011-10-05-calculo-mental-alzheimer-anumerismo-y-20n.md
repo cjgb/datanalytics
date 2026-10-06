@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-10-05 07:45:07+00:00
-draft: false
 lastmod: '2025-04-06T18:57:23.060494'
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md
@@ -20,7 +19,7 @@ title: Cálculo mental, alzheimer, anumerismo y 20N
 url: /2011/10/05/calculo-mental-alzheimer-anumerismo-y-20n/
 ---
 
-El otro día pensaba yo: si escribiese en un rollo de papel (idealmente infinito) el nombre de todos los españoles, uno en cada línea, de manera que cada línea ocupase, digamos, dos centímetros, ¿cuántos kilómetros de papel me harían falta?
+El otro día me preguntaba: si escribiese en un rollo de papel (idealmente infinito) el nombre de todos los españoles, uno en cada línea, de manera que cada línea ocupase, digamos, dos centímetros, ¿cuántos kilómetros de papel harían falta?
 
 Por redondear, supuse que la población española es de 50M (pecata minuta: de sobreestimarla en un 10%, bastaría con recortar un 10% la respuesta final). Y por azares le propuse el problema a un compañero para que lo resolviese mentalmente. ¡Incapaz! Luego otro, y otro, y otro. Hasta seis y ninguno supo darme una respuesta correcta utilizando solo cálculo mental.
 

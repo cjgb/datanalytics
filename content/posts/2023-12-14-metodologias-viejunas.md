@@ -48,7 +48,7 @@ Estamos arrancando la segunda fase de un proyecto. Una de las primeras tareas es
 Cierto que no es el proyecto más y mejor documentado del mundo. Cierto también que se podían haber organizado mejor los datos (que es, además, el punto para el que II no acaba de ofrecer soluciones universales y convincentes). Pero en aquella reunión se destapó una especie de conflicto generacional en el que medio intuí que:
 
 * Ahora, un proyecto _es_ un proyecto de Google Cloud (o similar), con sus usuarios, recursos, APIs, etc.
-* El código ha de ser _notebooks_ que tienen que _vivir_ en Google Colab (o similar). Tengo que averiguar todavía cómo se se espera que se gestionen las librerías de funciones auxiliares, etc.
+* El código ha de ser _notebooks_ que tienen que _vivir_ en Google Colab (o similar). Tengo que averiguar todavía cómo se espera que se gestionen las librerías de funciones auxiliares, etc.
 * El que los datos no vivan en S3 (o similares) es anatema.
 * Nada, parece ser, corre en local.
 * ¿Habrá algo más? Me va a tocar estar atento a las expectativas ajenas para ver qué otras cosas se estilan hoy en día.

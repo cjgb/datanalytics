@@ -6,7 +6,7 @@ categories:
 date: 2016-09-15 08:13:21+00:00
 description: Sobre los potenciales excesos de la aplicación del secreto estadístico
   por parte del INE
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:45:20.264150'
 related:
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
