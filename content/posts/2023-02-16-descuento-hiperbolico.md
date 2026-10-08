@@ -26,7 +26,7 @@ $$\text{valor presente} = A \exp(-tr)$$
 
 donde $A$ es una cierta cantidad que recibiremos en el momento futuro $t$ y donde $r$ es nuestra _tasa de descuento_.
 
-Por otro lado, experimentos de la sicología y la economía conductual, parecen indicar que la gente se tiende a regir por una regla distinta, la del llamado
+Por otro lado, experimentos de la sicología y la economía conductual parecen indicar que la gente se tiende a regir por una regla distinta, la del llamado
 [_descuento hiperbólico_](https://en.wikipedia.org/wiki/Hyperbolic_discounting)
 
 $$\text{valor presente} = \frac{A}{1 + kt}$$

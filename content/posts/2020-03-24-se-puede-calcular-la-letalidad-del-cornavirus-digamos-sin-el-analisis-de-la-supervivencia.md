@@ -13,7 +13,7 @@ related:
 - 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
 tags:
 - artículos
-- coronavirus
+- covid
 - letalidad
 - supervivencia
 title: ¿Se puede calcular la letalidad (del coronavirus, digamos) sin el análisis

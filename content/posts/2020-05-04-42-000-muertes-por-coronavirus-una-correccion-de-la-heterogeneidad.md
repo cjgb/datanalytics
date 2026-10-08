@@ -13,7 +13,7 @@ related:
 - 2020-04-21-defunciones-ine-vs-momo.md
 - 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
-- coronavirus
+- covid
 - epidemiología
 - momo
 - registro civil

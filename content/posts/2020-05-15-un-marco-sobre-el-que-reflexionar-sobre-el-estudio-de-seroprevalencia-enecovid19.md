@@ -13,7 +13,7 @@ related:
 - 2020-04-27-muestreo-sensibilidad-y-especificidad.md
 - 2020-03-09-una-r-referencia-con-referencias-para-epidemiologos-circunstanciales.md
 tags:
-- coronavirus
+- covid
 - enecovid19
 - ine
 - isciii

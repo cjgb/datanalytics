@@ -13,7 +13,7 @@ related:
 - 2022-07-21-critica-critica-momo.md
 - 2018-05-25-evolucion-de-la-resistencia-al-calor.md
 tags:
-- coronavirus
+- covid
 - ine
 - isciii
 - momo

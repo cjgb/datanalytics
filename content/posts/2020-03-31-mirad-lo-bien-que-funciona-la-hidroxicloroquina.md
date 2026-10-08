@@ -14,7 +14,7 @@ related:
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
 - artículos
-- coronavirus
+- covid
 - mala ciencia
 title: Mirad lo bien que funciona la hidroxicloroquina
 url: /2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/

@@ -11,7 +11,7 @@ related:
 - 2020-04-15-cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus.md
 - 2024-03-11-cortos-01.md
 tags:
-- coronavirus
+- covid
 - prophet
 - series temporales
 title: Una potencial consecuencia positiva de lo del coronavirus

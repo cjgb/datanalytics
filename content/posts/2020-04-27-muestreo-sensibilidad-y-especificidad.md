@@ -13,7 +13,7 @@ related:
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 - 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
 tags:
-- coronavirus
+- covid
 - especificidad
 - muestreo
 - sensibilidad

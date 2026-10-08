@@ -12,7 +12,7 @@ related:
 - 2012-03-12-estrenos-con-ecos-estadisticos-ii-contagio.md
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 tags:
-- coronavirus
+- covid
 - teoría de la decisión
 - vacunas
 title: En respuesta a los "dudacionistas" de la vacuna que me preguntaron, preguntan

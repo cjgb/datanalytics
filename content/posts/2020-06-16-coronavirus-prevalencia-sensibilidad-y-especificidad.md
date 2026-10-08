@@ -12,7 +12,7 @@ related:
 - 2020-07-09-sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores.md
 - 2020-05-15-un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19.md
 tags:
-- coronavirus
+- covid
 - especificidad
 - prevalencia
 - sensibilidad

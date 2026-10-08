@@ -12,7 +12,7 @@ related:
 - 2020-03-09-una-r-referencia-con-referencias-para-epidemiologos-circunstanciales.md
 - 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
 tags:
-- coronavirus
+- covid
 - r
 title: Seguimiento de los nuevos casos diarios de coronavirus en «tiempo real» con
   R

@@ -13,7 +13,7 @@ related:
 - 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
 tags:
 - ciencia
-- coronavirus
+- covid
 - vacunas
 title: En respuesta a los que me preguntan si pondré "la vacuna"
 url: /2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/

@@ -13,7 +13,7 @@ related:
 - 2022-05-10-encuestas-electorales-cualitativas.md
 tags:
 - ciencia
-- coronavirus
+- covid
 - evidencia
 - política
 title: ¿Qué significa para los políticos responder a desastres naturales usando la

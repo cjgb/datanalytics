@@ -13,7 +13,7 @@ related:
 - 2014-07-21-maddata-dataton-de-datos-abiertos.md
 tags:
 - anuncio
-- coronavirus
+- covid
 - hackatón
 - madrid
 title: 'Activa Madrid: el laboratorio de ideas'

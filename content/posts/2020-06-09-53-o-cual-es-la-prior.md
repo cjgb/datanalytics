@@ -12,7 +12,7 @@ related:
 - 2020-05-15-un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
-- coronavirus
+- covid
 - enecovid19
 - especificidad
 - estadística

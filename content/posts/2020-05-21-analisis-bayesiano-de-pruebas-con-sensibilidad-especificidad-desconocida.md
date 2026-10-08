@@ -12,7 +12,7 @@ related:
 - 2020-07-09-sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
-- coronavirus
+- covid
 - enecovid19
 - especificidad
 - estadística bayesiana

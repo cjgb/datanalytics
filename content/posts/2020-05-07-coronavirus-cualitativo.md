@@ -12,7 +12,7 @@ related:
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
-- coronavirus
+- covid
 title: Coronavirus cualitativo
 url: /2020/05/07/coronavirus-cualitativo/
 ---

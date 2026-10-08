@@ -12,7 +12,7 @@ related:
 - 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 tags:
-- coronavirus
+- covid
 - economía
 - gráficos
 - pib

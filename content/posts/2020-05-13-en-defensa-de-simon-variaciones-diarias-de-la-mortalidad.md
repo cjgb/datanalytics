@@ -13,7 +13,7 @@ related:
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 tags:
-- coronavirus
+- covid
 - varianza
 - estadística
 title: 'En defensa de Simón: variaciones diarias de la  mortalidad'

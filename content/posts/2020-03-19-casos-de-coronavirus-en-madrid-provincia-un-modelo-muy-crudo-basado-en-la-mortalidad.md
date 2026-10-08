@@ -11,7 +11,7 @@ related:
 - 2020-03-10-seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r.md
 - 2023-03-28-se-iguales.md
 tags:
-- coronavirus
+- covid
 - defunciones
 - madrid
 - r

@@ -2,8 +2,7 @@
 author: Carlos J. Gil Bellosta
 categories:
 - varios
-date: 2020-03-17 09:13:00+00:00
-draft: false
+date: 2020-03-17
 lastmod: '2025-04-06T18:50:37.578460'
 related:
 - 2020-05-07-coronavirus-cualitativo.md
@@ -12,7 +11,7 @@ related:
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 tags:
-- coronavirus
+- covid
 - epidemiología
 title: 'Dos escenarios mutuamente incompatibles: extinción o cronificación'
 url: /2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/
@@ -31,6 +30,6 @@ El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en alg�
 * Es conveniente que el virus corra y contagie a la población a la que afecta menos y que supera la enfermedad con síntomas leves. Viene a ser el 60% de la población.
 * Tratar de aislar al resto de la población para evitar las muertes directas y las indirectas producidas por la sobrecarga del sistema sanitario.
 
-Es una estrategia cuyo éxito depende de una serie de factores evidentes de enumerar pero sobre los que aún no he oído que tengamos certeza. La esperanza de  los proponentes de esta estrategia es que las siguientes olas del virus sean, gracias a la inmunidad de quienes ya la han padecido, mucho más llevadera y en palabras de una amiga (a la que saludo) que lleva intubando pacientes graves muchísimas horas en estos últimos días,
+Es una estrategia cuyo éxito depende de una serie de factores evidentes de enumerar pero sobre los que aún no he oído que tengamos certeza. La esperanza de los proponentes de esta estrategia es que las siguientes olas del virus sean, gracias a la inmunidad de quienes ya la han padecido, mucho más llevadera y en palabras de una amiga (a la que saludo) que lleva intubando pacientes graves muchísimas horas en estos últimos días,
 
-[c]ada vez morirán menos por COVID en años sucesivos, hasta q queden los que se mueren de cualquier neumonía en invierno.
+> [c]ada vez morirán menos por COVID en años sucesivos, hasta q queden los que se mueren de cualquier neumonía en invierno.

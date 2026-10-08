@@ -15,7 +15,7 @@ related:
 tags:
 - ciencia de datos
 - consultoría
-- coronavirus
+- covid
 title: '"The great reset"'
 url: /2020/05/25/the-great-reset/
 ---

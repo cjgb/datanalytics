@@ -12,7 +12,7 @@ related:
 - 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
 - 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
-- coronavirus
+- covid
 - defunciones
 - ine
 - isciii

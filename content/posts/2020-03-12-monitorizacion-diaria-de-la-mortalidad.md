@@ -13,7 +13,7 @@ related:
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 - 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
-- coronavirus
+- covid
 - isciii
 - mortalidad
 title: Monitorización diaria de la mortalidad

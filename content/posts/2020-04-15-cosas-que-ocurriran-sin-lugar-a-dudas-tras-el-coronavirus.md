@@ -12,7 +12,7 @@ related:
 - 2020-10-05-una-potencial-consecuencia-positiva-de-lo-del-coronavirus.md
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
-- coronavirus
+- covid
 - predicción
 - regresión
 title: Cosas que ocurrirán sin lugar a dudas tras el coronavirus

@@ -12,7 +12,7 @@ related:
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
 - 2020-06-15-cuidado-con-la-aleatoriedad-pochola.md
 tags:
-- coronavirus
+- covid
 - ruido
 - varianza
 title: Pokemoneando ruido

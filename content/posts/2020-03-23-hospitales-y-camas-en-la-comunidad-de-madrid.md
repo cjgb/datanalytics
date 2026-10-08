@@ -12,7 +12,7 @@ related:
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 - 2020-05-12-cuando-sea-mayor-quiero-escribir-informes-como-esos.md
 tags:
-- coronavirus
+- covid
 - hospitales
 - madrid
 - sanidad

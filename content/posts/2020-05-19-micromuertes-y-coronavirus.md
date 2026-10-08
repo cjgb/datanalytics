@@ -13,7 +13,7 @@ related:
 - 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 tags:
-- coronavirus
+- covid
 - micromuertes
 - riesgo
 title: Micromuertes y coronavirus

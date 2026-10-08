@@ -13,7 +13,7 @@ related:
 - 2020-04-08-momo-una-documentacion-oficiosa.md
 - 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
 tags:
-- coronavirus
+- covid
 - mortalidad
 - r
 - stan

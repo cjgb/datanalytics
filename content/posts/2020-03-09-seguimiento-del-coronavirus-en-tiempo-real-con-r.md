@@ -12,7 +12,7 @@ related:
 - 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 tags:
-- coronavirus
+- covid
 - r
 title: Seguimiento del coronavirus en "tiempo real" con R
 url: /2020/03/09/seguimiento-del-coronavirus-en-tiempo-real-con-r/
