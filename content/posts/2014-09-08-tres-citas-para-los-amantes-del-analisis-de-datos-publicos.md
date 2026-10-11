@@ -19,13 +19,13 @@ title: Tres citas para los amantes del análisis de datos públicos
 url: /2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/
 ---
 
-En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la [Segunda Edición del Taller de Periodismo de Datos](http://medialab-prado.es/article/iitallerdeperiodismodedatosconvocatoriadeproyectos), en Madrid. Extraigo de su convocatoria lo siguiente:
+En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la [Segunda Edición del Taller de Periodismo de Datos](https://web.archive.org/web/20140903235059/http://medialab-prado.es:80/article/iitallerdeperiodismodedatosconvocatoriadeproyectos), en Madrid. Extraigo de su convocatoria lo siguiente:
 
 >Durante dos fines de semana largos (octubre 24-26 y diciembre 12-14) desarrollaremos proyectos para seguir la traza del dinero público con la ayuda de expertos tales como Ben Welsh (Los Angeles Times), Mariano Zafra (El País), Juan Elosúa (España en Llamas) y el equipo de periodismo de datos de El Confidencial.
 >
 >Los proyectos pueden enviarse hasta el 24 de septiembre. Una vez seleccionados, a partir del 30 de septiembre, se buscarán colaboradores.
 
-Toda la información, [aquí](http://medialab-prado.es/article/iitallerdeperiodismodedatosconvocatoriadeproyectos).
+Toda la información, [aquí](https://web.archive.org/web/20140903235059/http://medialab-prado.es:80/article/iitallerdeperiodismodedatosconvocatoriadeproyectos).
 
 El segundo, es el [Jacathon](http://opendata.aragon.es/portal/jacathon) que tendrá lugar los días 26-28 de septiembre en Jaca:
 

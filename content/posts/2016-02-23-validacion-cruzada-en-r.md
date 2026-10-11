@@ -21,7 +21,7 @@ title: Validación cruzada en R
 url: /2016/02/23/validacion-cruzada-en-r/
 ---
 
-Está de moda [usar `caret`](http://topepo.github.io/caret/training.html) para estas cosas, pero yo estoy todavía acostumbrado a hacerlas a mano. Creo, además, que es poco instructivo ocultar estas cuestiones detrás de funciones de tipo caja-negra-maravillosa a quienes se inician en el mundo de la construcción y comparación de modelos. Muestro, por tanto, código bastante simple para la validación cruzada de un modelo con R:
+Está de moda [usar `caret`](https://web.archive.org/web/20190321075147/http://topepo.github.io:80/caret/training.html) para estas cosas, pero yo estoy todavía acostumbrado a hacerlas a mano. Creo, además, que es poco instructivo ocultar estas cuestiones detrás de funciones de tipo caja-negra-maravillosa a quienes se inician en el mundo de la construcción y comparación de modelos. Muestro, por tanto, código bastante simple para la validación cruzada de un modelo con R:
 
 ```r
 # genero ids

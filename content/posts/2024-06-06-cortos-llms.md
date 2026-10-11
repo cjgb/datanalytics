@@ -25,7 +25,7 @@ Están apareciendo herramientas basadas en LLMs para industrializar la investiga
 [Consensus](https://consensus.app/search/),
 [Zotero](https://www.zotero.org/),
 [Elicit](https://elicit.com/),
-[Tavily](https://docs.tavily.com/blog/building-gpt-researcher) y
+[Tavily](https://web.archive.org/web/20240618221706/https://docs.tavily.com/blog/building-gpt-researcher) y
 [FutureSearch](https://futuresearch.ai/). De vez en cuando pruebo Consensus para valorar cómo va mejorando. Y le queda: la última vez, al preguntarle sobre el procedimiento científico para reproducir la dipladenia por esquejes, me sugirió algo así como aplicarle rayos gamma (!).
 
 ### II.
@@ -55,5 +55,5 @@ Diríase que los _embeddings_ son los hermanitos feos de los LLMs. Están envuel
 
 - [_Embeddings: BERT better than ChatGPT4?_](https://medium.com/@avinash.patil.0909/bert-embedding-vs-chatgpt4-embeddings-8cf023023fe7)
 - [_Embeddings: What they are and why they matter_](https://simonwillison.net/2023/Oct/23/embeddings/)
-- [_Introducing Nomic Embed: A Truly Open Embedding Model_](https://blog.nomic.ai/posts/nomic-embed-text-v1) y el correspondiente [_playground_](https://simonwillison.net/2024/Feb/15/adaptive-retrieval-with-matryoshka-embeddings/)
+- [_Introducing Nomic Embed: A Truly Open Embedding Model_](https://web.archive.org/web/20240615043145/https://blog.nomic.ai/posts/nomic-embed-text-v1) y el correspondiente [_playground_](https://simonwillison.net/2024/Feb/15/adaptive-retrieval-with-matryoshka-embeddings/)
 - [_Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets_](https://simonwillison.net/2024/Mar/26/cohere-int8-binary-embeddings/), que ilustra cómo también el mundo de los _embeddings_ participa de la carrera hacia la baja precisión numérica.

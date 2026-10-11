@@ -25,7 +25,7 @@ La [percepción del riesgo](http://en.wikipedia.org/wiki/Risk_perception) es el 
 
 ![](/img/2011/07/bbc_risk_test.png#center)
 
-Para comprender mejor este tipo de comportamiento, el [BBC Lab UK](http://www.bbc.co.uk/labuk/), junto con dos profesores de la Universidad de Cambridge, David Spiegelhalter y Mike Aitken, ha lanzado el [Big Risk Test](https://www.bbc.co.uk/labuk/experiments/risk/), un experimento para comprender mejor el fenómeno de la percepción del riesgo.
+Para comprender mejor este tipo de comportamiento, el [BBC Lab UK](http://www.bbc.co.uk/labuk/), junto con dos profesores de la Universidad de Cambridge, David Spiegelhalter y Mike Aitken, ha lanzado el [Big Risk Test](https://web.archive.org/web/20180420085711/http://www.bbc.co.uk:80/labuk/experiments/risk), un experimento para comprender mejor el fenómeno de la percepción del riesgo.
 
 Invito desde aquí a mis lectores a realizar el _test_: será útil para los responsables del programa por un lado, pero también, para aprender —sobre todo si uno se pregunta constantemente por la finalidad última de las distintas preguntas— cuál es el tipo de cuestiones probabilísticas que nuestro cerebro está menos preparado para afrontar objetivamente.
 

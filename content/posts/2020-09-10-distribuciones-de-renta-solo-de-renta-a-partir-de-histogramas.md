@@ -25,7 +25,7 @@ url: /2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/
 
 En el primer número de la novísima revista _[Spanish Journal of Statistics](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952184169&p=1259952184169&pagename=RevEstadistica%2FSJSLayout)_ aparece un artículo con un título tentador: _[Recovering income distributions from aggregated data via micro-simulations](https://www.ine.es/art/sjs/sjs_2019_01_03.pdf)_.
 
-Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama _rendimientos_ a partir de lo que publica ([aquí](https://www.agenciatributaria.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2015/jrubik1afd6604dcf480f6a17a64bbd6945c9c007a460e.html)):
+Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama _rendimientos_ a partir de lo que publica ([aquí](https://web.archive.org/web/20231225015648/https://www.agenciatributaria.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2015/jrubik1afd6604dcf480f6a17a64bbd6945c9c007a460e.html)):
 
 ![](/img/2020/09/Screenshot-from-2020-09-09-13-50-00.png#center)
 

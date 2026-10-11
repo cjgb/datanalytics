@@ -31,7 +31,7 @@ Yo fracasé en el intento (entre otros motivos, porque no sé nada de eso). Me c
 
 ### Controlflow (y agentes)
 
-He visto a gente usar [`controlflow`](https://controlflow.ai/quickstart) para construir _agentes_ (que usan LLMs) que resuelven problemas y me da la impresión de que nos vamos a hacer amigos (`controlflow` o alguna herramienta similar y yo).
+He visto a gente usar [`controlflow`](https://web.archive.org/web/20241212133807/https://controlflow.ai/quickstart) para construir _agentes_ (que usan LLMs) que resuelven problemas y me da la impresión de que nos vamos a hacer amigos (`controlflow` o alguna herramienta similar y yo).
 
 ### Pequeños modelos entrenados para un fin concreto
 

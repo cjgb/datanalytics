@@ -18,7 +18,7 @@ title: Este NO es el mapa de la violencia de género en España
 url: /2016/07/05/este-no-es-el-mapa-de-la-violencia-de-genero-en-espana/
 ---
 
-A pesar de que [el titular bajo el que aparece](http://noticias.lainformacion.com/asuntos-sociales/mapa-violencia-genero-Espana_0_930508318.html) dice lo contrario,
+A pesar de que [el titular bajo el que aparece](https://web.archive.org/web/20160803065241/http://noticias.lainformacion.com:80/asuntos-sociales/mapa-violencia-genero-Espana_0_930508318.html) dice lo contrario,
 
 ![mapa_violencia_genero_espana](/img/2016/07/mapa_violencia_genero_espana.jpg)
 

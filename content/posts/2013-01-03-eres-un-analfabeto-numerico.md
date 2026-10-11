@@ -19,7 +19,7 @@ title: ¿Eres un analfabeto numérico?
 url: /2013/01/03/eres-un-analfabeto-numerico/
 ---
 
-Si quieres comparar tu nivel de alfabetización numérica con una muestra de personas con estudios universitarios de muchas partes del mundo, puedes realizar [este test](http://www.riskliteracy.org/dnn/).
+Si quieres comparar tu nivel de alfabetización numérica con una muestra de personas con estudios universitarios de muchas partes del mundo, puedes realizar [este test](https://web.archive.org/web/20130317043412/http://www.riskliteracy.org:80/dnn/).
 
 Se lo llama Berlin Numeracy Test y está descrito en este [artículo](http://journal.sjdm.org/11/11808/jdm11808.pdf). Y de él extraigo una tabla, la cinco,
 

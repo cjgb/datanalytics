@@ -30,6 +30,6 @@ En resumen:
 
 ¡Pobre resumen!
 
-Además, como indicaba David Cabo en un mensaje en una lista de correo recientemente, la que aparece en el proyecto Aporta _sigue siendo básicamente la [lista de fuentes que hizo la Complutense ¡en el 2008!](http://multidoc.rediris.es/ppo/index.php?option=com_content&task=blogsection&id=5&Itemid=66)_
+Además, como indicaba David Cabo en un mensaje en una lista de correo recientemente, la que aparece en el proyecto Aporta _sigue siendo básicamente la [lista de fuentes que hizo la Complutense ¡en el 2008!](https://web.archive.org/web/20130622095234/http://multidoc.rediris.es/ppo/index.php?option=com_content&task=blogsection&id=5&Itemid=66)_
 
 ¡Así estamos!

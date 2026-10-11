@@ -28,7 +28,7 @@ Por un lado, vía [Alberto González Paje](http://www.ekonlab.com/) di con [esta
 
 También asistí hace un tiempo a una reunión de MediaLab Prado en la que [Juan Elosúa](http://www.linkedin.com/pub/juan-elosua/b/274/689) nos contó cómo había conseguido acceso a la base de datos completa de incendios del Ministerio a fuerza de insistir y amparado por ciertas normas que garantizan el derecho de los ciudadanos a cualquier tipo de información de tipo medioambiental. Nos mostró, además, algunas visualizaciones que había hecho con ellos.
 
-Ahora, de la colaboración de Elosúa, la [Fundación Civio](http://www.civio.es/) y [This is Visual](http://thisisvisual.info/) ha nacido el portal [España en llamas](http://www.espanaenllamas.es/) (que mis lectores están invitados a visitar).
+Ahora, de la colaboración de Elosúa, la [Fundación Civio](http://www.civio.es/) y [This is Visual](https://web.archive.org/web/20120828125844/http://thisisvisual.info:80/) ha nacido el portal [España en llamas](http://www.espanaenllamas.es/) (que mis lectores están invitados a visitar).
 
 Y quiero hacer dos comentarios al respecto.
 

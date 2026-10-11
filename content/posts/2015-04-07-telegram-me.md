@@ -29,4 +29,4 @@ De lo último es ilustración esta "conversación" que tuve con la cuenta [@Tele
 
 ![telegram](/img/2015/03/telegram.png#center)
 
-Los detalles, [aquí](http://telemath.altervista.org/TeleR.html). Y el crédito, para [Rubén Tobalina](https://stat.ethz.ch/pipermail/r-help-es/2015-March/008693.html).
+Los detalles, [aquí](https://web.archive.org/web/20150330171308/http://telemath.altervista.org:80/TeleR.html). Y el crédito, para [Rubén Tobalina](https://stat.ethz.ch/pipermail/r-help-es/2015-March/008693.html).

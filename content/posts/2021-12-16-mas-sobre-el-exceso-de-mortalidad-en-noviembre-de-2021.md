@@ -30,4 +30,4 @@ La idea fundamental es la siguiente:
 
 En el caso que discutí el otro día, la información que ignora el modelo es que el de noviembre de 2021 fue uno particularmente frío. Sabemos que la temperatura influye mucho en la mortalidad y sabemos que noviembre fue un mes particularmente frío. Por lo tanto, cabe esperar que se infraestime la mortalidad real.
 
-**Coda:** Esta entrada se refiere a y abunda sobre [esta otra](/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/)
+**Coda:** Esta entrada se refiere a y abunda sobre [esta otra](/2021/12/13/mas-sobre-exceso-mortalidad-noviembre-2021/)

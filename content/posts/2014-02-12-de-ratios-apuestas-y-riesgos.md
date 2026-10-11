@@ -61,7 +61,7 @@ nuestro OR. Y claro, como $\beta$ tiene asociados intervalos de confianza, etc. 
 
 ![multiodds1](/img/2014/02/multiodds1.png#center)
 
-(Nota: el gráfico anterior está extraído de [aquí](http://strengejacke.wordpress.com/2014/01/29/comparing-multiple-glm-in-one-graph-rstats/), la bitácora del autor del [paquete `sjPlot`](http://cran.r-project.org/web/packages/sjPlot/), con el que se ha generado el gráfico anterior).
+(Nota: el gráfico anterior está extraído de [aquí](https://web.archive.org/web/20141005210203/http://strengejacke.wordpress.com:80/2014/01/29/comparing-multiple-glm-in-one-graph-rstats/), la bitácora del autor del [paquete `sjPlot`](http://cran.r-project.org/web/packages/sjPlot/), con el que se ha generado el gráfico anterior).
 
 Pero, como he discutido más arriba, el OR es difícilmente interpretable (salvo que seas un inglés aficionado a las carreras de galgos).
 

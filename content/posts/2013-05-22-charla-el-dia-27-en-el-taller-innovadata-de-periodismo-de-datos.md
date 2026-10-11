@@ -22,14 +22,14 @@ title: Charla el día 27 en el Taller InnovaData de periodismo de datos
 url: /2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/
 ---
 
-El lunes que viene, día 27 de mayo, impartiré un taller de... bueno, según el programa, de _[Principios básicos de estadística](https://www.centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos)_. En realidad quiero hablar principalmente de cómo evitar incurrir en el poco conocido error de tipo III —dar la respuesta correcta al problema equivocado— y, en particular, de tres de los fenómenos que nos conducen hacia él:
+El lunes que viene, día 27 de mayo, impartiré un taller de... bueno, según el programa, de _[Principios básicos de estadística](https://web.archive.org/web/20250614145134/https://centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos)_. En realidad quiero hablar principalmente de cómo evitar incurrir en el poco conocido error de tipo III —dar la respuesta correcta al problema equivocado— y, en particular, de tres de los fenómenos que nos conducen hacia él:
 
 * La inextricable **multidimensionalidad** de la realidad.
 * Nuestra atávica aversión a la **incertidumbre**.
 * El poco temor de Dios con que tomamos el nombre de la **causalidad** en vano.
 
-La charla formará parte del taller con el que arrancará la [competición de periodismo de datos InnovaData](https://www.centrodeinnovacionbbva.com/innovadata) , coorganizada por BBVA y la [Fundación Ciudadana Civio](http://www.civio.es/), que han tenido la gentileza de invitarme.
+La charla formará parte del taller con el que arrancará la [competición de periodismo de datos InnovaData](https://web.archive.org/web/20250614135822/https://centrodeinnovacionbbva.com/innovadata) , coorganizada por BBVA y la [Fundación Ciudadana Civio](http://www.civio.es/), que han tenido la gentileza de invitarme.
 
 ![](/img/2013/05/InnovaData_banner_3.jpg)
 
-Así que os invito a [registraros en los talleres](https://www.centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos) (existe la opción de seguirlos presencialmente o en remoto) y a los más intrépidos, a [competir](https://www.centrodeinnovacionbbva.com/contents/21793-faq-preguntas-mas-frecuentes-sobre-bbva-innovadata) y optar a premios de hasta 3000 euros.
+Así que os invito a [registraros en los talleres](https://web.archive.org/web/20250614145134/https://centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos) (existe la opción de seguirlos presencialmente o en remoto) y a los más intrépidos, a [competir](https://web.archive.org/web/20251015015040/https://centrodeinnovacionbbva.com/contents/21793-faq-preguntas-mas-frecuentes-sobre-bbva-innovadata) y optar a premios de hasta 3000 euros.

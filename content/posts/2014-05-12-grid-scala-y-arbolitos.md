@@ -27,7 +27,7 @@ Inspirado por
 * los arbolitos que he visto esta mañana en mi semivuelta al lago de Zúrich,
 * las cosas que estoy leyendo últimamente sobre el paquete grid de R (p.e., [_grid graphics_](http://stat.ethz.ch/R-manual/R-devel/library/grid/doc/grid.pdf), de Murrell)
 * mi curso de scala y
-* [este enlace](http://aschinchon.wordpress.com/2014/04/10/the-pythagorean-tree-is-in-bloom/)
+* [este enlace](https://web.archive.org/web/20140718161503/http://aschinchon.wordpress.com/2014/04/10/the-pythagorean-tree-is-in-bloom/)
 
 me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera). Me ha quedado así:
 

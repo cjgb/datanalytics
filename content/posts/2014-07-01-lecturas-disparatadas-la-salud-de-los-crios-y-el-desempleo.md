@@ -24,7 +24,7 @@ Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer [ot
 * escribiendo cosillas escalan poquito a poco escalafones académicos y, encima,
 * lo pagamos los contribuyentes felizmente engatusados por eso del oropel del I+D y nosequé otros intangibles onerosos y de dudosa utilidad pública,
 
-podemos hoy disfrutar de otro ejercicio más de ese añejo ritual de la búsqueda del numerito inferior a 0.05 que tiene por título [_Newborn Health and the Business Cycle: Is it Good to be Born in Bad Times?_](http://research.barcelonagse.eu/tmp/working_papers/702.pdf) y que adornará a perpetuidad el currículo de sus ambas autoras.
+podemos hoy disfrutar de otro ejercicio más de ese añejo ritual de la búsqueda del numerito inferior a 0.05 que tiene por título [_Newborn Health and the Business Cycle: Is it Good to be Born in Bad Times?_](https://web.archive.org/web/20141122221118/http://research.barcelonagse.eu/tmp/working_papers/702.pdf) y que adornará a perpetuidad el currículo de sus ambas autoras.
 
 La cosa es que he tratado de ver qué había más allá del resumen y he encontrado una maraña de tablas con coeficientes que a veces eran positivos y a veces negativos, a veces significativos y a veces no, que tenían un signo en un sitio y el opuesto en otro. Unas variables objetivo que a veces estaban _detrended_ y otras _provincially detrended_, a veces _cuadratically_ o tras _linearly_ (sin que se sepa a ciencia cierta cuándo ni cómo). Unos modelos en los que a veces se controlaba por esto y otras por aquello. ¡Y eso solo entre los resultados publicados! ¡Qué no habrá quedado en los cajones! ¡Y qué padecimientos no habrán sufrido esos pobres datos en las econométricas mazmorras!
 

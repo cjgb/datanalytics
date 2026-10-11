@@ -19,7 +19,7 @@ title: Datos patrimoniales de los senadores
 url: /2011/09/13/datos-patrimoniales-de-los-senadores/
 ---
 
-David Cabo, de [Pro Bono Público](http://blog.probp.org/) colgó el otro día una hoja de cálculo en Google Docs con referencias a las declaraciones del patrimonio (véase [un ejemplo](http://www.senado.es/legis9/senadores/regbi/DBR_70998.pdf)) a las que están ahora obligados los senadores y que cuelgan de la página de su benemérita y utilísima institución. Dado que los datos están en un formato no legible automáticamente, solicitó la colaboración de voluntarios para tabular la información.
+David Cabo, de [Pro Bono Público](https://web.archive.org/web/20110709215646/http://blog.probp.org:80/?) colgó el otro día una hoja de cálculo en Google Docs con referencias a las declaraciones del patrimonio (véase [un ejemplo](http://www.senado.es/legis9/senadores/regbi/DBR_70998.pdf)) a las que están ahora obligados los senadores y que cuelgan de la página de su benemérita y utilísima institución. Dado que los datos están en un formato no legible automáticamente, solicitó la colaboración de voluntarios para tabular la información.
 
 Rápidamente logró completarse la tarea. Y ahora me he molestado en extraer una selección de los datos (quitando columnas descriptivas, etc.) para que los aficionados a R se entretengan sacándoles punta.
 

@@ -33,7 +33,7 @@ Estoy creando cada vez más diagramas como parte de la documentación de mis pro
 
 Y también se pueden crear diagramas simples en algunos dialectos de Markdown con [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/).
 
-[Esto](https://fmhy.net/beginners-guide) es un potosí.
+[Esto](https://web.archive.org/web/20261009173005/https://fmhy.net/beginners-guide) es un potosí.
 
 En Python hay muchos métodos _dunder_ (_double underscore_), como `__init__`, etc. Todos (¿todos?) se cuentan [aquí](https://www.pythonmorsels.com/every-dunder-method/).
 

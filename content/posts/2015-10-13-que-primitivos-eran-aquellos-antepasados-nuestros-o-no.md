@@ -24,7 +24,7 @@ En él mostré un mapamundi T-O (o tau-omega), que tiene esta pinta:
 
 Se trata, efectivamente, de una representación del mundo conocido allá por el siglo XI. Se ven en él Europa, Asia y África separados por un mar en forma de T y encerrados en una enorme O. Supongo que todo el mundo entonces sabía que la costa no era tal y como se representaba allí. Que había cabos, islotes, istmos, etc.
 
-Pero da igual: lo importante era la simbología y la ideología (cristiana en este caso: para los detalles, [click](http://www.cartographic-images.net/Cartographic_Images/LM_Intro.html)).
+Pero da igual: lo importante era la simbología y la ideología (cristiana en este caso: para los detalles, [click](https://web.archive.org/web/20151108223420/http://www.cartographic-images.net:80/Cartographic_Images/LM_Intro.html)).
 
 ¿Primitivos nuestros antepasados? Supongo.
 

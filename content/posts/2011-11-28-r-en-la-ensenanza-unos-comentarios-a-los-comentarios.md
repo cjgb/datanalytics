@@ -52,7 +52,7 @@ Y, seguro, me dejo muchos otros.
 
 Si se me pregunta por alternativas y por SAS en concreto, resulta que:
 
-* SAS no se usa apenas en estadística: basta con revisar la [agenda del último SAS Forum España](http://www.sas.com/reg/offer/es/sfe2011?page=agenda) para darse cuenta de que la empresa está en otra cosa.
+* SAS no se usa apenas en estadística: basta con revisar la [agenda del último SAS Forum España](https://web.archive.org/web/20110807135742/http://www.sas.com/reg/offer/es/sfe2011?page=agenda) para darse cuenta de que la empresa está en otra cosa.
 * Gran parte de los programadores en SAS no han llamado jamás a PROC MIXED, PROC PHREG, etc. Son puros trasladadores de datos. Y yo doy fe: he pagado la hipoteca de un apartamento traslandando datos de aquí para allá con SAS.
 * SAS no enseña nada que valga la pena ser aprendido hoy en día en cuanto a técnicas de programación: pudo haber resultado innovador en los años setenta; hoy ya no: es un callejón sin salida que crea más vicios que abre puertas a otros lenguajes.
 

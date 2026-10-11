@@ -37,4 +37,4 @@ y cómo pasar datos entre ambos entornos,
 
 ![](/img/2012/09/sas_r_4.png#center)
 
-Esperemos que la nueva dirección de SAS España tenga finalmente a bien algún año venir a explicar con más detenimiento a los miembros de la comunidad de usuarios de R esta integración, sea en las [IV Jornadas](http://r-es.org/IV+Jornadas) o algunas de las que seguirán. Y que no se hagan los suecos como sucedió en las anteriores, claro.
+Esperemos que la nueva dirección de SAS España tenga finalmente a bien algún año venir a explicar con más detenimiento a los miembros de la comunidad de usuarios de R esta integración, sea en las [IV Jornadas](https://web.archive.org/web/20120721090421/http://www.r-es.org:80/IV+Jornadas) o algunas de las que seguirán. Y que no se hagan los suecos como sucedió en las anteriores, claro.

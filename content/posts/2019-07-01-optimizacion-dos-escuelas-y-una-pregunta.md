@@ -24,6 +24,6 @@ Dependiendo de con quién hables, la optimización (de funciones) es un problema
 
 Si hablas con matemáticos y gente de la escuela de `optim` y derivados ([BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS) y todas esas cosas), te contarán una historia de terror.
 
-Si hablas con otro tipo de gente, la de los que opinan que [el gradiente es un tobogán que te conduce amenamente al óptimo](http://ruder.io/optimizing-gradient-descent/), el de la optimización no alcanza siquiera talla de problema.
+Si hablas con otro tipo de gente, la de los que opinan que [el gradiente es un tobogán que te conduce amenamente al óptimo](https://web.archive.org/web/20190705123337/http://ruder.io/optimizing-gradient-descent/), el de la optimización no alcanza siquiera talla de problema.
 
 Yo creo que son escuelas que se mueven en contextos distintos. Pero igual me equivoco. Si alguien sabe más al respecto que este humilde preguntador...

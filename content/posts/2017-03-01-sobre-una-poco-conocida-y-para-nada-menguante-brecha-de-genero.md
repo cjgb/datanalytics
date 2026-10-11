@@ -32,7 +32,7 @@ Se observa una manifiesta tendencia creciente, uno de esos _gender gaps_, _brech
 
 El fenómeno no es solo español: consúltese [este estudio sueco](https://ikashnitsky.github.io/2017/gender-gap-in-swedish-mortality/), de mucha mayor profundidad histórica o [este otro](https://www.nytimes.com/2015/11/03/health/death-rates-rising-for-middle-aged-white-americans-study-finds.html) sobre el mismo fenómeno en EE.UU. (que estudia ya no las tasas relativas sino las absolutas).
 
-El código, salvo la descarga de los datos del INE (a ver si la próxima vez uso la [API JSON](http://www.ine.es/dyngs/DataLab/es/manual.html?&cid=45), que para eso está), aquí:
+El código, salvo la descarga de los datos del INE (a ver si la próxima vez uso la [API JSON](https://web.archive.org/web/20231201132745/https://www.ine.es/dyngs/DataLab/es/manual.html?&cid=45), que para eso está), aquí:
 
 ```r
 library(pxR)

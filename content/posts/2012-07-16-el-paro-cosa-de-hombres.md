@@ -41,7 +41,7 @@ La tendencia es clara y existen motivos para pensar que seguirá en el tiempo: e
 
 (Nota: al estar escrito en inglés, donde _baccalaureate_ podría significar diplomado en lugar de bachiller, como en francés, me queda la duda del nivel educativo exacto al que se refiere el párrafo).
 
-Existe otro estudio aún más amplio de McKinsey, [_The world at work: Jobs, pay, and skills for 3.5 billion people_](http://www.mckinsey.com/Insights/MGI/Research/Labor_Markets/The_world_at_work) que abunda sobre estos temas y cuya lectura recomiendo igualmente.
+Existe otro estudio aún más amplio de McKinsey, [_The world at work: Jobs, pay, and skills for 3.5 billion people_](https://web.archive.org/web/20130225055806/http://www.mckinsey.com:80/Insights/MGI/Research/Labor_Markets/the_world_at_work?) que abunda sobre estos temas y cuya lectura recomiendo igualmente.
 
 Si damos por buena esta tendencia hacia la sofisticación del mercado laboral, el siguiente gráfico, extraído de los datos de la última EPA, al igual que [los de una entrada anterior](https://datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/), muestra cómo en unos años se le puede acabar dando la vuelta a [uno de los más manidos _axiomas_ relativos al mercado laboral](http://rpubs.com/joscani/esalarial):
 

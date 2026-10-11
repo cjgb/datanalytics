@@ -26,7 +26,7 @@ El título de esta entrada es una pregunta en el sentido estricto del término: 
 Otros (como [este](http://www.nakedcapitalism.com/2014/01/blogs-like-naked-capitalism-depend-net-neutrality-reason-enough-destroy.html) y [este](http://www.gurusblog.com/archives/te-asustes-pero-te-mostramos-como-seria-internet-sin-neutralidad-de-la-red/19/01/2014/) otro) muestran versiones del gráfico
 ![neutralidad_red](/img/2014/02/neutralidad_red.png#center)
 
-y argumentan lo que cabe esperar viéndolo: acabándose la neutralidad en la red —tal vez en aras de argumentos técnicos como el expuesto más arriba— el nuevo sistema acabaría siendo explotado por las empresas proveedoras de servicios para convertir internet en algo así como un servicio de televisión por cable. Incluso existe una [petición pública](http://www.avaaz.org/es/internet_apocalypse_pa_eu/) con alrededor de un millón de adhesiones en la que se considera el fin de la neutralidad de internet de apocalipsis del mismo.
+y argumentan lo que cabe esperar viéndolo: acabándose la neutralidad en la red —tal vez en aras de argumentos técnicos como el expuesto más arriba— el nuevo sistema acabaría siendo explotado por las empresas proveedoras de servicios para convertir internet en algo así como un servicio de televisión por cable. Incluso existe una [petición pública](https://web.archive.org/web/20140301190844/http://www.avaaz.org:80/es/internet_apocalypse_pa_eu/?) con alrededor de un millón de adhesiones en la que se considera el fin de la neutralidad de internet de apocalipsis del mismo.
 
 Y mis preguntas, de nuevo, legítimas (en el sentido de que desconozco la respuesta o respuestas), sobre el asunto:
 

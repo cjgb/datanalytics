@@ -52,4 +52,4 @@ example(dotchart2)
 
 Y quienes necesiten realizar diagramas de puntos más sofisticados —con varios paneles, etc.— cuentan con  las funciones `dotplot` del paquete `lattice` y varias de `ggplot2`, que compara entre sí el autor de [este artículo](http://learnr.wordpress.com/2009/07/02/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-4/).
 
-Finalmente, quien quiera profundizar en el tema, puede echarle un vistazo a [_The dot plot: a graphical display for labeled quantitative values_](http://polisci.msu.edu/jacoby/research/dotplots/ms/Jacoby,%20Dotplots,%205-27-06.pdf) de W.G. Jacoby.
+Finalmente, quien quiera profundizar en el tema, puede echarle un vistazo a [_The dot plot: a graphical display for labeled quantitative values_](https://web.archive.org/web/20111006185608/http://polisci.msu.edu/jacoby/research/dotplots/ms/Jacoby,%20Dotplots,%205-27-06.pdf) de W.G. Jacoby.

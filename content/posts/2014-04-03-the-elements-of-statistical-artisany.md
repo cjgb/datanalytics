@@ -33,4 +33,4 @@ Tengo la sensación de que muchos colegas insisten en utilizar esas herramientas
 
 Por ejemplo, dudo que dentro del traductor automático de Google haya un bosque aleatorio gigante. Es probable, sin embargo, que debajo del capó uno pueda encontrar, por ejemplo, matrices de Markov utilizadas de alguna particularísima manera. O una miríada de micromodelos locales combinados de alguna particular manera (pero no necesariamente como se le ocurrió a Breiman _urbi et orbi_).
 
-No sé qué nombre tiene esa disciplina que consiste en analizar datos sin utilizar ninguno de los recetarios —y que conste que lo digo con muchísimo respeto y admiración— que aparecen en [_The Elements of Statistical Learning_](http://statweb.stanford.edu/~tibs/ElemStatLearn/), pero sugiero el de _artesanía estadística_.
+No sé qué nombre tiene esa disciplina que consiste en analizar datos sin utilizar ninguno de los recetarios —y que conste que lo digo con muchísimo respeto y admiración— que aparecen en [_The Elements of Statistical Learning_](https://web.archive.org/web/20140120101410/http://statweb.stanford.edu:80/~tibs/ElemStatLearn/), pero sugiero el de _artesanía estadística_.

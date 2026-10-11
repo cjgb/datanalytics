@@ -22,7 +22,7 @@ title: Requisitos para mi taller de Hadoop + R en las V Jornadas de Usuarios de 
 url: /2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/
 ---
 
-El jueves 12 de diciembre impartiré un taller titulado [_Big data analytics: R + Hadoop_](http://r-es.org/Programa+de+las+V+Jornadas) en las [V Jornadas de Usuarios de R](http://r-es.org/V+Jornadas).
+El jueves 12 de diciembre impartiré un taller titulado [_Big data analytics: R + Hadoop_](https://web.archive.org/web/20160112172842/http://r-es.org/Programa+de+las+V+Jornadas) en las [V Jornadas de Usuarios de R](http://r-es.org/V+Jornadas).
 
 Va a ser un taller práctico y eso exige de los asistentes que quieran aprovecharlo disponer de una plataforma (¡no trivial!) sobre la que seguirlo y poder realizar los ejercicios. Además de poder seguir ahondando en el asunto después y por su cuenta.
 

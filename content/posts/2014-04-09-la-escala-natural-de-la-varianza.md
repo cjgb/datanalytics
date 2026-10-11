@@ -111,4 +111,4 @@ Esto puede ser y no ser grave. De eso hablaré en los próximos días. Depende d
 
 Pero sí quiero dejar clara una cosa: en situaciones reales, en bases de datos grandes, con muchas columnas, la importancia relativa de las componentes principales puede decir tanto sobre la estructura matemática de los datos como, quizás, de algo mucho menos enjundioso: el número de variables que en la base de datos recogen cada uno de los, si se me permite, factores subyacentes (es decir, los equivalentes a la temperatura y la presión en nuestro ejemplo).
 
-Y bueno, para terminar, un poco de erudición para quien quiera ahondar más en el asunto: [MFA](http://factominer.free.fr/advanced-methods/multiple-factor-analysis.html).
+Y bueno, para terminar, un poco de erudición para quien quiera ahondar más en el asunto: [MFA](https://web.archive.org/web/20170717035711/http://factominer.free.fr:80/advanced-methods/multiple-factor-analysis.html).

@@ -18,7 +18,7 @@ title: 90 millones de euros en tecnologías del lenguaje
 url: /2016/04/29/90-millones-de-euros-en-tecnologias-del-lenguaje/
 ---
 
-El gobierno español [ha anunciado](http://www.mpr.gob.es/prencom/notas/Paginas/2015/201015-lenguaje.aspx) (ya hace un tiempo) un [plan de impulso a las tecnologías del lenguaje](http://www.agendadigital.gob.es/planes-actuaciones/Paginas/plan-impulso-tecnologias-lenguaje.aspx) con una dotación de 90 millones de euros ([lo que costó el fichaje de Ronaldo](http://futbol.as.com/futbol/2013/08/23/primera/1377210024_015809.html)).
+El gobierno español [ha anunciado](http://www.mpr.gob.es/prencom/notas/Paginas/2015/201015-lenguaje.aspx) (ya hace un tiempo) un [plan de impulso a las tecnologías del lenguaje](https://web.archive.org/web/20160610114855/http://www.agendadigital.gob.es:80/planes-actuaciones/Paginas/plan-impulso-tecnologias-lenguaje.aspx) con una dotación de 90 millones de euros ([lo que costó el fichaje de Ronaldo](http://futbol.as.com/futbol/2013/08/23/primera/1377210024_015809.html)).
 
 Veremos en unos años qué ha dado de sí la cosa. En particular, si habrá permitido que los usuarios de R dispongamos de herramientas libres (porque de momento, ya están cobrándonoslas vía Agencia Tributaria) para hacer nuestros cacharreos.
 

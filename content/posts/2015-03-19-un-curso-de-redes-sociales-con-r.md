@@ -24,7 +24,7 @@ Se me ha propuesto organizar un curso, taller o similar de redes sociales y su a
 
 ![topologia_correos](/img/2014/06/topologia_correos.png#center)
 
-Mi propuesta —dado que soy lego en el asunto— es organizar un taller basado en [este](http://sna.stanford.edu/rlabs.php). Ahí va mi propuesta: en una serie de sesiones en [MartinaCocina](http://martinacocina.es) plantamos un proyector y una pizarra y entre todos vamos avanzando en el tutorial y resolviendo las dudas colaborativamente.
+Mi propuesta —dado que soy lego en el asunto— es organizar un taller basado en [este](https://web.archive.org/web/20150306195057/http://sna.stanford.edu:80/rlabs.php). Ahí va mi propuesta: en una serie de sesiones en [MartinaCocina](http://martinacocina.es) plantamos un proyector y una pizarra y entre todos vamos avanzando en el tutorial y resolviendo las dudas colaborativamente.
 
 Por supuesto, el asunto no estaría planteado como clase unidireccional en la que alguien habla y explica y los demás asienten. Más bien, como un taller de pares que aprenden y que a la voz de _ya estamos todos_ pasamos al siguiente asunto.
 

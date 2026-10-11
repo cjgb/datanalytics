@@ -65,7 +65,7 @@ Recuérdese que los enlaces son privados. Si yo subiese a RapidRAR una película
 
 Obviamente, mal van a conseguir descargas los actores de la sección anterior si los enlaces a los contenidos de interés tienen la forma `https://rapidrar.cr/1q9w3ieohn8n8` y son solo conocidos por ellos. Por eso existen bases de datos de enlaces.
 
-En el código fuente de un _addon_ de Kodi descubrí, entre otros, [RapidMoviez](https://rapidmoviez.website/) y [ReleaseBB](https://search.rlsbb.ru/). Aún le queda hora y media al día de hoy y en ReleaseBB se han publicado unos 250 enlaces a _contenidos_ diversos: películas, discos, episodios de series, etc.
+En el código fuente de un _addon_ de Kodi descubrí, entre otros, [RapidMoviez](https://web.archive.org/web/20250815212535/http://rapidmoviez.website/) y [ReleaseBB](https://search.rlsbb.ru/). Aún le queda hora y media al día de hoy y en ReleaseBB se han publicado unos 250 enlaces a _contenidos_ diversos: películas, discos, episodios de series, etc.
 
 ## Servicios _debrid_
 

@@ -39,12 +39,12 @@ se recoge una infografía elaborada por La Vanguardia usando datos del CIS:
 Sobre el nivel de satisfacción con la transición, el CIS ha preguntado en
 [1983](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=352&amp;cuestionario=409&amp;muestra=2246),
 [1994](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1076),
-[1995](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1191),
-[1997](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1241),
+[1995](https://web.archive.org/web/20230205194023/https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1191),
+[1997](https://web.archive.org/web/20230205210059/https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1241),
 [1998](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=1298),
 [2000](https://www.cis.es/cis/opencm/ES/2_bancodatos/estudios/ver.jsp?estudio=1384),
-[2012](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=13204) y
-[2018](https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=14424) con resultados que recojo en el siguiente gráfico:
+[2012](https://web.archive.org/web/20230205194715/https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=13204) y
+[2018](https://web.archive.org/web/20220808135538/https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=14424) con resultados que recojo en el siguiente gráfico:
 
 ![](/img/2023/encuesta-opinion-transicion.png#center)
 

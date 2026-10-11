@@ -31,7 +31,7 @@ Menos mal que ---dicen--- la universidad ya no es así.
 Años después redescubrí el problema de los valores propios generalizados como el posibilitador matemático de la técnica del [análisis de la correlación canónica](http://es.wikipedia.org/wiki/An%C3%A1lisis_de_la_correlaci%C3%B3n_can%C3%B3nica). Y esta como un algoritmo que puede usarse para:
 
 * [Clasificar y segmentar imágenes procedentes de escáners de resonancia magnética](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.3517&rep=rep1&type=pdf)
-* [Reconstruir modelos tridimensionales de rostros a partir de fotografías](http://www.icg.tugraz.at/Members/bischof/publications/cca.pdf/)
+* [Reconstruir modelos tridimensionales de rostros a partir de fotografías](https://web.archive.org/web/20170202031547/http://www.icg.tugraz.at/Members/bischof/publications/cca.pdf/)
 
 Supongo que entonces, en aquellos años del ya solo histórico fenómeno de la  masificación universitaria, era innecesario anunciar a los futuros matemáticos que con solo 18 años iban a adquirir herramientas teóricas suficientes para encarar unos problemas tan sugerentes. Quizás hoy ya no tanto.
 

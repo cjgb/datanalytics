@@ -23,7 +23,7 @@ url: /2016/12/12/un-muy-cuestinoable-analisis-de-lo-de-pisa/
 
 Voy a realizar un más que cuestionable (debajo desgranaré los _caveats_) de los resultados de las pruebas PISA del 2015 en España.
 
-Primero, datos y métodos. Los primeros (y las descripciones de las variables) se pueden bajar de [aquí](https://www.oecd.org/pisa/data/2015database/). En cuanto a los segundos, he consultado [esto](http://smarterpoland.pl/index.php/2016/12/pisa-2015-how-to-readprocessplot-the-data-with-r/) (que me ha llevado a), [esto](https://cran.r-project.org/web/packages/intsvy/index.html) y [esto](https://github.com/eldafani/intsvy) (donde está actualizado para los resultados de la última oleada). Hablaré más de métodos, y sus problemas, más abajo.
+Primero, datos y métodos. Los primeros (y las descripciones de las variables) se pueden bajar de [aquí](https://www.oecd.org/pisa/data/2015database/). En cuanto a los segundos, he consultado [esto](https://web.archive.org/web/20230605040434/http://smarterpoland.pl/index.php/2016/12/pisa-2015-how-to-readprocessplot-the-data-with-r/) (que me ha llevado a), [esto](https://cran.r-project.org/web/packages/intsvy/index.html) y [esto](https://github.com/eldafani/intsvy) (donde está actualizado para los resultados de la última oleada). Hablaré más de métodos, y sus problemas, más abajo.
 
 [caption id="attachment_8102" align="aligncenter" width="600"]![](/img/2016/12/mono_gatos_leyendo.jpg)
 Monkey reading to three cats[/caption]

@@ -19,7 +19,7 @@ title: R y alRededoRes en MediaLab Prado
 url: /2012/02/13/r-y-alrededores-en-medialab-prado/
 ---
 
-Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del [ciclo de periodismo de datos](http://medialab-prado.es/article/sesion_formativa_periodismodatos_analisis_tratamiento_datos).
+Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del [ciclo de periodismo de datos](https://web.archive.org/web/20171120074534/http://medialab-prado.es:80/article/sesion_formativa_periodismodatos_analisis_tratamiento_datos).
 
 ![](/img/2012/02/presentacion_carlos_ortega.png#center)
 

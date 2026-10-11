@@ -36,7 +36,7 @@ Y cierro la entrada con dos reflexiones. La primera, trata sobre cómo debería 
 
 ![](/img/2012/08/gapminder.png#center)
 
-En ella se aprecia cómo el nivel de renta influye decisivamente en la esperanza de vida. ¿Debería el articulista de El Correo haber controlado de alguna manera este tipo de factores? Obviamente no. Porque si lo hubiese hecho, no estaría escribiendo para El Correo sino para The Economist —y ganando bastante más dinero—; quien quiera ver cómo debería haberse planteado el artículo, que le eche un buen vistazo a [_No city for old men_](http://www.economist.com/node/21560888?fsrc=scn/tw/te/pe/nocityforoldmen) y aplique el correspondiente _mutatis mutandis_.
+En ella se aprecia cómo el nivel de renta influye decisivamente en la esperanza de vida. ¿Debería el articulista de El Correo haber controlado de alguna manera este tipo de factores? Obviamente no. Porque si lo hubiese hecho, no estaría escribiendo para El Correo sino para The Economist —y ganando bastante más dinero—; quien quiera ver cómo debería haberse planteado el artículo, que le eche un buen vistazo a [_No city for old men_](https://web.archive.org/web/20120915165444/http://www.economist.com:80/node/21560888?fsrc=scn/tw/te/pe/nocityforoldmen) y aplique el correspondiente _mutatis mutandis_.
 
 Pero lo que verdaderamente chirría en el artículo tiene que ver con la segunda reflexión, la más importante y que viene al hilo de entradas [sobre las comparaciones múltiples](https://datanalytics.com/2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/) que escribí hace unos días: es que el periodista ha ido por moras al País Vasco.
 

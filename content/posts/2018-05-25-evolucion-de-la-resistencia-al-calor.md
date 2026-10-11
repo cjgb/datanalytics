@@ -20,7 +20,7 @@ title: Evolución de la resistencia al calor
 url: /2018/05/25/evolucion-de-la-resistencia-al-calor/
 ---
 
-En [2003 hubo una ola de calor](https://es.wikipedia.org/wiki/Ola_de_calor_en_Europa_en_2003) de tal magnitud que el ministerio de sanidad puso en marcha un [plan especial](https://www.msssi.gob.es/ciudadanos/saludAmbLaboral/planAltasTemp/2017/Plan_nacional_actuaciones_preventivas.htm) de seguimiento, prevención, monitorización, etc. de ese tipo de fenómenos.
+En [2003 hubo una ola de calor](https://es.wikipedia.org/wiki/Ola_de_calor_en_Europa_en_2003) de tal magnitud que el ministerio de sanidad puso en marcha un [plan especial](https://web.archive.org/web/20181117184158/http://www.msssi.gob.es/ciudadanos/saludAmbLaboral/planAltasTemp/2017/Plan_nacional_actuaciones_preventivas.htm) de seguimiento, prevención, monitorización, etc. de ese tipo de fenómenos.
 
 La hipótesis que me propongo explorar aquí es la siguiente: que gracias a la prevención, a la popularización del aire acondicionado, a la mejora del nivel de vida, etc. el impacto del calor (en forma de olas) sobre la mortalidad decrece en el tiempo. Casi ninguno de vosotros podéis estudiarla, pero yo sí. No os puedo contar los detalles pero sí las líneas generales del estudio.
 

@@ -28,7 +28,7 @@ En el curso aparecieron sugerencias tales como [esta](http://www.flickr.com/phot
 
 ![](/img/2012/11/8150814858_16abc53be8-279x300.jpg#center)
 
-[esta](http://n79.org/infographics/asg1/), y otras similares que jugaban con los elementos gráficos habituales con más o menos arte, mejor o peor gusto en los colores, etc.
+[esta](https://web.archive.org/web/20121110093008/http://n79.org:80/infographics/asg1/), y otras similares que jugaban con los elementos gráficos habituales con más o menos arte, mejor o peor gusto en los colores, etc.
 
 A mí se me ocurrió que los datos que aparecen en el gráfico original podían, con alguna salvedad y abusando del lenguaje, considerarse una especie de [tabla de contingencia](http://es.wikipedia.org/wiki/Tabla_de_contingencia) que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet. Y que entonces podría utilizar herramientas gráficas, tales como los _[biplots](http://en.wikipedia.org/wiki/Biplot)_ para visualizar los datos. El resultado fue
 

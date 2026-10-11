@@ -20,7 +20,7 @@ title: La tierra es redonda (p < 0.05)
 url: /2017/02/14/la-tierra-es-redonda-p-0-05/
 ---
 
-A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(statistician)) dejó casi para la posteridad un excelente artículo, [_The earth is round (p < .05)_](http://web.archive.org/web/20171011155642/http://www.ics.uci.edu/~sternh/courses/210/cohen94_pval.pdf).
+A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(statistician)) dejó casi para la posteridad un excelente artículo, [_The earth is round (p < .05)_](http://web.archive.org/web/20171011155642/https://web.archive.org/web/20170216041451/http://www.ics.uci.edu/~sternh/courses/210/cohen94_pval.pdf).
 
 Traduzco el resumen:
 

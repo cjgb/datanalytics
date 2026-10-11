@@ -26,4 +26,4 @@ La respuesta es sí. Al menos, si haces caso a las principales cuñadofuentes qu
 
 Pero la respuesta es no. Un estudio de esas características tiene un serio riesgo de selección _—_efectivamente, para ganar un Óscar tienes que haber sobrevivido lo suficiente_—_ que el primer y descuidado estudio sobre el asunto no tuvo la precaución de corregir.
 
-Para saber más, [esto](https://www.causeweb.org/wiki/chance/index.php/Oscar_winners_do_not_live_longer).
+Para saber más, [esto](https://web.archive.org/web/20210510104455/https://www.causeweb.org/wiki/chance/index.php/Oscar_winners_do_not_live_longer).

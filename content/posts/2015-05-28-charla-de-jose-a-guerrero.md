@@ -33,6 +33,6 @@ El 9 de julio de 2015, José A. Guerrero dará una charla con título "_Machine 
 
 De hecho, el contenido de la última sección es un tema del que he hablado ya sobradamente pero sobre el que me gustaría conocer la opinión del ponente.
 
-José A. Guerrero es [uno de los más exitosos participantes en Kaggle](http://www.sorayapaniagua.com/2013/12/03/el-espanol-jose-a-guerrero-el-mejor-cientifico-de-datos-de-kaggle/). No se prodiga en actos públicos, así que esta es una ocasión única para conocerlo y aprender de él.
+José A. Guerrero es [uno de los más exitosos participantes en Kaggle](https://web.archive.org/web/20210423040538/http://www.sorayapaniagua.com/2013/12/03/el-espanol-jose-a-guerrero-el-mejor-cientifico-de-datos-de-kaggle/). No se prodiga en actos públicos, así que esta es una ocasión única para conocerlo y aprender de él.
 
 Los detalles, [aquí](https://www.u-tad.com/emerging-tech/?session=data-sciente-by-jose-antonio-guerrero).

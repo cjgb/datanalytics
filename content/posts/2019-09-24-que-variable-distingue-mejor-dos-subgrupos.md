@@ -29,4 +29,4 @@ Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un _cl�
 
 (extraído de [aquí](http://www.eustat.eus/document/datos/ct_tipoen_analisia_i.pdf)) donde las variables están ordenadas de acuerdo con su _poder discriminador_.
 
-Mi técnica favorita para crear tales indicadores es la EMD (_earth mover's distance_) y/o sus generalizaciones, muy bien descritas en [_Optimal Transport and Wasserstein Distance_](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) y disponibles en [R](https://cran.r-project.org/package=transport) y [Python](https://pot.readthedocs.io/en/stable/).
+Mi técnica favorita para crear tales indicadores es la EMD (_earth mover's distance_) y/o sus generalizaciones, muy bien descritas en [_Optimal Transport and Wasserstein Distance_](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) y disponibles en [R](https://cran.r-project.org/package=transport) y [Python](https://web.archive.org/web/20210413172026/https://pot.readthedocs.io/en/stable/).

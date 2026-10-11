@@ -68,5 +68,5 @@ Notas:
 
 * La función anterior tiene (a día de hoy) un pequeño _bug_ del que me he dado cuenta al correr este ejemplo.
 * `cartociudad.es` no tiene información del sentido de las calles, por lo que bien te puede meter a contravía.
-* El significado de los campos devueltos por la función puede consultarse en y alrededor de la página 77 de [esto](http://www.cartociudad.es/recursos/Documentacion_tecnica/CARTOCIUDAD_ServiciosWeb.pdf).
+* El significado de los campos devueltos por la función puede consultarse en y alrededor de la página 77 de [esto](https://web.archive.org/web/20240816014940/http://www.cartociudad.es/recursos/Documentacion_tecnica/CARTOCIUDAD_ServiciosWeb.pdf).
 * Si no te llamas Luz y sabes representar esa ruta sobre un mapa de `caRtociudad` te invito a un algo (además de publicar aquí, si me dejas, la solución).

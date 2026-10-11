@@ -35,7 +35,7 @@ isLocal(irisDF)
 # [1] FALSE
 ```
 
-Pero no es plan tener la memoria de la sesión local de R como cuello de botella. Quiero leer ficheros grandes que estén en disco. La documentación de Spark proporciona mecanismos para [importar ficheros en formatos que ni conocía](http://people.apache.org/~pwendell/spark-releases/latest/sql-programming-guide.html#data-sources). ¿Pero qué de los ubicuos CSV?
+Pero no es plan tener la memoria de la sesión local de R como cuello de botella. Quiero leer ficheros grandes que estén en disco. La documentación de Spark proporciona mecanismos para [importar ficheros en formatos que ni conocía](https://web.archive.org/web/20211205054618/http://people.apache.org/~pwendell/spark-releases/latest/sql-programming-guide.html#data-sources). ¿Pero qué de los ubicuos CSV?
 
 Para poder cargarlos, tienes que arrancar (¿habrá alguna alternativa?) SparkR así:
 

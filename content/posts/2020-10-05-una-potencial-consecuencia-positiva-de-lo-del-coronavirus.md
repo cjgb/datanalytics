@@ -24,4 +24,4 @@ Veo
 
 y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
 
-¡Tiempo de actualizarse (p.e., [así](https://research.fb.com/blog/2017/02/prophet-forecasting-at-scale/))!
+¡Tiempo de actualizarse (p.e., [así](https://web.archive.org/web/20201022131406/https://research.fb.com/blog/2017/02/prophet-forecasting-at-scale/))!

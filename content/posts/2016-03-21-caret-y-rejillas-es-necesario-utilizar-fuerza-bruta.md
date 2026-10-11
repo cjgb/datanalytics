@@ -52,6 +52,6 @@ donde se aprecia cómo el paquete tiene la decencia de mostrarnos la sd de la ta
 
 La segunda, esta vez optimista, es que nunca he visto una situación en que la curva del error no sea _grosso modo_ convexa.
 
-Con las dos consideraciones anteriores, pienso que tal vez un método de optimización similar al de [Nelder-Mead](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method), que no se basa en gradientes, podría funcionar. Como alternativa, podría plantearse una estrategia basada en el [descenso cíclico por coordenadas](http://statweb.stanford.edu/~jhf/ftp/glmnet.pdf) que, a diferencia de otras [moderneces más en boga](https://github.com/AunSiro/Algoritmos-Geneticos-R-Python-Meetup), nunca ha dejado de darme alegrías.
+Con las dos consideraciones anteriores, pienso que tal vez un método de optimización similar al de [Nelder-Mead](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method), que no se basa en gradientes, podría funcionar. Como alternativa, podría plantearse una estrategia basada en el [descenso cíclico por coordenadas](https://web.archive.org/web/20160222075459/http://statweb.stanford.edu:80/~jhf/ftp/glmnet.pdf) que, a diferencia de otras [moderneces más en boga](https://github.com/AunSiro/Algoritmos-Geneticos-R-Python-Meetup), nunca ha dejado de darme alegrías.
 
 De todos modos, y permítaseme terminar así, casi todo lo relativo a `caret` me parece un entretenimiento más propio de [_script kiddies_](http://www.urbandictionary.com/define.php?term=script+kiddie) que de gente seria.

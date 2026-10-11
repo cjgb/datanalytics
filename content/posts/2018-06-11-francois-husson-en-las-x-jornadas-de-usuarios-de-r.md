@@ -20,7 +20,7 @@ title: François Husson en las X Jornadas de Usuarios de R
 url: /2018/06/11/francois-husson-en-las-x-jornadas-de-usuarios-de-r/
 ---
 
-Las [X Jornadas de Usuarios de R](http://r-es.org/XjuR/) siguen adelante. Ahora, el comité organizador ha anunciado que una de las charlas plenarias correrá a cargo de [François Husson](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Francois.Husson), conocido por [`FactoMineR`](https://cran.r-project.org/web/packages/FactoMineR/index.html).
+Las [X Jornadas de Usuarios de R](https://web.archive.org/web/20200223142739/http://r-es.org:80/XjuR/) siguen adelante. Ahora, el comité organizador ha anunciado que una de las charlas plenarias correrá a cargo de [François Husson](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Francois.Husson), conocido por [`FactoMineR`](https://cran.r-project.org/web/packages/FactoMineR/index.html).
 
 Sirva esta entrada de recordatorio, además, para que vayas considerando acudir a las jornadas.
 

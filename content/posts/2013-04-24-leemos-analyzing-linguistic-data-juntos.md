@@ -19,7 +19,7 @@ title: ¿Leemos "Analyzing Linguistic Data" juntos?
 url: /2013/04/24/leemos-analyzing-linguistic-data-juntos/
 ---
 
-[Victor Peinado](http://nlp.uned.es/~victor/) y yo estamos organizando un grupo de lectura. Junto con quienes se nos sumen, vamos a ir leyendo el libro [_Analyzing Linguistic Data: A practical introduction to Statistics_](http://web.archive.org/web/20131105105519/http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf), que trata de:
+[Victor Peinado](https://web.archive.org/web/20130612075338/http://nlp.uned.es/~victor/) y yo estamos organizando un grupo de lectura. Junto con quienes se nos sumen, vamos a ir leyendo el libro [_Analyzing Linguistic Data: A practical introduction to Statistics_](http://web.archive.org/web/20131105105519/http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf), que trata de:
 
 * R (instalación, gráficos, etc.)
 * Métodos estadísticos con R (modelos lineales, clústering, clasificación, modelos mixtos)

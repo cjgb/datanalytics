@@ -18,7 +18,7 @@ title: 'Datanalytics: segunda posición en competición internacional de minerí
 url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/
 ---
 
-Me es más que grato anunciar que he alcanzado la segunda posición en el [_IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation_](https://web.archive.org/web/20100710041538/http://tunedit.org/challenge/IEEE-ICDM-2010/traffic) (sección de tráfico):
+Me es más que grato anunciar que he alcanzado la segunda posición en el [_IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation_](https://web.archive.org/web/20100710041538/https://web.archive.org/web/20100715065129/http://tunedit.org:80/challenge/IEEE-ICDM-2010/traffic?) (sección de tráfico):
 
 ![](/img/2010/09/competicion_prediccion_trafico.png#center)
 

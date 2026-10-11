@@ -28,4 +28,4 @@ Entonces:
 * Rápidamente, a la velocidad a la que estira la mano en el supermercado, ¿cuál prefiere?
 * Con un poco más de calma, ¿qué oferta es más conveniente?
 
-Luego [lea esto](http://www.economist.com/node/21557801?fsrc=scn/tw/te/mt/somethingdoesntaddup) y piense en las implicaciones de todo tipo que puede tener lo que hoy ha aprendido; por ejemplo, en la manera de presentar las noticias (e introducir parcialidad en ellas), en cómo deberían etiquetarse ciertos productos, etc.
+Luego [lea esto](https://web.archive.org/web/20190821200457/http://www.economist.com/node/21557801?fsrc=scn/tw/te/mt/somethingdoesntaddup) y piense en las implicaciones de todo tipo que puede tener lo que hoy ha aprendido; por ejemplo, en la manera de presentar las noticias (e introducir parcialidad en ellas), en cómo deberían etiquetarse ciertos productos, etc.

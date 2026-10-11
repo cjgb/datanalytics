@@ -19,7 +19,7 @@ title: El lenguaje de los gráficos en las Jornadas de Periodismo de Datos
 url: /2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/
 ---
 
-Este sábado ([2015-06-06](http://en.wikipedia.org/wiki/ISO_8601)), dentro de las [Jornadas de Periodismo de Datos, hablaré](http://periodismodatos.okfn.es/) sobre el lenguaje de los gráficos (véase el [programa](http://periodismodatos.okfn.es/programa-jpd15/)).
+Este sábado ([2015-06-06](http://en.wikipedia.org/wiki/ISO_8601)), dentro de las [Jornadas de Periodismo de Datos, hablaré](http://periodismodatos.okfn.es/) sobre el lenguaje de los gráficos (véase el [programa](https://web.archive.org/web/20170610114413/http://periodismodatos.okfn.es/programa-jpd15/)).
 
 Para variar, nada de R y, aunque parezca lo contrario, nada de `ggplot2`. Ni tan siquiera respuestas a nada: solo preguntas que cada cual tendrá, si le place, que contestar. Y si se me hace caso, a la luz de la literatura relevante.
 

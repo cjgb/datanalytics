@@ -45,4 +45,4 @@ pero hubo quien (Harry Beck) decidió crear un plano que, simplemente, ayudase a
 
 Tanto para viajar por Londres como para representar la tasa de paro por provincias, la exactísima correspondencia de las formas del mapa con la geografía del terreno es un objetivo muy, muy secundario.
 
-**Coda:** salvo (y/o hasta) que alguno de esos detractores se salga con la suya, podéis ver el mapa en acción en el [portal del nuevo modelo MoMoTemp](https://momo.isciii.es/momotemp/) que acaba de publicar el ISCIII.
+**Coda:** salvo (y/o hasta) que alguno de esos detractores se salga con la suya, podéis ver el mapa en acción en el [portal del nuevo modelo MoMoTemp](https://web.archive.org/web/20220228011315/http://momo.isciii.es/momotemp/) que acaba de publicar el ISCIII.

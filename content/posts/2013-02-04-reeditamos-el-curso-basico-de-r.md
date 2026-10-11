@@ -19,7 +19,7 @@ title: ¡Reeditamos el curso básico de R!
 url: /2013/02/04/reeditamos-el-curso-basico-de-r/
 ---
 
-El año pasado, [Juanjo Gibaja](http://jjgibaja.net/) y yo organizamos nuestro [primer Curso Básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!
+El año pasado, [Juanjo Gibaja](https://web.archive.org/web/20171111025411/http://jjgibaja.net:80/) y yo organizamos nuestro [primer Curso Básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!
 
 Las características del curso van a seguir siendo, esencialmente, las mismas:
 
@@ -33,11 +33,11 @@ Las características del curso van a seguir siendo, esencialmente, las mismas:
 * Es **genérico**. Cada cual quiere aprender R por un motivo distinto: unos, para analizar encuestas; otros, por su interés en la minería de datos; algunos, para analizar series temporales,... El curso está pensado para llevar a cada cual hasta el mismo umbral de su tema de interés de forma que pueda después de él avanzar en el tema por su cuenta. Pero sin hacer especial hincapié en ningún asunto concreto.
 * El **contenido estadístico será mínimo** (se limitará a algo de estadística descriptiva y poco más).
 
-Los interesados encontrarán más información en [este documento](https://docs.google.com/document/d/1UJgDM3tSZLwPKbtAS9XVaLlrKiFpUDhwvYXCznLI48w/edit?usp=sharing).
+Los interesados encontrarán más información en [este documento](https://web.archive.org/web/20160112060428/https://docs.google.com/document/d/1UJgDM3tSZLwPKbtAS9XVaLlrKiFpUDhwvYXCznLI48w/edit?usp=sharing).
 
 Las principales novedades con respecto al año pasado son:
 
-* Al anterior equipo de supervisores, Juanjo y yo, se suma [Juan Pablo Braña](http://fractaltec.org/), muy activo en la comunidad argentina de usuarios de R.
-* Vamos a invitar a los participantes a colaborar en la redacción de los apuntes del curso en español. Para ello se ha puesto a disposición de todos una [_wiki_](http://r-es.org/Curso+R+B%C3%A1sico) en la página de la Comunidad R Hispano.
+* Al anterior equipo de supervisores, Juanjo y yo, se suma [Juan Pablo Braña](https://web.archive.org/web/20130203030404/http://www.fractaltec.org/), muy activo en la comunidad argentina de usuarios de R.
+* Vamos a invitar a los participantes a colaborar en la redacción de los apuntes del curso en español. Para ello se ha puesto a disposición de todos una [_wiki_](https://web.archive.org/web/20160112043300/http://r-es.org/Curso+R+B%C3%A1sico) en la página de la Comunidad R Hispano.
 
 Finalmente, para registrarte, basta con que te des de alta en [cursoRbasico2.usaR.org.es](http://cursorbasico2.usar.org.es/). Y si conoces a alguien potencialmente interesado en él, ¡no dudes en invitarlo!

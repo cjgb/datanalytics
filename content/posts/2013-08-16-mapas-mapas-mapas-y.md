@@ -20,7 +20,7 @@ title: Mapas, mapas, mapas... ¿y?
 url: /2013/08/16/mapas-mapas-mapas-y/
 ---
 
-No paro de decir para mis adentros "¿y?" según hojeo el recién publicado [Atlas de mortalidad en municipios y unidades censales de España](http://www.fbbva.es/TLFU/microsites/atlasmortalidad/js/archivos/atles_protegit.pdf).
+No paro de decir para mis adentros "¿y?" según hojeo el recién publicado [Atlas de mortalidad en municipios y unidades censales de España](https://web.archive.org/web/20131103081141/http://www.fbbva.es/TLFU/microsites/atlasmortalidad/js/archivos/atles_protegit.pdf).
 
 En el prefacio del estudio se lee:
 

@@ -28,7 +28,7 @@ Efectivamente, en la lista de paquetes de CRAN, abajo, se mencionan los llamados
 * han decidido desentenderse del paquete o
 * los mensajes que les envían desde CRAN rebotan o no son contestados.
 
-Tales paquetes pasan al estado ORPHANED y se mantienen en CRAN mientras pasen los _checks_. Pero, conforme avanzan las versiones de R, puede que algunos de esos paquetes dejen de compilar y entonces son _archivados_. Existe una [lista de paquetes huérfanos archivados](http://cran.r-project.org/src/contrib/Orphaned/PACKAGES.csv) cuya última versión puede encontrarse [aquí](http://cran.r-project.org/src/contrib/Archive/).
+Tales paquetes pasan al estado ORPHANED y se mantienen en CRAN mientras pasen los _checks_. Pero, conforme avanzan las versiones de R, puede que algunos de esos paquetes dejen de compilar y entonces son _archivados_. Existe una [lista de paquetes huérfanos archivados](https://web.archive.org/web/20110314004512/http://cran.r-project.org:80/src/contrib/Orphaned/PACKAGES.csv) cuya última versión puede encontrarse [aquí](http://cran.r-project.org/src/contrib/Archive/).
 
 Lo que igual puede interesar a mis lectores hoy es que pueden adoptar un paquete huérfano. De nuevo, de acuerdo con el README, basta con:
 

@@ -18,7 +18,7 @@ title: Periodismo de datos en Via52.com
 url: /2012/04/17/periodismo-de-datos-en-via52-com/
 ---
 
-El jueves pasado, en MediaLab Prado, tuve ocasión de asistir a una [presentación](http://medialab-prado.es/article/via52) de los responsables de [Via52](http://via52.com/),
+El jueves pasado, en MediaLab Prado, tuve ocasión de asistir a una [presentación](https://web.archive.org/web/20130327170803/http://medialab-prado.es:80/article/via52) de los responsables de [Via52](http://via52.com/),
 
 > un nuevo semanario digital que quiere sumarse con modestia al panorama mediático. Desde hace meses venimos trabajando en este proyecto, impulsado por David Rojo (@rojovegas) y Andrés Hermosa (@andresh), y que cuenta con la colaboración de un grupo de profesionales del periodismo, el fotoperiodismo, la ilustración y la tecnología.
 

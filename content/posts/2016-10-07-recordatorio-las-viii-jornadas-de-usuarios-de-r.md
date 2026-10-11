@@ -18,4 +18,4 @@ title: 'Recordatorio: las VIII Jornadas de Usuarios de R'
 url: /2016/10/07/recordatorio-las-viii-jornadas-de-usuarios-de-r/
 ---
 
-Que tendrán lugar en Albacete los días 17 y 18 de noviembre de 2016. Más información (toda la información, de hecho), [aquí](http://r-es.org/8jornadasR/).
+Que tendrán lugar en Albacete los días 17 y 18 de noviembre de 2016. Más información (toda la información, de hecho), [aquí](https://web.archive.org/web/20210228003457/http://r-es.org/8jornadasR/).

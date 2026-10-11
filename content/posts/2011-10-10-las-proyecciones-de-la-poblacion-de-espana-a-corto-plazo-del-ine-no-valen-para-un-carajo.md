@@ -22,9 +22,9 @@ title: Las proyecciones de la población de España a corto plazo del INE no val
 url: /2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/
 ---
 
-Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](https://www.larazon.es/historico/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion-MLLA_RAZON_403087/), [este](http://www.publico.es/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).
+Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](https://www.larazon.es/historico/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion-MLLA_RAZON_403087/), [este](https://web.archive.org/web/20111211055757/http://www.publico.es:80/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).
 
-Pero no para lo que se supone que sirve. Además, por construcción. En el [documento que explica qué son y para qué sirven dichas proyecciones](http://www.ine.es/jaxi/menu.do?L=0&type=pcaxis&path=/t20/p269&file=inebase) se lee (con mi subrayado)
+Pero no para lo que se supone que sirve. Además, por construcción. En el [documento que explica qué son y para qué sirven dichas proyecciones](https://web.archive.org/web/20220119125902/https://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft20%2Fp269&file=inebase&L=0) se lee (con mi subrayado)
 
 
 >La Proyección de Población de España a Corto Plazo elaborada por el INE constituye una simulación estadística del tamaño y estructura demográfica de la población que residiría en España [...] _en caso de mantenerse las tendencias y los comportamientos demográficos actualmente observados_.

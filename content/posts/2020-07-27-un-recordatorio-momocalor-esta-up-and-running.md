@@ -24,7 +24,7 @@ title: 'Un recordatorio: MOMOCalor está "up and running"'
 url: /2020/07/27/un-recordatorio-momocalor-esta-up-and-running/
 ---
 
-Por desgracia, [MoMo](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html) ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de [MoMoCalor](https://momo.isciii.es/public/momocalor), su _hermanito_, que trata atribuir mortalidad a los excesos de temperaturas.
+Por desgracia, [MoMo](https://web.archive.org/web/20220423193213/https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html) ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de [MoMoCalor](https://web.archive.org/web/20190824141807/https://momo.isciii.es/public/momocalor), su _hermanito_, que trata atribuir mortalidad a los excesos de temperaturas.
 
 ¿Por qué es particularmente importante MoMoCalor hoy? Recuérdese que MoMo estima, simplemente, desviaciones de mortalidad con respecto a la que sería la normal en una fecha determinada. Cuando hay una epidemia o una ola de calor, la mortalidad crece y MoMo lo detecta. Pero cuando hay una epidemia y una ola de calor simultáneas, MoMo es incapaz de atribuir muertos las causas anómalas subyacentes. Pero MoMoCalor sí.
 

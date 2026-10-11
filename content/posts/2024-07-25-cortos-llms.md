@@ -47,4 +47,4 @@ La casi totalidad de los LLMs está basada en _transformers_. [Codestral Mamba](
 
 ### V. Groq
 
-Aún no soy cliente ---al menos, directo--- pero sí [_fan_ de Groq](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/).
+Aún no soy cliente ---al menos, directo--- pero sí [_fan_ de Groq](https://web.archive.org/web/20240805030523/https://wow.groq.com/introducing-llama-3-groq-tool-use-models/).

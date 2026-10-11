@@ -17,7 +17,7 @@ title: 'Minería de datos: estado de la profesión y tendencias'
 url: /2012/01/04/mineria-de-datos-estado-de-la-profesion-y-tendencias/
 ---
 
-Supongo que muchos de los lectores de esta bitácora conocerán ya el enlace que les presento. El resto encontrarán de interés el resumen que Gregory Piatetsky-Shapiro, editor de [KDNuggets](http://kdnuggets.com/), hizo del estado de la profesión en la conferencia [SuperData Summit en San Diego](http://www.superdatasummit.com/) el pasado año.
+Supongo que muchos de los lectores de esta bitácora conocerán ya el enlace que les presento. El resto encontrarán de interés el resumen que Gregory Piatetsky-Shapiro, editor de [KDNuggets](http://kdnuggets.com/), hizo del estado de la profesión en la conferencia [SuperData Summit en San Diego](https://web.archive.org/web/20260207041934/https://www.superdatasummit.com/) el pasado año.
 
 Para acceder a las diapositivas, pínchese sobre la imagen siguiente:
 

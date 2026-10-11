@@ -22,7 +22,7 @@ title: ¿Está empeorando la calidad de las estadísticas públicas? (y algunos 
 url: /2025/04/08/cortos-economia/
 ---
 
-En [_Faulty Speedometers_](https://www.kentclarkcenter.org/filterable-categories/on-global-markets/faulty-speedometers/) se discute el creciente problema de calidad en determinadas estadísticas de la ONS (el INE británico). Acerca de la EPA de allá, dice:
+En [_Faulty Speedometers_](https://web.archive.org/web/20250514125315/https://kentclarkcenter.org/filterable-categories/on-global-markets/faulty-speedometers/) se discute el creciente problema de calidad en determinadas estadísticas de la ONS (el INE británico). Acerca de la EPA de allá, dice:
 
 > La caída de la tasa de respuesta no ha sido uniforme en todas las categorías demográficas y la ONS se ha visto obligada a aplicar cada vez más hipótesis y datos imputados a la hora de estimar el número de empleados, la tasa de paro y la tasa de inactividad. El resultado ha sido la publicación de estadísticas oficiales del mercado de trabajo que parecen ser simplemente incorrectas.
 
@@ -32,7 +32,7 @@ En [_Inflation and relative prices_](https://www.grumpy-economist.com/p/inflatio
 - Que tiene que ver con los productos no exportables (p.e., cortes de pelo).
 - Que refleje algún artefacto en la manera en que se calculan los índices de precios.
 
-Del título, [_Coal, AI & Jevons_](https://www.kentclarkcenter.org/filterable-categories/on-global-markets/coal-ai-jevons/), se infiere casi todo lo que trata el artículo (supuesto que uno sepa a qué se refieren las tres palabras que lo componen).
+Del título, [_Coal, AI & Jevons_](https://web.archive.org/web/20250214172201/https://www.kentclarkcenter.org/filterable-categories/on-global-markets/coal-ai-jevons/), se infiere casi todo lo que trata el artículo (supuesto que uno sepa a qué se refieren las tres palabras que lo componen).
 
 Un médico, Dynomight, analiza [aquí](https://dynomight.net/prices/) el impacto de cierto tipo de salarios mínimos ---y muestra su escepticismo al respecto--- mejor que lo verás en muchas otras partes, especialmente de economistas que escuchan constantemente la voz de su amo.
 

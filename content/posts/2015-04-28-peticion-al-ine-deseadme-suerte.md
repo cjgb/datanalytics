@@ -35,6 +35,6 @@ Acabo de realizar (día 2015-04-27) la siguiente petición (autoexplicativa) al 
 
 Os mantendré informados del resultado.
 
-**Nota:** La he realizado a través del [formulario de contacto](http://www.ine.es/infoine/enviarFormulario.do). He querido preguntar por teléfono esta mañana si existía algún mecanismo de contacto más específico pero no lo han atendido.
+**Nota:** La he realizado a través del [formulario de contacto](https://web.archive.org/web/20150418235607/http://www.ine.es:80/infoine/enviarFormulario.do). He querido preguntar por teléfono esta mañana si existía algún mecanismo de contacto más específico pero no lo han atendido.
 
 **Nota:** No me ha llegado confirmación por correo de que mi petición ha sido recibida correctamente. Ha viajado al hiperespacio como quien envía mensaje en botella Ebro abajo.

@@ -52,7 +52,7 @@ donde $\Phi $ es una variable aleatoria N(0,1). Esta probabilidad puede calcular
 
 
 
-Efectivamente, uno de los errores en los que caemos al estimar probabilidades es que tendemos a ignorar que hay más variabilidad en grupos pequeños que en grupos grandes. Howard Wainer, en su artículo [_La ecuación más peligrosa_](http://www.americanscientist.org/issues/feature/the-most-dangerous-equation), recoge otros casos de errores que se cometen por este mismo motivo.
+Efectivamente, uno de los errores en los que caemos al estimar probabilidades es que tendemos a ignorar que hay más variabilidad en grupos pequeños que en grupos grandes. Howard Wainer, en su artículo [_La ecuación más peligrosa_](https://web.archive.org/web/20170312122754/http://www.americanscientist.org/issues/feature/the-most-dangerous-equation), recoge otros casos de errores que se cometen por este mismo motivo.
 
 Y nos ayuda a entender gráficos como el que sigue. En el que aparecen pintados con distinto color los condados estadounidenses donde hay mayor y menor incidencia del cáncer de riñón:
 

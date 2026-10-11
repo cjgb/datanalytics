@@ -37,7 +37,7 @@ Nada de esto tendría sentido si no existiese un objetivo en mente. Pero, afortu
 
 * la nueva [API del INE](http://www.ine.es/dyngs/DataLab/manual.html?cid=45),
 * la de [ESIOS/REE](https://www.esios.ree.es/es/pagina/api),
-* la de [Cartociudad](http://www.cartociudad.es/) (aunque ya está disponible [esto](https://github.com/cjgb/caRtociudad)),
+* la de [Cartociudad](https://web.archive.org/web/20080616105858/http://www.cartociudad.es:80/) (aunque ya está disponible [esto](https://github.com/cjgb/caRtociudad)),
 * ¿otras?
 
 Ahora estoy sin tiempo, pero dejo caer la idea para que vaya calando, madurando y tal vez un día nos veamos unos cuantos portátil en ristre machacando servidores a golpe de [`httr`](https://cran.r-project.org/web/packages/httr/index.html).

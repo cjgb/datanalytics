@@ -27,7 +27,7 @@ Escribo esta entrada con cierta prevención porque soy consciente de que dan pá
 
 ![](/img/2018/05/muertos_carretera.png#center)
 
-(extraídos de [aquí](https://web.archive.org/web/20190819034505/http://www.dgt.es:80/Galerias/prensa/2018/01/Presentacion-balance-siniestralidad-2017-completo..pdf)) dan que pensar: la varianza de las observaciones correspondientes a los años 2013, 2014 y 2015 es muy baja, demasiado baja. Al menos, si se da como bueno un modelo de Poisson para modelar esos conteos.
+(extraídos de [aquí](https://web.archive.org/web/20190819034505/https://web.archive.org/web/20190819034505/http://www.dgt.es:80/Galerias/prensa/2018/01/Presentacion-balance-siniestralidad-2017-completo..pdf)) dan que pensar: la varianza de las observaciones correspondientes a los años 2013, 2014 y 2015 es muy baja, demasiado baja. Al menos, si se da como bueno un modelo de Poisson para modelar esos conteos.
 
 De hecho, ejecutando
 

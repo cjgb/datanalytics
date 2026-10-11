@@ -42,7 +42,7 @@ después ~ tratamiento + antes
 El hecho de que ambos análisis puedan dar respuestas divergentes se conoce como paradoja de Lord. Existe una literatura extensa sobre el fenómeno. A mí me sirvió, p.e.,
 [este artículo](http://pareonline.net/getvn.asp?v=14&n=6).
 No obstante,
-[dicen](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_college_student_development/v045/45.3pike01.html) que
+[dicen](https://web.archive.org/web/20150922032128/http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_college_student_development/v045/45.3pike01.html) que
 
 
 >What remains uncontested is Lord's (1965, p. 305) conclusion from his first article: "with the data usually available for such studies, there simply is no logical or statistical procedure that can be counted on to make proper allowances for uncontrolled pre-existing differences between groups."

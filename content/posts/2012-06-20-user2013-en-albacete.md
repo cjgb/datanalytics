@@ -20,7 +20,7 @@ url: /2012/06/20/user2013-en-albacete/
 
 Aunque la noticia ya se sabe desde hace algunos días (y de hecho, la conocía desde antes de que se hiciese oficialmente pública), quiero dejar constancia aquí de ella: el congreso internacional de usuarios de R del año 2013, useR2013!, tendrá lugar en Albacete, en el mes de julio.
 
-Los interesados pueden consultar la [página del congreso](http://www3.uclm.es/congresos/useR-2013/) o seguir su [cuenta en Twitter](https://twitter.com/#!/useR_2013).
+Los interesados pueden consultar la [página del congreso](https://web.archive.org/web/20180427044250/http://www3.uclm.es:80/congresos/useR-2013/) o seguir su [cuenta en Twitter](https://twitter.com/#!/useR_2013).
 
 ![](/img/2012/06/user2013.png#center)
 

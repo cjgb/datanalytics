@@ -20,7 +20,7 @@ title: ¿Nos leemos "The Elements of Statistical Learning" de tapa a tapa?
 url: /2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/
 ---
 
-Propone [Juan José Gibaja](http://www.jjgibaja.net/) como propósito intelectual para el año nuevo el leer [_The Elements of Statistical Learning_](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) —libro que puede descargarse gratuita y legalmente del enlace anterior— de tapa a tapa, en grupo y a razón de capítulo por semana.
+Propone [Juan José Gibaja](http://www.jjgibaja.net/) como propósito intelectual para el año nuevo el leer [_The Elements of Statistical Learning_](https://web.archive.org/web/20131027220938/http://www-stat.stanford.edu/%7Etibs/ElemStatLearn//) —libro que puede descargarse gratuita y legalmente del enlace anterior— de tapa a tapa, en grupo y a razón de capítulo por semana.
 
 ![](/img/2010/12/CoverII_small.jpg)
 

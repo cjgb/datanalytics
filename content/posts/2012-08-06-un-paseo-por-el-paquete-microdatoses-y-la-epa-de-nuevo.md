@@ -25,7 +25,7 @@ url: /2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/
 
 En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momento solo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
 
-Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las [páginas del INE](http://www.ine.es/prodyser/micro_epa.htm) y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su [enlace directo](ftp://www.ine.es/temas/epa/datos_1t12.zip)).
+Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las [páginas del INE](https://web.archive.org/web/20160304083243/http://www.ine.es/prodyser/micro_epa.htm) y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su [enlace directo](ftp://www.ine.es/temas/epa/datos_1t12.zip)).
 
 Se trata de un fichero comprimido que, obviamente, tenemos que descomprimir, para obtener un fichero de texto llamado `EPAwebT0112` con un contenido prácticamente ininteligible. Haciendo
 
@@ -34,7 +34,7 @@ library(MicroDatosEs)
 epa <- epa2005("EPAwebT0112")
 ```
 
-se carga este fichero en R. El objeto resultante es de la clase `data.set`, una estructura de datos similar a un `dataframe` definido en el [paquete `memisc`](http://cran.r-project.org/web/packages/memisc/index.html) y que dispone de ciertos instrumentos y estructuras de datos que lo hacen muy adecuado para trabajar con información procedente de encuestas. De hecho, quien quiera usar R en este ámbito, haría bien en, cuando menos, familiarizarse con [la viñeta del paquete](http://web.archive.org/web/20150419034719/http://cran.r-project.org/web/packages/memisc/vignettes/anes48.pdf).
+se carga este fichero en R. El objeto resultante es de la clase `data.set`, una estructura de datos similar a un `dataframe` definido en el [paquete `memisc`](http://cran.r-project.org/web/packages/memisc/index.html) y que dispone de ciertos instrumentos y estructuras de datos que lo hacen muy adecuado para trabajar con información procedente de encuestas. De hecho, quien quiera usar R en este ámbito, haría bien en, cuando menos, familiarizarse con [la viñeta del paquete](http://web.archive.org/web/20150419034719/https://web.archive.org/web/20130203135705/http://cran.r-project.org:80/web/packages/memisc/vignettes/anes48.pdf).
 
 Para inspeccionar el contenido del objeto `epa` se puede hacer `summary(epa)` y luego seleccionar las variables de interés mediante
 

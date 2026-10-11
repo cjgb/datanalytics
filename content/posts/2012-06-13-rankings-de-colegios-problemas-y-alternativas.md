@@ -24,7 +24,7 @@ url: /2012/06/13/rankings-de-colegios-problemas-y-alternativas/
 
 Me voy a sumar al rol de bitácoras que hablan del ministro Wert. No lo conocía de nada pero el día de su nombramiento, El País publicó un artículo suyo —que no he podido ubicar— en el que, como sociólogo, analizaba ciertos resultados electorales. Ese detalle me hizo pensar que me iba a caer bien el hombre. Y, pobre, no para de dar y recibir disgustos.
 
-Planea ahora elaborar un _ránking_ de colegios. No es una ocurrencia sino [algo que se hace con normalidad](http://www.psk12.com/rating/USindexphp/STATE_NY.html) (aunque no sin problemas, a veces) en otros sitios y que [acá hacen otros en ocasiones](http://www.elmundo.es/especiales/2011/02/valencia/50colegios/index.html).
+Planea ahora elaborar un _ránking_ de colegios. No es una ocurrencia sino [algo que se hace con normalidad](https://web.archive.org/web/20200216015335/http://www.psk12.com:80/rating/USindexphp/STATE_NY.html) (aunque no sin problemas, a veces) en otros sitios y que [acá hacen otros en ocasiones](http://www.elmundo.es/especiales/2011/02/valencia/50colegios/index.html).
 
 Así que me llama la atención cómo se ha presentado la noticia en la prensa. Por ejemplo, El País titula la noticia _[Un polémico ‘ranking’ de colegios](http://sociedad.elpais.com/sociedad/2012/06/08/actualidad/1339177520_891364.html)_ y en términos similares lo hace [Las Provincias](http://www.lasprovincias.es/20120611/comunitatvalenciana/comunitat/ranking-colegios-polemico-wert-201206111320.html). En este último medio se añaden cosas como que alguien José Blanco (de CCOO de Andalucía) sostiene que elaborar un ranking es algo que _impide la actual Ley de Educación de Andalucía (LEA), cuyo artículo 154 establece que "la evaluación de los escolares y centros deberá cumplir los requisitos de confidencialidad en el tratamiento de la información"_. Sin embargo, dicho artículo dice textualmente:
 
@@ -48,7 +48,7 @@ Lo que venía yo a contar, sin embargo, es que estoy, de entrada, en contra de l
 La evaluación de los colegios debería darse a conocer por varios motivos:
 
 * Porque los pagamos entre todos y tenemos derecho a saber cómo funcionan y cuáles nos convienen.
-* Porque de alguna manera ya se realizan y los datos obtenidos no son propiedad exclusiva de las administraciones públicas: todos tenemos (o [deberíamos tener](http://datanalytics.com/tag/datos-abiertos/)) derecho a echarles un ojo.
+* Porque de alguna manera ya se realizan y los datos obtenidos no son propiedad exclusiva de las administraciones públicas: todos tenemos (o [deberíamos tener](http://datanalytics.com/tags/datos-abiertos/)) derecho a echarles un ojo.
 * Porque, salvaguardando el secreto estadístico no hay motivo para no hacerlo (y este punto es, tal vez paradójicamente, el más importante: los datos deberían ser públicos no de haber un motivo para ello sino siempre que no hubiese un motivo para lo contrario).
 
 Eso sí, Sr. Wert. Y de esto sabe Vd. tanto o más que yo: no les dé forma de _ránking_. Cree más bien diversas dimensiones con la debida granularidad (y transparencia) y deje que seamos nosotros —que somos lo suficientemente mayorcitos como para, incluso, completar la declaración de la renta— los que demos a cada una de ellas el peso que nos venga en gana.

@@ -19,7 +19,7 @@ title: Las IV Jornadas de Usuarios de R están aquí
 url: /2012/07/19/las-iv-jornadas-de-usuarios-de-r-estan-aqui/
 ---
 
-Como imagino que ya sabréis, las [IV Jornadas de Usuarios de R](http://r-es.org/IV+Jornadas) están aquí. El anuncio oficial, reproducido debajo, se hizo ayer:
+Como imagino que ya sabréis, las [IV Jornadas de Usuarios de R](https://web.archive.org/web/20120721090421/http://www.r-es.org:80/IV+Jornadas) están aquí. El anuncio oficial, reproducido debajo, se hizo ayer:
 
 >Escribo en nombre de los comités organizador y científico de las IV Jornadas de Usuarios de R para anunciarlas pública y oficialmente.
 >

@@ -22,7 +22,7 @@ url: /2012/07/04/libor-libor-fundeu-y-barclays-claro/
 
 Hace un tiempo [pregunté a la Fundéu](http://www.fundeu.es/consultas-O-over-the-counter-2734.html) cómo traducir la expresión _over the counter_. Pobres, tienen mucho trabajo en esta península asperjada de anglicismos. La respuesta, sinceramente, no me sirvió de mucho: me impedía hacerme entender con mis semejantes.
 
-Hace poco se le planteó también [si escribir _Euribor_ o _euríbor_](http://www.fundeu.es/vademecum-E-euribor-6574.html). Optaron por la segunda por considerar el término como común.
+Hace poco se le planteó también [si escribir _Euribor_ o _euríbor_](https://web.archive.org/web/20120807011836/http://www.fundeu.es:80/vademecum-E-euribor-6574.html). Optaron por la segunda por considerar el término como común.
 
 Yo solo estoy de acuerdo con ellos a medias. Por un lado, existe el _euríbor_ (nombre común y propiamente españolizado, con su tilde) que se refiere a cierto _precio del dinero_ (o tipo de interés). Pero existe también el [Euribor](http://www.euribor-ebf.eu/), que es una medida del euríbor utilizando cierto procedimiento y que, como marca registrada, no se acentúa (como tampoco se acentúan Kodak o Nasdaq).
 

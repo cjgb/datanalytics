@@ -43,7 +43,7 @@ especulando con la posibilidad de que los LLMs no alcancen jamás el _pensamient
 Una serie de aplicaciones de los LLMs:
 - Identificar cláusulas relevantes en contratos, [aquí](https://medium.com/@adamhacklander/creating-an-ai-model-to-locate-key-clauses-within-contracts-6b3d7b91cc82). Parte de su interés proviene del hecho de que no utilizan LLMs sino, más bien, NLP clásico vía SpaCy.
 - Crear _tarjetas_ tipo Anki para repasar, [aquí](https://www.alexejgossmann.com/LLMs-for-spaced-repetition/). Tengo montado algo parecido en mi servidor doméstico.
-- Algo parecido a los NotebookLM de Google, pero ahora de Anthropic, [aquí](https://simonwillison.net/2024/Jun/25/claude-projects/).
+- Algo parecido a los NotebookLM de Google, pero ahora de Anthropic, [aquí](https://web.archive.org/web/20240723140535/https://simonwillison.net/2024/Jun/25/claude-projects/).
 - Crear mensajes de _commit_ en git, [aquí](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
 
 ### IV. Multimodalidad
@@ -61,4 +61,4 @@ que nos advierte de cómo esos LLMs multimodales son _ciegos_ a ciertas caracter
 
 - Jina y, particularísimamente, su [_reader_](https://jina.ai/reader/).
 - Este [resumidor de vídeos](https://notegpt.io/youtube-video-summarizer).
-- Y uno también puede [_chatear_ con Friedman](https://friedman.ai/) (el economista).
+- Y uno también puede [_chatear_ con Friedman](https://web.archive.org/web/20240722172806/https://www.friedman.ai/) (el economista).

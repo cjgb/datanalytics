@@ -21,7 +21,7 @@ title: ¿... coma cero dos por ciento? ¡Anda ya!
 url: /2012/11/28/coma-cero-dos-por-ciento-anda-ya/
 ---
 
-Hoy hablo en la reunión del [grupo de usuarios de R de Madrid](http://r-es.org/tiki-index.php?page=Grupo%20de%20Inter%C3%A9s%20Local%20de%20Madrid%20-%20GIL%20Madrid). Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) y voy a aprovechar para criticar, en mi estilo, enunciados como
+Hoy hablo en la reunión del [grupo de usuarios de R de Madrid](https://web.archive.org/web/20150401203405/http://r-es.org/tiki-index.php?page=Grupo%20de%20Inter%C3%A9s%20Local%20de%20Madrid%20-%20GIL%20Madrid). Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) y voy a aprovechar para criticar, en mi estilo, enunciados como
 
 >El número de parados crece en 85.000 personas y alcanza la cifra de 5.778.100. La tasa de paro se incrementa 38 centésimas hasta el 25,02%.
 

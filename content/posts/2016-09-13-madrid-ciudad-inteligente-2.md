@@ -30,7 +30,7 @@ Las promesas que más risas de payaso triste dan dos años después son las que 
 
 ![ibm-smartcity](/img/2016/09/IBM-SmartCity.jpg)
 
-El ciudadano, armado de un móvil con cámara y _empoderado_ con una [aplicación móvil estupenda](https://play.google.com/store/apps/details?id=com.iam.lineaMadrid) iba a ser coprotagonista de esta revolución inteligente. La realidad se parece un poco más a
+El ciudadano, armado de un móvil con cámara y _empoderado_ con una [aplicación móvil estupenda](https://web.archive.org/web/20170409211105/https://play.google.com/store/apps/details?id=com.iam.lineaMadrid) iba a ser coprotagonista de esta revolución inteligente. La realidad se parece un poco más a
 
 ![linea_madrid_opiniones](/img/2016/09/linea_madrid_opiniones.png#center)
 

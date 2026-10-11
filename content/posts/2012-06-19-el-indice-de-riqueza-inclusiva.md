@@ -34,6 +34,6 @@ Y existen propuestas para crear un indicador de la riqueza más fiel de la situa
 >impacto ecológico y la degradación en los activos naturales que no se registran en la contabilidad nacional y que, por tanto, los hace menos útiles para medir el bienestar.
 
 
-No hay datos todavía para España, pero puede consultarse el [informe 2012 completo](http://www.ihdp.unu.edu/file/download/9927.pdf) y un [resumen ejecutivo](http://www.economist.com/blogs/graphicdetail/2012/06/daily-chart-10?fsrc=scn/tw/te/dc/buymeariver).
+No hay datos todavía para España, pero puede consultarse el [informe 2012 completo](https://web.archive.org/web/20130204023919/http://www.ihdp.unu.edu/file/download/9927.pdf) y un [resumen ejecutivo](http://www.economist.com/blogs/graphicdetail/2012/06/daily-chart-10?fsrc=scn/tw/te/dc/buymeariver).
 
 (**Nota:** por consejo de gente que sabe mucho más que yo de estos temas, he cambiado la traducción del nombre del índice de índice de la riqueza ~~inclusiva~~ por índice de la riqueza _integral_, mucho más apropiado).

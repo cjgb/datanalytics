@@ -88,7 +88,7 @@ De todos modos, se me ocurren dos maneras de evaluar la bondad de una estadísti
 
 De todos modos, pocas vidas pueden ser más descansadas que las de un facedor de encuestas electorales: los números que uno publica son incuestionables. Pueden ser cuestionados, sí, por aquel que financia las encuestas. Tal vez este prefiera ciertas fotos a otras. Pero no tiene que ser muy difícil contentarlo.
 
-[Aquí](http://web.archive.org/web/20230116092421/https://reis.cis.es/REIS/PDF/REIS_178_091647600818218.pdf) un exresponsable de metodología del CIS dice:
+[Aquí](http://web.archive.org/web/20230116092421/https://web.archive.org/web/20230116092421/https://reis.cis.es/REIS/PDF/REIS_178_091647600818218.pdf) un exresponsable de metodología del CIS dice:
 
 > No es científicamente aceptable la trasformación de los datos exclusivamente por consideraciones genéricas basadas en experiencias empíricas previas. Alterar la información que procede de la sociedad solamente es aceptable desde un marco teórico que dé cuenta y explique las razones para hacerlo.
 

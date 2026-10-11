@@ -21,7 +21,7 @@ title: ¿Dónde he estado (según Google)?
 url: /2014/10/01/donde-he-estado-segun-google/
 ---
 
-Leí [esto](http://educate-r.org//2014/09/26/googlelocations/) el otro día. Lo voy a replicar con mis datos.
+Leí [esto](https://web.archive.org/web/20161101121654/http://educate-r.org:80/2014/09/26/googlelocations) el otro día. Lo voy a replicar con mis datos.
 
 **Contexto**
 

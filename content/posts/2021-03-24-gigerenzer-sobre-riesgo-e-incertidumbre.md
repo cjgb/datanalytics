@@ -30,7 +30,7 @@ como para dejar constancia de algunas notas y referencias a vuelapluma que me su
 * La diferencia entre riesgo e incertidumbre, [ya tratada (no sé si de una manera que hoy en día revisaría) en estas páginas](https://datanalytics.com/2011/03/11/riesgo-e-incertidumbre).
 * La crítica del uso de las matemáticas para la gestión de la incertidumbre.
 * Abundando en lo anterior, el famoso artículo de Hayek _[The Use of Knowledge in Society](https://fee.org/articles/the-use-of-knowledge-in-society)_, que, sí, incluso menciona la ley de los grandes números.
-* La creciente literatura sobre el cuidado que hay que tener con los grandes agregados, como [este artículo](https://jtbd.info/the-illusion-of-measuring-what-customers-want-3672a7892eb) o este [otro](https://statmodeling.stat.columbia.edu/2021/02/18/smell-the-data/).
+* La creciente literatura sobre el cuidado que hay que tener con los grandes agregados, como [este artículo](https://web.archive.org/web/20170525214428/https://jtbd.info/the-illusion-of-measuring-what-customers-want-3672a7892eb) o este [otro](https://statmodeling.stat.columbia.edu/2021/02/18/smell-the-data/).
 * Mi propio vídeo sobre _[el teorema de la imposibilidad de JR Rallo](https://www.youtube.com/watch?v=rCM5hDRGMlo&t=77s)_.
 
 Cierro con una nota personal:

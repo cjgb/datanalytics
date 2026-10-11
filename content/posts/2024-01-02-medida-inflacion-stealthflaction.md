@@ -19,7 +19,7 @@ url: /2024/01/02/stealthflation/
 ---
 
 Estoy aficionándome a usar el
-[Chatbot Arena](https://chat.lmsys.org/?arena)
+[Chatbot Arena](https://web.archive.org/web/20240101214615/https://chat.lmsys.org/?arena)
 como interfaz para utilizar LLMs. No solo te da acceso a algunos de los más potentes, sino que te lo ofrecen en pares (y uno puede puntuar las respuestas para elaborar posteriormente un [_ránking_ ELO](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) de todos ellos).
 
 Y resulta que al preguntarles qué cosa es la _stealthflation_, gpt-4-turbo me ha dado prácticamente el resumen de lo que quería exponer en la presente entrada. Con mi traducción,

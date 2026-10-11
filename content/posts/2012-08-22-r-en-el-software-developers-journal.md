@@ -20,7 +20,7 @@ title: R en el Software Developer's Journal
 url: /2012/08/22/r-en-el-software-developers-journal/
 ---
 
-El [Software Developer's Journal](http://sdjournal.org/) ha publicado estos días un [número dedicado exclusivamente a R](http://sdjournal.org/data-development-gems-software-developers-journal-052012/). Dicen que sus 260 páginas hacen de este número el más extenso que ha publicado jamás la revista.
+El [Software Developer's Journal](http://sdjournal.org/) ha publicado estos días un [número dedicado exclusivamente a R](https://web.archive.org/web/20120821080111/http://sdjournal.org:80/data-development-gems-software-developers-journal-052012/). Dicen que sus 260 páginas hacen de este número el más extenso que ha publicado jamás la revista.
 
 ![](/img/2012/08/SDJ_DATA_cover4.jpg)
 

@@ -18,7 +18,7 @@ title: Romain François (y Francisco Viciana) en el grupo de usuarios de R de Se
 url: /2015/02/06/romain-francois-y-francisco-viciana-en-el-grupo-de-usuarios-de-r-de-sevilla/
 ---
 
-Me entero en la [página del grupo de usuarios de R de Sevilla](https://sevillarusers.wordpress.com/2015/01/26/dplyr-17-febrero-2000-en-el-bulebar-alameda/) de dos cosas:
+Me entero en la [página del grupo de usuarios de R de Sevilla](https://web.archive.org/web/20160424165235/https://sevillarusers.wordpress.com/2015/01/26/dplyr-17-febrero-2000-en-el-bulebar-alameda/) de dos cosas:
 
 * de que Romain François hablará sobre `dplyr` y de lo que esconde bajo el capó y
 * que Francisco Viciana demostrará el uso del [paquete `pxR`](http://cran.r-project.org/web/packages/pxR/index.html)

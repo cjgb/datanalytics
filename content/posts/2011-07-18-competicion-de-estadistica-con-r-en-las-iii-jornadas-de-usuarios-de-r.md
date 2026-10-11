@@ -19,7 +19,7 @@ title: Competición de estadística con R en las III Jornadas de Usuarios de R
 url: /2011/07/18/competicion-de-estadistica-con-r-en-las-iii-jornadas-de-usuarios-de-r/
 ---
 
-Como actividad complementaria a las [III Jornadas de Usuarios de R](http://www.usar.org.es), por gentileza de uno de sus patrocinadores, [Nestoria](http://www.nestoria.co.uk) y gracias al trabajo de [Emilio Torres Manzanera](http://bellman.ciencias.uniovi.es/emi/profesor.php?id=27), se ha anunciado hoy el [I Concurso de Análisis de Datos con R](http://www.usar.org.es/concurso_es.php).
+Como actividad complementaria a las [III Jornadas de Usuarios de R](http://www.usar.org.es), por gentileza de uno de sus patrocinadores, [Nestoria](https://web.archive.org/web/20260612024050/https://www.nestoria.co.uk/) y gracias al trabajo de [Emilio Torres Manzanera](https://web.archive.org/web/20110522065851/http://bellman.ciencias.uniovi.es:80/emi/profesor.php?id=27), se ha anunciado hoy el [I Concurso de Análisis de Datos con R](http://www.usar.org.es/concurso_es.php).
 
 
 ![](/img/2011/07/nestoria_vivienda.png#center)

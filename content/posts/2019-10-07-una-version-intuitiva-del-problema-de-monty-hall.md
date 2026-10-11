@@ -18,7 +18,7 @@ title: ¿Una versión intuitiva del problema de Monty Hall?
 url: /2019/10/07/una-version-intuitiva-del-problema-de-monty-hall/
 ---
 
-Creo que es innecesario hacer las presentaciones con el [problema de Monty Hall](https://es.wikipedia.org/wiki/Problema_de_Monty_Hall). Me limitaré a decir que es tremendamente antiintuitivo y que, de hecho, siguen publicándose artículos sobre _trucos mentales_ para evitar que la gente _caiga_, como, p.e., _[The Psychology of the Monty Hall Problem: Discovering Psychological Mechanisms for Solving a Tenacious Brain Teaser](http://usd-apps.usd.edu/xtwanglab/Papers/MontyHallPaper.pdf)_. Discuten, claro está, todo lo que tiene que ver con las _frecuencias naturales_, etc.
+Creo que es innecesario hacer las presentaciones con el [problema de Monty Hall](https://es.wikipedia.org/wiki/Problema_de_Monty_Hall). Me limitaré a decir que es tremendamente antiintuitivo y que, de hecho, siguen publicándose artículos sobre _trucos mentales_ para evitar que la gente _caiga_, como, p.e., _[The Psychology of the Monty Hall Problem: Discovering Psychological Mechanisms for Solving a Tenacious Brain Teaser](https://web.archive.org/web/20201024172408/http://usd-apps.usd.edu/xtwanglab/Papers/MontyHallPaper.pdf)_. Discuten, claro está, todo lo que tiene que ver con las _frecuencias naturales_, etc.
 
 Alternativamente, uno puede pensar en un problema perfectamente equivalente en el que la intuición no nos engañe. Y, curiosamente, [parece existir](https://math.stackexchange.com/questions/96826/the-monty-hall-problem/3360686#3360686):
 

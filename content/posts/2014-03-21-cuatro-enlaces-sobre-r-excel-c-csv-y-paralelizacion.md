@@ -27,6 +27,6 @@ Hoy traigo a mis páginas cuatro enlaces que apuntan a recetarios y tutoriales s
 * [Conectar R y Excel](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/)
 * [Importar grandes ficheros CSV](http://statcompute.wordpress.com/2014/02/11/efficiency-of-importing-large-csv-files-in-r/) (y falta [`LaF`](http://cran.fhcrc.org/web/packages/LaF/index.html))
 * [Integrar R con C/C++](http://anythingbutrbitrary.blogspot.ch/2014/02/three-ways-to-call-cc-from-r.html)
-* [Paralelizar código con `snow`](http://hernanresnizky.com/2014/01/10/quick-guide-to-parallel-r-with-snow/)
+* [Paralelizar código con `snow`](https://web.archive.org/web/20140516082201/http://hernanresnizky.com:80/2014/01/10/quick-guide-to-parallel-r-with-snow/)
 
 ¡Espero que os resulten útiles!

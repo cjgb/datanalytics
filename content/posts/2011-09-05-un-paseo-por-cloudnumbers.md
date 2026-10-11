@@ -18,13 +18,13 @@ title: Un paseo por cloudnumbers
 url: /2011/09/05/un-paseo-por-cloudnumbers/
 ---
 
-[Cloudnumbers](http://cloudnumbers.com/) es una empresa que ofrece servicios de [computación de alto rendimiento](http://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) en la nube con especial énfasis en aplicaciones que corren sobre R. Me ofrecieron una cuenta temporal y gratuita el otro día y en la entrada de hoy voy a describir mis primeros pasos en su plataforma.
+[Cloudnumbers](https://web.archive.org/web/20110902004227/http://cloudnumbers.com:80/) es una empresa que ofrece servicios de [computación de alto rendimiento](http://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) en la nube con especial énfasis en aplicaciones que corren sobre R. Me ofrecieron una cuenta temporal y gratuita el otro día y en la entrada de hoy voy a describir mis primeros pasos en su plataforma.
 
 Hace dos años hice, y dejé descrita, [mi primera incursión en la computación con R en la nube](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/). En dicha ocasión utilicé la plataforma EC2 de Amazon: en resumidas cuentas, Amazon alquila servidores con diversas configuraciones de _software_ por horas a un precio muy competitivo y uno puede acceder a ellos vía ssh, instalar R, los paquetes necesarios, correr el código y descargar los resultados.
 
 Cloudnumbers ha desarrollado una interfaz entre el usuario y EC2 —que es quien finalmente proporciona los servidores— concebida para facilitar su manejo. Está pensada para quienes quieren aprovechar la capacidad de cálculo que proporciona la nube con diversas herramientas y, en particular, R.
 
-Mi experiencia comenzó en la [página de acceso al servicio](https://my.cloudnumbers.com/login), donde introduje el nombre de usuario y contraseña que me habían proporcionado. Inmediatamente accedí a una página en la que aparecieron mis
+Mi experiencia comenzó en la [página de acceso al servicio](https://web.archive.org/web/20110713071650/http://my.cloudnumbers.com:80/login), donde introduje el nombre de usuario y contraseña que me habían proporcionado. Inmediatamente accedí a una página en la que aparecieron mis
 
 
 

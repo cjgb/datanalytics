@@ -22,9 +22,9 @@ url: /2011/12/13/un-lematizador-para-el-espanol-con-r-cutre-mejorable/
 
 Uno de los pasos previos para realizar lo que se viene llamando _minería de texto_ es [lematizar](http://es.wikipedia.org/wiki/Lematizaci%C3%B3n) el texto. Desafortunadamente, no existen buenos lematizadores en español. Al menos, buenos lematizadores libres.
 
-Existen el llamado [algoritmo de porter](http://telemat.det.unifi.it/book/2001/wchange/download/stem_porter.html) y [snowball](http://snowball.tartarus.org/) pero, o son demasiado crudos o están más pensados para un lenguaje con muchas menos variantes morfológicas que el español.
+Existen el llamado [algoritmo de porter](https://web.archive.org/web/20170118202358/http://telemat.det.unifi.it:80/book/2001/wchange/download/stem_porter.html) y [snowball](http://snowball.tartarus.org/) pero, o son demasiado crudos o están más pensados para un lenguaje con muchas menos variantes morfológicas que el español.
 
-Sinceramente, no sé a qué se dedican —me consta que los hay— los lingüistas computacionales de la hispanidad entera: ¿no son capaces de liberar una herramienta de lematización medianamente decente que podamos usar los demás? Lo más parecido a esa herramienta aparentemente inexistente que conozco es [Grampal](http://cartago.lllf.uam.es/grampal/grampal.cgi), que funciona a través de una interfaz _web_.
+Sinceramente, no sé a qué se dedican —me consta que los hay— los lingüistas computacionales de la hispanidad entera: ¿no son capaces de liberar una herramienta de lematización medianamente decente que podamos usar los demás? Lo más parecido a esa herramienta aparentemente inexistente que conozco es [Grampal](https://web.archive.org/web/20120123010322/http://cartago.lllf.uam.es:80/grampal/grampal.cgi?), que funciona a través de una interfaz _web_.
 
 Y me ha servido para construir un lematizador rudimentario y francamente perfectible:
 

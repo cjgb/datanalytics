@@ -23,4 +23,4 @@ En una circunscripción, una serie de partidos obtienen $N_i$ votos. Los primero
 
 Si la circunscripción manda al parlamento a $n$ diputados, tiene sentido enviar a aquellos que representan a más votantes. Si das la regla por buena, ¡enhorabuena, estás usando el [sistema d'Hondt](https://es.wikipedia.org/wiki/Sistema_d%27Hondt)!
 
-**Nota:** la versión larga de esta entrada está [aquí](https://1datomas.com/politica/por-que-funciona-asi-el-sistema-dhondt/).
+**Nota:** la versión larga de esta entrada está [aquí](https://web.archive.org/web/20190721114038/https://1datomas.com/politica/por-que-funciona-asi-el-sistema-dhondt/).

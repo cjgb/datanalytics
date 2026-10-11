@@ -31,7 +31,7 @@ No me habría atrevido a publicar nada tan en agraz si no fuese para dejar dos n
 
 Están muy bien hechos. Por gente, además, de la que ignora que lo perfecto es lo enemigo de lo bueno. No sé si los he usado bien y si he acertado ha sido gracias a una de esas felices alineaciones de la intuición y la casualidad. Pero el tema está exigiendo que alguien nos regale un tratadito sobre el uso de SIANE con R para provecho de todos.
 
-El segundo tema es que Manuel Garrido [ha publicado](https://pybonacci.es/2017/04/17/como-hacer-un-mapa-muy-bonito-de-espana-en-ggplot2/)
+El segundo tema es que Manuel Garrido [ha publicado](https://web.archive.org/web/20170912215715/https://pybonacci.es/2017/04/17/como-hacer-un-mapa-muy-bonito-de-espana-en-ggplot2/)
 
 ![](/img/2017/04/edad_media_espana.png#center)
 

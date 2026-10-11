@@ -19,7 +19,7 @@ title: Las VII Jornadas de Usuarios de R buscan patrocinadores
 url: /2015/05/05/las-vii-jornadas-de-usuarios-de-r-buscan-patrocinadores/
 ---
 
-Las [VII Jornadas de Usuarios de R](http://r-es.org/7jornadasR/) buscan patrocinadores. Los organizadores hemos redactado [un documento](http://r-es.org/7jornadasR/pdf/patrocinios_jornadas.pdf) en el que se especifican las modalidades y el mecanismo para que tú o la empresa o institución donde trabajas podáis convertiros en patrocinadores de las Jornadas.
+Las [VII Jornadas de Usuarios de R](http://r-es.org/7jornadasR/) buscan patrocinadores. Los organizadores hemos redactado [un documento](https://web.archive.org/web/20160806035857/http://r-es.org/7jornadasR/pdf/patrocinios_jornadas.pdf) en el que se especifican las modalidades y el mecanismo para que tú o la empresa o institución donde trabajas podáis convertiros en patrocinadores de las Jornadas.
 
 Esencialmente, hemos establecido tres categorías —oro, 300 €; plata, 200 € y bronce, 100 €— para empresas e instituciones y una aportación personal y voluntaria de 10 € para participantes y entusiastas.
 

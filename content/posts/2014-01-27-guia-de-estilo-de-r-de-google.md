@@ -296,7 +296,7 @@ Las convenciones expresadas más arriba deberían ser seguidas de no haber un bu
 
 * [R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
 * [Para usuarios de emacs](http://ess.r-project.org/)
-* [Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
+* [Guía de estilo de R de Google](https://web.archive.org/web/20151201051648/http://google.github.io:80/styleguide/Rguide.xml) (en inglés)
 
 ### Notas
 

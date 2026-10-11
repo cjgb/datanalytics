@@ -18,7 +18,7 @@ title: Charla en Pamplona
 url: /2017/09/25/charla-en-pamplona/
 ---
 
-A la hora en que se publiquen estas líneas estaré llegando a Pamplona para participar como ponente en la jornada [_¿Es la estadística una parte significativa de la ciencia de datos?_](https://www.unavarra.es/research-institutes/noticeboard?contentId=230702) organizada por el [InaMat](https://www.unavarra.es/inamat/) en la Universidad Pública de Navarra.
+A la hora en que se publiquen estas líneas estaré llegando a Pamplona para participar como ponente en la jornada [_¿Es la estadística una parte significativa de la ciencia de datos?_](https://www.unavarra.es/research-institutes/noticeboard?contentId=230702) organizada por el [InaMat](https://web.archive.org/web/20170920040211/http://www.unavarra.es:80/inamat/) en la Universidad Pública de Navarra.
 
 La invitación ha sido una oportunidad (que agradezco muchísimo) para reflexionar sobre la problemática relación entre estadística y ciencia de datos y tratando de ser, por una vez, constructivo. A pesar de ello, mi ponencia llevará por título [_Estadística y Ciencia de Datos: la revalorización del “no”_](/charlas/estadistica_ciencia_datos/#/), que sugiere lo contrario.
 

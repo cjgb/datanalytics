@@ -22,7 +22,7 @@ url: /2020/03/12/monitorizacion-diaria-de-la-mortalidad/
 
 _[En esta entrada deambulo peligrosamente por los límites de un NDA; sin embargo, me siento obligado a exponerme a las posibles consecuencias debido a la gravedad de las circunstancias actuales.]_
 
-En España existe un mecanismo de monitorización de la mortalidad diaria por todas las causas. Su existencia no es explícitamente pública, pero sí que existen indicios implícitos de su existencia en informes de salud pública: véanse, p.e., referencias a MoMo y EuroMOMO [aquí](http://vgripe.isciii.es/documentos/20192020/home/Sistemas%20y%20fuentes%20de%20informacion%20del%20SVGE_2019-20.pdf). [Nota: MoMo es el acrónimo de _mortality monitoring_].
+En España existe un mecanismo de monitorización de la mortalidad diaria por todas las causas. Su existencia no es explícitamente pública, pero sí que existen indicios implícitos de su existencia en informes de salud pública: véanse, p.e., referencias a MoMo y EuroMOMO [aquí](https://web.archive.org/web/20200418200334/http://vgripe.isciii.es/documentos/20192020/home/Sistemas%20y%20fuentes%20de%20informacion%20del%20SVGE_2019-20.pdf). [Nota: MoMo es el acrónimo de _mortality monitoring_].
 
 En España funciona de la siguiente manera: diariamente, el ministerio de justicia envía datos sobre los fallecidos registrados al [ISCIII](https://www.isciii.es/). Estos datos son problemáticos e incompletos. En particular, se refieren únicamente a los registros civiles _informatizados_, que solo son _casi_ todos. Los datos, además,  llegan con cierto retraso (p.e., las defunciones en Zaragoza del día 1 pueden ir llegando el 2, 3, 4... aunque típicamente, al cabo de una semana se dispone de datos _casi_ completos).
 

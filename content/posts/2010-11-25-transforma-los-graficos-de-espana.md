@@ -24,7 +24,7 @@ Y la propuesta se resume en
 
 >[...] la necesidad de abordar cambios urgentes, estructurales y sistémicos ya que la tendencia de pérdida de posicionamiento absoluto y relativo en todos los indicadores relevantes del país, es preocupante para el futuro de los españoles y su papel en el mundo.
 
-Este esfuerzo de la Fundación Everis ha recibido diversas valoraciones (como [ésta](https://web.archive.org/web/20120115143302/http://www.cotizalia.com/disparate-economico/empresarios-manifiesto-demoledor-20101122-4431.html)) que el lector, ayudado de Google, podrá ubicar sin más intervención por mi parte. Yo, por mi parte, como lego que soy en esas cosas que, de grandes, se me escapan, voy a valorar un minúsculo aspecto del [documento](https://ftransformaespana.es/wp-content/uploads/2017/03/Informe_te.pdf) que tiene que ver con la naturaleza y fin de esta bitácora en que escribo. Y me refiero al siguiente gráfico:
+Este esfuerzo de la Fundación Everis ha recibido diversas valoraciones (como [ésta](https://web.archive.org/web/20120115143302/https://web.archive.org/web/20101125131745/http://www.cotizalia.com:80/disparate-economico/empresarios-manifiesto-demoledor-20101122-4431.html)) que el lector, ayudado de Google, podrá ubicar sin más intervención por mi parte. Yo, por mi parte, como lego que soy en esas cosas que, de grandes, se me escapan, voy a valorar un minúsculo aspecto del [documento](https://ftransformaespana.es/wp-content/uploads/2017/03/Informe_te.pdf) que tiene que ver con la naturaleza y fin de esta bitácora en que escribo. Y me refiero al siguiente gráfico:
 
 ![](/img/2010/11/quo_vadis_hispania.png#center)
 

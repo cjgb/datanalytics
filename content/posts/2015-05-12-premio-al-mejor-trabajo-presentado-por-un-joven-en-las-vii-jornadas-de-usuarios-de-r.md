@@ -26,4 +26,4 @@ Ha pasado un poco desapercibido pero estamos organizando un premio para el mejor
 
 Las bases están [aquí](http://r-es.org/7jornadasR/pdf/concursojoven.pdf).
 
-Finalmente, si alguien conoce a alguien que pueda conocer a alguien que quiera dotar el premio, ¡que avise! (Y que lea previamente [esto](http://r-es.org/7jornadasR/pdf/patrocinios_jornadas.pdf) también).
+Finalmente, si alguien conoce a alguien que pueda conocer a alguien que quiera dotar el premio, ¡que avise! (Y que lea previamente [esto](https://web.archive.org/web/20160806035857/http://r-es.org/7jornadasR/pdf/patrocinios_jornadas.pdf) también).

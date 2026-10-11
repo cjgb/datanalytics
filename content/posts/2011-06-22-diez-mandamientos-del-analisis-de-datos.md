@@ -19,7 +19,7 @@ title: Diez mandamientos del análisis de datos
 url: /2011/06/22/diez-mandamientos-del-analisis-de-datos/
 ---
 
-Extraigo de la [bitácora de Rob J Hyndman](http://robjhyndman.com/researchtips/ten-rules-for-data-analysis/ ) y de una manera que roza el plagio mi entrada de hoy. Recoge diez reglas, diez mandamientos para el análisis de datos (en realidad, para el análisis econométrico, pero pueden trasladarse casi sin cambios al ámbito general) propuestas por [Peter Kennedy](http://www.econ.sfu.ca/Contacts/Faculty_Profiles/PeterKennedy.html). Son las siguientes:
+Extraigo de la [bitácora de Rob J Hyndman](http://robjhyndman.com/researchtips/ten-rules-for-data-analysis/ ) y de una manera que roza el plagio mi entrada de hoy. Recoge diez reglas, diez mandamientos para el análisis de datos (en realidad, para el análisis econométrico, pero pueden trasladarse casi sin cambios al ámbito general) propuestas por [Peter Kennedy](https://web.archive.org/web/20110318215557/http://www.econ.sfu.ca:80/Contacts/Faculty_Profiles/PeterKennedy.html). Son las siguientes:
 
 
 

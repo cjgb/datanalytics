@@ -28,7 +28,7 @@ Pero hoy he querido ser bueno y concederle unos minutejos y el beneficio de la d
 
 En Google Scholar, si uno busca [_factor analysis_](http://scholar.google.com/scholar?hl=es&q=factor+analysis&btnG=&lr=), resulta que una de las sílabas más frecuentes de la primera página de resultados es _psy_. ¿Hay algún no sicólogo —o similar— escribiendo sobre eso?
 
-Y finalmente, me acordé de esa biblia del análisis de datos, el archifamoso [ESL](http://statweb.stanford.edu/~tibs/ElemStatLearn/). ¿Hablaría del análisis factorial? No lo recordaba pero podría ser. Y efectivamente, los autores lo mencionan. Le dedican página y media, incluyendo el siguiente comentario:
+Y finalmente, me acordé de esa biblia del análisis de datos, el archifamoso [ESL](https://web.archive.org/web/20140120101410/http://statweb.stanford.edu:80/~tibs/ElemStatLearn/). ¿Hablaría del análisis factorial? No lo recordaba pero podría ser. Y efectivamente, los autores lo mencionan. Le dedican página y media, incluyendo el siguiente comentario:
 
 >This aspect [subjectivity] has left many analysts skeptical of factor analysis, and may account for its lack of popularity in contemporary statistics.
 

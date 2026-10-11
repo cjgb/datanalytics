@@ -43,6 +43,6 @@ Pasa por utilizar la vieja operación que nos enseñaron en la escuela: dividir.
 ![](/img/2011/10/american_debt.png#center)
 
 
-que representa el volumen de un montón de billetes de cien dólares que suma el tamaño total de la deuda y que he extraído de [aquí](http://usdebt.kleptocracy.us/).
+que representa el volumen de un montón de billetes de cien dólares que suma el tamaño total de la deuda y que he extraído de [aquí](https://web.archive.org/web/20111008083443/http://usdebt.kleptocracy.us:80/).
 
 Una tarea final para mis lectores: ¿cuántos euros por europeo representa la deuda griega de la que tanto se habla estos días en prensa? ¿Cuánto tendríamos que poner cada uno de nosotros encima de la mesa para olvidar tan insidioso asunto?

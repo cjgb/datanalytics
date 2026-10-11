@@ -20,7 +20,7 @@ title: Recurrencia recurrente
 url: /2015/02/11/recurrencia-recurrente/
 ---
 
-Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de [esto](https://aschinchon.wordpress.com/2015/02/10/mixing-waves/), es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de `eval` + `parse` para plagar el `namespace` de funciones.
+Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de [esto](https://web.archive.org/web/20160621032626/https://aschinchon.wordpress.com/2015/02/10/mixing-waves/), es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de `eval` + `parse` para plagar el `namespace` de funciones.
 
 La respuesta está en la recurrencia. He aquí mi versión del código:
 

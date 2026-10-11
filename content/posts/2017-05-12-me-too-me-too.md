@@ -23,7 +23,7 @@ url: /2017/05/12/me-too-me-too/
 
 ![](/img/2017/05/poplines.png#center)
 
-Las alturas corresponden a una cierta potencia de la población residente en la correspondiente rejilla. Los datos son del [SEDAC](http://sedac.ciesin.columbia.edu/) (Socioeconomic Data and Applications Center, Universidad de Columbia) y se pueden bajar gratis si te registras y rellenas un cuestionario tontaina.
+Las alturas corresponden a una cierta potencia de la población residente en la correspondiente rejilla. Los datos son del [SEDAC](https://web.archive.org/web/20241024101155/https://sedac.ciesin.columbia.edu/) (Socioeconomic Data and Applications Center, Universidad de Columbia) y se pueden bajar gratis si te registras y rellenas un cuestionario tontaina.
 
 El código,
 
@@ -64,4 +64,4 @@ El código,
                 plot.background=element_blank())
 ```
 
-Nota: se me olvidó escribir en el cuerpo lo que anunciaba el título, i.e., que esta entrada está inspirada (fusilada, de hecho) en lo esencial de [otras previas](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/).
+Nota: se me olvidó escribir en el cuerpo lo que anunciaba el título, i.e., que esta entrada está inspirada (fusilada, de hecho) en lo esencial de [otras previas](https://web.archive.org/web/20170507140325/http://spatial.ly:80/2017/04/population-lines-how-and-why-i-created-it/).

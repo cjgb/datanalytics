@@ -23,14 +23,14 @@ Aunque quienes siguen estas páginas recordarán cómo he hablado en ocasiones a
 En orden alfabético son:
 
 * [Advizor](http://www.advizorsolutions.com/), un producto orientado a _business managers_ fatigados de las servidumbres de los mastodontes corporativos típicos (léase: Business Objects, Microstrategy, etc.)
-* [Bime](https://web.archive.org/web/20110324050440/http://bimeanalytics.com/), en cuyas páginas encontré esta estupenda [_guía_ para la representación de datos](https://web.archive.org/web/20110318114737/http://bimeanalytics.com/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
+* [Bime](https://web.archive.org/web/20110324050440/http://bimeanalytics.com/), en cuyas páginas encontré esta estupenda [_guía_ para la representación de datos](https://web.archive.org/web/20110318114737/https://web.archive.org/web/20110318114737/http://bimeanalytics.com:80/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
 * [Centrifuge](http://www.centrifugesystems.com/), que hace hincapié en la interactividad.
 * [Data Desk](http://www.datadesk.com/)
 * Google también dispone una serie de herramientas de visualización dentro de su proyecto [public data explore](http://www.google.com/publicdata/home) y proporciona una serie de [APIs ](http://code.google.com/apis/publicdata/) para interactuar con él.
 * Iris Explorer (descatalagado), desarrollado por el [Numerical Algorithms Group.](http://www.nag.co.uk/)
 * [KNIME](https://en.wikipedia.org/wiki/KNIME), un viejo conocido de los lectores de este blog.
-* [Many Eyes](http://manyeyes.alphaworks.ibm.com), un proyecto de IBM que combina herramientas de visualización junto con una plataforma para que la comunidad de usuarios comparta conjuntos de datos, colabore en su análisis, etc.
-* [Miner3D](http://www.miner3d.com/), que tiene pinta de ser similar a Spotfire.
+* [Many Eyes](https://en.wikipedia.org/wiki/Many_Eyes), un proyecto de IBM que combina herramientas de visualización junto con una plataforma para que la comunidad de usuarios comparta conjuntos de datos, colabore en su análisis, etc.
+* [Miner3D](https://web.archive.org/web/20110201202944/http://miner3d.com/), que tiene pinta de ser similar a Spotfire.
 * [Mondrian](https://en.wikipedia.org/wiki/Mondrian_(software)), cuyo uso recomiento encarecidamente a mis lectores. Además, interactúa bastante bien con R. Aunque una vez tuve problemas para representar mapas con él.
 * [OpenViz](http://www.avs.com/products/openviz/), también orientado a aplicaciones empresariales, creación de cuadros de mando, etc.
 * [Protovis](http://vis.stanford.edu/protovis), que es _software_ libre desarrollado por la Universidad de Stanford y con el que se pueden crear visualizaciones limpias e impactantes a un tiempo.
@@ -39,7 +39,7 @@ En orden alfabético son:
 * [Starlight](https://en.wikipedia.org/wiki/Starlight_Information_Visualization_System).
 * [Tableau](http://www.tableausoftware.com/), del que solo he oído contar cosas buenas. Existen visualizaciones creadas con él verdaderamente impactantes. Y se lo he oído recomendar a un tipo del que me fío (aunque yo no lo haya usado directamente). ¡Una lástima que sea propietario!
 * [Viscovery](http://www.viscovery.net/)
-* [Visumap](http://www.visumap.net/), orientado a la visualización de datos multidimensionales
+* [Visumap](https://web.archive.org/web/20251011153425/http://visumap.net/), orientado a la visualización de datos multidimensionales
 
 La lista, advierto, no pretende ser exhaustiva. Posiblemente, ni están todos los que son y seguro que no lo son todos los que están. Pero para corregir constructivamente errores y omisiones está la sección de comentarios.
 

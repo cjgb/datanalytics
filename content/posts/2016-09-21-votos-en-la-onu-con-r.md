@@ -21,7 +21,7 @@ title: Votos en la ONU con R
 url: /2016/09/21/votos-en-la-onu-con-r/
 ---
 
-Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he generado
+Inspirado por [esto](https://web.archive.org/web/20161006012521/http://enelmargen.org:80/datascience/un-voting-patterns/) he generado
 
 ![votos_onu](/img/2016/09/votos_onu.png#center)
 

@@ -21,4 +21,4 @@ url: /2016/02/25/las-viii-jornadas-de-usuarios-de-r-en-albacete/
 
 Por si alguien aún no lo sabe: estamos todos citados en Albacete los días 17 y 18 de noviembre de 2016 en las VIII Jornadas de Usuarios de R.
 
-Los detalles, [aquí](http://r-es.org/8jornadasR/).
+Los detalles, [aquí](https://web.archive.org/web/20210228003457/http://r-es.org/8jornadasR/).

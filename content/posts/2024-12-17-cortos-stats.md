@@ -21,7 +21,7 @@ url: /2024/12/17/cortos-estadistica/
 [Este](https://statmodeling.stat.columbia.edu/2024/11/09/polling-by-asking-people-about-their-neighbors-when-does-this-work/)
 es un largo artículo de Andrew Gelman sobre lo que fue el gran pequeño tema de hace unas semanas: ¿funciona eso de preguntar en las encuestas sobre lo que opinan los vecinos o familiares de los encuestados? ¿Qué nos dice la evidencia?
 
-Escribí una vez ([aquí](https://piensoluegohesobrevivido.es/2024/mercados-apuestas/)) sobre las cuestiones éticas y económicas que subyacen en los mercados de predicciones.
+Escribí una vez ([aquí](https://web.archive.org/web/20251018073822/https://piensoluegohesobrevivido.es/2024/mercados-apuestas/)) sobre las cuestiones éticas y económicas que subyacen en los mercados de predicciones.
 El resumen es más o menos que estos mercados generan grandes externalidades positivas, pero que los agentes llamados a operar en ellos no pueden capturar suficiente valor, no les sale a cuenta. Por eso, algunos han llegado a plantear la posibilidad de subvencionarlos ---es decir, ofrecerles incentivos externos--- para que participen. Pero el hecho de que se intenten manipular (como se cuenta [aquí](https://x.com/Dumpster_DAO/status/1832148090452898235)) es, en el fondo, una buena noticia: no son irrelevantes.
 
 Andrew Gelman, de nuevo, predice el

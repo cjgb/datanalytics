@@ -21,7 +21,7 @@ url: /2012/01/23/nueve-reinas-con-sas-y-r-tambien/
 
 No sé si habéis visto la película argentina [Nueve reinas](http://es.wikipedia.org/wiki/Nueve_reinas). Trata de unos timadores que engatusan a incautos para sacarles la platica.
 
-Pero no voy a hablar de esas nueve reinas sino de las ocho de [_Solve Eight Queens Puzzle With SAS Macro_](http://web.archive.org/web/20120130120151/http://clinovo.com/userfiles/WUSS-Solve-Eight-Queens-Puzzle-With-SAS-Macro.pdf). De su introducción extraigo y traduzco:
+Pero no voy a hablar de esas nueve reinas sino de las ocho de [_Solve Eight Queens Puzzle With SAS Macro_](http://web.archive.org/web/20120130120151/https://web.archive.org/web/20120130120151/http://clinovo.com/userfiles/WUSS-Solve-Eight-Queens-Puzzle-With-SAS-Macro.pdf). De su introducción extraigo y traduzco:
 
 >_The Little SAS Book_ contiene un excelente ejemplo para ilustrar las diferencias entre SAS como lenguaje de programación y C++ mostrando lo complicado que puede resultar procesar conjuntos de datos con un lenguaje de propósito general. Son 28 líneas de código C++ y 5 de SAS para leer un fichero delimitado e imprimirlo por pantalla. Es un ejemplo perfecto de cómo SAS es un lenguaje de cuarta generación con un alto nivel de abstracción y expresividad.
 >

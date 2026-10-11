@@ -19,9 +19,9 @@ title: El paquete pxR, en CRAN
 url: /2011/07/28/el-paquete-pxr-en-cran/
 ---
 
-El 1 de junio [escribí en la lista de ayuda de R en español](https://stat.ethz.ch/pipermail/r-help-es/2011-June/002294.html) para ver si alguien se animaba a colaborar en la creación de un paquete de R para importar datos en [formato PC-Axis](http://www.scb.se/Pages/List____314011.aspx).
+El 1 de junio [escribí en la lista de ayuda de R en español](https://stat.ethz.ch/pipermail/r-help-es/2011-June/002294.html) para ver si alguien se animaba a colaborar en la creación de un paquete de R para importar datos en [formato PC-Axis](https://web.archive.org/web/20130523063522/http://www.scb.se:80/Pages/List____314011.aspx).
 
-Este formato es usado por [gran número de institutos estadísticos](http://www.scb.se/Pages/List____313990.aspx), entre ellos el INE español, para difundir y publicar datos en formato electrónico. Existe una herramienta gratuita pero cerrada para analizar este tipo de datos, pero clamaba al cielo que los usuarios de R no contásemos con una manera de importarlos directamente. Además, lo necesitaba para un pequeño proyecto (del que hablaré próximamente).
+Este formato es usado por [gran número de institutos estadísticos](https://web.archive.org/web/20121114005701/http://www.scb.se:80/Pages/List____313990.aspx), entre ellos el INE español, para difundir y publicar datos en formato electrónico. Existe una herramienta gratuita pero cerrada para analizar este tipo de datos, pero clamaba al cielo que los usuarios de R no contásemos con una manera de importarlos directamente. Además, lo necesitaba para un pequeño proyecto (del que hablaré próximamente).
 
 La diferencia esencial entre lo que debería ser un usuario de R y de otro tipo de _software_ estadístico es que el primero no se limita a resolver su problema: quiere también ayudar y facilitar la tarea de los demás. O eso piensa el autor de estas líneas en esos raros momentos en que se reconcilia con el género humano.
 

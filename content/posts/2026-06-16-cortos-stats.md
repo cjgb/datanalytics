@@ -22,7 +22,7 @@ title: 'Notas (25): el algoritmo de Feynman para encontrar «el mejor restaurant
 url: /2026/06/16/cortos-estadistica/
 ---
 
-Matthew Yglesias defiende [la siempre subestimada importancia de las disputas metodológicas aburridas](https://www.slowboring.com/p/the-neglected-importance-of-boring) en el debate político. Debates aparentemente fácticos en política dependen de [decisiones metodológicas complejas](/2026/06/04/jon-gonzalez/) sobre las que la gente pasa de puntillas. Por ejemplo, al analizar si los salarios reales en EEUU cayeron entre 1979 y 2014, la conclusión varía drásticamente según los supuestos y deflatores técnicos elegidos.
+Matthew Yglesias defiende [la siempre subestimada importancia de las disputas metodológicas aburridas](https://www.slowboring.com/p/the-neglected-importance-of-boring) en el debate político. Debates aparentemente fácticos en política dependen de [decisiones metodológicas complejas](/2026/06/11/jon-gonzalez/) sobre las que la gente pasa de puntillas. Por ejemplo, al analizar si los salarios reales en EEUU cayeron entre 1979 y 2014, la conclusión varía drásticamente según los supuestos y deflatores técnicos elegidos.
 
 En una entrada de 2017 titulada [_If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics_](https://www.lesswrong.com/posts/9Tw5RqnEzqEtaoEkq/if-it-s-worth-doing-it-s-worth-doing-with-made-up-statistics), Scott Alexander aboga por el uso de estimaciones numéricas aproximadas y «cifras inventadas» en marcos de decisión formales (como el utilitarismo o la inferencia bayesiana). Sostiene que, aunque estas cuantificaciones sean imprecisas, siguen aportando información útil y superan con creces a la intuición humana pura, que, como es bien sabido, suele sufrir sesgos graves.
 

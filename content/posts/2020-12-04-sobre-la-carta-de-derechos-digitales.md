@@ -21,7 +21,7 @@ title: Sobre la "Carta de Derechos  Digitales"
 url: /2020/12/04/sobre-la-carta-de-derechos-digitales/
 ---
 
-No cualquier ministerio sino precisamente el de economía (lo subrayo: es muy relevante para lo que sigue) ha colgado de su portal una (propuesta de) _[Carta de Derechos Digitales](https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/SEDIACartaDerechosDigitales.pdf)_ para su [pública consulta](https://portal.mineco.gob.es/es-es/ministerio/participacionpublica/audienciapublica/Paginas/SEDIA_Carta_Derechos_Digitales.aspx).
+No cualquier ministerio sino precisamente el de economía (lo subrayo: es muy relevante para lo que sigue) ha colgado de su portal una (propuesta de) _[Carta de Derechos Digitales](https://web.archive.org/web/20260919221836/https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/SEDIACartaDerechosDigitales.pdf)_ para su [pública consulta](https://web.archive.org/web/20201205212346/https://portal.mineco.gob.es/es-es/ministerio/participacionpublica/audienciapublica/Paginas/SEDIA_Carta_Derechos_Digitales.aspx).
 
 Se trata de un documento confuso, en el que se mezclan propuestas que afectan a ámbitos muy heterogéneos, desde el _transhumanismo_,
 
