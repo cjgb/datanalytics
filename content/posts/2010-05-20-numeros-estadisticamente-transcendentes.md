@@ -30,6 +30,6 @@ Y no solo porque
 
 > Usted puede elegir entre tener unas ciertas nociones claras de matemática o no tenerlas, pero debe saber que si no las tiene, es usted una persona mucho más manipulable que en el caso contrario.
 
-(que es una cita de [John Allen Paulos](http://es.wikipedia.org/wiki/El_hombre_anum%C3%A9rico) posiblemente apócrifa porque no consigo encontrarla en mis copias (física en español y electrónica en inglés) del libro al que se supone que pertenece), sino por las [consecuencias socialmente devastadoras que puede llegar a acarrear nuestro indolente anumerismo](http://www.economist.com/business-finance/displaystory.cfm?story_id=16113147).
+(que es una cita de [John Allen Paulos](http://es.wikipedia.org/wiki/El_hombre_anum%C3%A9rico) posiblemente apócrifa porque no consigo encontrarla en mis copias (física en español y electrónica en inglés) del libro al que se supone que pertenece), sino por las [consecuencias socialmente devastadoras que puede llegar a acarrear nuestro indolente anumerismo](https://web.archive.org/web/20190824031313/http://www.economist.com/business-finance/displaystory.cfm?story_id=16113147).
 
 Y como abrebocas de la nueva serie de entradas que seguirá, [un enlace](http://www.worldometers.info).

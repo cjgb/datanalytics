@@ -87,4 +87,4 @@ leaflet() %>% addTiles() %>%
     attribution = "")
 ```
 
-Se pueden añadir otras capas a estos últimos mapas cambiando lo que haya que cambiar después de leer [esto](http://www.catastro.minhap.gob.es/documentos/nuevowms_porcapas.pdf).
+Se pueden añadir otras capas a estos últimos mapas cambiando lo que haya que cambiar después de leer [esto](https://web.archive.org/web/20171118182244/http://www.catastro.minhap.gob.es:80/documentos/nuevowms_porcapas.pdf).

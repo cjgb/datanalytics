@@ -33,7 +33,7 @@ Preguntado Google por la materia, aterrizo en [una página de la agencia estadou
 
 Ahora tenemos una tercera opinión: la del empate.
 
-Google también me conduce a una [página de divulgación para niños de la NASA](http://scijinks.jpl.nasa.gov/tides/) (para niños, sí, pero de la NASA) donde se da a entender que la causa es la luna, aunque con influencia del sol, el viento, etc.
+Google también me conduce a una [página de divulgación para niños de la NASA](https://web.archive.org/web/20161006012600/http://scijinks.jpl.nasa.gov:80/tides/) (para niños, sí, pero de la NASA) donde se da a entender que la causa es la luna, aunque con influencia del sol, el viento, etc.
 
 Finalmente, la [Wikipedia](https://en.wikipedia.org/wiki/Tidal_force) nos escribe y nos justifica las fórmulas relevantes y concluye que
 

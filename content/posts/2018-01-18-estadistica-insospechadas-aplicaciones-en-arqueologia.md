@@ -32,7 +32,7 @@ Se han descubierto tablillas tales como
 
 (que es el primer bono del que se tiene constancia) en las que se lee que alguien llevó tanta plata de la ciudad X a la Y, etc.
 
-Los autores [_Trade, Merchants and Lost Cities of the Bronze Age_](http://web.archive.org/web/20170716210546/http://www.princeton.edu/%7Eies/IESWorkshopS2017/ChaneyPaper.pdf), usando una muestra de unas 5000 tablillas, modelaron este tráfico usando un [modelo de gravedad](https://en.wikipedia.org/wiki/Gravity_model_of_trade), es decir,
+Los autores [_Trade, Merchants and Lost Cities of the Bronze Age_](http://web.archive.org/web/20170716210546/https://web.archive.org/web/20170716210546/http://www.princeton.edu/%7Eies/IESWorkshopS2017/ChaneyPaper.pdf), usando una muestra de unas 5000 tablillas, modelaron este tráfico usando un [modelo de gravedad](https://en.wikipedia.org/wiki/Gravity_model_of_trade), es decir,
 
 $$ \log(X{ij}) = z_i + z_j + \delta \log(d_{ij}) + \epsilon_{ij}$$
 

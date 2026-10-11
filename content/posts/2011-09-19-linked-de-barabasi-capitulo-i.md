@@ -21,7 +21,7 @@ url: /2011/09/19/linked-de-barabasi-capitulo-i/
 
 No sé si seguir leyendo libros. Sus autores los llenan de letras. Y es un lujo poder disponer del tiempo de leerlas todas.
 
-Uno de esos libros llenos de letras es [Linked](http://portal.educ.ar/debates/sociedad/sociedad-conocimiento/sobre-la-ciencia-de-las-redes-y-el-linked-de-barabasi.php), de Barabasi. Es un libro estupendo y recomendable. Pero podría ocupar 20 páginas si el autor fuese un poco más escueto y no se empeñase de llenarlo todo de anécdotas y colores.
+Uno de esos libros llenos de letras es [Linked](https://web.archive.org/web/20110926022900/http://portal.educ.ar:80/debates/sociedad/sociedad-conocimiento/sobre-la-ciencia-de-las-redes-y-el-linked-de-barabasi.php), de Barabasi. Es un libro estupendo y recomendable. Pero podría ocupar 20 páginas si el autor fuese un poco más escueto y no se empeñase de llenarlo todo de anécdotas y colores.
 
 Su primer capítulo trata sobre las redes sociales aleatorias, también conocidas como redes de Poisson o de Erdös-Rényi. Una de tales redes aleatorias es una colección de _n_ nodos y enlaces entre ellos de manera que la probabilidad de que dos nodos _x_ e _y_ al azar estén unidos es _p_.
 

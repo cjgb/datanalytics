@@ -21,4 +21,4 @@ url: /2023/09/12/dos-nuevos-libros-estadistica/
 Son:
 
 - [_El detective Salazar y los modelos bayesianos_](https://torres.epv.uniovi.es/centon/detective-salazar-23.html) de Emilio Torres Manzanera.
-- [_Fundamentos de estadística_](https://verso.mat.uam.es/~joser.berrendero/libro-est/) de José Ramón Barrendero.
+- [_Fundamentos de estadística_](https://web.archive.org/web/20231003164554/https://verso.mat.uam.es/~joser.berrendero/libro-est/) de José Ramón Barrendero.

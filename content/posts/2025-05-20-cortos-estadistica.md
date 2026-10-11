@@ -27,7 +27,7 @@ Hay una diferencia sustancial entre el bayesianismo abstracto y el aplicado (o c
 
 [Aquí](https://statmodeling.stat.columbia.edu/2025/03/20/why-i-use-the-term-forking-paths/), alguien propone una alternativa al término _caminos que se bifurcan_ (en inglés, _forking paths_). Uno de los argumentos que esgrime para dejar de usar la expresión es que solo _resuena_ en quienes han leído a Borges. Aquí nos gusta _particularmente_ por eso.
 
-Una de mis obsesiones es el estudio de las interacciones en los modelos y todo lo que podemos aprender de ellas. Pero en [_Dear Political Scientists: The binning estimator violates ceteris paribus_](https://datacolada.org/123), los autores de DataColada muestran cómo en ciertas situaciones, la no-linealidad puede hacer aflorar interacciones espurias.
+Una de mis obsesiones es el estudio de las interacciones en los modelos y todo lo que podemos aprender de ellas. Pero en [_Dear Political Scientists: The binning estimator violates ceteris paribus_](https://web.archive.org/web/20260831153801/https://datacolada.org/123), los autores de DataColada muestran cómo en ciertas situaciones, la no-linealidad puede hacer aflorar interacciones espurias.
 
 La regla general es no mostrar más dígitos que los verdaderamente significativos (creía haber tratado el tema previamente, pero parece que no). Sin embargo, [Dynomight discrepa](https://dynomight.substack.com/p/digits): quiere ver muchos dígitos para, en particular, ser capaz de detectar fraude (y, en general, de tener cierta evidencia acerca de las operaciones realizadas).
 

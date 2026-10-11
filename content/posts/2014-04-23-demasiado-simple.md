@@ -25,7 +25,7 @@ Mi detector de pendejadas tuvo más trabajo del habitual mientras leía [_Equida
 
 ![pisa_vs_nivel_educativo_padres](/img/2014/04/pisa_vs_nivel_educativo_padres.png#center)
 
-recogidos en este [informe del Ministerio de Educación sobre los resultados de PISA para España en 2012](http://www.mecd.gob.es/dctm/inee/internacional/pisa2012-resolucionproblemas/pisa2012cba-1-4-2014-web.pdf?documentId=0901e72b8190478c). En realidad, no son los resultados de PISA sino de un estudio piloto paralelo sobre una submuestra de la muestra de estudiantes a los que se ha examinado por ordenador y no con el tradicional cuestionario de papel. Insisto: tengo la sensación de que son esos los datos porque el autor del artículo no cita sus fuentes sino vagamente.
+recogidos en este [informe del Ministerio de Educación sobre los resultados de PISA para España en 2012](https://web.archive.org/web/20180328160906/http://www.mecd.gob.es:80/dctm/inee/internacional/pisa2012-resolucionproblemas/pisa2012cba-1-4-2014-web.pdf?documentId=0901e72b8190478c). En realidad, no son los resultados de PISA sino de un estudio piloto paralelo sobre una submuestra de la muestra de estudiantes a los que se ha examinado por ordenador y no con el tradicional cuestionario de papel. Insisto: tengo la sensación de que son esos los datos porque el autor del artículo no cita sus fuentes sino vagamente.
 
 Creo que el ínclito don Saturnino, su autor, mea no solo fuera sino lejos del tiesto al denominar _élites_ a ese 49% de la población de papás con algún estudio no básico, incluida la FP. Yo sería harto menos liberal en el uso del término y jamás lo rebajaría hasta los lindes de la mediana. Pero bueno.
 

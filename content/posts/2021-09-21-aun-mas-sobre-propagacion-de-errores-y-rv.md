@@ -42,7 +42,7 @@ Pero hoy quiero hablar de [`rv`](https://cran.r-project.org/web/packages/rv/), u
 
 Tal hace `rv`: implementa un _álgebra_ de variables aleatorias.
 
-Lo hace, además, no siguiendo ninguno de los dos métodos mencionados más arriba _---_aunque bueno, sí, concedo que utiliza uno relacionado con el segundo_---_: cada _valor_, cada _magnitud_, es un objeto que esconde cierto número (¿varios miles?) de muestras de su distribución. Aplicarle $f$ equivale a aplicar $f$ a esas muestras subyacentes; sumar dos de ellas _---_supuestas independientes_---_, a tomar una muestra de sumas de las muestras; y más cosas que pueden consultarse [aquí](https://cran.r-project.org/web/packages/rv/vignettes/rv-doc.html).
+Lo hace, además, no siguiendo ninguno de los dos métodos mencionados más arriba _---_aunque bueno, sí, concedo que utiliza uno relacionado con el segundo_---_: cada _valor_, cada _magnitud_, es un objeto que esconde cierto número (¿varios miles?) de muestras de su distribución. Aplicarle $f$ equivale a aplicar $f$ a esas muestras subyacentes; sumar dos de ellas _---_supuestas independientes_---_, a tomar una muestra de sumas de las muestras; y más cosas que pueden consultarse [aquí](https://web.archive.org/web/20210920000052/https://cran.r-project.org/web/packages/rv/vignettes/rv-doc.html).
 
 Lo cual es una muy buena noticia.
 

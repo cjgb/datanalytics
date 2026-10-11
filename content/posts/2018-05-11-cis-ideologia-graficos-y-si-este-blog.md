@@ -20,7 +20,7 @@ title: CIS, ideología, gráficos y, sí, este blog
 url: /2018/05/11/cis-ideologia-graficos-y-si-este-blog/
 ---
 
-Si no estáis suscritos a [`@politibot`](https://politibot.io/) en Telegram, hacedlo (y si no usáis Telegram, hacedlo también).
+Si no estáis suscritos a [`@politibot`](https://web.archive.org/web/20180511110249/https://politibot.io/) en Telegram, hacedlo (y si no usáis Telegram, hacedlo también).
 
 Hoy hablaban del último barómetro del CIS y han tenido la gentileza de mencionarme:
 

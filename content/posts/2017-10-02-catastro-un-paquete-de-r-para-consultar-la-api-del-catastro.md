@@ -20,8 +20,8 @@ title: CatastRo, un paquete de R para consultar la API del Catastro
 url: /2017/10/02/catastro-un-paquete-de-r-para-consultar-la-api-del-catastro/
 ---
 
-Informo de que está disponible en GitHub el [paquete CatastRo](https://github.com/DelgadoPanadero/CatastRo) para consultar la [API pública del Catastro](https://ovc.catastro.meh.es/ovcservweb/ovcswlocalizacionrc/ovccoordenadas.asmx).
+Informo de que está disponible en GitHub el [paquete CatastRo](https://web.archive.org/web/20201101032345/https://github.com/DelgadoPanadero/CatastRo) para consultar la [API pública del Catastro](https://ovc.catastro.meh.es/ovcservweb/ovcswlocalizacionrc/ovccoordenadas.asmx).
 
 No es una API particularmente extensa, pero es de esperar que se amplíe el catálogo de servicios disponible cuando comencemos a machacarla (o no: a saber qué hay en la mente de esa gente).
 
-El paquete es el trabajo de fin de máster de mi alumno [Ángel Delgado Panadero](https://github.com/DelgadoPanadero) en el máster de ciencia de datos de la UTAD.
+El paquete es el trabajo de fin de máster de mi alumno [Ángel Delgado Panadero](https://web.archive.org/web/20201101032345/https://github.com/DelgadoPanadero) en el máster de ciencia de datos de la UTAD.

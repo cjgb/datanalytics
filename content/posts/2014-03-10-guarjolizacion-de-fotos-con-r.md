@@ -22,7 +22,7 @@ title: Guarjolización de fotos con R
 url: /2014/03/10/guarjolizacion-de-fotos-con-r/
 ---
 
-Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-with-clara/) aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
+Inspirado en [esto](https://web.archive.org/web/20170526174845/https://aschinchon.wordpress.com/2014/03/03/warholing-grace-with-clara/) aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
 
 ```r
 library("biOps")

@@ -30,9 +30,9 @@ Por eso me limitaré a colgar los vídeos de las [charlas del Medialab Prado a l
 [![](/img/2011/11/medialab_prado_cairo.png#center)
 ](http://medialab-prado.es/article/el_arte_funcional)
 
-En segundo lugar, [Desgranando visualizaciones; Eurovision y la Crisis](http://medialab-prado.es/article/desgranando_visualizaciones), de Alberto Alcaraz:
+En segundo lugar, [Desgranando visualizaciones; Eurovision y la Crisis](https://web.archive.org/web/20111129052601/http://medialab-prado.es:80/article/desgranando_visualizaciones), de Alberto Alcaraz:
 
 [![](/img/2011/11/medialab_prado_alcaraz.png#center)
-](http://medialab-prado.es/article/desgranando_visualizaciones)
+](https://web.archive.org/web/20111129052601/http://medialab-prado.es:80/article/desgranando_visualizaciones)
 
 ¡Disfrutad!

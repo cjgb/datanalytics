@@ -24,7 +24,7 @@ El _yuyuplot_ al que me refiero es
 
 ![scary_plot_dj](/img/2014/02/scary_plot_dj.jpg)
 
-un gráfico que ha circulado por internet y que, de ahí el nombre, [ha causado cierto pánico](http://www.marketwatch.com/story/scary-1929-market-chart-gains-traction-2014-02-11). En algunos sitios —véase [este](http://www.gurusblog.com/archives/dow-jones-sp500-grafico-comparativa-1929/04/02/2014/) como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
+un gráfico que ha circulado por internet y que, de ahí el nombre, [ha causado cierto pánico](https://web.archive.org/web/20140218122851/http://www.marketwatch.com/story/scary-1929-market-chart-gains-traction-2014-02-11). En algunos sitios —véase [este](http://www.gurusblog.com/archives/dow-jones-sp500-grafico-comparativa-1929/04/02/2014/) como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
 
 El mundo de las finanzas debiera ser la envidia de otros ámbitos por el volumen, variedad y velocidad de los datos disponibles en él. Además, desde tiempo atrás, mucho antes de que el siglo nos trajese el _big data_, la transparencia, el _opendetodo_ y otras concomitancias. A la vez, sin embargo, es inagotable fuente de ejemplos de uso pueril de esos datos. El que nos ocupa es uno de ellos.
 

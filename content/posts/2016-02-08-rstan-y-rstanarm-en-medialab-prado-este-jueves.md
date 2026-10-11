@@ -23,7 +23,7 @@ title: rstan y rstanarm en Medialab-Prado este jueves
 url: /2016/02/08/rstan-y-rstanarm-en-medialab-prado-este-jueves/
 ---
 
-Este jueves (2016-02-11), a las 19:00, hablaré de [`rstan`](https://cran.r-project.org/web/packages/rstan/index.html) y de [`rstanarm`](https://cran.r-project.org/web/packages/rstanarm/index.html) en [Medialab-Prado](http://medialab-prado.es/article/donde_y_cuando) dentro de la reunión de usuarios de R de Madrid. Con el concurso de estos paquetes, replantearé tres problemas estadísticos conocidos desde una óptica bayesiana:
+Este jueves (2016-02-11), a las 19:00, hablaré de [`rstan`](https://cran.r-project.org/web/packages/rstan/index.html) y de [`rstanarm`](https://cran.r-project.org/web/packages/rstanarm/index.html) en [Medialab-Prado](https://web.archive.org/web/20150123013524/http://medialab-prado.es:80/article/donde_y_cuando) dentro de la reunión de usuarios de R de Madrid. Con el concurso de estos paquetes, replantearé tres problemas estadísticos conocidos desde una óptica bayesiana:
 
 * Pruebas de hipótesis
 * Regresión lineal

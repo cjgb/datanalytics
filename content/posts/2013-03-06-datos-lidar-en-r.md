@@ -24,7 +24,7 @@ En la reunión del [grupo de interés local (GIL) de R de Madrid](http://r-es.or
 
 En efecto, uno quiere estimar la cantidad de madera que hay en un monte. Uno entonces la calcula en unas pequeñas zonas y luego, barriendo el monte con pulsos de láser desde un avión toma medidas `(x,y,z)` (es decir, longitud, latitud y altura) en una malla fina de puntos. Esa malla permite identificar, por ejemplo, la densidad y altura de los árboles. Correlacionando estas variables _proxy_ con la cantidad de madera, se puede, por ejemplo, estimar por extrapolación la cantidad total de madera que contiene el monte entero.
 
-Sin embargo, los datos LIDAR se generan habitualmente en un formato, LAS, libre pero binario e ilegible. Que no parecen poder leerse con R aún. Aunque [sí con Python](http://www.liblas.org/python.html), así que...
+Sin embargo, los datos LIDAR se generan habitualmente en un formato, LAS, libre pero binario e ilegible. Que no parecen poder leerse con R aún. Aunque [sí con Python](https://web.archive.org/web/20260620145956/https://liblas.org/python.html), así que...
 
 ```r
 library(rPython)

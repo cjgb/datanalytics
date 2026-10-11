@@ -38,6 +38,6 @@ El resto del resumen describe la situación mejor que yo lo haría:
 
 >Hundreds of papers and hundreds of factors attempt to explain the cross-section of expected returns. Given this extensive data mining, it does not make any economic or statistical sense to use the usual significance criteria for a newly discovered factor, e.g., a t-ratio greater than 2.0. However, what hurdle should be used for current research? Our paper introduces a multiple testing framework and provides a time series of historical significance cutoffs from the first empirical tests in 1967 to today. We also project forward 20 years assuming the rate of factor production remains similar to the experience of the last few years. We argue that today a newly discovered factor needs to clear a much higher hurdle, with a t-ratio greater than 3.0.
 
-Es decir, exigir [p-valores del orden del 0.003](http://blogs.scientificamerican.com/observations/2012/07/17/five-sigmawhats-that/).
+Es decir, exigir [p-valores del orden del 0.003](https://web.archive.org/web/20150428065024/http://blogs.scientificamerican.com:80/observations/2012/07/17/five-sigmawhats-that/).
 
 Ah, y el artículo de la literatura médica al que se refieren los autores está comentado [aquí](https://datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).

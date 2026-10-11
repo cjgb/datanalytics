@@ -45,4 +45,4 @@ Alex Albert [recomendando](https://x.com/alexalbert__/status/1824136151701360756
 
 LLMs para [reordenar resultados de búsqueda por relevancia](https://x.com/dzhng/status/1822380811372642378).
 
-Finalmente, un [segmentador de imágenes de Meta](https://ai.meta.com/blog/segment-anything-2/).
+Finalmente, un [segmentador de imágenes de Meta](https://web.archive.org/web/20260915135325/https://ai.meta.com/blog/segment-anything-2/).

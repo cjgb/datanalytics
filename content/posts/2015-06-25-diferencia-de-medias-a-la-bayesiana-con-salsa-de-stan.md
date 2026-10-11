@@ -55,7 +55,7 @@ t.test(y1, y2)
 # 0.5469470 -0.3604705
 ```
 
-En [`rstan`](http://mc-stan.org/rstan.html),
+En [`rstan`](https://web.archive.org/web/20150726193759/http://mc-stan.org:80/rstan.html),
 
 ```r
 library(rstan)

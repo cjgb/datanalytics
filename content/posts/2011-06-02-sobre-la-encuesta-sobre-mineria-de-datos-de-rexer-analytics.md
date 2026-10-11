@@ -26,4 +26,4 @@ Hace unos días se publicaron los resultados de la cuarta encuesta anual de mine
 * En cuanto a las herramientas, la más utilizada es R. El 43% de los encuestados afirmaron haberlo usado. Sin embargo, como herramienta básica de trabajo, la más usada parece ser STATISTICA, usada por un 18% de los encuestados. Las herramientas mejor valoradas fueron STATISTICA, IBM SPSS Modeller y R.
 * La mayor parte del análisis sigue realizándose en ordenadores personales, con los datos almacenados en local. Lo mismo ocurre a la hora de realizar el scoring. Los usuarios que más utilizan PMML son quienes emplean STATISTICA.
 
-Y más detalles pueden descargarse de la [página de la encuesta](http://www.rexeranalytics.com/Data-Miner-Survey-Results-2010.html).
+Y más detalles pueden descargarse de la [página de la encuesta](https://web.archive.org/web/20110715180115/http://www.rexeranalytics.com/Data-Miner-Survey-Results-2010.html).

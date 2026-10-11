@@ -26,4 +26,4 @@ Una de las cosas que menos me canso de repetir es que R no es (solo) un lenguaje
 
 Casi todo el tiempo que paso con R abierto lo consumo trabajando interactivamente, no programando. R está pensado para facilitar ese tipo de trabajo, no para crear programas complejos. Está optimizado para el usuario, no para la máquina. De ahí se sigue una cascada de corolarios que no ha lugar plantear aquí.
 
-[agate](http://agate.readthedocs.org/en/1.0.0/index.html#) es una librería de Python con el mismo objetivo: facilitar la exploración interactiva. Llega tarde, soluciona problemas que muchos de los que leen estas páginas ya no tienen, pero ahí está.
+[agate](https://web.archive.org/web/20160417152343/http://agate.readthedocs.org:80/en/1.0.0/index.html) es una librería de Python con el mismo objetivo: facilitar la exploración interactiva. Llega tarde, soluciona problemas que muchos de los que leen estas páginas ya no tienen, pero ahí está.

@@ -27,4 +27,4 @@ Diríase que la tasa palentina es enorme, cinco veces la nacional. Pero en Palen
 
 No voy a hacer comentarios.
 
-Eso sí, aprovecho para decir que ignoro por qué llaman estadística la acción y efecto de contar 50-70 casos anuales. Con un listado (como [este](http://asociacionhierbabuena.com/node/82), que cabe en un par de folios) sobraría.
+Eso sí, aprovecho para decir que ignoro por qué llaman estadística la acción y efecto de contar 50-70 casos anuales. Con un listado (como [este](https://web.archive.org/web/20140301122032/http://asociacionhierbabuena.com:80/node/82), que cabe en un par de folios) sobraría.

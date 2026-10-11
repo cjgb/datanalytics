@@ -62,4 +62,4 @@ system.time( replicate( 1e5, { a <- (1:100); a[1] <- 12  } ) )
 system.time( replicate( 1e5, { a <- (1:100); a[1] <- 12L } ) )
 ```
 
-Lectores míos, no seáis perezosos y haced, cuando menos, `?tracemem` en vuestra consola. Una vez leída la [página de ayuda](http://www.inside-r.org/r-doc/base/tracemem), ¿se os ocurre algún truco para ahorrar mucha memoria cuando trabajáis con objetos (p.e., matrices) grandes de enteros?
+Lectores míos, no seáis perezosos y haced, cuando menos, `?tracemem` en vuestra consola. Una vez leída la [página de ayuda](https://web.archive.org/web/20160529001053/http://www.inside-r.org:80/r-doc/base/tracemem), ¿se os ocurre algún truco para ahorrar mucha memoria cuando trabajáis con objetos (p.e., matrices) grandes de enteros?

@@ -24,7 +24,7 @@ En [Nada es Gratis](http://www.fedeablogs.net/economia/?p=26796) analizan el fen
 
 ¿Será cierto? ¿En qué medida?
 
-Según las [ponderaciones del IPC Nacional de subclases](http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=IPP&idtab=28) para el 2012, _carburantes y lubricantes_ tiene un peso del 6,4461 % en el índice. Es decir, el precio de _carburantes y lubricantes_ tiene que caer el 1,55% para que el IPC baje una décima. Según el INE, el [índice de precios de esta subclase](http://www.ine.es/jaxiBD/tabla.do?per=01&type=db&divi=IPC&idtab=113#nogo) ha sufrido un descenso del 4,6%, lo que explicaría tres de las seis décimas del descenso del índice (del 3.5 al 2.9). Otras subclases han bajado más (hoteles, el 6.4%, por ejemplo, pero tienen un peso unas diez veces menor en el índice).
+Según las [ponderaciones del IPC Nacional de subclases](http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=IPP&idtab=28) para el 2012, _carburantes y lubricantes_ tiene un peso del 6,4461 % en el índice. Es decir, el precio de _carburantes y lubricantes_ tiene que caer el 1,55% para que el IPC baje una décima. Según el INE, el [índice de precios de esta subclase](https://web.archive.org/web/20131114151354/http://www.ine.es/jaxiBD/tabla.do?per=01&type=db&divi=IPC&idtab=113#nogo) ha sufrido un descenso del 4,6%, lo que explicaría tres de las seis décimas del descenso del índice (del 3.5 al 2.9). Otras subclases han bajado más (hoteles, el 6.4%, por ejemplo, pero tienen un peso unas diez veces menor en el índice).
 
 De este país me creo ya casi cualquier cosa. Incluso que el gobierno es capaz de llamar a Repsol, Cepsa y BP y regatear con ellos tres décimillas de IPC a cambio de vaya Vd. a saber qué cosa.
 

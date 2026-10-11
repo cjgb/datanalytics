@@ -21,7 +21,7 @@ title: ¿Creer o no creer?
 url: /2012/04/02/creer-o-no-creer/
 ---
 
-El otro día me llegó por correo el [Informe sobre el Uso del Software Libre en los Hogares Españoles 2011](http://www.cenatic.es/dossier/panel-informe-hogar2011). Lo realiza el [CENATIC](http://www.cenatic.es/), Centro Nacional de Referencia de Aplicación de las Tecnologías de Información y la Comunicación basadas en Fuentes Abiertas, por lo que uno espera, de antemano, cierto sesgo.
+El otro día me llegó por correo el [Informe sobre el Uso del Software Libre en los Hogares Españoles 2011](https://web.archive.org/web/20170703100909/http://www.cenatic.es:80/dossier/panel-informe-hogar2011). Lo realiza el [CENATIC](http://www.cenatic.es/), Centro Nacional de Referencia de Aplicación de las Tecnologías de Información y la Comunicación basadas en Fuentes Abiertas, por lo que uno espera, de antemano, cierto sesgo.
 
 Una de las tablas de resultados es:
 
@@ -29,7 +29,7 @@ Una de las tablas de resultados es:
 
 Entiendo que los porcentajes de uso se refieren al universo de la población española, extrapolados mediante un [...] _muestreo por cuotas, donde se incluyen cuotas con afijación proporcional al peso real de la población objeto, obteniendo estos datos del Instituto Nacional de Estadística, en el período más actualizado_.
 
-Pero, ¿veis el porcentaje de uso de Linux? ¿Cómo puede ser que difiera tanto de estimaciones como [esta](http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=0&qpaf=-000%09101%09ES%0D) o [esta](http://royal.pingdom.com/2011/05/12/the-top-20-strongholds-for-desktop-linux/)?
+Pero, ¿veis el porcentaje de uso de Linux? ¿Cómo puede ser que difiera tanto de estimaciones como [esta](http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=0&qpaf=-000%09101%09ES%0D) o [esta](https://web.archive.org/web/20120415133446/http://royal.pingdom.com:80/2011/05/12/the-top-20-strongholds-for-desktop-linux/)?
 
 Puede que la desviación se deba al modo en que se ha realizado la encuesta:
 

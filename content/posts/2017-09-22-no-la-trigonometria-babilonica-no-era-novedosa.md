@@ -26,6 +26,6 @@ Supongo que en agosto todo vale en prensa. Así [_Solucionado un enigma matemát
 
 No, la trigonometría babilónica no puede ser llamada _novedosa_ hoy en día. En el mejor de los casos, se puede decir que son muy meritorios balbuceos trigonométricos.
 
-Respecto a la novedad de todo lo que se comenta de la tablilla en cuestión, [véase esta página de la UNED de hace más de diez años](http://www2.uned.es/geo-1-historia-antigua-universal/ASIRIA/BABILONIA/PLIMTOM%20322.htm).
+Respecto a la novedad de todo lo que se comenta de la tablilla en cuestión, [véase esta página de la UNED de hace más de diez años](https://web.archive.org/web/20221126130300/https://www2.uned.es/geo-1-historia-antigua-universal/ASIRIA/BABILONIA/PLIMTOM%20322.htm).
 
 Para acabar, lo único serio que he encontrado al respecto de la noticia es [esto](https://blogs.scientificamerican.com/roots-of-unity/dont-fall-for-babylonian-trigonometry-hype/).

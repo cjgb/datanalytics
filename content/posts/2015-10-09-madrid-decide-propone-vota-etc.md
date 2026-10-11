@@ -22,15 +22,15 @@ title: Madrid decide, propone, vota, etc.
 url: /2015/10/09/madrid-decide-propone-vota-etc/
 ---
 
-De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca el desarrollo de plataformas como [Agora](https://agoravoting.com/) y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado. Estoy al tanto de los problemas que ha planteado la democracia directa en California (sobre lo que recomiendo [esto](http://www.economist.com/node/18548119)). Etc.
+De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca el desarrollo de plataformas como [Agora](https://agoravoting.com/) y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado. Estoy al tanto de los problemas que ha planteado la democracia directa en California (sobre lo que recomiendo [esto](https://web.archive.org/web/20190919145225/http://www.economist.com/node/18548119)). Etc.
 
 En Madrid se ha creado una [plataforma de democracia directa](https://decide.madrid.es/proposals). Para que una propuesta genere una respuesta de la administración tiene que recoger el apoyo de un 2% del censo, unas 53000 personas.
 
 ¿Mucho o poco? Examinemos la cifra comparativamente.
 
-El _budget participatif_ de París, por ejemplo, [eligió en 2014 nueve proyectos](https://budgetparticipatif.paris.fr/bp/je-vote.html) con presupuestos entre uno y tres millones de euros. El número de votos de los ganadores (en una ciudad mucho más poblada que Madrid) rondó entre los 5k y los 9k.
+El _budget participatif_ de París, por ejemplo, [eligió en 2014 nueve proyectos](https://web.archive.org/web/20150906081636/https://budgetparticipatif.paris.fr/bp/je-vote.html) con presupuestos entre uno y tres millones de euros. El número de votos de los ganadores (en una ciudad mucho más poblada que Madrid) rondó entre los 5k y los 9k.
 
-Un sistema parecido al de Madrid que impulsa el gobierno estadounidense, [We the People](https://petitions.whitehouse.gov/), exige 100k votos para tener en cuenta una petición.
+Un sistema parecido al de Madrid que impulsa el gobierno estadounidense, [We the People](https://en.wikipedia.org/wiki/We_the_People_(petitioning_system)), exige 100k votos para tener en cuenta una petición.
 
 Con esos antecedentes, ¿habrá alguna petición que alcance alguna vez los 53k votos necesarios en Madrid?
 

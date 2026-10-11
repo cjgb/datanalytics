@@ -20,7 +20,7 @@ title: '"Tu tasa de paro" en Medialab Prado'
 url: /2013/04/15/tu-tasa-de-paro-en-medialab-prado/
 ---
 
-El martes (2013-04-15 en formato [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601)) participaré en el [II Barcamp de Periodismo de Datos en Medialab Prado](http://medialab-prado.es/article/barcam_periodismo_datos_11) de 5:00 a 8:00 de la tarde.
+El martes (2013-04-15 en formato [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601)) participaré en el [II Barcamp de Periodismo de Datos en Medialab Prado](https://web.archive.org/web/20130420064806/http://medialab-prado.es/article/barcam_periodismo_datos_11) de 5:00 a 8:00 de la tarde.
 
 [![](/img/2013/01/mi_tasa_paro_personal.png#center)
 ](http://tutasadeparo.es/)

@@ -17,7 +17,7 @@ title: Como leáis esta entrada aprenderéis tanto como lo que desaprenderéis
 url: /2014/10/07/como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis/
 ---
 
-En serio, aviso: aprenderéis tanto como desaprenderéis si leéis [esto](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/).
+En serio, aviso: aprenderéis tanto como desaprenderéis si leéis [esto](https://web.archive.org/web/20141009171358/http://home.comcast.net:80/~tom.fawcett/public_html/ML-gallery/pages/).
 
 Por si no os habéis atrevido, os lo resumo. El autor de la cosa ha construido configuraciones de puntos tales como
 

@@ -28,8 +28,8 @@ Este es un listado de 20 herramientas de visualización que he extraído de [aqu
 	* [Flot](http://www.flotcharts.org/), [Raphaël](http://raphaeljs.com/) y [D3](http://d3js.org/), librerías de JavaScript.
 	* [visual.ly](http://visual.ly/), que sirve para crear esas configuraciones rectangulares de números y símbolos no siempre útiles que algunos llaman infografías.
 
-* GUIs interactivos: [Crossfilter](http://square.github.com/crossfilter/) y [Tangle](http://worrydream.com/Tangle/).
-* Mapas: [ModestMaps](http://modestmaps.com/), [Leaflet](http://leaflet.cloudmade.com/), [PolyMaps](http://polymaps.org/), [OpenLayers](http://openlayers.org/), [Kartograph](http://kartograph.org/) y [CartoDB](http://cartodb.com/).
+* GUIs interactivos: [Crossfilter](https://web.archive.org/web/20121029024058/http://square.github.com:80/crossfilter/) y [Tangle](http://worrydream.com/Tangle/).
+* Mapas: [ModestMaps](http://modestmaps.com/), [Leaflet](https://web.archive.org/web/20121026230552/http://leaflet.cloudmade.com/), [PolyMaps](http://polymaps.org/), [OpenLayers](http://openlayers.org/), [Kartograph](http://kartograph.org/) y [CartoDB](http://cartodb.com/).
 * Herramientas _serias_: [Processing](http://processing.org/) y [NodeBox](http://nodebox.net/code/index.php/Home).
 * Herramientas profesionales: [Weka](http://www.cs.waikato.ac.nz/ml/weka/) (no sé por qué); [Gephi](http://gephi.org/), que es una herramienta excepcional para mostrar grafos y, cómo no, [R](http://www.r-project.org/), con el que se pueden hacer cosas como [esta](http://blog.revolutionanalytics.com/2012/07/making-beautiful-maps-in-r-with-ggmap.html), [esta](https://sites.google.com/site/davidkahle/ggmap) y [esta](http://procomun.wordpress.com/2012/02/18/maps_with_r_1/).
 

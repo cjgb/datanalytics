@@ -28,7 +28,7 @@ Eso reza el pie de página de [El escritor exemplar](http://onomateca.com/exempl
 
 que debieran ser aleatorias, no muy distintas en estilo de las Novelas Ejemplares y, con muchísima suerte, inspiradoras.
 
-Hay más detalles sobre el proyecto [aquí](http://blogs.molinodeideas.com/cronicas/el-escritor-exemplar-un-experimento-sobre-las-novelas-ejemplares/).
+Hay más detalles sobre el proyecto [aquí](https://web.archive.org/web/20210926010552/http://blogs.molinodeideas.com/cronicas/el-escritor-exemplar-un-experimento-sobre-las-novelas-ejemplares/).
 
 El motor que las genera, que es producto de mi cacumen —por lo que a él y solo a él cabe culpar de los deméritos de la cosa—, muestrea una cadena de Markov de segundo orden construida a partir de secuencias de palabras que figuran en las Novelas Ejemplares.
 

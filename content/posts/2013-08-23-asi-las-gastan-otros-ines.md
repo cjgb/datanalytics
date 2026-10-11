@@ -18,9 +18,9 @@ title: Así las gastan otros INEs
 url: /2013/08/23/asi-las-gastan-otros-ines/
 ---
 
-[Este vídeo](http://www.significancemagazine.org/details/webexclusive/5102921/Refereeing-the-abusers-of-statistics.html) es una entrevista de la BBC a
+[Este vídeo](https://web.archive.org/web/20130923012147/http://www.significancemagazine.org:80/details/webexclusive/5102921/Refereeing-the-abusers-of-statistics.html) es una entrevista de la BBC a
 
-* Will Moy, director de [Full Fact](http://fullfact.org/), una organización británica dedicada a la comprobación (y denuncia) de datos ofrecidos por políticos y medios de comunicación (y mirad [quién está detrás de ella](http://fullfact.org/about/team))
+* Will Moy, director de [Full Fact](http://fullfact.org/), una organización británica dedicada a la comprobación (y denuncia) de datos ofrecidos por políticos y medios de comunicación (y mirad [quién está detrás de ella](https://web.archive.org/web/20140627084629/https://fullfact.org/about/team/))
 * Andrew Dilnot, director de la [UK Statistics Authority](http://www.statisticsauthority.gov.uk/) (el INE británico, para entendernos)
 
 que hablan en ella de políticos que hacen referencia a _hechos imperfectos_.

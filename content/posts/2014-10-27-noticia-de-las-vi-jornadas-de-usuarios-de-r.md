@@ -25,7 +25,7 @@ Antes de ello quiero agradecer a los miembros de los comités científico y orga
 
 También hay que agradecer su presencia a todos los ponentes y asistentes: muchos de nosotros recorrimos muchos kilómetros para acudir a nuestra cita anual. De nuevo, a quien suscribe hay que retirarle los agradecimientos porque la satisfacción que obtuvo a cuenta le compensó con creces el esfuerzo que dizque realizó.
 
-Y a nuestros patrocinadores, obviamente, de entre los que destaco a la [_Asociación de usuarios de software libre da Terra de Melide_](http://webmelisa.es/), el [_Centro de Novas Tecnoloxías de Galicia_](https://cntg.xunta.es/web/cnt/home) que nos brindó el espacio, y [la oficina del _software_ libre de las universidades gallegas](http://osl.cixug.es/).
+Y a nuestros patrocinadores, obviamente, de entre los que destaco a la [_Asociación de usuarios de software libre da Terra de Melide_](http://webmelisa.es/), el [_Centro de Novas Tecnoloxías de Galicia_](https://cntg.xunta.es/web/cnt/home) que nos brindó el espacio, y [la oficina del _software_ libre de las universidades gallegas](https://web.archive.org/web/20150124033546/http://osl.cixug.es/).
 
 A diferencia de otros años, no voy a repasar el contenido de las jornadas sistemáticamente. Los interesados encontrarán en el [libro de resúmenes](http://goo.gl/NkZC3j) un abrebocas y pronto dispondrán de los vídeos de las más de las sesiones para que puedan seguir con detalle las que consideren oportuno. Pero sí que quiero subrayar que después de varios años de rodaje pienso que estamos dando con el formato adecuado:
 

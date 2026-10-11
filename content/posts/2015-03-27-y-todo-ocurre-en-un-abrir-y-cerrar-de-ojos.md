@@ -34,7 +34,7 @@ Cuando un usuario abre la aplicación, esta avisa al SSP de que hay un nuevo esp
 
 ![rtb_ecosystem](/img/2015/03/rtb_ecosystem.png#center)
 
-extraídos de [esta página](http://www.businessinsider.com.au/mobile-real-time-bidding-ad-ecosystem-2013-5).
+extraídos de [esta página](https://web.archive.org/web/20150307011819/http://www.businessinsider.com.au:80/mobile-real-time-bidding-ad-ecosystem-2013-5).
 
 En resumen, la aplicación del desarrollador, cuando la abre un usuario, avisa al SSP de que existe la opción de insertar un anuncio. El SSP comunica a un mercado esa oportunidad; además, la _enriquece_ con información relevante: tipo de dispositivo, sistema operativo, perfil demográfico del usuario, país, etc. El mercado hace saber a los DSP esa oportunidad y estos estiman la probabilidad (usando la información proporcionada por el SSP) de que el usuario no ignore sus anuncios. En función de ella, lanzan una oferta y la ganadora aparece mágicamente en la pantalla del usuario.
 

@@ -27,7 +27,7 @@ Cierta gente, mucha, está mostrando su sorpresa en estos días acerca de las di
 
 Esencialmente, muestran su sorpresa acerca del hecho de que los mercados de apuestas estén básicamente regalando dinero. Es mucho más propicio apostar por Biden que por el 12321 en la lotería de navidad.
 
-Yo no he apostado nunca (aunque sí tengo una cuenta activa en [Hypermind](https://www.hypermind.com/en/) donde _juego_ con dinero virtual), pero si lo hiciera lo haría en un sentido que creo tanto racional como no necesariamente alienado con el presunto objetivo de la calibración de mis predicciones.
+Yo no he apostado nunca (aunque sí tengo una cuenta activa en [Hypermind](https://web.archive.org/web/20230715160550/https://www.hypermind.com/en/) donde _juego_ con dinero virtual), pero si lo hiciera lo haría en un sentido que creo tanto racional como no necesariamente alienado con el presunto objetivo de la calibración de mis predicciones.
 
 Al fin y al cabo, se apuesta por lograr una utilidad y esta ocurre en un contexto concreto. Un ejemplo muy ilustrativo: si mañana jugase España la final del mundial, querría que ganase. Si lo hiciese, me alegraría, etc. Muy racionalmente, podría considerar apostar en contra de España, independientemente incluso de los precios: si perdiese la apuesta, no me afectaría mucho; si perdiese España, obtendría una compensación económica, etc.
 

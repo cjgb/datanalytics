@@ -62,6 +62,6 @@ En [este _notebook_](https://colab.research.google.com/drive/1CF5Lr1bxoAFC_IPX5I
 
 ¿Sabíais que [Jonathan Swift describe algo muy parecido a los LLMs de hoy en día en los Viajes de Gulliver](https://thechipletter.substack.com/p/the-engine)?
 
-Una [noticia de 2021](https://portal.mineco.gob.es/ca-es/comunicacion/Pagines/211111_np_maria.aspx): que "[e]l primer sistema masivo de Inteligencia Artificial de la lengua española, MarIA, empieza a resumir y generar textos". Dios mío.
+Una [noticia de 2021](https://web.archive.org/web/20260313141317/https://portal.mineco.gob.es/ca-es/comunicacion/Pagines/211111_np_maria.aspx): que "[e]l primer sistema masivo de Inteligencia Artificial de la lengua española, MarIA, empieza a resumir y generar textos". Dios mío.
 
 Finalmente, el artículo [_Inteligencia artificial, propiedad intelectual y minería de datos_](https://almacendederecho.org/inteligencia-artificial-propiedad-intelectual-y-mineria-de-datos) en [Almacén de Derecho](https://almacendederecho.org/) que, contra todo pronóstico, mantiene posturas razonables.

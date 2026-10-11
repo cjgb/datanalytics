@@ -28,7 +28,7 @@ La estimación de la mortalidad atribuible a la gripe estacional (que no, que no
 
 La primera ola del coronavirus ocurrió en un periodo _limpio_ de otras grandes causas de muerte de corte estacional. Además, tuvo un tamaño... digamos que apreciable.
 
-La segunda ola, en términos de mortalidad, adolece de los mismos problemas que la gripe: ha ocurrido a la vez que la otra gran causa de muerte estacional, el calor. Cualquier estimación del incremento de la mortalidad atribuible al coronavirus tiene que al menos, intentar tener en cuenta el efecto sobre la mortalidad del calor. Que es lo que hace [MOMOCalor](https://momo.isciii.es/public/momocalor) (pero ni MOMO ni el INE).
+La segunda ola, en términos de mortalidad, adolece de los mismos problemas que la gripe: ha ocurrido a la vez que la otra gran causa de muerte estacional, el calor. Cualquier estimación del incremento de la mortalidad atribuible al coronavirus tiene que al menos, intentar tener en cuenta el efecto sobre la mortalidad del calor. Que es lo que hace [MOMOCalor](https://web.archive.org/web/20190824141807/https://momo.isciii.es/public/momocalor) (pero ni MOMO ni el INE).
 
 De acuerdo con él y muy _grosso modo_, la tercera parte del exceso de mortalidad en España ocurrido durante el verano podría atribuirse a las temperaturas extremas ocurridas en diversas regiones.
 

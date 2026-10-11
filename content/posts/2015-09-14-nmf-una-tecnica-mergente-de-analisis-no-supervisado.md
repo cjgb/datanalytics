@@ -23,7 +23,7 @@ title: 'NMF: una técnica mergente de análisis no supervisado'
 url: /2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/
 ---
 
-[N]NMF (se encuentra con una o dos enes) es una técnica de análisis no supervisado emergente. Se cuenta [entre mis favoritas](http://datanalytics.com/tag/nmf/).
+[N]NMF (se encuentra con una o dos enes) es una técnica de análisis no supervisado emergente. Se cuenta [entre mis favoritas](http://datanalytics.com/tags/nmf/).
 
 [N]NMF significa _non negative matrix factorization_ y, como [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), descompone una matriz `M` como `UDV'`. Solo que, en este caso, las entradas de `M` son todas positivas. Y la descomposición es `UV'`, donde las entradas de ambas matrices son también positivas.
 
@@ -33,4 +33,4 @@ url: /2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/
 * Las que representan clientes (filas) que compran (un determinado número >= 0) de productos (columnas).
 * ...
 
-Y acabo con un instrumento (el [paquete `NMF`](https://cran.r-project.org/web/packages/NMF/index.html) de R) y el [análisis de una encuesta](http://web.archive.org/web/20220425195622/https://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf) realizado con dicha técnica para que la veáis en acción.
+Y acabo con un instrumento (el [paquete `NMF`](https://cran.r-project.org/web/packages/NMF/index.html) de R) y el [análisis de una encuesta](http://web.archive.org/web/20220425195622/https://web.archive.org/web/20150226135735/http://www.oreilly.com:80/data/free/files/analyzing-the-analyzers.pdf) realizado con dicha técnica para que la veáis en acción.

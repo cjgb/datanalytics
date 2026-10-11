@@ -24,7 +24,7 @@ Alguna vez me han preguntado cómo construyo diapositivas como [estas](/charlas/
 
 La respuesta: uso [`reveal.js`](https://github.com/hakimel/reveal.js/) (que me da prácticamente todo lo que se ve) y me apoyo en el generador [`generator-reveal`](https://github.com/slara/generator-reveal) de [`yeoman`](http://yeoman.io/) para automatizar algunas tareas. Además, casi todas las diapositivas están escritas en `markdown`.
 
-Como casi siempre me olvido del procedimiento de arranque, siempre acudo a [este breve tutorial](https://seojeek.com/yeoman-reveal-js-generator-quick-reveal-presentations/). A los que no estamos muy puestos en todo lo `nodejs` nos viene siempre bien echar un vistazo para ver qué demonios hace cada uno de los distintos comandos (`npm`, `n`, etc.). Aunque solo sea para que no nos tachen de _script-kiddies_.
+Como casi siempre me olvido del procedimiento de arranque, siempre acudo a [este breve tutorial](https://web.archive.org/web/20250719105726/https://seojeek.com/yeoman-reveal-js-generator-quick-reveal-presentations/). A los que no estamos muy puestos en todo lo `nodejs` nos viene siempre bien echar un vistazo para ver qué demonios hace cada uno de los distintos comandos (`npm`, `n`, etc.). Aunque solo sea para que no nos tachen de _script-kiddies_.
 
 Si usas `generator-reveal`, es fácil que tengas que leer bien [su documentación](https://github.com/slara/generator-reveal). En particular, la parte que trata de cómo pasar atributos a los objetos `slide`.
 

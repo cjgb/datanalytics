@@ -18,7 +18,7 @@ title: Un experimento físico (y su relación con la causalidad) (II)
 url: /2022/03/31/experimento-fisico-relacion-causalidad-ii/
 ---
 
-En esta entrada es continuación y discusión de [la primera de la serie](/2022/03/29/experimento-fisico-relacion-causalidad-ii/). En esta se va a discutir su relevancia en la discusión sobre lo que es la causalidad más allá de las técnicas que puedan existir para identificar y medir el tamaño de los efectos una vez que la causalidad está postulada.
+En esta entrada es continuación y discusión de [la primera de la serie](/2022/03/29/experimento-fisico-relacion-causalidad-i/). En esta se va a discutir su relevancia en la discusión sobre lo que es la causalidad más allá de las técnicas que puedan existir para identificar y medir el tamaño de los efectos una vez que la causalidad está postulada.
 
 Comenzaré haciendo notar una obviedad: el concepto de causalidad es ajeno a las matemáticas. Los hechos matemáticos no tienen causas sino razones o explicaciones. Que los catetos de un triángulo rectángulo midan 3 y 4 no es la causa de que su hipotenusa mida 5, sino su razón.
 

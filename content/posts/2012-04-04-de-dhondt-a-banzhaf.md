@@ -25,9 +25,9 @@ url: /2012/04/04/de-dhondt-a-banzhaf/
 
 Hablé el otro día con Emilio Torres y comentamos de pasada la situación política en Asturias, donde vive, después de las últimas elecciones. El escaño obtenido por UPyD otorgaba a tal partido un poder en exceso del tamaño de su representación porque era clave para formar el futuro gobierno del principado. Pero, ¿cuánto poder realmente supone ese escaño en esas condiciones? ¿Puede cuantificarse?
 
-Porque se habla mucho en periodo electoral de la [ley D'Hondt](http://www.grserrano.es/wp/2011/05/jugando-con-el-sistema-de-dhondt/) pero, una vez asignados los escaños, cambia el juego.
+Porque se habla mucho en periodo electoral de la [ley D'Hondt](https://web.archive.org/web/20120621084057/http://www.grserrano.es/wp/2011/05/jugando-con-el-sistema-de-dhondt/) pero, una vez asignados los escaños, cambia el juego.
 
-Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilbao/pdffiles/eupower.pdf). El índice de Banzhaf para un determinado partido político mide su poder en términos del porcentaje de las posibles alianzas mínimas ganadoras en las que participa dentro de su universo total. Una alianza es ganadora cuando reúne más de la mitad de los votos. Y es mínima cuando todos sus integrantes son necesarios para que sea ganadora; excluye, por ejemplo, la alianza trivial formada por todos los partidos.
+Existe un método, el [índice de poder de Banzhaf](https://web.archive.org/web/20120205031051/http://www.esi2.us.es/~mbilbao/pdffiles/eupower.pdf). El índice de Banzhaf para un determinado partido político mide su poder en términos del porcentaje de las posibles alianzas mínimas ganadoras en las que participa dentro de su universo total. Una alianza es ganadora cuando reúne más de la mitad de los votos. Y es mínima cuando todos sus integrantes son necesarios para que sea ganadora; excluye, por ejemplo, la alianza trivial formada por todos los partidos.
 
 Veamos cómo calcular este índice con R y lo utilizaremos para cuantificar el valor de ese escaño:
 

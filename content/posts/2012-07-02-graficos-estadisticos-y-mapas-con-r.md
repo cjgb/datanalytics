@@ -18,7 +18,7 @@ title: Gráficos estadísticos y mapas con R
 url: /2012/07/02/graficos-estadisticos-y-mapas-con-r/
 ---
 
-Me ha llegado noticia de un nuevo libro sobre R, [_Gráficos estadísticos y mapas con R_](http://ediciones.diazdesantos.es/libros/guisande-gonzalez-castor-graficos-estadisticos-y-mapas-con-r-L0000410004163.html) recién publicado.
+Me ha llegado noticia de un nuevo libro sobre R, [_Gráficos estadísticos y mapas con R_](https://web.archive.org/web/20121108000607/http://ediciones.diazdesantos.es:80/libros/guisande-gonzalez-castor-graficos-estadisticos-y-mapas-con-r-L0000410004163.html) recién publicado.
 
 ![](/img/2012/06/graficos_estadisticos_r.jpg)
 

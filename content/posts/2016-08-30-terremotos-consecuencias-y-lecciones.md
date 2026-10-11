@@ -24,6 +24,6 @@ En 2009 hubo un [terremoto en l'Aquila](https://es.wikipedia.org/wiki/Terremoto_
 
 ¿Qué medidas se tomaron? Italia, en eso, se parece a España: buscar culpables. Los sismólogos que asesoraron a la administración y evaluaron los riesgos de que se produjese un terremoto importante, [acabaron en la cárcel](https://www.theguardian.com/world/2013/jan/18/italian-scientists-jailed-laquila-quake) (aunque [luego salieron](http://www.sciencemag.org/news/2015/02/why-italian-earthquake-scientists-were-exonerated)).
 
-Mientras tanto, [la casa sin barrer](http://uk.reuters.com/article/us-italy-quake-buildings-idUKTRE5364T720090407).
+Mientras tanto, [la casa sin barrer](https://web.archive.org/web/20170304215603/http://uk.reuters.com/article/us-italy-quake-buildings-idUKTRE5364T720090407).
 
 (Y de regalo, [¿por qué es tan difícil predecir terremotos?](https://www.statslife.org.uk/environment-nature/2977-ask-a-statistician-why-can-we-not-predict-earthquakes)).

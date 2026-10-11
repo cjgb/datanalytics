@@ -19,7 +19,7 @@ title: Cualquier parecido con la realidad es pura coincidencia
 url: /2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/
 ---
 
-[@adolflow](https://twitter.com/adolflow) (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, [España en Cifras](http://espanaencifras.elespanol.com/). Lo miro por encima y encuentro
+[@adolflow](https://twitter.com/adolflow) (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, [España en Cifras](https://web.archive.org/web/20150515005107/http://espanaencifras.elespanol.com:80/). Lo miro por encima y encuentro
 
 ![tasa_paro_municipal](/img/2015/05/tasa_paro_municipal.png#center)
 

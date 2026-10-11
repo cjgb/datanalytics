@@ -19,7 +19,7 @@ title: 'Causalidad: malo lo uno, pero tampoco bueno lo otro'
 url: /2018/04/03/causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro/
 ---
 
-Leo en [_Las causalidades en Economía_](https://www.vozpopuli.com/opinion/causalidades-Economia-critica-paul-romer_0_1122788121.html) a Manuel Alejandro Hidalgo dignándose a dar réplica al panfletillo [_Curva de Laffer: Montoro bajó por fin el IRPF… y recaudó un 6% más_](https://www.libremercado.com/2018-03-27/curva-de-laffer-montoro-bajo-por-fin-el-irpf-y-recaudo-un-6-mas-1276616123/).
+Leo en [_Las causalidades en Economía_](https://web.archive.org/web/20191121213803/https://www.vozpopuli.com/opinion/causalidades-Economia-critica-paul-romer_0_1122788121.html) a Manuel Alejandro Hidalgo dignándose a dar réplica al panfletillo [_Curva de Laffer: Montoro bajó por fin el IRPF… y recaudó un 6% más_](https://www.libremercado.com/2018-03-27/curva-de-laffer-montoro-bajo-por-fin-el-irpf-y-recaudo-un-6-mas-1276616123/).
 
 El último no cuenta apenas más que lo que anuncia en su titulo. El primero quiere enmendarle la plana, pero al hacerlo escribe frases tan chirriantes como:
 

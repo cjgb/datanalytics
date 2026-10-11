@@ -20,7 +20,7 @@ title: PC-Axis ha muerto, larga vida a JSON-stat
 url: /2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/
 ---
 
-Igual exagero en el encabezamiento: [PC-Axis](http://www.scb.se/Pages/List____314011.aspx), a pesar de sus defectos, a pesar de su antigüedad, etc. goza de excesiva buena salud. Debió haber pasado a mejor vida hace tiempo pero, como pasa con esas cosas, se ha enquistado.
+Igual exagero en el encabezamiento: [PC-Axis](https://web.archive.org/web/20130523063522/http://www.scb.se:80/Pages/List____314011.aspx), a pesar de sus defectos, a pesar de su antigüedad, etc. goza de excesiva buena salud. Debió haber pasado a mejor vida hace tiempo pero, como pasa con esas cosas, se ha enquistado.
 
 Como alternativa a la altura de los tiempos, está [JSON-stat](http://json-stat.org/), concebido por [Xavier Badosa](https://twitter.com/badosa) y que nadie como él describe:
 

@@ -24,6 +24,6 @@ Los que estéis por allí o tengáis la posibilidad de acudir, sabed: la semana 
 
 ![apidays-SAFA_bw](/img/2015/04/apidays-SAFA_bw.png#center)
 
-Quienes tengáis pensado acudir, podéis beneficiaros de un 30% de descuento si os registráis desde [este enlace](https://www.eventbrite.es/e/apidays-mediterranea-2015-tickets-15667850964?discount=apidays_datanalytics).
+Quienes tengáis pensado acudir, podéis beneficiaros de un 30% de descuento si os registráis desde [este enlace](https://web.archive.org/web/20220522115627/https://www.eventbrite.es/e/apidays-mediterranea-2015-tickets-15667850964?discount=apidays_datanalytics).
 
-Participé en la edición de 2013 en Madrid y me duele no poder asistir este año. Entre otras cosas, [por esto](http://medialab-prado.es/article/tallervisualizar15proyectos). Y me desplacé perdérmelo porque mi nuevo _stealth project_ tiene mucho que ver con APIs...
+Participé en la edición de 2013 en Madrid y me duele no poder asistir este año. Entre otras cosas, [por esto](https://web.archive.org/web/20150401053153/http://medialab-prado.es:80/article/tallervisualizar15proyectos). Y me desplacé perdérmelo porque mi nuevo _stealth project_ tiene mucho que ver con APIs...

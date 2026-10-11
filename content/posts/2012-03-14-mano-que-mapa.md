@@ -24,7 +24,7 @@ Esta mañana casi me da esa tontería de sentirme orgulloso de ser de donde soy,
 
 (Se lo hemos de agradecer a nuestro alcalde, Belloch, que, dicen las malas lenguas, además de socialista y barbudo, es linuxero).
 
-Entre los datos disponibles, los hay de [tráfico en tiempo real](http://www.zaragoza.es/ciudad/risp/detalle_Risp?id=291). En particular, existe una serie de [tramos de calle](http://www.zaragoza.es/trafico/estado/tramoswgs84.json) y un fichero que se actualiza cada pocos segundos que indica el [estado del tráfico](http://www.zaragoza.es/trafico/estado/estado.json) en ellos.
+Entre los datos disponibles, los hay de [tráfico en tiempo real](https://web.archive.org/web/20120705062845/http://www.zaragoza.es/ciudad/risp/detalle_Risp?id=291). En particular, existe una serie de [tramos de calle](http://www.zaragoza.es/trafico/estado/tramoswgs84.json) y un fichero que se actualiza cada pocos segundos que indica el [estado del tráfico](http://www.zaragoza.es/trafico/estado/estado.json) en ellos.
 
 Y he pensado que tal vez podría hacer una virguería con R.
 

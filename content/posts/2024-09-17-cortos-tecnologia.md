@@ -18,7 +18,7 @@ title: Una propuesta para cambiar la sintaxis de SQL y cuatro asuntos más
 url: /2024/09/17/cortos-tecnologia/
 ---
 
-[Mesop](https://google.github.io/mesop/), una herramienta de Google para crear "AI apps" en Python.
+[Mesop](https://web.archive.org/web/20240908121722/https://google.github.io/mesop/), una herramienta de Google para crear "AI apps" en Python.
 
 [¿Se nos está yendo el tamaño del código JavaScript de las páginas web de las manos?](https://infrequently.org/2024/08/object-lesson/) (De cuya lectura, además, he aprendido que existe [webpagetest.org](https://www.webpagetest.org/), que parece mejor que otras alternativas que he probado por ahí).
 

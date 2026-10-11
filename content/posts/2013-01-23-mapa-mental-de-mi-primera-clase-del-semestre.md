@@ -36,7 +36,7 @@ Y, finalmente, la lista de lecturas (recomendadas todas, obligatorias únicament
 * R.D. Peng: [Reproducible research and Biostatistics](http://biostatistics.oxfordjournals.org/content/10/3/405.full)
 * Wikipedia: [Meta-Analysis](http://en.wikipedia.org/wiki/Meta-analysis)
 * Scott Chamberlain: [Web Data Acquisition with R](http://www.slideshare.net/schamber/web-data-from-r)
-* Karthik Ram: [R and Open Science](http://inundata.org/R_talks/BARUG/)
+* Karthik Ram: [R and Open Science](https://web.archive.org/web/20160315170454/http://inundata.org:80/R_talks/BARUG/)
 * Lehrer, J: [The Truth Wears Off](http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer)
 * Shub Niggurath: [The code of Nature: making authors part with their programs](http://wattsupwiththat.com/2011/02/26/the-code-of-nature-making-authors-part-with-their-programs/)
 * Ioannidis, J.: [Why Most Published Research Findings Are False](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)

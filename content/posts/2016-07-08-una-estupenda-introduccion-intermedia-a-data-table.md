@@ -22,4 +22,4 @@ Jan Gorecki ha resumido las soluciones a [las cincuenta preguntas _más populare
 
 Muy recomendable. Muy recomendable también `data.table`.
 
-Aunque me temo que el [_hadleyverse_](http://adolfoalvarez.cl/the-hitchhikers-guide-to-the-hadleyverse/), y por razones que nada tienen que ver con la calidad de la cosa, no van a dejar de él, a medio plazo, ni las raspas.
+Aunque me temo que el [_hadleyverse_](https://web.archive.org/web/20210728133620/http://adolfoalvarez.cl/the-hitchhikers-guide-to-the-hadleyverse/), y por razones que nada tienen que ver con la calidad de la cosa, no van a dejar de él, a medio plazo, ni las raspas.

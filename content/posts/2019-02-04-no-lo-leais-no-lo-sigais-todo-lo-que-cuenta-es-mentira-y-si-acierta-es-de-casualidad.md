@@ -21,4 +21,4 @@ title: No lo léais, no lo sigáis; todo lo que cuenta es mentira y si acierta e
 url: /2019/02/04/no-lo-leais-no-lo-sigais-todo-lo-que-cuenta-es-mentira-y-si-acierta-es-de-casualidad/
 ---
 
-Y me refiero a [esto](https://muestrear-no-es-pecado.netlify.com). Pero lo dicho: es, de entre lo malo, lo peor. Hacedme caso.
+Y me refiero a [esto](https://web.archive.org/web/20190825131037/https://muestrear-no-es-pecado.netlify.com/). Pero lo dicho: es, de entre lo malo, lo peor. Hacedme caso.

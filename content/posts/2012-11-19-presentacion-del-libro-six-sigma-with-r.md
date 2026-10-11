@@ -25,4 +25,4 @@ El martes 20 de noviembre, a las 17:00h, tendrá lugar la presentación del libr
 
 Existe además un paquete de R, [SixSigma](http://cran.r-project.org/web/packages/SixSigma/index.html), desarrollado por los autores y disponible en CRAN.
 
-El mundo del control de la calidad (en ingeniería) está dominado por _software_ propietario, particularmente, [Minitab](http://www.minitab.com/es-ES/default.aspx). Esperemos que este libro ayude a que el uso de R se incremente en ese ámbito ya no tanto por la segunda de las razones que David Ríos indica en el prefacio, esto es, que R es gratis, sino por la primera: que R es robusto, riguroso y eficiente.
+El mundo del control de la calidad (en ingeniería) está dominado por _software_ propietario, particularmente, [Minitab](https://web.archive.org/web/20131203054708/http://www.minitab.com:80/es-ES/default.aspx?). Esperemos que este libro ayude a que el uso de R se incremente en ese ámbito ya no tanto por la segunda de las razones que David Ríos indica en el prefacio, esto es, que R es gratis, sino por la primera: que R es robusto, riguroso y eficiente.

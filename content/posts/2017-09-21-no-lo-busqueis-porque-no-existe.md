@@ -22,7 +22,7 @@ title: No lo busquéis porque no existe
 url: /2017/09/21/no-lo-busqueis-porque-no-existe/
 ---
 
-Pero en Bélgica sí y es [este](https://epistat.wiv-isp.be/dashboard/).
+Pero en Bélgica sí y es [este](https://web.archive.org/web/20211116154319/https://epistat.wiv-isp.be/dashboard/).
 
 ¿A que es chulo?
 

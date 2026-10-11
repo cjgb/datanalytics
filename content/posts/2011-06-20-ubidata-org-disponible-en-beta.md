@@ -17,7 +17,7 @@ title: UbiData.org, disponible en beta
 url: /2011/06/20/ubidata-org-disponible-en-beta/
 ---
 
-He hablado en estas páginas de [zanran](http://www.zanran.com/q/), un _Google para datos_, y de [GetTheData](http://getthedata.org/), su versión _social_. Hora es cumplida de que mencione a [UbiData](http://ubidata.org/), el GetTheData en español.
+He hablado en estas páginas de [zanran](http://www.zanran.com/q/), un _Google para datos_, y de [GetTheData](http://getthedata.org/), su versión _social_. Hora es cumplida de que mencione a [UbiData](https://web.archive.org/web/20251214224644/http://ubidata.org/), el GetTheData en español.
 
 UbiData (en latín, _¿dónde están los datos?_) es un portal que he creado para que la comunidad hispanoparlante pueda **intercambiar información sobre dónde encontrar conjuntos de datos**. Está principalmente pensado para facilitar la labor de investigadores, estadísticos, estudiantes, periodistas, etc. que quieren estudiar un determinado asunto y no logran dar con esa información _que tiene que estar en algún sitio_ pero que no se deja encontrar en la maraña de enlaces, sugerencias confusas o desactualizadas.
 

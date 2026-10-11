@@ -23,7 +23,7 @@ title: Barómetros del CIS con R
 url: /2016/10/05/barometros-del-cis-con-r/
 ---
 
-El CIS realiza [barómetros](http://www.cis.es/cis/opencm/ES/11_barometros/index.jsp) todos los meses menos uno. Pasado un tiempo (es octubre y el último publicado es de julio) coloca los microdatos en su [banco de datos](http://www.cis.es/cis/opencm/ES/11_barometros/depositados.jsp).
+El CIS realiza [barómetros](http://www.cis.es/cis/opencm/ES/11_barometros/index.jsp) todos los meses menos uno. Pasado un tiempo (es octubre y el último publicado es de julio) coloca los microdatos en su [banco de datos](https://web.archive.org/web/20160930200137/http://www.cis.es:80/cis/opencm/ES/11_barometros/depositados.jsp).
 
 Aparte de ficheros .pdf que lo explican todo (pero que no dejan de ser .pdf), publica dos ficheros. Uno de datos en ancho fijo (prefijo DA) y otro con código SPSS (prefijo ES) con los consabidos (¿lo son? ¡felicidades si no!) encabezados DATA LIST, VARIABLE LABELS, VALUE LABELS, y MISSING VALUES.
 

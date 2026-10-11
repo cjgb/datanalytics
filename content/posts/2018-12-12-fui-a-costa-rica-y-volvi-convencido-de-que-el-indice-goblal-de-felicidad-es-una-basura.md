@@ -21,7 +21,7 @@ title: Fui a Costa Rica y volví convencido de que el Índice Global de Felicida
 url: /2018/12/12/fui-a-costa-rica-y-volvi-convencido-de-que-el-indice-goblal-de-felicidad-es-una-basura/
 ---
 
-Hace unos años se oyó un runrún en pro de sustituir el PIB por un índice alternativo con el que comparar el desempeño de los países (más, p.e., [aquí](https://www.statslife.org.uk/politics/2739-how-happiness-is-challenging-gdp-as-the-measure-of-a-country-s-health)).
+Hace unos años se oyó un runrún en pro de sustituir el PIB por un índice alternativo con el que comparar el desempeño de los países (más, p.e., [aquí](https://web.archive.org/web/20190823050823/https://www.statslife.org.uk/politics/2739-how-happiness-is-challenging-gdp-as-the-measure-of-a-country-s-health)).
 
 En el [Índice Global de Felicidad](https://es.wikipedia.org/wiki/%C3%8Dndice_Global_de_Felicidad), una de las alternativas propuestas que coordina la ONU, Costa Rica tiende a ocupar niveles altos (el 13 este año, acompañando a países tales como Austria, Irlanda o Alemania), mientras que España se encuentra en el puesto 36, por debajo de Malasia y un pelín de gato por encima de Colombia (sí, Colombia).
 

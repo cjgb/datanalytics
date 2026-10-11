@@ -22,7 +22,7 @@ url: /2012/07/17/dos-cursos-de-r-en-la-u-de-murcia/
 
 La Universidad de Murcia ha organizado dos talleres sobre R:
 
-* [Iniciación a los gráficos estadísticos con R](http://www.caldum.org/?p=5266), el día 19 de julio de 2012, de 10:00 a 13:00h.
-* [Creación automática de informes con R: markdown + knitr](http://www.caldum.org/?p=5285), tendrá lugar el 24 julio a la misma hora.
+* [Iniciación a los gráficos estadísticos con R](https://web.archive.org/web/20130612131428/http://www.caldum.org/?p=5266), el día 19 de julio de 2012, de 10:00 a 13:00h.
+* [Creación automática de informes con R: markdown + knitr](https://web.archive.org/web/20130612131250/http://www.caldum.org/?p=5285), tendrá lugar el 24 julio a la misma hora.
 
 Ambos tienen un enfoque eminentemente práctico y podrán seguirse [por videoconferencia](http://videoconferencia.um.es/caldum) (entrando como invitado).

@@ -22,7 +22,7 @@ title: Hackatón de datos abiertos, 21 de febrero en Madrid
 url: /2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/
 ---
 
-El día 21 de febrero (de 2015) tendrá lugar en [Medialab-Prado](http://medialab-prado.es/) ([¿cómo llegar?](http://medialab-prado.es/article/donde_y_cuando)) un _hackatón_ de datos abiertos patrocinado por Medialab-Prado y [Open Knowledge Spain](http://okfn.es/). El resto de la información puede consultarse [aquí](http://hackaton.okfn.es/).
+El día 21 de febrero (de 2015) tendrá lugar en [Medialab-Prado](https://en.wikipedia.org/wiki/Medialab-Prado) ([¿cómo llegar?](https://web.archive.org/web/20150123013524/http://medialab-prado.es:80/article/donde_y_cuando)) un _hackatón_ de datos abiertos patrocinado por Medialab-Prado y [Open Knowledge Spain](http://okfn.es/). El resto de la información puede consultarse [aquí](http://hackaton.okfn.es/).
 
 Dicho lo cual, ¿deberías ir?
 

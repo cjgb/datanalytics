@@ -18,7 +18,7 @@ title: Conferencia sobre Grandes Datos
 url: /2012/07/18/conferencia-sobre-grandes-datos/
 ---
 
-Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando una[ conferencia sobre Grandes Datos en Madrid](http://www.bigdataspain.com/) este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
+Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando una[ conferencia sobre Grandes Datos en Madrid](https://web.archive.org/web/20120716054746/http://www.bigdataspain.com:80/) este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
 
 ![](/img/2012/07/logo_big_data_spain.png#center)
 

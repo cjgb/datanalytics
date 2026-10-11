@@ -21,7 +21,7 @@ url: /2012/10/30/cultura-numerica-incultura-numerica/
 
 Traigo hoy dos enlaces relacionados a mi bitácora.
 
-No sé si conocéis [OWNI](http://fr.wikipedia.org/wiki/OWNI), un _Objet Web Non Identifié_. Una de sus tres secciones prominentes se llama [Cultures Numériques](http://owni.fr/cultures-numeriques/). No datos. No periodismo de datos. No OpenData. Sino culturas numéricas (supongo que el plural es un brindis a la ultracorrección política). Que tal sea el nombre invita a reflexiones que habrían de germinar por sí solas en las mentes de mis lectores.
+No sé si conocéis [OWNI](http://fr.wikipedia.org/wiki/OWNI), un _Objet Web Non Identifié_. Una de sus tres secciones prominentes se llama [Cultures Numériques](https://web.archive.org/web/20121110063019/http://owni.fr:80/cultures-numeriques/). No datos. No periodismo de datos. No OpenData. Sino culturas numéricas (supongo que el plural es un brindis a la ultracorrección política). Que tal sea el nombre invita a reflexiones que habrían de germinar por sí solas en las mentes de mis lectores.
 
 El segundo tiene esta entradilla (con mi traducción):
 

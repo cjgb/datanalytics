@@ -58,7 +58,7 @@ fa
 
 Usando `factanal` he creado dos factores sobre el conjunto de datos `swiss` y he optado por no usar ningún tipo de rotación.
 
-Dos notas al respecto. La primera es que `factanal` no utiliza PCA internamente para obtener los factores. Existe cierta confusión entre el análisis factorial y el de los componentes principales (véase [esto](http://en.wikipedia.org/wiki/Factor_analysis#Exploratory_factor_analysis_versus_principal_components_analysis) al respecto) a la que pudiera haber contribuido el hecho de que en SPSS (o al menos, ciertas versiones) el análisis de componentes principales es un _modo_ (al menos, está en el mismo menú y bajo el epígrafe _factores_) del análisis factorial. De hecho, [en SPSS un análisis factorial con las opciones por defecto es un PCA](http://www.unt.edu/rss/class/Jon/SPSS_SC/Module9/M9_PCA/SPSS_M9_PCA1.htm).
+Dos notas al respecto. La primera es que `factanal` no utiliza PCA internamente para obtener los factores. Existe cierta confusión entre el análisis factorial y el de los componentes principales (véase [esto](http://en.wikipedia.org/wiki/Factor_analysis#Exploratory_factor_analysis_versus_principal_components_analysis) al respecto) a la que pudiera haber contribuido el hecho de que en SPSS (o al menos, ciertas versiones) el análisis de componentes principales es un _modo_ (al menos, está en el mismo menú y bajo el epígrafe _factores_) del análisis factorial. De hecho, [en SPSS un análisis factorial con las opciones por defecto es un PCA](https://web.archive.org/web/20160616133050/http://www.unt.edu:80/rss/class/Jon/SPSS_SC/Module9/M9_PCA/SPSS_M9_PCA1.htm).
 
 El segundo es que en el análisis factorial los factores son ortogonales por definición y construcción. Aunque bien es cierto que existen técnicas de _rotación_ no ortogonales que hacen que los factores finales pierdan esa siempre conveniente propiedad.
 
@@ -100,4 +100,4 @@ Entonces, ¿qué se ha perdido? La varianza explicada por el primer factor, 40.3
 
 Y acabo con una reflexión: ¿cómo afecta la rotación al _screeplot_? Y dado que este puede usarse como criterio para seleccionar el número de factores relevantes, ¿cómo estarán afectando en la práctica las rotaciones (subrepticias en muchas ocasiones) a la selección del número de factores que conservar? ¿Tiene sentido estudiar el _screeplot_ después de efectuada la rotación?
 
-Nota: Me he basado en [este artículo](http://sites.stat.psu.edu/~ajw13/stat505/fa06/17_factor/13_factor_varimax.html) pero he preferido escribir aquí mi propio código reproducible gratuitamente.
+Nota: Me he basado en [este artículo](https://web.archive.org/web/20180217080257/http://sites.stat.psu.edu:80/~ajw13/stat505/fa06/17_factor/13_factor_varimax.html) pero he preferido escribir aquí mi propio código reproducible gratuitamente.

@@ -22,7 +22,7 @@ url: /2013/10/28/contando-hexagonos-en-paralelo/
 
 Dicen que para realizar gráficos de dispersión con muchos datos [no es desaconsejable usar celosías hexagonales](http://cran.r-project.org/web/packages/hexbin/vignettes/hexagon_binning.pdf). Por motivos que no vienen al caso, me interesa poder realizarlas en paralelo.
 
-El código disponible en R (`hexBinning` de [`fMultivar`](http://cran.r-project.org/web/packages/fMultivar/index.html) o el de `geom_hex` de [`ggplot2`](http://docs.ggplot2.org/current/geom_hex.html)) es feo, ininteligible y, en particular, no es paralelizable (o _mapreducible_). No lo es porque cada hilo, por diseño del algoritmo, crea hexágonos excéntricos.
+El código disponible en R (`hexBinning` de [`fMultivar`](http://cran.r-project.org/web/packages/fMultivar/index.html) o el de `geom_hex` de [`ggplot2`](https://web.archive.org/web/20161222085206/http://docs.ggplot2.org:80/current/geom_hex.html)) es feo, ininteligible y, en particular, no es paralelizable (o _mapreducible_). No lo es porque cada hilo, por diseño del algoritmo, crea hexágonos excéntricos.
 
 Así que he desarrollado un algoritmo para crear celosías hexagonales paralelizable. Además, creo que es algo más inteligible que los dos mencionados y, me temo, igual de feo. Pero vectorizado, eso sí (es decir, sin un maldito bucle). Es así:
 

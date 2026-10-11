@@ -22,7 +22,7 @@ url: /2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-
 
 Hace un tiempo probé el [paquete `wikipediatrend` de R](https://cran.r-project.org/package=wikipediatrend) ya no recuerdo para qué. Desafortunadamente, el servicio que consulta debía de estar caído y no funcionó. Ahí quedó la cosa.
 
-Una [reciente entrada de Antonio Chinchón en su blog](https://fronkonstin.com/2017/02/21/who-is-alan-turing/) me ha invitado a revisitar la cuestión y ahora, al parecer, `stats.grok.se` vuelve a estar levantado. Por lo que se pueden hacer cosas como:
+Una [reciente entrada de Antonio Chinchón en su blog](https://web.archive.org/web/20170307143254/https://fronkonstin.com/2017/02/21/who-is-alan-turing/) me ha invitado a revisitar la cuestión y ahora, al parecer, `stats.grok.se` vuelve a estar levantado. Por lo que se pueden hacer cosas como:
 
 ```r
 visitas <- wp_trend("R_(lenguaje_de_programaci%C3%B3n)",

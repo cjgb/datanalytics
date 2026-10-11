@@ -59,7 +59,7 @@ m.0 <- glm( y ~ x, family = binomial(), data = dat )
 m.0$coefficients
 ```
 
-Adaptando [código ajeno](http://www.npwrc.usgs.gov/resource/birds/nestsurv/download/CreateLogisticExposureFamily.R) a nuestro contexto, podemos escribir:
+Adaptando [código ajeno](https://web.archive.org/web/20130325022634/http://www.npwrc.usgs.gov:80/resource/birds/nestsurv/download/CreateLogisticExposureFamily.R) a nuestro contexto, podemos escribir:
 
 ```r
 logexp <- function(days)

@@ -52,4 +52,4 @@ plot(n.obs, log10(res), type = "l",
 
 Imagino que crecerán, por otro lado, con la dispersión de los datos implicados alrededor del cuantil de interés.
 
-Atribución: me puso sobre la pista de esta peculiaridad de `quantile` [esto](http://r.prevos.net/percentile-calculations/).
+Atribución: me puso sobre la pista de esta peculiaridad de `quantile` [esto](https://web.archive.org/web/20170817143432/http://r.prevos.net:80/percentile-calculations/).

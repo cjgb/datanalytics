@@ -38,5 +38,5 @@ Esos artículos también explican por qué hace unas semanas [todo el mundo habl
 No solo se han podido identificar esos patrones sino que es posible, además, operar sobre ellos:
 
 - Quien haya examinado los enlaces anteriores habrá encontrado noticias de cómo una de las primeras _aplicaciones_ de la monosemanticidad fue construir un LLM derivado de Claude que no paraba de hablar del _Golden Gate_, viniese o no a cuento.
-- En [_Representation Engineering Mistral-7B an Acid Trip_](https://vgel.me/posts/representation-engineering/) se describe cómo ---simplificándolo todo muchísimo--- identificar y sumar un vector a los coeficientes de un LLM para forzarlo a operar de una manera determinada.
+- En [_Representation Engineering Mistral-7B an Acid Trip_](https://web.archive.org/web/20261004032257/https://vgel.me/posts/representation-engineering/) se describe cómo ---simplificándolo todo muchísimo--- identificar y sumar un vector a los coeficientes de un LLM para forzarlo a operar de una manera determinada.
 - Y qué duda cabe que muchas otras que existen o existirán. Al fin y al cabo, uno de los objetivos de la educación consiste en fomentar las tendencias neuróticas de cada generación; ahora disponemos de una herramienta para, también, inyectar directamente neuroticismo en estas seudointeligencias artificiales.

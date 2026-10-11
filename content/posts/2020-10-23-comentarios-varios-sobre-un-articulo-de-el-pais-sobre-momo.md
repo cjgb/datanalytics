@@ -31,7 +31,7 @@ El artículo trata un tema conocido de muchos, la infraestimación que hace el a
 
 Y pasa a explicar las diferencias entre los modelos del INE y de MOMO:
 
->El INE hace un cálculo muy simple: solo compara las muertes observadas este año con el pasado, que representaría la normalidad. En cambio el MoMo usa un modelo más complejo [(descrito en este informe)](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0213-91112015000400004) que parece ser la fuente de sus problemas: al estimar las muertes que espera cada día considera las defunciones de años anteriores, pero también las de los últimos 365 días. Eso significa que sus expectativas de muertes se elevan ahora por las muertes anormales desde marzo. Todos los días desde entonces esperan más muertes que en años anteriores, de manera que el exceso que calcula ---la diferencia entre observadas y esperadas--- es artificialmente bajo. Y se separa del INE.
+>El INE hace un cálculo muy simple: solo compara las muertes observadas este año con el pasado, que representaría la normalidad. En cambio el MoMo usa un modelo más complejo [(descrito en este informe)](https://web.archive.org/web/20201025072408/http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0213-91112015000400004) que parece ser la fuente de sus problemas: al estimar las muertes que espera cada día considera las defunciones de años anteriores, pero también las de los últimos 365 días. Eso significa que sus expectativas de muertes se elevan ahora por las muertes anormales desde marzo. Todos los días desde entonces esperan más muertes que en años anteriores, de manera que el exceso que calcula ---la diferencia entre observadas y esperadas--- es artificialmente bajo. Y se separa del INE.
 
 Uhhhhh... muchas cosas mezcladas:
 

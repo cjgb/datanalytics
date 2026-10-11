@@ -48,7 +48,7 @@ hicieron públicos una vez se reveló el fraude y que no se quedan cortos en adm
 
 Merece especial atención el de Francesca Gino, de la que se supo que, después de manifestar por escrito su indignación por el caso y su compromiso con los altos estándares de la integridad profesional, no solo
 [había falsificado también los datos en la parte que le correspondía del artículo](https://datacolada.org/109)
-sino también los de otras tres de sus publicaciones de [2014](https://datacolada.org/111), [2015](https://datacolada.org/110) y [2020](https://datacolada.org/112).
+sino también los de otras tres de sus publicaciones de [2014](https://web.archive.org/web/20261005175929/https://datacolada.org/111), [2015](https://web.archive.org/web/20260612112359/http://datacolada.org/110) y [2020](https://datacolada.org/112).
 
 Se le abona en todo caso que, en coherencia con lo que dijo y tal vez sintiéndose injustamente acusada de hechos que no reconoce, en lugar de admitir el fraude, [haya demandado](https://datacolada.org/113) a quienes sacaron a la luz el asunto.
 
@@ -56,7 +56,7 @@ Se le abona en todo caso que, en coherencia con lo que dijo y tal vez sintiéndo
 
 Además, su línea de defensa consiste en rebatir los aspectos técnicos de quienes la acusaron. Lo cual ha generado una cantidad adicional de material de interés estadístico de entre el que rescato:
 
-* Las refutaciones que hace Francesca Gino de los análisis de los datos originales que motivaron la acusación de fraude ([este](https://www.francesca-v-harvard.org/data-colada-post-1) y [este](https://www.francesca-v-harvard.org/hbs-data-reconciliation-1)).
+* Las refutaciones que hace Francesca Gino de los análisis de los datos originales que motivaron la acusación de fraude ([este](https://www.francesca-v-harvard.org/data-colada-post-1) y [este](https://web.archive.org/web/20231012191008/https://www.francesca-v-harvard.org/hbs-data-reconciliation-1)).
 * Una [refutación de las refutaciones](https://fashionalexpectations.substack.com/p/ginormous-coincidences)
 * Y [otra más](https://twitter.com/JohnHBillings/status/1708187948208857363) en forma de hilo de Twitter
 

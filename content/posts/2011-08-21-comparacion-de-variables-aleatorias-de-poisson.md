@@ -53,4 +53,4 @@ que es la probabilidad de $x_1$ éxitos en $x_1 + x_2$ intentos bajo una ley bin
 
 El tener que condicionar por valor de $x_1 + x_2$ para eliminar la dependencia con respecto a $\lambda$ es equivalente a restringir el parámetro a su valor más verosímil. Supongo que a los bayesianos les irrita esta manera de proceder y tienen sus propias [alternativas](http://stats.stackexchange.com/questions/10766/two-poisson-random-variables-and-likelihood-ratio-test).
 
-Acabo la discusión indicando que existen [otros procedimientos para afrontar este tipo de problemas](http://sankhya.isical.ac.in/search/64a3/64a3037.pdf).
+Acabo la discusión indicando que existen [otros procedimientos para afrontar este tipo de problemas](https://web.archive.org/web/20130626033959/http://sankhya.isical.ac.in:80/search/64a3/64a3037.pdf).

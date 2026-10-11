@@ -28,7 +28,7 @@ Aquellos que compartan también conmigo el gusto por comenzar a leer los libros 
 ![](http://www.elartefuncional.com/im/emisiones4.jpg)
 
 
-que tienen un público y un contexto muy particular. Y eso les ayudará a comprender mejor la exposición que hace del contenido previo y por qué su fiel se inclina en una u otra dirección cuando tropieza con disyuntivas. Así que entendería que a muchos —entre los que me cuento— les resulte de más provecho leer a [Wickham](https://datanalytics.com/2011/04/26/graficos-vi-teoria/), [Leland ](https://datanalytics.com/2011/02/10/1440/)o, muy pronto, [Perpiñán](http://oscarperpinan.github.com/spacetime-vis/).
+que tienen un público y un contexto muy particular. Y eso les ayudará a comprender mejor la exposición que hace del contenido previo y por qué su fiel se inclina en una u otra dirección cuando tropieza con disyuntivas. Así que entendería que a muchos —entre los que me cuento— les resulte de más provecho leer a [Wickham](https://datanalytics.com/2011/04/26/graficos-vi-teoria/), [Leland ](https://datanalytics.com/2011/02/10/1440/)o, muy pronto, [Perpiñán](https://web.archive.org/web/20130330022028/http://oscarperpinan.github.com:80/spacetime-vis/).
 
 No obstante, también de este libro podrán extraer lecciones provechosas.
 
@@ -38,7 +38,7 @@ La sección dedicada a los aspectos históricos de la visualización de datos es
 
 Sí, lo confieso: siento cierto desdén por la historia (de la visualización). Los casos que trata el autor me parecen excesivamente alejados. De  [Tukey](http://es.wikipedia.org/wiki/John_W._Tukey) para atrás, todo es prehistoria.
 
-La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son el alimento de estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como [estas](https://datanalytics.com/2011/03/02/1658/)) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar en él.
+La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son el alimento de estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como [estas](https://web.archive.org/web/20140314134405/http://www.datanalytics.com:80/2011/03/02/1658/)) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar en él.
 
 Al final, si unas determinadas combinaciones de colores _funcionan_ o dejan de hacerlo, si los datos se leen correctamente si se los representa como longitudes, áreas o volúmenes, depende de las peculiaridades del proceso de cognición. Y por eso acierta Cairo en estudiarlo con detalle.
 

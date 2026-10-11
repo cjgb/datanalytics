@@ -21,7 +21,7 @@ url: /2012/05/24/jugar-empobrece/
 
 Fumar mata. Cien gramos de barritas de cereales (cuatro unidades) contienen 0.2 gramos de sodio. Y unos carteles amarillos indican que hay que tener cuidado al pisar porque acaban de fregar el suelo. El estado quiere que dejemos de fumar, tengamos una dieta sana y no nos descalabremos.
 
-Pero, ¿por qué no se etiquetan de igual manera las máquinas tragaperras? Un reciente [artículo en Significance](http://www.significancemagazine.org/details/webexclusive/1754725/Safer-gambling.html) especula sobre la manera en que poder transmitir información sobre la peligrosidad de estos dispositivos a sus —tristes— usuarios. Porque, curiosamente, así como con la ruleta y otros juegos de azar es posible calcular las probabilidades involucradas, las máquinas tragaperras son particularmente opacas.
+Pero, ¿por qué no se etiquetan de igual manera las máquinas tragaperras? Un reciente [artículo en Significance](https://web.archive.org/web/20130729110017/http://www.significancemagazine.org/details/webexclusive/1754725/Safer-gambling.html) especula sobre la manera en que poder transmitir información sobre la peligrosidad de estos dispositivos a sus —tristes— usuarios. Porque, curiosamente, así como con la ruleta y otros juegos de azar es posible calcular las probabilidades involucradas, las máquinas tragaperras son particularmente opacas.
 
 Se ve que las probabilidades de obtener los distintos premios en Australia, según el autor, son
 

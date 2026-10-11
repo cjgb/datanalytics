@@ -20,13 +20,13 @@ title: Hoy ha comenzado el curso básico de R
 url: /2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/
 ---
 
-Hoy ha comenzado el [curso básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](http://jjgibaja.net/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
+Hoy ha comenzado el [curso básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](https://web.archive.org/web/20171111025411/http://jjgibaja.net:80/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
 
 El programa de la primera semana cubre:
 
 * Los capítulos 1 a 6 de [_icebreakeR_](http://www.ms.unimelb.edu.au/~andrewpr/r-users/icebreakeR.pdf)
 * Los capítulos 1 a 6 de _[An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)_
-* El [minitutorial de RStudio](http://www.r-es.org/Introducci%C3%B3n+a+RStudio) que he colgado de r-es.org y que es editable y mejorable por todos.
+* El [minitutorial de RStudio](https://web.archive.org/web/20120627135045/http://www.r-es.org:80/Introducci%C3%B3n+a+RStudio) que he colgado de r-es.org y que es editable y mejorable por todos.
 
 El objetivo no declarado es, sin embargo, que quienes sigan el temario de esta primera semana con aprovechamiento sustituyan Excel por R a la hora de trabajar con tablas (o ficheros csv) y realizar operaciones básicas sobre ellos. ¡Porque no hay color!
 

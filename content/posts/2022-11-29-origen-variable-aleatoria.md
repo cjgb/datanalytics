@@ -54,7 +54,7 @@ En realidad, y como se puede leer más abajo, existe una mención anterior a las
 Como todo el mundo sabe, _todo_ lo que merece la pena ser leído está escrito en inglés. Luego se traducen algunas cosas para que la culturilla general llegue a provincias. Así que el origen de _variable aleatoria_ tiene que ser necesariamente el de _random variable_, ¿no?
 
 Efectivamente, _parece_ ser así. En
-[_Earliest Known Uses of Some of the Words of Mathematics_](https://jeff560.tripod.com/r.html)
+[_Earliest Known Uses of Some of the Words of Mathematics_](https://web.archive.org/web/20260310145716/https://jeff560.tripod.com/r.html)
 se lee:
 
 > RANDOM VARIABLE is found in 1914 in Biometrika: “nDx and nDy are now random variables independent of time.” [OED]

@@ -22,7 +22,7 @@ url: /2017/07/12/alguien-sabe-por-que-es-tan-pequeno-este-numero/
 
 Hay una cifra que me intriga. Ya [hablé sobre ella hace años](https://datanalytics.com/2012/01/11/una-cifra-ya-que-estamos-con-el-irpf/).
 
-Buscando el otro día (infructosísimamente) información sobre la renta (y su distribución) de los autónomos, [volví a encontrármela actualizada](http://www.agenciatributaria.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2015/IART15.pdf):
+Buscando el otro día (infructosísimamente) información sobre la renta (y su distribución) de los autónomos, [volví a encontrármela actualizada](https://web.archive.org/web/20210419161707/https://www.agenciatributaria.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2015/IART15.pdf):
 
 ![](/img/2017/07/rentas_empresariales_medias.png#center)
 

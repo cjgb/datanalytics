@@ -65,7 +65,7 @@ mi.error( 0 )
 
 Este resultado también puede obtenerse usando las funciones `setBreakpoint `o `trace`.
 
-Finalmente, existe la posibilidad de [saber qué ha pasado después del fallo](http://projetos.inpa.gov.br/i3geo/pacotes/r/win/library/utils/html/debugger.html) de una función de R usando
+Finalmente, existe la posibilidad de [saber qué ha pasado después del fallo](https://web.archive.org/web/20111025091518/http://projetos.inpa.gov.br:80/i3geo/pacotes/r/win/library/utils/html/debugger.html) de una función de R usando
 
 
 ```r

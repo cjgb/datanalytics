@@ -22,7 +22,7 @@ Hace poco recibí noticia de la creación de un [grupo de usuarios de R en Brisb
 Miro también el siguiente gráfico y me da algo de grima:
 
 [![Mapa de grupos de usuarios de R](/img/2010/09/mapa_grupos_usuarios_r.png#center)
-](https://web.archive.org/web/20220811121128/https://r-project-for-statistical-computing.meetup.com/)
+](https://web.archive.org/web/20220811121128/https://web.archive.org/web/20101225031617/http://r-project-for-statistical-computing.meetup.com:80/)
 
 
 ¡No hay ni un solo cerca de Madrid (que es la ubicación que a mí y ahora más me compete)! Así que si alguno de mis lectores está interesado en el asunto, podemos ir urdiendo cómo hacer para colocarle un _pinchico_ rojo a ese mapa justo en Sol.

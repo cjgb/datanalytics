@@ -20,4 +20,4 @@ url: /2012/04/24/segunda-reunion-de-usuarios-de-r-de-madrid-recordatorio/
 
 Aprovecho para recordar a los usuarios de R de Madrid que el jueves 26 de abril, a las siete de la tarde, tendrá lugar la segunda reunión del grupo de usuarios de R de Madrid en la sala Metrópolis de La Tabacalera (glorieta de Embajadores).
 
-El programa, como siempre, puede consultarse en la [página del grupo](http://www.r-es.org/Grupo+de+Usuarios+de+R+en+Madrid).
+El programa, como siempre, puede consultarse en la [página del grupo](https://web.archive.org/web/20120419112027/http://www.r-es.org:80/Grupo+de+Usuarios+de+R+en+Madrid).

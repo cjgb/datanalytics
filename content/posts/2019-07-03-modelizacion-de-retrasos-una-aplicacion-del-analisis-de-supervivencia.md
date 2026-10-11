@@ -44,7 +44,7 @@ $$ n + (1 - x) m$$
 
 que vendría a ser un promedio de nuestro modelo anterior con peso $x$ y otro modelo más simple (con peso $1 -x$) que asigna a cada día un número de notificados igual a la media histórica.
 
-Así funciona (y no siempre tan bien como sería deseable) [esto](https://momo.isciii.es/public/momocalor), de donde extraigo
+Así funciona (y no siempre tan bien como sería deseable) [esto](https://web.archive.org/web/20190824141807/https://momo.isciii.es/public/momocalor), de donde extraigo
 
 ![](/img/2019/07/mortalidad_calor.png#center)
 

@@ -37,8 +37,8 @@ Y el motivo entero que trae este asunto hoy a estas páginas sería el de la pur
 
 A quien quiera poder argüir tanto a favor como en contra de este tipo de impuestos, le recomiendo estos dos artículos:
 
-* [Financial transaction taxes: the international experience and the lessons for Canada](http://dsp-psd.pwgsc.gc.ca/Collection-R/LoPBdP/BP/bp419-e.htm)
-* [Financial transaction taxes: pros, cons, design issues, and revenue estimates](http://dsp-psd.pwgsc.gc.ca/Collection-R/LoPBdP/BP/bp418-e.htm)
+* [Financial transaction taxes: the international experience and the lessons for Canada](https://web.archive.org/web/20110811085307/http://dsp-psd.pwgsc.gc.ca/Collection-R/LoPBdP/BP/bp419-e.htm)
+* [Financial transaction taxes: pros, cons, design issues, and revenue estimates](https://web.archive.org/web/20101013023820/http://dsp-psd.pwgsc.gc.ca:80/Collection-R/LoPBdP/BP/bp418-e.htm)
 
 En ellos se ofrece una visión panorámica de varias experiencias e implementaciones de impuestos sobre transacciones financieras en varios países (incluido Suecia, por supuesto). Aunque encuentro la discusión no tan cuantitativa como me gustaría y no veo en ella una discusión acerca del equilibrio entre los dos objetivos de estos impuestos: recaudar y aumentar la estabilidad de los mercados.
 

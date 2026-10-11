@@ -18,7 +18,7 @@ title: Piensa en términos de inferencia
 url: /2011/08/23/piensa-en-en-terminos-de-inferencia/
 ---
 
-Recomiendo a mis lectores [este estupendo vídeo](http://www.stat.auckland.ac.nz/~wild/09.wild.USCOTS.html). Es una conferencia de casi una hora que nos invita a pensar en los datos en términos de inferencia.
+Recomiendo a mis lectores [este estupendo vídeo](https://web.archive.org/web/20130217143857/http://www.stat.auckland.ac.nz/~wild/09.wild.USCOTS.html). Es una conferencia de casi una hora que nos invita a pensar en los datos en términos de inferencia.
 
 Aunque en un contexto un tanto exótico (la remodelación del currículo estadístico en los niveles educativos intermedios de Nueva Zelanda), plantea de una manera muy accesible el principal problema de la inferencia: dados unos datos que son una muestra de una población entera, ¿qué es legítimo afirmar acerca de la segunda a partir de los primeros?
 

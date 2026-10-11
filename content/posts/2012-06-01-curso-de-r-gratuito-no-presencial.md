@@ -20,7 +20,7 @@ url: /2012/06/01/curso-de-r-gratuito-no-presencial/
 
 Hace unos diez años aprendí R solo y por mi cuenta. Entonces era una rareza y no me constaba que en mi universidad hubiese nadie trabajando con él.
 
-Diez años después, R ha cobrado tal importancia que son muchos los interesados en aprenderlo. Para subvenir a esta demanda, [Juanjo Gibaja](http://jjgibaja.net/) y yo hemos diseñado un **curso de R básico** con las siguientes características:
+Diez años después, R ha cobrado tal importancia que son muchos los interesados en aprenderlo. Para subvenir a esta demanda, [Juanjo Gibaja](https://web.archive.org/web/20171111025411/http://jjgibaja.net:80/) y yo hemos diseñado un **curso de R básico** con las siguientes características:
 
 * Es **gratuito**.
 * No da derecho a diplomas o certificados de ningún tipo.

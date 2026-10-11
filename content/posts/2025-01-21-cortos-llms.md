@@ -23,10 +23,10 @@ GPT-4 se entrenó usando un clúster de 25k GPUs, Musk planea construir un centr
 [aquí](https://www.lesswrong.com/posts/NXTkEiaLA4JdS5vSZ/what-o3-becomes-by-2028).
 
 Por otro lado, el LLM de moda, DeepSeek-V3 (véase
-[esto](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf),
+[esto](https://web.archive.org/web/20250123180208/https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf),
 [esto](https://www.chinatalk.media/p/deepseeks-edge)
 o [esto](https://thezvi.wordpress.com/2024/12/31/deekseek-v3-the-six-million-dollar-model/)),
-se entrenó en un clúster de unas 2k GPUs durante unos dos meses, aproximadamente un orden de magnitud de cálculo menos que modelos ya superados, como Llama-3.1-405B. Además, el [precio de la inferencia](https://api-docs.deepseek.com/quick_start/pricing/) es imbatible.
+se entrenó en un clúster de unas 2k GPUs durante unos dos meses, aproximadamente un orden de magnitud de cálculo menos que modelos ya superados, como Llama-3.1-405B. Además, el [precio de la inferencia](https://web.archive.org/web/20261008073305/https://api-docs.deepseek.com/quick_start/pricing/) es imbatible.
 
 Supongo que esas son buenas noticias para el LLM público español,
 [ALIA](https://alia.gob.es/), que se entrena en un frijolín de 4k GPUs. ALIA nos va a dar muchas satisfacciones, casi seguro.
@@ -36,7 +36,7 @@ Pero no hay que fijarse en lo malo sino en lo bueno.
 En [_OpenAI's latest model will change the economics of software_](https://www.economist.com/business/2025/01/20/openais-latest-model-will-change-the-economics-of-software) se discuten los modelos que razonan (como o3 de OpenAI) desde la perspectiva de sus costes operativos. Con los primeros GPTs aprendimos que las habilidades que iban adquiriendo estos modelos eran función creciente del tamaño del conjunto de entrenamiento; ahora, da la impresión de que la sutileza del razonamiento de estos nuevos modelos es función creciente del tiempo que se les deje pensar (y de la energía que consumen). Eso, de alguna manera, podría estar condicionando la estructura del mercado y el sistema de precios para estos nuevos modelos.
 
 Aunque da la impresión de que esos costes podrían decaer rápidamente. Una serie de modelos chinos como
-[Qwen/QVQ-72B](https://deepinfra.com/Qwen/QVQ-72B-Preview),
+[Qwen/QVQ-72B](https://web.archive.org/web/20250120155213/https://deepinfra.com/Qwen/QVQ-72B-Preview),
 su versión multimodal,
 [Qwen2-VL-72B](https://qwenlm.github.io/blog/qvq-72b-preview/)
 y, sobre todo, el increíble

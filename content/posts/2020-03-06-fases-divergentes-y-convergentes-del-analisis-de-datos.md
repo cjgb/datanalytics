@@ -17,7 +17,7 @@ title: Fases divergentes y convergentes del análisis de datos
 url: /2020/03/06/fases-divergentes-y-convergentes-del-analisis-de-datos/
 ---
 
-[Aquí](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/) se propone un método para el análisis de datos que resume
+[Aquí](https://web.archive.org/web/20210920235026/https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/) se propone un método para el análisis de datos que resume
 
 ![](/img/2020/03/double_diamond_data_analysis-1024x724.png#center)
 

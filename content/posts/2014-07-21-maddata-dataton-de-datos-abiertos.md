@@ -30,7 +30,7 @@ La competición consiste en crear soluciones innovadoras a partir del uso de dat
 
 ![maddata](/img/2014/07/maddata.png#center)
 
-La [inscripción](https://www.eventbrite.es/e/entradas-maddata-11446383441?ref=ecount) está abierta hasta el 25 de julio de 2014.
+La [inscripción](https://web.archive.org/web/20220815155737/https://www.eventbrite.es/e/entradas-maddata-11446383441?ref=ecount) está abierta hasta el 25 de julio de 2014.
 
 Finalmente, he aquí una frase del anuncio que me hace mucha gracia:
 

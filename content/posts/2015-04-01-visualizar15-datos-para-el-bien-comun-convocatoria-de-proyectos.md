@@ -20,7 +20,7 @@ title: 'Visualizar''15 Datos para el bien común: convocatoria de proyectos'
 url: /2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/
 ---
 
-Voy a ser mentor de proyectos en [Visualizar'15 Datos](http://medialab-prado.es/article/tallervisualizar15proyectos). Pero aunque no lo fuese, escribiría esta entrada de hoy. Os cuento por qué. Mirad lo que dice la convocatoria:
+Voy a ser mentor de proyectos en [Visualizar'15 Datos](https://web.archive.org/web/20150401053153/http://medialab-prado.es:80/article/tallervisualizar15proyectos). Pero aunque no lo fuese, escribiría esta entrada de hoy. Os cuento por qué. Mirad lo que dice la convocatoria:
 
 >El objeto de esta convocatoria es la selección de un máximo de ocho proyectos para su desarrollo colaborativo en **un taller de dos semanas**, del 5 al 20 de mayo de 2015. Los proyectos seleccionados se desarrollarán con la ayuda de varios mentores y un asistente técnico, además de los colaboradores.
 

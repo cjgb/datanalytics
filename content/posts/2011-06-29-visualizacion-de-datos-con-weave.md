@@ -17,7 +17,7 @@ title: Visualización de datos con Weave
 url: /2011/06/29/visualizacion-de-datos-con-weave/
 ---
 
-Weave es una plataforma de visualización de datos desarrollada por el [Institute for Visualization and Perception Research](http://www.uml.edu/centers/ivpr/) de la Universidad de Massachusetts en colaboración con el [Open Indicators Consortium](http://www.openindicators.org/).
+Weave es una plataforma de visualización de datos desarrollada por el [Institute for Visualization and Perception Research](https://web.archive.org/web/20110620192535/http://www.uml.edu:80/centers/IVPR/) de la Universidad de Massachusetts en colaboración con el [Open Indicators Consortium](http://www.openindicators.org/).
 
 {{< youtube id="E9o7AXkzyc4" >}}
 

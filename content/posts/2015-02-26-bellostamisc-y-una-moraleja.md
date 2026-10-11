@@ -24,7 +24,7 @@ Antier recibí un correo inesperado. Me agradecía el paquete `bellostamisc`, sa
 
 Nacido sin pretensiones, llegó a tener, creo, algún uso. El autor del correo al que me refiero más arriba, un consultor externo de eBay, fue (me lo confirmó luego) uno de ellos. No (de hecho, `replicate(1e6, "no")`) me interesa el trabajo que me ofrecía, pero me hizo gracia pensar que estas cosas puedan suceder no a través de un _headhunter_ o de una relación personal sino a través de una del tipo desarrollador-usuario.
 
-Esta historia, que no deja de ser una anecdotilla personal, tiene mucho que ver con otra que interesará más, seguro, a mis lectores: _[Can Open Source Help Solve Unemployment?](http://www.wired.com/2014/11/open-source-unemployment/)_
+Esta historia, que no deja de ser una anecdotilla personal, tiene mucho que ver con otra que interesará más, seguro, a mis lectores: _[Can Open Source Help Solve Unemployment?](https://web.archive.org/web/20150119225351/http://www.wired.com:80/2014/11/open-source-unemployment/)_
 
 El titular es engañoso. No, el _software_ libre no va a resolver el problema del desempleo. Pero el artículo es menos tonto que lo que lo encabeza. Se refiere a cómo el _software_ libre puede ayudar a romper ese círculo vicioso de no trabajo -> no experiencia -> no trabajo -> ... Porque puedes adquirir experiencia (y demostrar tu valía) en el mundo del _software_ libre (y otros mundos relacionados o, para el caso, equivalentes) donde no existen esas barreras de entrada.
 

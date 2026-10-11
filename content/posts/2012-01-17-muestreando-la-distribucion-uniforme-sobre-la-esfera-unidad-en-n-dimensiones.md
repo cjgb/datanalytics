@@ -20,7 +20,7 @@ title: Muestreando la distribución uniforme sobre la esfera unidad en n dimensi
 url: /2012/01/17/muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones/
 ---
 
-Debo esta entrada a la diligencia de [Juanjo Gibaja](http://jjgibaja.net/), que se tomó la molestia de ubicar los teoremas relevantes en el libro _Simulation and the Monte Carlo Method_ de Rubinstein y Kroese.
+Debo esta entrada a la diligencia de [Juanjo Gibaja](https://web.archive.org/web/20171111025411/http://jjgibaja.net:80/), que se tomó la molestia de ubicar los teoremas relevantes en el libro _Simulation and the Monte Carlo Method_ de Rubinstein y Kroese.
 
 Esencialmente, como la distribución normal multivariante (con matriz de covarianzas `I`) es simétrica, entonces, dadas $X_1,\dots, X_m \sim N( 0, I_n )$ independientes, los `m` puntos del espacio `n`-dimensional $X_i/\| X_i \|$ siguen una distribución uniforme sobre su esfera (su superficie, vale la pena reiterar) unidad.
 

@@ -24,7 +24,7 @@ Hoy voy a aprovechar una excusa peregrina para hablar de lo que por algún motiv
 
 _[Nota: aquí quise incrustar un tuit de Analía Plaza que, aparentemente, fue borrado por su autora meses después.]_
 
-<!--- https://twitter.com/lalalalia/status/1300062241979596800 -->
+<!--- https://web.archive.org/web/20200830132639/https://twitter.com/lalalalia/status/1300062241979596800 -->
 
 Lo primero que tengo que decir al respecto es que las tetas y culos que asocia al Cabo de Gata el Instagram de quienquiera que haya tomado esas capturas son prácticamente las mismas que en el mío (y otro día os cuento por qué tengo Instagram, porque ni lo sabéis ni os lo podéis imaginar), a saber,
 
@@ -34,7 +34,7 @@ Además, son las mismas tetas y culos que he visto en los móviles de todos los 
 
 Lo cual llama la atención muchísimo: aparentemente, Instagram no usa un sistema de recomendación personalizado cuando alguien busca contenido acerca de una ubicación concreta (aparentemente de nuevo, no es lo mismo buscar información sobre un texto o un _hashtag_, donde sí que parece operar la personalización, que sobre lo que Instagram entiende como el nombre de un lugar). Extraño.
 
-Más lo es aún a la luz de lo que el mismo Instagram (o Facebook) ha hecho público sobre su sistema de recomendación ([aquí](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)). En particular, dicen hacer lo que todo el mundo, es decir,
+Más lo es aún a la luz de lo que el mismo Instagram (o Facebook) ha hecho público sobre su sistema de recomendación ([aquí](https://web.archive.org/web/20230614021607/https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)). En particular, dicen hacer lo que todo el mundo, es decir,
 
 >Retrieving accounts that are similar to those that a particular person previously expressed interest in helps us narrow down to a smaller, personalized ranking inventory for each person in a simple yet effective way. 
 

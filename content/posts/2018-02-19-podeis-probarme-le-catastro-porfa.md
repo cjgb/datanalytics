@@ -19,7 +19,7 @@ title: ¿Podéis probarme/le CatastRo? Porfa...
 url: /2018/02/19/podeis-probarme-le-catastro-porfa/
 ---
 
-[CatastRo](https://github.com/rOpenSpain/CatastRo) es un paquete de R para explotar la [API del Catastro](https://ovc.catastro.meh.es/ovcservweb/ovcswlocalizacionrc/ovccoordenadas.asmx) que fue realizado por un alumno mío de la UTAD, [Ángel Delgado](https://github.com/DelgadoPanadero), como proyecto de fin de máster.
+[CatastRo](https://github.com/rOpenSpain/CatastRo) es un paquete de R para explotar la [API del Catastro](https://ovc.catastro.meh.es/ovcservweb/ovcswlocalizacionrc/ovccoordenadas.asmx) que fue realizado por un alumno mío de la UTAD, [Ángel Delgado](https://web.archive.org/web/20201101032345/https://github.com/DelgadoPanadero), como proyecto de fin de máster.
 
 Ahora, una vez integrado en [rOpenSpain](https://ropenspain.es/), toca transformarlo de un proyecto académico en un paquete útil y práctico. Vamos, exponerlo al proceloso piélago del uso para que le crujan las costuras y ver cuáles son las mejoras más pertinentes.
 

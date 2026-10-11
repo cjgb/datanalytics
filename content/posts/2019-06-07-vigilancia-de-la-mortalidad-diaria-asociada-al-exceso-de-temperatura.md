@@ -22,4 +22,4 @@ title: Vigilancia de la mortalidad diaria asociada al exceso de temperatura
 url: /2019/06/07/vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura/
 ---
 
-[Aquí](https://momo.isciii.es/public/momocalor). Se agradecen comentarios.
+[Aquí](https://web.archive.org/web/20190824141807/https://momo.isciii.es/public/momocalor). Se agradecen comentarios.

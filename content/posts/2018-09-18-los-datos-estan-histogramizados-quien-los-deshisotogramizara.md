@@ -23,7 +23,7 @@ title: Los datos están histogramizados... ¿quién los deshisotogramizará?
 url: /2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/
 ---
 
-Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los [datos](http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system) estaban _histogramizados_:
+Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los [datos](https://web.archive.org/web/20180926184141/http://www.skm.dk:80/english/facts-and-figures/progression-in-the-income-tax-system) estaban _histogramizados_:
 
 ![](/img/2018/09/datos_histogramizados.png#center)
 
@@ -33,7 +33,7 @@ Gracias a [Freakonometrics](https://freakonometrics.hypotheses.org/18859) di con
 library(rvest)
 library(plyr)
 
-dk <- read_html("http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system")
+dk <- read_html("https://web.archive.org/web/20180926184141/http://www.skm.dk:80/english/facts-and-figures/progression-in-the-income-tax-system")
 tmp <- html_nodes(dk, "table")
 tmp <- html_table(tmp[[2]])
 

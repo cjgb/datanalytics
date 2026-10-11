@@ -17,10 +17,10 @@ title: Precios de la vivienda e intención de voto, por Nestoria
 url: /2011/12/07/precios-vivienda-intencion-voto-nestoria/
 ---
 
-[Nestoria](http://nestoria.es), uno de los patrocinadores de las III Jornadas de Usuarios de R, ha realizado un estudio en el que [relaciona el precio de la vivienda en Madrid con los últimos resultados electorales](http://www.nestoria.es/data/madrid-elecciones-2011-precio-vivienda) obteniendo relaciones tan claras como esta:
+[Nestoria](https://web.archive.org/web/20260611185408/https://www.nestoria.es/), uno de los patrocinadores de las III Jornadas de Usuarios de R, ha realizado un estudio en el que [relaciona el precio de la vivienda en Madrid con los últimos resultados electorales](https://web.archive.org/web/20150426071218/http://www.nestoria.es/data/madrid-elecciones-2011-precio-vivienda) obteniendo relaciones tan claras como esta:
 
 ![](/img/2011/12/precio_vivienda_pp_psoe.jpg)
 
-De hecho, Nestoria —a diferencia de tantos organismos públicos que no publican, valga la antirredundancia, sus datos— proporciona una [API](http://www.nestoria.co.uk/help/api) para acceder a sus bases de datos de precios. Esto permite cruzar este tipo de información, hasta ahora de difícil obtención, con otras variables para ayudar a comprender mejor determinados fenómenos sociales.
+De hecho, Nestoria —a diferencia de tantos organismos públicos que no publican, valga la antirredundancia, sus datos— proporciona una [API](https://web.archive.org/web/20241114063514/https://www.nestoria.co.uk/help/api) para acceder a sus bases de datos de precios. Esto permite cruzar este tipo de información, hasta ahora de difícil obtención, con otras variables para ayudar a comprender mejor determinados fenómenos sociales.
 
 ¿Qué otras aplicaciones podrían dársele a este API? Hummm...

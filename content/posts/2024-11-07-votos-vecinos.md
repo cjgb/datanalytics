@@ -32,7 +32,7 @@ La historia, telegráficamente, es así:
 6. Incluso se especuló si ese inversor era realmente Elon Musk (y que intervenía en él para influir maliciosamente en el proceso electoral).
 7. Este inversor ha acabado ganando bastante dinero (unas cuantas decenas de millones de euros) con sus apuestas.
 
-[Se ha sabido](https://www.wsj.com/finance/how-the-trump-whale-correctly-called-the-election-cb7eef1d), no obstante, que el inversor en cuestión es un tal Théo, de Francia.
+[Se ha sabido](https://web.archive.org/web/20260224162135/https://www.wsj.com/finance/how-the-trump-whale-correctly-called-the-election-cb7eef1d), no obstante, que el inversor en cuestión es un tal Théo, de Francia.
 
 Se ha sabido, además, qué llevó a Théo a considerar que las opciones de Trump eran mayores que las que daban a entender los sondeos y las predicciones basadas en ellos. Resulta que algunas encuestas publicadas no solo preguntaban a los encuestados cuál era su intención de voto sino también ---de alguna manera--- cuál era la que ellos percibían en sus vecinos. Al parecer, la encuesta "de vecinos" daba una ventaja sustancial a Trump que no se reflejaba en la de "individuos". Eso condujo a Théo a sospechar lo que hoy todos sabemos y a apostar en consecuencia.
 

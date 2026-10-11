@@ -20,7 +20,7 @@ url: /2025/04/15/cortos-llms/
 
 Simon Willison invita [aquí](https://simonwillison.net/2025/May/5/prompting/) a pensar mejores _prompts_ para resumir texto ---uno de los principales usos de los LLMs--- de manera más efectiva.
 
-Y [este otro artículo](https://artificialcorner.com/p/my-best-ai-article-of-2023-how-to) abunda sobre el tema: cómo construir mejores _prompts_. El problema que tiene es el de siempre: solo puedes entretenerte en pulir los _prompts_ cuando esperas obtener mucho valor de la respuesta. Para el uso rápido y cotidiano, continuaremos con nuestras heurísticas frugales.
+Y [este otro artículo](https://web.archive.org/web/20250401072847/https://artificialcorner.com/p/my-best-ai-article-of-2023-how-to) abunda sobre el tema: cómo construir mejores _prompts_. El problema que tiene es el de siempre: solo puedes entretenerte en pulir los _prompts_ cuando esperas obtener mucho valor de la respuesta. Para el uso rápido y cotidiano, continuaremos con nuestras heurísticas frugales.
 
 Dos usuarios avanzados de los LLMs desvelan algunos de sus trucos:
 - Matt Webb cuenta cómo [le dicta a un LLM mientras hace ejercicio](https://interconnected.org/home/2025/03/20/diane) y usa otro LLM para pasar el resultado a limpio.

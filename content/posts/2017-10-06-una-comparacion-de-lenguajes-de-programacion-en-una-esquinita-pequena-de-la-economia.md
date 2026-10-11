@@ -21,7 +21,7 @@ title: Una comparación de lenguajes de programación en una esquinita pequeña 
 url: /2017/10/06/una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia/
 ---
 
-El título, no el de esta entrada sino el de _[A Comparison of Programming Languages in Economics](http://web.archive.org/web/20180315072701/http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)_, es una sinécdoque confusa.
+El título, no el de esta entrada sino el de _[A Comparison of Programming Languages in Economics](http://web.archive.org/web/20180315072701/https://web.archive.org/web/20170918032554/http://economics.sas.upenn.edu:80/~jesusfv/comparison_languages.pdf)_, es una sinécdoque confusa.
 
 Que nadie busque en él consejo sobre qué lenguaje estudiar si le interesa el mundo de la economía (en general). O fuera de ella (también en general).
 

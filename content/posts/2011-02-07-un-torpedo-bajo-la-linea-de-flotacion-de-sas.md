@@ -19,11 +19,11 @@ title: ¿Un torpedo bajo la línea de flotación de SAS?
 url: /2011/02/07/un-torpedo-bajo-la-linea-de-flotacion-de-sas/
 ---
 
-[Revolution Analytics](https://web.archive.org/web/20160722221709/http://www.revolutionanalytics.com:80/) ha disparado un torpedo apuntando bajo la línea de flotación de SAS. Se trata del _SAS to R challenge_, una muy inteligente campaña de publicidad por la que se compromete a reescribir en R gratuitamente código SAS de clientes potenciales si el primero es más eficaz que el segundo.
+[Revolution Analytics](https://web.archive.org/web/20160722221709/https://en.wikipedia.org/wiki/Revolution_Analytics) ha disparado un torpedo apuntando bajo la línea de flotación de SAS. Se trata del _SAS to R challenge_, una muy inteligente campaña de publicidad por la que se compromete a reescribir en R gratuitamente código SAS de clientes potenciales si el primero es más eficaz que el segundo.
 
 Más allá de lo que la campaña _parece ser_, se esconde lo que realmente _es_: la constatación de que **el premio gordo en el mundo de análisis empresarial es la actual base instalada de SAS** y de que Revolution va a por todas.
 
-¿Cómo espera Revolution Analytics desbancar a SAS? Utilizando su nueva extensión propietaria **RevoScaleR**, un paquete de R diseñado para afrontar los retos que supone el análisis de los conjuntos de datos _grandes_ que manejan típicamente las organizaciones. Los lectores de esta bitácora, con la ayuda de Google o [Blekko](https://web.archive.org/web/20120103090741/http://blekko.com/) serán capaces de encontrar por sí mismos la típica información comercial ([vídeos](http://www.youtube.com/watch?v=Cc5qvs1vA-8), folletos, etc.) acerca del producto.
+¿Cómo espera Revolution Analytics desbancar a SAS? Utilizando su nueva extensión propietaria **RevoScaleR**, un paquete de R diseñado para afrontar los retos que supone el análisis de los conjuntos de datos _grandes_ que manejan típicamente las organizaciones. Los lectores de esta bitácora, con la ayuda de Google o [Blekko](https://web.archive.org/web/20120103090741/https://en.wikipedia.org/wiki/Blekko) serán capaces de encontrar por sí mismos la típica información comercial ([vídeos](http://www.youtube.com/watch?v=Cc5qvs1vA-8), folletos, etc.) acerca del producto.
 
 Sin embargo, destacaré aquí dos de los aspectos técnicos RevoScaleR que han trascendido:
 

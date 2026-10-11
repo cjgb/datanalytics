@@ -18,7 +18,7 @@ title: Hemos cerrado el curso básico de R
 url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 ---
 
-El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellos solo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.
+El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellos solo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](https://web.archive.org/web/20171111025411/http://jjgibaja.net:80/) y yo.
 
 Quiero dar las gracias a los participantes en el curso y muy particularmente a quienes han contribuido más activamente en nuestra plataforma de preguntas y aprendizaje.
 
@@ -61,7 +61,7 @@ De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso
 ![](/img/2012/07/estadistica.png#center)
 
 
-(Perdón por la [graficaca](https://datanalytics.com/2011/03/02/1658/): son cosas de Google).
+(Perdón por la [graficaca](https://web.archive.org/web/20140314134405/http://www.datanalytics.com:80/2011/03/02/1658/): son cosas de Google).
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso avanzado de R?
 

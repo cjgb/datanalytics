@@ -38,7 +38,7 @@ Está orientado a estudiantes, profesionales del análisis de datos que desconoz
 
 Puedes darte de alta [aquí](https://www.eventbrite.es/e/entradas-curso-de-r-basico-15778229108) o en el formulario
 
-[Venta de entradas online](http://www.eventbrite.es/r/etckt) para [Curso de R básico](https://www.eventbrite.es/e/entradas-curso-de-r-basico-15778229108?ref=etckt) ofrecido por [Eventbrite](http://www.eventbrite.es?ref=etckt)
+[Venta de entradas online](http://www.eventbrite.es/r/etckt) para [Curso de R básico](https://web.archive.org/web/20220819112347/https://www.eventbrite.es/e/entradas-curso-de-r-basico-15778229108?ref=etckt) ofrecido por [Eventbrite](http://www.eventbrite.es?ref=etckt)
 
 **Letra no tan pequeña:**
 

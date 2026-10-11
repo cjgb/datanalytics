@@ -39,4 +39,4 @@ print(cor(m), digits = 2)
 
 La correlación de `x` con `y` es positiva; también la de `y` con `z`. Pero `x` y `z` guardan correlación negativa.
 
-Nota: sacado de [aquí](https://www.causeweb.org/wiki/chance/index.php/Chance_News_104).
+Nota: sacado de [aquí](https://web.archive.org/web/20170916163302/https://www.causeweb.org/wiki/chance/index.php/Chance_News_104).

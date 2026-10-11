@@ -37,4 +37,4 @@ cor( weight, predict( lm.D9 ) )**2
 
 ¿Qué obtenemos? Precisamente la R2 del modelo `lm.D9`. Esta relación abre la puerta a varias extensiones de esta medida de la bondad de ajuste a contextos en los que las expresiones _suma de cuadrados de..._ carecen de sentido.
 
-En la UCLA mantienen una página sobre [la R2 y sus extensiones](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/psuedo_rsquareds.htm) que seguro será del provecho de muchos de los lectores de esta bitácora.
+En la UCLA mantienen una página sobre [la R2 y sus extensiones](https://web.archive.org/web/20110405002311/http://www.ats.ucla.edu:80/stat/mult_pkg/faq/general/psuedo_rsquareds.htm) que seguro será del provecho de muchos de los lectores de esta bitácora.

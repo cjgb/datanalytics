@@ -28,7 +28,7 @@ Estos catorce mitos son, en realidad, siete y siete. Los primeros, [de FEDEA](ht
 6. Los “excesivos” e “injustos” beneficios de las eléctricas españolas son una prueba del abuso al que someten al mercado.
 7. Las subastas CESUR encarecen el precio de la energía.
 
-Los otros siete, del [Observatorio Crítico de la Energía](http://www.observaelmercadoelectrico.net/Entiende/index40.html#go_index):
+Los otros siete, del [Observatorio Crítico de la Energía](https://web.archive.org/web/20131216065006/http://www.observaelmercadoelectrico.net:80/Entiende/index40.html#go_index):
 
 1. La mejor manera de administrar el sistema eléctrico en España es mediante un mercado libre.
 2. El mercado incentiva las tecnologías más eficientes, garantizando el precio mínimo de generación.

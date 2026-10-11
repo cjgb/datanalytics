@@ -27,7 +27,7 @@ Comencé hace un tiempo un pequeño paquete de R, `MicroDataEs`, para importar a
 * fomentar el uso de R entre aquellos que utilicen frecuentemente este tipo de información y
 * hacer más accesibles estos datos a los usuarios de R.
 
-Quien haya tratado de trabajar, por ejemplo, con los ficheros de [microdatos de la EPA que publica el INE](http://www.ine.es/prodyser/micro_epa.htm) comprenderá rápidamente el interés y alcance del paquete. Porque estos datos:
+Quien haya tratado de trabajar, por ejemplo, con los ficheros de [microdatos de la EPA que publica el INE](https://web.archive.org/web/20160304083243/http://www.ine.es/prodyser/micro_epa.htm) comprenderá rápidamente el interés y alcance del paquete. Porque estos datos:
 
 * se distribuyen en un fichero de texto posicional que solo contiene códigos numéricos y
 * la relación de valores correspondientes a dichos códigos y otros metadatos (como la posición de las columnas) están contenidas en unas [hojas de Excel](ftp://www.ine.es/temas/epa/disereg_epa0511.zip).

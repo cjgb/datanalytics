@@ -22,4 +22,4 @@ url: /2014/03/06/me-han-entrevistado-en-big-data-4-success/
 
 Aún tengo pendiente mirar en un diccionario qué es _podcast_. Pero ya he hecho uno. Tengo el honor de haber sido entrevistado por Jorge Ubero para [Big Data 4 Success](http://bigdata4success.com/).
 
-La entrevista, [aquí](http://bigdata4success.com/podcast-carlos-gil-bellosta-ebay-datanalytics/).
+La entrevista, [aquí](https://web.archive.org/web/20140816133121/http://bigdata4success.com/podcast-carlos-gil-bellosta-ebay-datanalytics/).

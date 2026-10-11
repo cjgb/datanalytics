@@ -23,7 +23,7 @@ url: /2018/12/21/un-acto-fallido-la-pregunta-sigue-pues-abierta/
 
 [Jot Down](http://www.jotdown.es) es una publicación recomendable. Aunque frecuentemente peque de a lo que tienden las publicaciones _de letras_ (en el sentido menos amable del término): que prime el escribir bonito sobre la sustancia, el argumento y su coherencia.
 
-El artículo que motiva este se anuncia como [_Especulación inmobiliaria, tradición centenaria_](http://http://www.jotdown.es/2017/04/especulacion-inmobiliaria-tradicion-centenaria/) y recoge tres episodios (¿anécdota? ¿categoría?) bien conocidos pero florida y amenamente descritos:
+El artículo que motiva este se anuncia como [_Especulación inmobiliaria, tradición centenaria_](https://web.archive.org/web/20181216143547/http://www.jotdown.es:80/2017/04/especulacion-inmobiliaria-tradicion-centenaria/) y recoge tres episodios (¿anécdota? ¿categoría?) bien conocidos pero florida y amenamente descritos:
 
 * El del duque de Lerma a principios del XVII.
 * El del marqués de Salamanca, en el XIX.

@@ -43,7 +43,7 @@ Minimícese esa suma, i.e., encuéntrense los puntos $y_1, \dots, y_n$ que la mi
 Más:
 
 * [Detalles](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
-* [Ejemplos de uso.](http://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)
+* [Ejemplos de uso.](https://web.archive.org/web/20260326102348/https://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)
 
 **Nota curiosa:** creo que he usado el adjetivo distributivo _sendas_ por primera vez en la vida.
 
