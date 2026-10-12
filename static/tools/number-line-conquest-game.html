@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Number Line Conquest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #eef2f7;
+    --grid: #d6dfeb;
+    --ink: #16233f;
+    --muted: #55637f;
+    --card: #ffffff;
+    --line: #16233f;
+    --p1: #d9482b;
+    --p2: #0b7f77;
+    --tie: #8591aa;
+    --focus: #2b59ff;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #0f1626;
+      --grid: #1b2640;
+      --ink: #e8edf8;
+      --muted: #97a4c2;
+      --card: #162037;
+      --line: #e8edf8;
+      --p1: #ff7a5c;
+      --p2: #3fd0c4;
+      --tie: #7783a0;
+      --focus: #7da0ff;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0f1626;
+    --grid: #1b2640;
+    --ink: #e8edf8;
+    --muted: #97a4c2;
+    --card: #162037;
+    --line: #e8edf8;
+    --p1: #ff7a5c;
+    --p2: #3fd0c4;
+    --tie: #7783a0;
+    --focus: #7da0ff;
+  }
+  html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+  *, *::before, *::after { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background-color: var(--paper);
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 28px 28px;
+    color: var(--ink);
+    font: 400 17px/1.5 'Atkinson Hyperlegible', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1 { font-size: clamp(1.8rem, 5.5vw, 2.7rem); line-height: 1.1; margin: 8px 0; letter-spacing: -0.01em; }
+  .rules { max-width: 62ch; margin: 0 0 20px; color: var(--muted); }
+
+  .players { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .player {
+    --pc: var(--p1);
+    background: var(--card);
+    border: 3px solid var(--grid);
+    border-radius: 14px;
+    padding: 12px 14px;
+    transition: border-color .2s;
+  }
+  .player[data-p="1"] { --pc: var(--p2); }
+  .player.active, .player.winner { border-color: var(--pc); }
+  .pname { display: flex; align-items: center; gap: 8px; }
+  .pname svg { flex: none; }
+  .pname input {
+    font: 700 1.1rem 'Atkinson Hyperlegible', system-ui, sans-serif;
+    color: var(--ink);
+    background: transparent;
+    border: 0;
+    border-bottom: 2px dashed var(--grid);
+    border-radius: 0;
+    padding: 2px 0;
+    width: 100%;
+    min-width: 0;
+  }
+  input:focus-visible, select:focus-visible, button:focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+  }
+  .pips { display: flex; gap: 6px; margin: 10px 0 8px; }
+  .pip { width: 14px; height: 14px; border: 2px solid var(--pc); border-radius: 50%; }
+  .pip.on { background: var(--pc); }
+  .tally { display: flex; gap: 22px; margin: 0; }
+  .tally dt { font-size: .85rem; color: var(--muted); }
+  .tally dd { margin: 0; font-size: 1.9rem; font-weight: 700; line-height: 1.1; }
+
+  .status { font-weight: 700; font-size: 1.2rem; min-height: 2.8em; margin: 18px 0 6px; }
+
+  .board {
+    background: var(--card);
+    border: 3px solid var(--grid);
+    border-radius: 14px;
+    overflow-x: auto;
+    padding: 6px 4px;
+  }
+  #line { display: block; width: 100%; min-width: 520px; height: auto; user-select: none; -webkit-user-select: none; }
+  .tick .hit { fill: transparent; stroke: none; }
+  .tick.open { cursor: pointer; }
+  .tick .ghost { opacity: 0; fill: var(--cur); pointer-events: none; }
+  .tick.open:hover .ghost, .tick.open:focus-visible .ghost { opacity: .4; }
+  .tick:focus { outline: none; }
+  .tick:focus-visible .hit { stroke: var(--focus); stroke-width: 3; rx: 8; }
+  .tickline { stroke: var(--line); stroke-width: 3; stroke-linecap: round; }
+  .axis { stroke: var(--line); stroke-width: 3.5; }
+  .arrow { fill: var(--line); }
+  .b0 { fill: var(--p1); }
+  .b1 { fill: var(--p2); }
+  .tag { font-family: 'Patrick Hand', 'Comic Sans MS', 'Marker Felt', cursive; font-size: 34px; text-anchor: middle; }
+  .t0 { fill: var(--p1); }
+  .t1 { fill: var(--p2); }
+  .tie { fill: var(--tie); }
+  .faded { opacity: .5; }
+  @media (prefers-reduced-motion: no-preference) {
+    .reveal .tag.score { animation: pop .35s both; animation-delay: var(--d); }
+    @keyframes pop { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 6px; }
+  button {
+    font: 700 1rem 'Atkinson Hyperlegible', system-ui, sans-serif;
+    border-radius: 10px;
+    padding: 10px 16px;
+    border: 2px solid var(--ink);
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+  }
+  button.primary { background: var(--ink); color: var(--paper); }
+  button:disabled { opacity: .4; cursor: default; }
+  button[hidden] { display: none; }
+
+  .options { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; margin: 14px 0 4px; color: var(--muted); }
+  .options label { display: inline-flex; align-items: center; gap: 8px; }
+  select {
+    font: 400 1rem 'Atkinson Hyperlegible', system-ui, sans-serif;
+    color: var(--ink);
+    background: var(--card);
+    border: 2px solid var(--grid);
+    border-radius: 8px;
+    padding: 4px 8px;
+  }
+  .meta { color: var(--muted); margin: 10px 0 0; max-width: 70ch; }
+
+  @media (max-width: 480px) {
+    .player { padding: 10px; }
+    .tally { gap: 14px; }
+  }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <h1>Number Line Conquest</h1>
+    <p class="rules">Take turns claiming tick marks as bases, three each. Then every blank tick scores a point for the player whose nearest base is closer. Ticks equally far from both players score for nobody.</p>
+  </header>
+
+  <section class="players" aria-label="Players">
+    <div class="player" id="card0" data-p="0">
+      <div class="pname"><span id="mark0"></span><input id="name0" maxlength="14" aria-label="Player 1 name" autocomplete="off"></div>
+      <div class="pips" id="pips0" aria-hidden="true"></div>
+      <dl class="tally"><div><dt>Wins</dt><dd id="wins0">0</dd></div><div><dt>Points</dt><dd id="pts0">0</dd></div></dl>
+    </div>
+    <div class="player" id="card1" data-p="1">
+      <div class="pname"><span id="mark1"></span><input id="name1" maxlength="14" aria-label="Player 2 name" autocomplete="off"></div>
+      <div class="pips" id="pips1" aria-hidden="true"></div>
+      <dl class="tally"><div><dt>Wins</dt><dd id="wins1">0</dd></div><div><dt>Points</dt><dd id="pts1">0</dd></div></dl>
+    </div>
+  </section>
+
+  <p class="status" id="status" role="status" aria-live="polite"></p>
+
+  <div class="board"><div id="boardHost"></div></div>
+
+  <div class="controls">
+    <button id="undo" type="button">Undo last base</button>
+    <button id="next" type="button" class="primary" hidden>Start next round</button>
+    <button id="reset" type="button">Reset scores</button>
+  </div>
+
+  <div class="options">
+    <label>Ticks on the line
+      <select id="ticks">
+        <option>9</option><option>11</option><option>13</option><option selected>15</option><option>17</option><option>19</option><option>21</option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="preview"> Show projected score while placing</label>
+  </div>
+
+  <p class="meta" id="meta"></p>
+</main>
+
+<script>
+(() => {
+  const KEY = 'nlc-v1';
+  const STEP = 50, MARGIN = 40, H = 220, Y = 125;
+  const TICK_OPTIONS = [9, 11, 13, 15, 17, 19, 21];
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+  const S = {
+    n: 15,
+    names: ['Winnie', 'Grogg'],
+    bases: [[], []],
+    history: [],
+    first: 0,
+    phase: 'place',      // 'place' | 'scored'
+    result: null,
+    scores: [{ wins: 0, pts: 0 }, { wins: 0, pts: 0 }],
+    draws: 0,
+    rounds: 0,
+    preview: false,
+    animate: false,
+    confirmReset: false
+  };
+  let confirmTimer = null;
+
+  function load() {
+    try {
+      const d = JSON.parse(localStorage.getItem(KEY) || 'null');
+      if (!d) return;
+      if (TICK_OPTIONS.includes(d.n)) S.n = d.n;
+      if (Array.isArray(d.names) && d.names.length === 2) S.names = d.names.map(x => String(x).slice(0, 14));
+      if (Array.isArray(d.scores) && d.scores.length === 2) {
+        S.scores = d.scores.map(x => ({ wins: +x.wins || 0, pts: +x.pts || 0 }));
+      }
+      S.draws = +d.draws || 0;
+      S.rounds = +d.rounds || 0;
+      S.first = d.first === 1 ? 1 : 0;
+      S.preview = !!d.preview;
+    } catch (e) { /* storage unavailable or empty: keep defaults */ }
+  }
+  function save() {
+    try {
+      localStorage.setItem(KEY, JSON.stringify({
+        n: S.n, names: S.names, scores: S.scores, draws: S.draws,
+        rounds: S.rounds, first: S.first, preview: S.preview
+      }));
+    } catch (e) { /* ignore */ }
+  }
+
+  const moves = () => S.history.length;
+  const turn = () => (S.first + moves()) % 2;
+  const name = p => S.names[p].trim() || ('Player ' + (p + 1));
+  function letter(p) {
+    const a = (S.names[0].trim()[0] || '1').toUpperCase();
+    const b = (S.names[1].trim()[0] || '2').toUpperCase();
+    if (a === b) return p === 0 ? '1' : '2';
+    return p === 0 ? a : b;
+  }
+
+  // owner[i]: 0 or 1 = scores for that player, -1 = equal distance, null = base tick
+  function evaluate(bases) {
+    const owners = []; let a = 0, b = 0, ties = 0;
+    for (let i = 0; i < S.n; i++) {
+      if (bases[0].includes(i) || bases[1].includes(i)) { owners.push(null); continue; }
+      const d0 = bases[0].length ? Math.min(...bases[0].map(x => Math.abs(x - i))) : Infinity;
+      const d1 = bases[1].length ? Math.min(...bases[1].map(x => Math.abs(x - i))) : Infinity;
+      if (d0 < d1) { owners.push(0); a++; }
+      else if (d1 < d0) { owners.push(1); b++; }
+      else { owners.push(-1); ties++; }
+    }
+    return { owners, a, b, ties };
+  }
+
+  function placeBase(i) {
+    if (S.phase !== 'place') return;
+    if (S.bases[0].includes(i) || S.bases[1].includes(i)) return;
+    const p = turn();
+    S.bases[p].push(i);
+    S.history.push([p, i]);
+    if (moves() === 6) finishRound();
+    render();
+  }
+
+  function finishRound() {
+    S.result = evaluate(S.bases);
+    S.scores[0].pts += S.result.a;
+    S.scores[1].pts += S.result.b;
+    if (S.result.a > S.result.b) S.scores[0].wins++;
+    else if (S.result.b > S.result.a) S.scores[1].wins++;
+    else S.draws++;
+    S.rounds++;
+    S.phase = 'scored';
+    S.animate = true;
+    save();
+  }
+
+  function undo() {
+    if (S.phase !== 'place' || !S.history.length) return;
+    const [p, i] = S.history.pop();
+    S.bases[p] = S.bases[p].filter(x => x !== i);
+    render();
+  }
+
+  function clearBoard() {
+    S.bases = [[], []];
+    S.history = [];
+    S.result = null;
+    S.phase = 'place';
+    S.animate = false;
+  }
+
+  function nextRound() {
+    S.first = 1 - S.first;
+    clearBoard();
+    save();
+    render();
+  }
+
+  function resetScores() {
+    if (!S.confirmReset) {
+      S.confirmReset = true;
+      clearTimeout(confirmTimer);
+      confirmTimer = setTimeout(() => { S.confirmReset = false; renderControls(); }, 3500);
+      renderControls();
+      return;
+    }
+    clearTimeout(confirmTimer);
+    S.confirmReset = false;
+    S.scores = [{ wins: 0, pts: 0 }, { wins: 0, pts: 0 }];
+    S.draws = 0;
+    S.rounds = 0;
+    S.first = 0;
+    clearBoard();
+    save();
+    render();
+  }
+
+  /* ---------- rendering ---------- */
+
+  function shape(p, cx, cy, r, cls, extra) {
+    extra = extra || '';
+    if (p === 0) return `<circle class="${cls}" cx="${cx}" cy="${cy}" r="${r}" ${extra}/>`;
+    const s = r * 1.7;
+    return `<rect class="${cls}" x="${cx - s / 2}" y="${cy - s / 2}" width="${s}" height="${s}" transform="rotate(45 ${cx} ${cy})" ${extra}/>`;
+  }
+
+  function renderBoard() {
+    const n = S.n;
+    const W = (n - 1) * STEP + 2 * MARGIN;
+    const placing = S.phase === 'place';
+    const cur = turn();
+    const baseOf = new Array(n).fill(-1);
+    S.bases.forEach((arr, p) => arr.forEach(i => { baseOf[i] = p; }));
+
+    let res = null, faded = false;
+    if (S.phase === 'scored') res = S.result;
+    else if (S.preview && moves() > 0) { res = evaluate(S.bases); faded = true; }
+
+    let svg = `<svg id="line" viewBox="0 0 ${W} ${H}" role="group" aria-label="Number line with ${n} tick marks" class="${S.animate ? 'reveal' : ''}" style="--cur:var(--p${cur + 1})">`;
+    svg += `<line class="axis" x1="18" y1="${Y}" x2="${W - 18}" y2="${Y}"/>`;
+    svg += `<polygon class="arrow" points="6,${Y} 24,${Y - 9} 24,${Y + 9}"/>`;
+    svg += `<polygon class="arrow" points="${W - 6},${Y} ${W - 24},${Y - 9} ${W - 24},${Y + 9}"/>`;
+
+    for (let i = 0; i < n; i++) {
+      const x = MARGIN + i * STEP;
+      const open = placing && baseOf[i] === -1;
+      let label = `Tick ${i + 1} of ${n}`;
+      if (baseOf[i] !== -1) label += `, base of ${name(baseOf[i])}`;
+      else if (open) label += `, blank. Place a base for ${name(cur)}`;
+      svg += `<g class="tick${open ? ' open' : ''}" data-i="${i}" ${open ? 'tabindex="0" role="button"' : ''} aria-label="${esc(label)}">`;
+      svg += `<rect class="hit" x="${x - STEP / 2}" y="30" width="${STEP}" height="${H - 50}"/>`;
+      svg += `<line class="tickline" x1="${x}" y1="${Y - 13}" x2="${x}" y2="${Y + 13}"/>`;
+      if (open) svg += shape(cur, x, Y, 11, 'ghost');
+      if (baseOf[i] !== -1) {
+        svg += shape(baseOf[i], x, Y, 11, 'b' + baseOf[i]);
+        svg += `<text class="tag t${baseOf[i]}" x="${x}" y="${Y + 56}">${esc(letter(baseOf[i]))}</text>`;
+      }
+      if (res && res.owners[i] !== null) {
+        const o = res.owners[i];
+        const cls = (o === -1 ? 'tie' : 't' + o) + ' score' + (faded ? ' faded' : '');
+        const txt = o === -1 ? '=' : esc(letter(o));
+        svg += `<text class="tag ${cls}" style="--d:${i * 45}ms" x="${x}" y="${Y - 30}">${txt}</text>`;
+      }
+      svg += `</g>`;
+    }
+    svg += `</svg>`;
+    $('boardHost').innerHTML = svg;
+    S.animate = false;
+  }
+
+  function renderCards() {
+    const winner = (S.phase === 'scored' && S.result.a !== S.result.b) ? (S.result.a > S.result.b ? 0 : 1) : -1;
+    for (let p = 0; p < 2; p++) {
+      $('card' + p).classList.toggle('active', S.phase === 'place' && turn() === p);
+      $('card' + p).classList.toggle('winner', winner === p);
+      $('mark' + p).innerHTML = `<svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">${shape(p, 13, 13, 9, 'b' + p)}</svg>`;
+      let pips = '';
+      for (let k = 0; k < 3; k++) pips += `<span class="pip${k < S.bases[p].length ? ' on' : ''}"></span>`;
+      $('pips' + p).innerHTML = pips;
+      $('wins' + p).textContent = S.scores[p].wins;
+      $('pts' + p).textContent = S.scores[p].pts;
+    }
+  }
+
+  function renderStatus() {
+    let t;
+    if (S.phase === 'place') {
+      const p = turn();
+      const k = S.bases[p].length + 1;
+      t = `${name(p)}, choose a tick for base ${k} of 3.`;
+      if (S.preview && moves() > 0) {
+        const r = evaluate(S.bases);
+        t += ` Projected: ${name(0)} ${r.a}, ${name(1)} ${r.b}.`;
+      }
+    } else {
+      const r = S.result;
+      if (r.a > r.b) t = `${name(0)} wins the round, ${r.a} to ${r.b}.`;
+      else if (r.b > r.a) t = `${name(1)} wins the round, ${r.b} to ${r.a}.`;
+      else t = `The round is tied, ${r.a} to ${r.b}.`;
+      if (r.ties) t += ` ${r.ties} tick${r.ties === 1 ? ' was' : 's were'} equally close and scored for nobody.`;
+    }
+    $('status').textContent = t;
+  }
+
+  function renderControls() {
+    $('undo').hidden = S.phase !== 'place';
+    $('undo').disabled = moves() === 0;
+    $('next').hidden = S.phase !== 'scored';
+    $('reset').textContent = S.confirmReset ? 'Click again to reset scores' : 'Reset scores';
+  }
+
+  function renderMeta() {
+    const roundNo = S.rounds + (S.phase === 'place' ? 1 : 0);
+    let t = `Round ${roundNo}.`;
+    if (S.phase === 'place') t += ` ${name(S.first)} picks first this round; the starting player swaps each round.`;
+    if (S.draws) t += ` Drawn rounds: ${S.draws}.`;
+    $('meta').textContent = t;
+  }
+
+  function render() {
+    renderBoard();
+    renderCards();
+    renderStatus();
+    renderControls();
+    renderMeta();
+    $('ticks').value = String(S.n);
+    $('preview').checked = S.preview;
+  }
+
+  /* ---------- events ---------- */
+
+  const host = $('boardHost');
+  host.addEventListener('click', e => {
+    const g = e.target.closest('.tick');
+    if (g) placeBase(+g.dataset.i);
+  });
+  host.addEventListener('keydown', e => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const g = e.target.closest('.tick');
+    if (!g) return;
+    e.preventDefault();
+    placeBase(+g.dataset.i);
+  });
+
+  [0, 1].forEach(p => {
+    $('name' + p).addEventListener('input', e => {
+      S.names[p] = e.target.value;
+      save();
+      renderBoard();
+      renderStatus();
+      renderMeta();
+    });
+  });
+
+  $('undo').addEventListener('click', undo);
+  $('next').addEventListener('click', nextRound);
+  $('reset').addEventListener('click', resetScores);
+  $('ticks').addEventListener('change', e => {
+    S.n = +e.target.value;
+    clearBoard();
+    save();
+    render();
+  });
+  $('preview').addEventListener('change', e => {
+    S.preview = e.target.checked;
+    save();
+    render();
+  });
+
+  load();
+  $('name0').value = S.names[0];
+  $('name1').value = S.names[1];
+  render();
+})();
+</script>
+</body>
+</html>

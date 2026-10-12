@@ -22,6 +22,7 @@ Esta página es un listado de algunos recursos creados por Carlos J. Gil Bellost
 
 - Tres juegos, [este](/tools/addition-game.html), [este](/tools/math_game_claude.html) y [este](/tools/math_game_gemini.html) para aprender las operaciones aritméticas básicas.
 - El [juego de la abeja](/tools/bee-bot-game.html) (o _bee-bot_), desarrollado con ayuda de Claude.
+- El [juego de la conquista de la recta numérica](/tools/number-line-conquest-game.html).
 
 ## Diapositivas y material de charlas y cursos
 
