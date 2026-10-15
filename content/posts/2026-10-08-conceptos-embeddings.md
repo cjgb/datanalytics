@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- estadística
+- ciencia de datos
 date: 2026-10-08
 description: "Una cota superior e inferior al número de «conceptos» que caben en un espacio de «embeddings»."
 tags:
