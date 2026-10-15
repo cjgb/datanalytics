@@ -15,11 +15,11 @@ Sea $t$ una fecha, $d$ una disciplina académica (matemáticas, lingüística, e
 
 Piénsese en, por ejemplo, $d = \text{'matemáticas'}$. $D(t, d)$ ha sido prácticamente constante durante decenios.
 
-Pero ahora ha aparecido la IA, que ha comenzado a asumir tareas y resolver problemas que se consideraban nucleares en muchas disciplinas en fechas tan recientes como $t = 2020-01-01$.
+Pero ahora ha aparecido la IA, que ha comenzado a asumir tareas y resolver problemas que se consideraban nucleares en muchas disciplinas en fechas tan recientes como $t = \text{2020-01-01}$.
 
 Nos estamos acostumbrando a que cada vez que un avance de la IA erosiona el monopolio que la ciencia institucional ejercía sobre $D(t, d)$, «se mueva la portería». Es decir, que aparezcan manifestaciones de los popes de $d$ del tipo:
 
-> ¿Sabéis qué? Veníais pensando que en $d$ hacemos $D(t-\epsilon, d)$. Nos pagáis por ello, además. Aunque éramos nosotros mismos los que os lo habíamos dicho, estabais profundamente equivocados. Nosotros, en realidad, nos dedicamos a $D(t, d)$, que tiene _alguito_ que ver, pero no es exactamente igual, a $D(t-\epsilon, d)$. Ergo seguimos siendo tan relevantes, o incluso más, que en $t-\epsilon$.
+> ¿Sabéis qué? Veníais pensando que en $d$ hacemos $D(t-\epsilon, d)$. Nos pagáis por ello, además. Aunque éramos nosotros mismos los que os lo habíamos dicho, estabais profundamente equivocados. Nosotros, en realidad, nos dedicamos a $D(t, d)$, que tiene _alguito_ que ver con, pero no es exactamente igual a, $D(t-\epsilon, d)$. Ergo seguimos siendo tan relevantes, o incluso más, que en $t-\epsilon$.
 
 Pero cuando en $t+\Delta$ aparece un modelo más potente que pone en cuestión la exclusividad de la disciplina sobre $D(t, d)$, la portería vuelve a moverse a $D(t + \Delta, d)$.
 
