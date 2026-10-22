@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-02-14 09:13:00+00:00
-draft: false
 lastmod: '2025-04-06T18:58:27.106124'
 related:
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
@@ -21,6 +20,8 @@ title: ¿Lineal o logística?
 url: /2020/02/14/lineal-o-logistica/
 ---
 
-Hay cosas tan _obvias_ que ni se plantea la alternativa. Pero luego va R. Gomila y escribe _[Logistic or Linear? Estimating Causal Effects of Treatments on Binary Outcomes Using Regression Analysis](https://www.researchgate.net/publication/334410430_Logistic_or_Linear_Estimating_Causal_Effects_of_Binary_Outcomes_Using_Regression_Analysis)_ que se resume en lo siguiente: cuando te interese la explicación y no la predicción, aunque tu `y` sea binaria, usa regresión lineal y pasa de la logística.
+Hay cosas tan _obvias_ que ni se plantea la alternativa. Pero luego va R. Gomila y escribe [_Logistic or Linear? Estimating Causal Effects of Treatments on Binary Outcomes Using Regression Analysis](https://www.researchgate.net/publication/334410430_Logistic_or_Linear_Estimating_Causal_Effects_of_Binary_Outcomes_Using_Regression_Analysis)_ que se resume en:
+
+> cuando te interese la explicación y no la predicción, aunque tu `y` sea binaria, usa regresión lineal y pasa de la logística.
 
 **Nota:** La sección 4.2 de _An Introduction to Statistical Learning_ se titula precisamente _Why Not Linear Regression?_

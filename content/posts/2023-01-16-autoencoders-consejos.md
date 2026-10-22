@@ -25,7 +25,7 @@ Estos días pasados he tenido que usar _autoencoders_ como mecanismos para _redu
 
 ¿Es esto importante? ¿Por qué?
 
-Lo es y lo es porque las imágenes tienen una estructura muy concreta: como vectores, son números positivos y acotados (con un rango que depende de la condificación). Y no tienen _outliers_.
+Lo es y lo es porque las imágenes tienen una estructura muy concreta: como vectores, son números positivos y acotados (con un rango que depende de la codificación). Y no tienen _outliers_.
 
 Sin embargo, los datos que uno encuentra en casi todas las aplicaciones _tradicionales_ tienen datos de todo pelaje: positivos y negativos, ¡enteros!, con _outliers_, etc. Vamos, lo que uno se encuentra cuando piensa en aplicar PCA por el mundo.
 

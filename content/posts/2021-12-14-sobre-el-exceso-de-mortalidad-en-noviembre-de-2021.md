@@ -37,12 +37,11 @@ Toca retrotraerse a los principios de la estimación de la mortalidad. El gráfi
 
 El patrón habitual ---abstracción sea hecha del periodo pandémico--- es el siguiente:
 
-  * Una tendencia global (¿lineal?) no particularmente acusada.
-  * Una estacionalidad intraanual con pico en el inverno y valle en el verano.
-  * Otros fenómenos puntuales que se concentran en el verano y el invierno y que discutiré más abajo.
+* Una tendencia global (¿lineal?) no particularmente acusada.
+* Una estacionalidad intraanual con pico en el invierno y valle en el verano.
+* Otros fenómenos puntuales que se concentran en el verano y el invierno y que discutiré más abajo.
 
 El modelo clásico (que es el que usa EuroMOMO) es el de Serfling (de los años 60), que traté hace un tiempo [aquí](https://datanalytics.com/2020/04/06/en-primavera-en-serio-ni-de-cona/). Es, esencialmente, una regresión con un término lineal en t y una sinusoide con un periodo de 365 días. Así de simple: es pura tecnología de los principios de la era de la estadística computacional. Y es el que proporciona la línea gris punteada en el gráfico anterior.
-
 
 Los fenómenos puntuales de interés ---y que, al final, son los que tratan de estimar estos modelos--- son las defunciones producidas por las olas de calor en verano, las olas de frío en invierno y las atribuibles a la epidemia estacional de gripe. Todos estos fenómenos son, en principio, identificables y estimables sobre la base del modelo anterior a partir de otras variables como la temperatura o los indicadores de incidencia gripal. Se caracterizan, además, porque no siempre ocurren en las mismas fechas ni tienen la misma intensidad. Sin embargo, a pesar de su interés intrínseco, su discusión es irrelevante para el problema que justifica esta entrada hoy.
 
@@ -56,6 +55,6 @@ En concreto, en noviembre el modelo viene a recoger el comportamiento esperado o
 
 Y, efectivamente, a la pregunta de si noviembre ha sido anómalo, [AEMET ha tenido la gentileza de contestarnos que sí](http://www.aemet.es/es/noticias/2021/12/resumen_clima_noviembre_2021):
 
->AEMET acaba de hacer público el balance climático mensual correspondiente a noviembre; el pasado mes ha tenido en conjunto un carácter muy frío, con una temperatura media en la España peninsular de 8,2 ºC, 1,2 ºC por debajo de la media de este mes (periodo de referencia: 1981-2010). Se ha tratado del décimo noviembre más frío desde el comienzo de la serie en 1961, y del cuarto más frío del siglo XXI, por detrás de los meses de noviembre de 2008, 2001 y 2010.
+> AEMET acaba de hacer público el balance climático mensual correspondiente a noviembre; el pasado mes ha tenido en conjunto un carácter muy frío, con una temperatura media en la España peninsular de 8,2 ºC, 1,2 ºC por debajo de la media de este mes (periodo de referencia: 1981-2010). Se ha tratado del décimo noviembre más frío desde el comienzo de la serie en 1961, y del cuarto más frío del siglo XXI, por detrás de los meses de noviembre de 2008, 2001 y 2010.
 
 Así que lo más sensato que se me ocurre decir acerca de las desviaciones ---relativamente pequeñas, además--- de la mortalidad del mes de noviembre es que reflejan, entre otras cosas ---recuérdese que aún _estamos en pandemia_--- un adelanto del invierno que el modelo base no puede detectar. Obviamente, esta es una hipótesis que habría que contrastar con lo ocurrido en otros países (aunque sí, EuroMOMO parece apuntar a que ese pudiera ser el caso también, aunque la evidencia está confundida con el impacto de la sexta (¿sexta?) ola) o en el desglose por provincias o CCAA de las series de MOMO.

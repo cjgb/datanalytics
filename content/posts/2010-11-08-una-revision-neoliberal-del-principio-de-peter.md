@@ -13,6 +13,7 @@ related:
 - 2011-06-06-la-tragedia-del-buen-rollito.md
 tags:
 - consultoría
+- peter
 title: Una revisión neoliberal del principio de Peter
 url: /2010/11/08/una-revision-neoliberal-del-principio-de-peter/
 ---

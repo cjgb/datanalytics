@@ -21,7 +21,7 @@ title: 'Infradispersión de conteos: ¿buenos ejemplos?'
 url: /2017/02/01/infradispersion-de-conteos-buenos-ejemplos/
 ---
 
-La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos relativos a conteos. Sin embargo, tiene un problema serio: la varianza está fijada a la media: ambas son $\lambda$, el parámetro de la distribución.
+La distribución de Poisson se utiliza de oficio cuando se quiere modelar conteos. Sin embargo, tiene un problema serio: su media determina el valor de la varianza. Ambas son $\lambda$, el parámetro de la distribución.
 
 Muy frecuentemente se observan datos con **sobredispersión**. Si $\lambda$ es 1000, el número esperado de eventos está contenido en un intervalo demasiado estrecho,
 
@@ -32,7 +32,7 @@ qpois(c(0.025, 0.975), 1000)
 
 como para ser realista en muchas aplicaciones.
 
-En otras situaciones más raras, se observa el fenómeno contrario, la **infradispersión**. Hay un ejemplo _de libro_ que ocurre cuando se imponen cuotas. Por ejemplo, el número de multas que se ponen en un departamento de policía puede quedarse muy cerca del nivel del _objetivo de productividad_ cuando se impone uno.
+En otras situaciones más raras, se observa el fenómeno contrario, la **infradispersión**. El caso de las cuotas es el ejemplo _de libro_: el número de multas que se ponen en un departamento de policía puede quedarse muy cerca del nivel del _objetivo de productividad_ cuando se establece uno.
 
 El otro día se me ocurrió otro: el número de duchas diarias. Si tiene, p.e., media de 1, la distribución tiene una pinta, de nuevo, poco realista:
 
@@ -42,6 +42,6 @@ table(rpois(1000, 1))
 #371 365 184  60  16   1   2   1
 ```
 
-No sé si alguien quiere participar su ejemplo de infradispersión favorito. Tiene los comentarios a su entera disposición.
+No sé si alguien quiere compartir su ejemplo de infradispersión favorito. Tiene los comentarios a su entera disposición.
 
 **Addenda:** Véase [esto](http://datanalytics.com/tags/infradispersión).

@@ -26,7 +26,7 @@ title: Interacciones y selección de modelos
 url: /2020/03/16/interacciones-y-seleccion-de-modelos/
 ---
 
-Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado en la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
 
 El modelo lineal clásico,
 
@@ -34,7 +34,7 @@ $$ y \sim x_1 + x_2 + \dots$$
 
 no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).
 
-El  motivo de esta entrada es ofrecer cierta intuición sobre qué modelos son más adecuados para modelar un fenómeno en función de la importancia esperada de las interacciones. O mejor dicho, de cómo de heterogéneo es el modelo en categorías distintas de la población. Voy a establecer tres niveles:
+El motivo de esta entrada es ofrecer cierta intuición sobre qué modelos son más adecuados para modelar un fenómeno en función de la importancia esperada de las interacciones. O mejor dicho, de cómo de heterogéneo es el modelo en categorías distintas de la población. Voy a establecer tres niveles:
 
 * Nivel _`lm`_: Pocas interacciones y fáciles de intuir. Se introducen en el modelo a mano. (Obviamente, _`lm`_ es una etiqueta que puede extenderse a cantidad de generalizaciones suyas, de los GLMs, a los GAM, a los...).
 * Nivel _random forest_: Nivel intermedio de interacciones, imposibles de predeterminar. Los árboles son modelos que, esencialmente, detectan interacciones entre variables y funcionan mal con efectos aditivos. Todas sus extensiones entran en esta categoría.

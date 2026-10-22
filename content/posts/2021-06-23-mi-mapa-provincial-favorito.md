@@ -30,7 +30,7 @@ O, en una versión más cruda,
 
 Cosas sobre él:
 
-* Forma parte de la colección de mapas que provee el INE para su uso con en infausto PCAxis y puede descargarse [de aquí](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1254735116596&p=1254735116596&pagename=ProductosYServicios%2FPYSLayout) (junto con muchos otros, casi todos convencionales y aburridos, mapas de España, sus regiones, provincias y municipios).
+* Forma parte de la colección de mapas que provee el INE para su uso con el infausto PCAxis y puede descargarse [de aquí](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1254735116596&p=1254735116596&pagename=ProductosYServicios%2FPYSLayout) (junto con muchos otros, casi todos convencionales y aburridos, mapas de España, sus regiones, provincias y municipios).
 * Para facilitar su uso y, probablemente, infringiendo normas sobre la propiedad intelectual u otras, lo he colgado también [aquí](http://datanalytics.com/uploads/mapa_provincial_favorito.zip).
 * Como se puede apreciar, el mapa resuelve los problemas que plantean otros más fieles al territorio para la representación de información estadística. En particular, redimensiona algunas provincias para hacerlas visibles y, llegado el caso, _clicables_.
 * Tiene muchos, muchos detractores.

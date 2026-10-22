@@ -20,11 +20,8 @@ title: Disponibles los vídeos y presentaciones de las VI Jornadas de Usuarios d
 url: /2014/11/05/disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r/
 ---
 
-Ya están disponibles las [diapo](http://r-es.org/Programa+de+las+VI+Jornadas)[sitivas y vídeos de las charlas de las VI Jornadas de Usuarios de R](http://r-es.org/Programa+de+las+VI+Jornadas). Entre ellos, las [diapositivas](https://web.archive.org/web/20150402073919/http://r-es.org/dl1248) y el
+Ya están disponibles las [diapo](http://r-es.org/Programa+de+las+VI+Jornadas)[sitivas y vídeos de las charlas de las VI Jornadas de Usuarios de R](http://r-es.org/Programa+de+las+VI+Jornadas). Entre ellos, las [diapositivas](https://web.archive.org/web/20150402073919/http://r-es.org/dl1248) y [el de la charla de quien escribe](http://ftp.cixug.es/pub/6J_R/Jueves/Tarde/01_Carlos_Gil.mp4).
 
-[![charla_santiago](/img/2014/11/charla_santiago.jpg)
-](http://ftp.cixug.es/pub/6J_R/Jueves/Tarde/01_Carlos_Gil.mp4)
-
-de la charla de quien suscribe.
+![charla_santiago](/img/2014/11/charla_santiago.jpg#center)
 
 (Y gracias, de nuevo, al equipo local (en Santiago) del Comité Organizador de las Jornadas por su estupendo trabajo).

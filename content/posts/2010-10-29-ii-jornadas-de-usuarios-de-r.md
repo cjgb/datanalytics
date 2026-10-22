@@ -24,4 +24,4 @@ Ya es oficial: está abierta la inscripción para participar en las [II Jornadas
 
 Me complace también formar parte del comité científico de dichas jornadas y de encargarme del taller avanzado de R (día 1 de diciembre a las siete de la tarde).
 
-¿Nos veremos en Mieres?
+¿Nos veremos en Asturias?

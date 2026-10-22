@@ -23,8 +23,7 @@ url: /2018/03/01/kriging-con-stan/
 
 Este mes de julio, cuórum mediante, impartiré en la UPC un curso que he maltitulado, mor de brevedad, _Estadística Bayesiana Aplicada_.
 
-Los cursos de estadística bayesiana son teoría, mucha teoría, y unos ejemplos tontos que quieren justificarla. Del tipo: hagamos lo que ya sabemos hacer de otra manera más; busquemos una alternativa molona al p-valor (y usémosla como usar
-íamos un p-valor, por supuesto), etc.
+Los cursos de estadística bayesiana son teoría, mucha teoría, y unos ejemplos tontos que buscan justificarla. Del tipo: hagamos lo que ya sabemos hacer de otra manera más; busquemos una alternativa molona al p-valor (y usémosla como usaríamos un p-valor, por supuesto), etc.
 
 Mi curso debería haberse titulado algo así como: _Problemas reales (aunque simplificados por motivos estrictamente pedagógicos) resueltos con tecnología bayesiana porque, si no, dígame Vd. cómo lo haría: ¿con optim? Jajajajaja..._
 
@@ -33,7 +32,7 @@ Es un curso en el que aplicaciones reales justifican la tecnología y esta, a su
 Uno de los problemas avanzados pero a la mano que quiero plantear es el del _kriging_. Por simplificar, en una dimensión. Hay muchas cosas de contar eso del _kriging_, muchas de las cuales no he entendido jamás, pero la más
 sencilla es generalizando los modelos lineales generalizados. Por simplificar, desgeneralicemos los GLMs y partamos del modelo lineal,
 
-$$ Y_i | X_i \,\, \sim \,\, N(\mu_i, \sigma)$$
+$$ Y_i | X_i \sim N(\mu_i, \sigma)$$
 
 o bien,
 
@@ -51,7 +50,7 @@ Por concretar, dados los valores
 
 podríamos querer obtener estimaciones de la función subyacente en alguno intermedio. O en una rejilla determinada. Sí, como si usásemos _loess_ o similar. Pero, en nuestro caso, usando el siguiente modelo:
 
-$Y | X \,\, \sim \,\, N(\mu, \Sigma)$
+$Y | X \sim N(\mu, \Sigma)$
 
 donde $\mu$ es un vector de medias y $\Sigma$ es una matriz de covarianzas en la que $\Sigma_{ij}$ es una función decreciente de la distancia entre $x_i$ y $x_j$.
 

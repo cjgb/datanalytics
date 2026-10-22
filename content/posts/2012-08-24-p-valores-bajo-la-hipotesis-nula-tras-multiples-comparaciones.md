@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2012-08-24 06:50:08+00:00
-draft: false
 lastmod: '2025-04-06T18:49:36.521857'
 related:
 - 2017-12-12-p-curvas.md
