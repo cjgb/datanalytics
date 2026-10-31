@@ -4,8 +4,7 @@ categories:
 - estadística
 - r
 date: 2021-02-16 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T19:12:51.013555'
+lastmod: '2026-10-31'
 related:
 - 2024-06-20-mas-r-cuadrado.md
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md
@@ -26,9 +25,9 @@ Todo esto arranca con el tuit:
 
 {{< x user="juanrallo" id="1356242130746941443" >}}
 
-Esa gráfica, extraída de un documento de la OCDE, creo, fue uno de los argumentos esgrimidos por JR Rallo para defender cierta postura que no viene al caso. Lo relevante para estas páginas es que fue contestado y protestado por muchos ---de algunos de los cuales, dada su autoproclamada condición de divulgadores científicos, cabría esperar más--- en términos exclusivamente de lo pequeño de la R².
+Esa gráfica ---extraída de un documento de la OCDE, creo--- fue uno de los argumentos esgrimidos por JR Rallo para defender cierta postura que no viene al caso. Lo relevante para estas páginas es que fue contestada y protestada por muchos ---de algunos de los cuales, dada su autoproclamada condición de divulgadores científicos, cabría esperar más--- en términos exclusivamente de lo pequeño de la R².
 
-Hay mil argumentos para criticar una regresión de ese estilo y mi favorita es _[10k regresiones truchas para que cada cual elija la que más le cuadre](https://datanalytics.com/2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/)_, en estas mismas páginas. Pero no, la R² no es argumento de nada. La R² está relacionada con el error irreductible, la cantidad de ruido presente en los datos como pone en evidencia el ejemplo que desarrollo a continuación.
+Hay mil argumentos para criticar una regresión de ese estilo y mi favorita es [_10k regresiones truchas para que cada cual elija la que más le cuadre_](/2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/), en estas mismas páginas. Pero no, la R² no es argumento de nada. La R² está relacionada con el error irreductible, la cantidad de ruido presente en los datos como pone en evidencia el ejemplo que desarrollo a continuación.
 
 En primer lugar, genero varios conjuntos de datos con la misma estructura probabilística pero haciendo variar (crecer) el error irreductible, es decir, la $\sigma$ del error normal:
 

@@ -21,5 +21,4 @@ url: /2011/01/06/una-frase-afortunada-que-merece-ser-enmarcada/
 
 Si bien en [mi entrada de hace un par de días](https://datanalytics.com/2011/01/05/graficaca-tutiplen/) critiqué aspectos manifiestamente perfectibles de un articulillo que he leído estos días, hay en él una frase estupenda. Una frase que merece ser enmarcada. Una frase de la que, por evitar que se me traspapele y para solaz de mis lectores, voy a dejar aquí constancia. Es:
 
-
->Knusel (2005) investigated tail probabilities of distributions using Excel 2003 and found that previously inaccurate algorithms in Excel have been replaced by new inaccurate algorithms.
+> Knusel (2005) investigó las probabilidades de cola de las distribuciones utilizando Excel 2003 y descubrió que los algoritmos de Excel que antes eran inexactos han sido reemplazados por nuevos algoritmos inexactos.

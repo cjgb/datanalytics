@@ -29,9 +29,9 @@ No obstante, me siento reivindicado: en el epígrafe arriba mencionado, Pearl de
 
 Por si no estaba claro, el libro entero, la obra de Pearl entera, el mismo Pearl entero, trata sobre causalidad, sobre cuándo y cómo podemos decir que A es la causa de B.
 
-La ciencia trata de esas cosas, a menudo. A veces no. A veces la ciencia se conforma en saber dónde caerá la bala sin importarle cuál es la naturaleza de la fuerza de la gravedad. Los higienistas descubrieron eso que lavarse las manos era conveniente antes incluso de que se conociesen los gérmenes. Etc. Hay muchas historias al respecto.
+La ciencia trata de esas cosas, a menudo. A veces no. A veces la ciencia se conforma con saber dónde caerá la bala sin importarle cuál es la naturaleza de la fuerza de la gravedad. Los higienistas descubrieron que lavarse las manos era conveniente antes incluso de que se conociesen los gérmenes. Etc. Hay muchas historias al respecto.
 
-Además, el lenguaje (tradicional) de la ciencia no entiende de causalidad. Por ejemplo, Pearl se fija en la fórmula `F = ma`. Desde chavales nos enseñaron que la fuerza _causa _una aceleración (que depende de la masa). Pero aunque escribamos `a = F/m`, no caeremos en el error de decir que la aceleración causa una fuerza. Las ecuaciones pueden invertirse, pero las relaciones causales no.
+Además, el lenguaje (tradicional) de la ciencia no entiende de causalidad. Por ejemplo, Pearl se fija en la fórmula `F = ma`. Desde chavales nos enseñaron que la fuerza _causa_ una aceleración (que depende de la masa). Pero aunque escribamos `a = F/m`, no caeremos en el error de decir que la aceleración causa una fuerza. Las ecuaciones pueden invertirse, pero las relaciones causales no.
 
 De ahí que Pearl se haya esforzado en, primero, crear un lenguaje basado en símbolos, redes causales, que representan hipotéticas relaciones causales.
 
@@ -41,7 +41,7 @@ Por ejemplo, la temperatura podría afectar la resistencia de una fibra. Podría
 
 Pero la ingeniería es una rareza. En otras disciplinas (¡yo que pensaba que había hablado ya de relojes, de gatos y de Madagascar en mi blog!) no es posible realizar tal tipo de experimentos (salvo que seas un Mengele en Auschwitz o un consultor de Podemos en Venezuela). En otras disciplinas no se dispone sino de estudios observacionales, no controlados.
 
-La pregunta es: ¿es posible obtener resultados similares a los de los ingenieros utilizando únicamente resultados observacionales? La respuesta, según Pearl, es positiva. Para eso introduce un operador, `do`, que simula _intervenciones_ junto con una serie de reglas probabilísticas. `do(x)` en una red probabilística es el efecto en cascada que tendría sobre los nodos subsecuentes una intervención hipotética que fijase el valor de `x`.
+La pregunta es: ¿es posible obtener resultados similares a los de los ingenieros utilizando únicamente resultados observacionales? La respuesta, según Pearl, es positiva. Para eso introduce un operador, `do`, que simula _intervenciones_ junto con una serie de reglas probabilísticas. `do(x)` en una red probabilística es el efecto en cascada que tendría sobre los nodos subsiguientes una intervención hipotética que fijase el valor de `x`.
 
 Por ejemplo, ¿qué pasaría con la tasa de paro si bajásemos los impuestos? Sustituiríamos `IRPF` por `do(IRPF)` en nuestra red probabilística y operaríamos sobre ella hasta eliminar, de ser posible, nuestro condicionante hipotético.
 

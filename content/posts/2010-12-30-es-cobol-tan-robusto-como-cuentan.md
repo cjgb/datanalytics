@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-12-30 09:05:51+00:00
-lastmod: '2025-04-06T19:00:56.944864'
+lastmod: '2026-10-31'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
@@ -18,17 +18,17 @@ title: ¿Es Cobol tan robusto como cuentan?
 url: /2010/12/30/es-cobol-tan-robusto-como-cuentan/
 ---
 
-El diario [El País se ha hecho eco de algo](http://www.elpais.com/articulo/sociedad/estudiar/elpepisoc/20101228elpepisoc_1/Tes) que no hace falta ser particularmente perspicaz para advertir. Y no me refiero tanto a la tesis global del artículo como a este parrafito,
+El diario [El País se ha hecho eco de un estudio](http://www.elpais.com/articulo/sociedad/estudiar/elpepisoc/20101228elpepisoc_1/Tes) cuya tesis es evidente para un observador mínimamente perspicaz. Dice, por ejemplo,
 
->[...] ambos opinan que la primera disfunción está en la Universidad. "Estamos hablando de trabajadores sobreeducados que, sin embargo, carecen de las habilidades necesarias para desempeñar el trabajo". Este contrasentido está en relación directa "con el tipo de docencia impartida en las Universidades", añaden. "Los graduados se quejan de que los modos de enseñanza se siguen basando en clases magistrales, dándole poca importancia a las clases prácticas a la adquisición directa de experiencia laboral". Esta formación academicista, exenta de habilidades prácticas, es el factor que más influye, según el estudio, [...]
+> [...] ambos opinan que la primera disfunción está en la Universidad. "Estamos hablando de trabajadores sobreeducados que, sin embargo, carecen de las habilidades necesarias para desempeñar el trabajo". Este contrasentido está en relación directa "con el tipo de docencia impartida en las Universidades", añaden. "Los graduados se quejan de que los modos de enseñanza se siguen basando en clases magistrales, dándole poca importancia a las clases prácticas a la adquisición directa de experiencia laboral". Esta formación academicista, exenta de habilidades prácticas, es el factor que más influye, según el estudio, [...]
 
-que se refiere a un estudio de [FUNCAS](http://es.wikipedia.org/wiki/Fundaci%C3%B3n_de_las_Cajas_de_Ahorros). De hecho, la única asignatura universalmente troncal de nuestra (la española) universidad tiene un temario simplicísimo: aceptar acríticamente [cuanto profiere el señor de la pizarra](http://www.youtube.com/watch?v=6PcaciZean4) (con la esperanza de que el número que aparezca en la esquina superior izquierda de unos folios que se entregan cada seis meses sea, cuando menos, cinco).
+La única asignatura universalmente troncal de nuestra (la española) universidad tiene un temario simplicísimo: aceptar acríticamente [cuanto profiere el señor de la pizarra](http://www.youtube.com/watch?v=6PcaciZean4) (con la esperanza de que el número que aparezca en la esquina superior izquierda de unos folios que se entregan cada seis meses sea, cuando menos, cinco).
 
-No sé hasta qué punto los alumnos que se gradúan saben _resolver el átomo de hidrógeno_, en qué siglo tuvo lugar el Bienio Progresista o, apuntando por lo bajo, qué hacer con un fichero de extensión csv. Pero lo que he advertido en mi experiencia profesional es que esa asignatura troncal implícita deja una imborrable impronta en el espíritu del licenciado español medio que lo hace doblegarse sumisamente y sin emplear un solo pulso neuronal frente a las ocurrencias de un señor con corbata y galoncillos (galoncillos de gerente, director o vice-algo).
+No sé hasta qué punto los alumnos que se gradúan saben _resolver el átomo de hidrógeno_, en qué siglo tuvo lugar el Bienio Progresista o, apuntando por lo bajo, qué hacer con un fichero de extensión `csv`. Pero lo que he advertido en mi experiencia profesional es que esa asignatura troncal implícita deja una imborrable impronta en el espíritu del licenciado español medio que lo hace doblegarse sumisamente y sin emplear un solo pulso neuronal en ensayar un conato de rebeldía frente a las ocurrencias de un señor con corbata y galoncillos (galoncillos de gerente, director o vice-algo).
 
 Así, la gente desaprende lo poco que de útil pueden haberle servido sus cinco o más años de asistencia a nuestras venerables instituciones educativas y va dejando que en su sique germinen semillas atávicas.
 
-Ninguna hace tanto mal en el sector en el que ahora me desenvuevo —seguro que a causa de los pecados de alguna _preencarnación_ mía que ahora purgo— que el mantra de que "... pero Cobol es robusto". Creo que es imposible encontrar otras cuatro palabras del diccionario que, combinadas, hayan sustraído tanto potencial productivo a la economía nacional.
+Ninguna hace tanto mal en el sector en el que ahora me desenvuevo --seguro que a causa de los pecados de alguna _preencarnación_ mía que ahora purgo--- que el mantra de que "... pero Cobol es robusto". Creo que es imposible encontrar otras cuatro palabras del diccionario que, combinadas, hayan sustraído tanto potencial productivo a la economía nacional.
 
 Para entender el porqué hemos de remontarnos a la época en que en este país ya había bancos pero ni siquiera trenes. De hecho, [BBVA](http://www.eleconomista.es/mercados-cotizaciones/noticias/204903/04/07/BBVA-cumple-150-anos-en-el-segundo-puesto-de-la-banca-espanola.html) y [el primer ferrocarril peninsular](http://es.wikipedia.org/wiki/Camino_de_Hierro_de_Barcelona_a_Matar%C3%B3) son, más o menos, coetáneos. Las sucursales bancarias operaban aisladas entre sí, separadas por jornadas enteras en mula. Es natural que a lo largo de los años los bancos inventasen mecanismos de funcionamiento robustos, que permitiesen que sus partes continuasen operando con cierta normalidad aun cuando las comunicaciones con la central fuesen precarias. De ahí también el nacimiento de conceptos bancarios tan exóticos para el cliente moderno como el de _plaza_ (¿ha tratado alguna vez alguno de mis lectores cobrar un cheque _emitido en otra plaza_?).
 

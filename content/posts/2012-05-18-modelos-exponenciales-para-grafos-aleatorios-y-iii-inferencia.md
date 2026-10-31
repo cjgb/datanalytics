@@ -21,7 +21,7 @@ title: 'Modelos exponenciales para grafos aleatorios (y III): inferencia'
 url: /2012/05/18/modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia/
 ---
 
-Me quedé el otro día en el [modelo probabilístico](https://datanalytics.com/2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/) de los [grafos aleatorios exponenciales](https://datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). Quedaba una última parte y al ensayar su redacción me di cuenta de que me había metido en un huerto: la cosa es mucho más vasta de lo que a primera vista parecía.
+Me quedé el otro día en el [modelo probabilístico](/2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/) de los [grafos aleatorios exponenciales](/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). Quedaba una última parte y al ensayar su redacción me di cuenta de que me había metido en un huerto: la cosa es mucho más vasta de lo que parecía a primera vista.
 
 Así que me limitaré a repasar lo más básico tratando de no meter demasiado la pata.
 
@@ -34,7 +34,7 @@ donde $v_{ij}$ es una _posible_ arista del grafo, $y_{ij}$ es el grafo original 
 
 Si vale el símil, sería equivalente a plantear un modelo logístico para predecir la existencia o no existencia de un determinado vértice.
 
-Pero parece que esta técnica está mandada a recoger, i.e., desaconsejada, y suelen utilizarse en su lugar técnicas de Montecarlo. En particular, usando el [paquete `ergm`](http://cran.r-project.org/web/packages/ergm/index.html) de R. Como me superan los detalles de este asunto entero, me limitaré a recorrer con cierta minuciosidad el ejemplo que aparece en la función central del paquete, `ergm`.
+Pero parece que esta técnica está mandada a recoger, i.e., desaconsejada, y suelen utilizarse en su lugar técnicas de Monte Carlo. En particular, usando el [paquete `ergm`](http://cran.r-project.org/web/packages/ergm/index.html) de R. Como me superan los detalles de este asunto entero, me limitaré a recorrer con cierta minuciosidad el ejemplo que aparece en la función central del paquete, `ergm`.
 
 Para ello, primero cargamos el paquete e importamos un conjunto de datos, `flo`.
 
@@ -99,7 +99,7 @@ La salida es
 # AIC: 111.8 BIC: 117.37
 ```
 
-en la que diría yo que el coeficiente (negativo) de `edges` indica que la densidad del grafo es relativamente pequeña (que es un grafo con pocos vértices, vamos) y que descontado ese efecto, la diferencia de riqueza entre las familias no parece tener mayor efecto.
+en la que diría yo que el coeficiente (negativo) de `edges` indica que la densidad del grafo es relativamente pequeña (que es un grafo con pocas aristas, vamos) y que descontado ese efecto, la diferencia de riqueza entre las familias no parece tener mayor efecto.
 
 Los términos que aparecen a la derecha de la fórmula del modelo representan configuraciones y el paquete implementa muchas de ellas: `kstar(n)` para el número de estrellas de `n` vértices, `transitive`, `degree`, `cycle`,... y así hasta treinta o cuarenta de ellas.
 

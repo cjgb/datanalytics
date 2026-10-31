@@ -43,10 +43,10 @@ He aquí lo que hace:
 3. Selecciona una muestra aleatoria de tamaño 100k (con reemplazo, obviamente) de los vértices de dicho triángulo.
 4. Crea una función, iter, que calcula iterativamente una sucesión de puntos.
 5. La función genera una sucesión de puntos comenzando por uno al azar. Por eficiencia, es mejor asignar espacio previamente. En este caso es un vector de longitud igual al de la muestra de puntos.
-6. El bucle calcula de hecho la sucesión de puntos. Cada uno de ellos es el punto medio entre el anterior y el vértice (elegido al azar, recordemos) correspondiente. Por lo tanto, la sucesión de puntos trata de acercarse a los vértices del triángulo en una especie de caminata aleatoria sin en realidad llegar a poder alcanzar jamás ninguno de ellos. (Supongo que este algoritmo [le habría quitado el sueño](http://es.wikipedia.org/wiki/Paradojas_de_Zenón) malamente al pobre [Zenón](http://es.wikipedia.org/wiki/Zenón_de_Elea)).
+6. El bucle calcula de hecho la sucesión de puntos. Cada uno de ellos es el punto medio entre el anterior y el vértice (elegido al azar, recordemos) correspondiente. Por lo tanto, la sucesión de puntos trata de acercarse a los vértices del triángulo en una especie de caminata aleatoria sin alcanzar jamás ninguno de ellos. (Supongo que este algoritmo [le habría quitado el sueño](http://es.wikipedia.org/wiki/Paradojas_de_Zenón) malamente al pobre [Zenón](http://es.wikipedia.org/wiki/Zenón_de_Elea)).
 
-Finalmente, se representan los puntos gráficamente en el plano. El resultado es el [triángulo de Sierpinsky](http://es.wikipedia.org/wiki/Triángulo_de_Sierpinski):
+Finalmente, se representan los puntos gráficamente en el plano. El resultado es el [triángulo de Sierpinski](http://es.wikipedia.org/wiki/Triángulo_de_Sierpinski):
 
-![Triángulo de Sierpinsky](/img/2010/04/triangulo_sierpinsky1.png#center)
+![Triángulo de Sierpinski](/img/2010/04/triangulo_sierpinsky1.png#center)
 
 Y cierro la entrada para protestar amargamente por el hecho de que en Colombia uno pueda comprar cualquier libro editado por cualquier universidad del país [en un único portal](http://www.lalibreriadelau.com) y en la madre patria ---tan civilizada que hasta nos da la libertad de fumar en las cafeterías--- no.

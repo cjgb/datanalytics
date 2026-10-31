@@ -25,7 +25,7 @@ url: /2019/02/13/una-cosa-buena-una-cosa-mala/
 
 Que son la misma: [esta](https://github.com/eDatos?tab=repositories).
 
-Comienzo por lo malo: ¿realmente necesitamos 17+1 INEs publicando la vistas de la misma información a través de 17+1 APIs, 17+1 paquetes de R y (17+1)*N mantenedores y desarrolladores?
+Comienzo por lo malo: ¿realmente necesitamos 17+1 INEs publicando vistas sobre la misma información a través de 17+1 APIs, 17+1 paquetes de R y (17+1)*N mantenedores y desarrolladores?
 
 Lo bueno: tiene buena pinta y es encomiable tanto el esfuerzo de los autores como su vocación de servicio público.
 

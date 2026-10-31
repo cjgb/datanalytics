@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2019-11-27 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:50:02.879778'
+lastmod: '2026-10-31'
 related:
 - 2018-03-06-soy-parte-del-concilabulo-heteropatriarcal.md
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md
@@ -21,7 +20,7 @@ url: /2019/11/27/sobre-la-burbuja-del-online-advertising/
 
 En algún momento del 2006 tuve que ver en un proyecto en UICH (Una Importante Cadena de Hipermercados). Estaban muy preocupados por la _redención_ de cupones: querían incrementar el porcentaje de los cupones de descuento que distribuían entre sus clientes.
 
-Yo, que era un consultor bisoño en la época (y que por lo tanto, ignoraba que, trabajando en _márketing_ había que dejar el sentido común en casa e impostar uno distinto de camino al trabajo) preguntaba (¡animalico!): ¿por qué le quieres hacer descuentos en la Cocacola a gente que, de todos modos, va a acabar comprando Cocacola?
+Yo, que era un consultor bisoño en la época ---y que por lo tanto, ignoraba que, trabajando en _márketing_ ,había que dejar el sentido común en casa e impostar uno distinto de camino al trabajo--- preguntaba (¡animalico!): ¿por qué le quieres hacer descuentos en la Cocacola a gente que, de todos modos, va a acabar comprando Cocacola?
 
 Sobre esa y otras experiencias que violan cierto tipo de racionalidad pero que responden (¡y cómo!) a otra menos confesable habla larga y certeramente [_The new dot com bubble is here: it’s called online advertising_](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24).
 

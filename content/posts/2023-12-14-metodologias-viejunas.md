@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-12-14
-draft: false
-lastmod: '2025-04-06T18:55:55.539555'
+lastmod: '2026-10-31'
 related:
 - 2022-06-02-orgamizacion-proyectos-datos.md
 - 2011-06-08-gestion-de-proyectos-en-r.md
@@ -21,21 +20,21 @@ title: Organización de proyectos... ¿viejuna?
 url: /2023/12/14/orgamizacion-proyectos-viejuna/
 ---
 
-## I.
+## I
 
 Este blog tiene muchos años. Cuando comencé a escribir en él, la gestión de proyectos de ciencia de datos era un carajal. Muchos de los que se dedicaban a esto organizaban los proyectos _en plan_ TFG: ficheros y tablas con nombres de andar por casa, desorden, código que viajaba en correos electrónicos,...
 
 Muchos eran renuentes a utilizar herramientas de control de versiones. Por aquel entonces _reinaba_ ---cuando se utilizaba, que era la excepción más que la regla---
-[subversion](https://en.wikipedia.org/wiki/Apache_Subversion).
+[`subversion`](https://en.wikipedia.org/wiki/Apache_Subversion).
 Tanto `git` como Github eran todavía más promesas que otra cosa. Había _forjas_ ---¡se ve que todavía existe [R-forge](https://r-forge.r-project.org/)!---, que era lo mejorcito con lo que se podía contar para trabajar colaborativamente, pero solo con los cuatro _friquis_ que estaban dispuestos a adoptar métodos de trabajo _modernos_. A los más les incomodaba tener que abandonar sus mal adquiridos hábitos.
 
 Eran los tiempos oscuros en los que te encontrabas _rutas_ del tipo `C:/Users/Jesusín` por todas partes. ¡Y había que cuidarse mucho de no decirle nada al tal Jesusín!
 
-## II.
+## II
 
 Hoy en día parece que nos hemos acabado por poner todos de acuerdo en gestionar nuestros proyectos de forma más o menos razonable. Se da por hecho que la gente desarrolla sobre Github o plataformas similares, etc. No somos conscientes de la cantidad de información que está sobreentendida al colaborar en un proyecto con terceros: a pesar de las diferencias y las excepciones, los más estamos alineados en la mayor parte de las cosas. No solo sabemos las mismas cosas sino que sabemos ---y damos por hecho--- que los otros también las saben. Es el pequeño paraíso que los estudiosos de la teoría de juegos llaman _colaboración sin comunicación_.
 
-## III.
+## III
 
 Pero, ¿estamos asistiendo a un nuevo cambio? ¿Nos estamos convirtiendo quienes nos hemos instalado cómodamente en II en sujetos tan viejunos como nos parecen los protagonistas de I? Podría estar sucediendo y lo que cuento a continuación podría ser un indicio.
 
