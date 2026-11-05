@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-09-08
 description: Regresión lineal con pérdidas asimétricas
-lastmod: '2025-04-06T19:00:42.111955'
+lastmod: '2026-11-05'
 related:
 - 2022-07-26-hueco-termico.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
@@ -74,14 +74,14 @@ La solución es que basta con multiplicar la producción eólica por 2 y la sola
 
 ![](/img/2022/09/requisitos-almacenamiento-energia.png#center)
 
-**Nota:** Por hacer una estimación de lo que representa eso: de haber 20 millones de hogares en España, tocaría tener en cada uno una batería de unos 150 kWh de capacidad. A precios de hoy, unos 50k euros por hogar).
+**Nota:** Por hacer una estimación de lo que representa eso: de haber 20 millones de hogares en España, tocaría tener en cada uno una batería de unos 150 kWh de capacidad. A precios de hoy, unos 50k euros por hogar.
 
 **Nota:** En honor a la verdad, hay que advertir que el pico se produce al principio del periodo y puede haberse visto afectado por algún tipo de _efecto frontera_, es decir, que si hubiese habido capacidad almacenada previa al inicio del periodo, la necesidad de almacenamiento en primavera de 2021 hubiese sido menor. Los picos de almacenamiento de 2022 pueden ser una mejor guía de las necesidades reales en este ejercicio irreal.
 
 
 ### Pérdidas asimétricas
 
-Aquí se va reemplazar la pérdida simétrica, el RMSE, de `perdida_rmse` por
+Aquí se va a reemplazar la pérdida simétrica, el RMSE, de `perdida_rmse` por
 
 ```python
 ALMACENAMIENTO_MAXIMO = 20000 * 4 * 12
@@ -122,7 +122,7 @@ def perdida_asimetrica(x, verbose = False):
 
 Nótese cómo, al limitar la capacidad de almacenamiento a 80 GWh (12 veces más GW5m), habrá necesariamente apagones (errores por defecto).
 
-**Nota:** El CAPEX en baterías ---una de las tecnologías de almacenamiento más caras---, unos 1000 euros por hogar ---de nuevo, a precios de hoy--- es asumible, pero es, como se verá, la parte menor del CAPEX necesario para montar el tinglado renovable).
+**Nota:** El CAPEX en baterías ---una de las tecnologías de almacenamiento más caras---, unos 1000 euros por hogar ---de nuevo, a precios de hoy--- es asumible, pero es, como se verá, la parte menor del CAPEX necesario para montar el tinglado renovable.
 
  Por otro lado, se va a desperdiciar mucha electricidad (errores por exceso). Como se aprecia en el `return`, se ha valorado en 1000 veces más un kWh no disponible (un déficit no cubierto por el almacenamiento que genera un apagón) que desperdiciar un kWh (por tener que desenchufar un panel solar de la red).
 
@@ -144,4 +144,4 @@ La evolución de las variables más importantes del problema tiene el siguiente 
 
 Obviamente, en un ejercicio menos delirante y más realista habría que tener en cuenta todas las cuestiones apuntadas al inicio de la entrada, lo cual excede con mucho el alcance pretendido de esta entrada que consiste, recuérdese, en ilustrar y catalogar un ejemplo en el que un modelo estadístico ---¿sigue siéndolo realmente? ¿o debería decir tal vez _econométrico_ en tanto que no hay ni modelo probabilístico subyacente ni nada más que lo eleve a la categoría de propiamente estadístico?--- usa una función de error asimétrica.
 
-**Nota:** Tengo que repetir este ejercicio dejando la nuclear enchufada para ver hasta qué punto puede servir, como parece ser opinión de algunos, como complemento a la generación renovable. Mis sospechas es que, planteado en estos términos, empeorará la situación. Pero habrá que dejar que los números hablen un poquito.
+**Nota:** Tengo que repetir este ejercicio dejando la nuclear enchufada para ver hasta qué punto puede servir, como parece ser opinión de algunos, como complemento a la generación renovable. Sospecho que, planteado en estos términos, empeorará la situación. Pero habrá que dejar que los números hablen un poquito.
