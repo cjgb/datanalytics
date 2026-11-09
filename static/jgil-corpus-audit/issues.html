@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>All issues</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Paper Audit</a>
+  <nav>
+    <a href="index.html">Corpus</a>
+    <a href="issues.html">Issues</a>
+    <a href="checks.html">Numeric checks</a>
+    <a href="method.html">Method &amp; rubric</a>
+  </nav>
+</header>
+<main>
+<section class="paper-head"><h1>All issues (93)</h1>
+<p class="meta">Every problem recorded across the corpus. Use the selectors to filter; click an ID to open it in its paper report.</p></section>
+<section>
+  <div class="selectors">
+    <label>Severity <select id="f-sev"><option value="">all</option><option>critical</option><option>major</option><option>moderate</option><option>minor</option></select></label>
+    <label>Category <select id="f-cat"><option value="">all</option><option value="measurement">measurement (16)</option><option value="causal_inference">causal inference (13)</option><option value="internal_inconsistency">internal inconsistency (11)</option><option value="logic">logic (10)</option><option value="transparency">transparency (9)</option><option value="overgeneralization">overgeneralization (8)</option><option value="conceptual">conceptual (5)</option><option value="missing_counterevidence">missing counterevidence (5)</option><option value="arithmetic">arithmetic (5)</option><option value="citation">citation (3)</option><option value="sampling">sampling (3)</option><option value="presentation">presentation (3)</option><option value="data_quality">data quality (2)</option></select></label>
+    <label>Paper <select id="f-pap"><option value="">all</option><option value="gil_2019_recerca_hosts">Gil (2019)</option><option value="gil_2022_airbnb_madrid">Gil &amp; Sequera (2020)</option><option value="gil_2021_valencia_airbnb">Gil (2021)</option><option value="gil_martinez_2023_state_led">Gil &amp; Martínez (2021)</option><option value="martinez_gil_2022_evictions_films">Martínez &amp; Gil (2021)</option><option value="martinez_gil_2024_grassroots">Martínez &amp; Gil (2022)</option><option value="sequera_2022_covid_str_spain">Sequera et al. (2022)</option><option value="gil_2024_assetization_valencia">Gil (2023)</option><option value="gutierrez_cueli_2024_migrant_women">Gutiérrez-Cueli et al. (2023)</option><option value="gil_palomera_2024_tenants_unions">Gil &amp; Palomera (2024)</option><option value="vidal_gil_2024_generation_rent">Vidal et al. (2024)</option><option value="gil_vidal_2025_vulnerable_landlords">Gil et al. (2025)</option><option value="vidal_gil_2025_corporate_landlordism">Vidal et al. (2025)</option><option value="gil_concentracion_inmobiliaria">Gil et al. (2026a)</option><option value="gil_multiarrendadores_informe1">Gil et al. (2026b)</option><option value="gil_renta_riqueza_informe3">Gil et al. (2026c)</option><option value="gil_vidal_2026_midterm_rental">Gil et al. (2026d)</option></select></label>
+    <span id="f-count" class="small"></span>
+  </div>
+  <table class="tbl sortable filterable" id="issue-table">
+    <thead><tr><th data-type="text">Paper</th><th data-type="text">ID</th><th data-type="num">Severity</th><th data-type="text">Category</th><th data-type="text">Issue</th><th>Affects</th></tr></thead>
+    <tbody>
+    <tr data-sev="major" data-cat="transparency" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>transparency</td>
+      <td><strong>Interview sample undocumented</strong><div class="small">The only information is &#39;decenas&#39; of semi-structured interviews in four cities. Number of interviews, recruitment, dates, host profiles (single room vs whole home, income, tenure, ownership), interview guide and analytic procedure are not reported, so representativeness and analytic saturation cannot be judged.</div><div class="small"><em>Impact:</em> Limits all empirical claims to &#39;illustrative&#39; status.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C1">C1</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C10">C10</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C15">C15</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I3">I3</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Economic side of the thesis not measured; reverse causality unaddressed</strong><div class="small">No income data are presented for the claimed reduction of economic precarity, and the vignettes suggest hosts were already precarious (hosting to pay rent or avoid eviction), so hardship may cause hosting rather than hosting causing hardship. No comparison with non-hosts or pre-hosting conditions.</div><div class="small"><em>Impact:</em> The causal &#39;trade-off&#39; is plausible but not demonstrated.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C1">C1</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C10">C10</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C12">C12</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C14">C14</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="overgeneralization" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Quantifiers without counts</strong><div class="small">&#39;Todos los anfitriones&#39; (p. 7) and &#39;la mayoría de anfitriones&#39; (p. 17) are used without any frequency data from the interviews.</div><div class="small"><em>Impact:</em> Generalisations should be read as &#39;many interviewees&#39;.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C4">C4</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C7">C7</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C12">C12</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="citation" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>citation</td>
+      <td><strong>Unsourced demographic claim</strong><div class="small">Claim that retirees are the fastest-growing host profile and retired women the best rated has no source.</div><div class="small"><em>Impact:</em> Peripheral to the argument but should be discounted.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C11">C11</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="missing_counterevidence" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I7">I7</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>missing counterevidence</td>
+      <td><strong>Theory-first design without disconfirming cases</strong><div class="small">The theoretical lens is laid out before the data and excerpts are chosen to illustrate it. Hosts who enjoy hosting, who use it sporadically, or for whom it reduced stress are not discussed (except the note that initial social motives fade).</div><div class="small"><em>Impact:</em> Findings are best read as a theoretically informed interpretation rather than an inductive result.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C1">C1</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C2">C2</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C8">C8</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C15">C15</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="logic" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I9">I9</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>logic</td>
+      <td><strong>Scope tension between sample and conclusion</strong><div class="small">Footnote 1 restricts the study to peer-to-peer hosts and acknowledges that multi-listing hosts control the market, yet the conclusion speaks of &#39;the Airbnb model&#39; as built on precarious subjects.</div><div class="small"><em>Impact:</em> The conclusion should be limited to peer-to-peer hosts.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C15">C15</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="conceptual" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>conceptual</td>
+      <td><strong>Loose use of economic/Marxian categories</strong><div class="small">&#39;Externalities&#39; is used for priced value-adding extras; the host&#39;s activities are called &#39;variable capital&#39; and the home &#39;fixed capital&#39; although no labour-power is purchased; surplus value &#39;for Airbnb&#39; is not derived.</div><div class="small"><em>Impact:</em> Terminological; the descriptive content of the typology survives.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C3">C3</a><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="measurement" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I6">I6</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>measurement</td>
+      <td><strong>Response-time table is a weak proxy and poorly documented</strong><div class="small">Response-time categories are a platform metric not a measure of burden; the snapshot date is missing; the &#39;Otro&#39; category (15-36%) is undefined; three of six cities are outside the interview sample.</div><div class="small"><em>Impact:</em> Table is consistent with, but does not demonstrate, permanent connectivity.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C9">C9</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="overgeneralization" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#issue-I8">I8</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Heterogeneous contexts pooled</strong><div class="small">US and Spanish cities are pooled and the post-2008 Spanish crisis framing is applied to all hosts without comparative discussion.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/gil_2019_recerca_hosts.html#claim-C14">C14</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="internal_inconsistency" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I6">I6</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Impact claim in abstract contradicted by conclusion</strong><div class="small">The abstract concludes the model &#39;generates negative impacts on the economic sustainability of the city and its inhabitants&#39;, but no impact is measured and the conclusion states that a study of impacts on rents, supply and displacement &#39;would be necessary&#39;.</div><div class="small"><em>Impact:</em> The impact conclusion should be treated as a hypothesis.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C10">C10</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Availability-based classification</strong><div class="small">Same 182-day calendar-availability rule as in Gil (2021): booked nights are not &#39;available&#39;, calendar defaults vary, so the rule is a noisy proxy for residential use. No sensitivity analysis.</div><div class="small"><em>Impact:</em> Magnitude uncertain; the citywide direction is plausible.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C1">C1</a><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="conceptual" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>conceptual</td>
+      <td><strong>Multi-listing ≠ professional / non-resident in all cases</strong><div class="small">The paper asserts that all multi-listing hosts are professionals not hosting in their own residence, yet 44.5% of listings in the 2-5 band are private rooms. Hosts with several rooms in their own home would be misclassified.</div><div class="small"><em>Impact:</em> Concentration findings stand; &#39;professional&#39; label overstated for the 2-5 band.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C1">C1</a><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C5">C5</a><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Retrospective growth series biased</strong><div class="small">Growth is reconstructed from host registration dates for listings active at scrape time (acknowledged in fn. 4). This omits exited listings and back-dates listings added later by long-standing hosts, and it classifies past listings using current availability. The 2017-vs-now comparison relies on an earlier paper&#39;s scrape whose comparability is not documented.</div><div class="small"><em>Impact:</em> Temporal claims are weaker than the cross-sectional ones.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C7">C7</a><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="arithmetic" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I1">I1</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>arithmetic</td>
+      <td><strong>Misstated gap (&#39;nearly 10 points&#39;)</strong><div class="small">Central commercial share 80.07% vs city average 75.7% is a 4.4-point gap, not &#39;nearly 10 points&#39; (the gap to the rest of the city is 8.4).</div><div class="small"><em>Impact:</em> Presentational; direction unchanged.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="transparency" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>transparency</td>
+      <td><strong>Scrape date not reported; &#39;&gt;50%&#39; in conclusion</strong><div class="small">The date of the main dataset is never given. The conclusion says over 50% of supply &#39;has been&#39; in the Central District, while the current figure is 47.78%.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/gil_2022_airbnb_madrid.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I6">I6</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Causal effects on rents and displacement asserted without Valencia data</strong><div class="small">The conclusion lists reduced rental supply, rent pressure, neighbourhood transformation and displacement as effects of the model, but the paper presents no rent trends, eviction/displacement or conversion data for Valencia; these are inferred from literature on other cities.</div><div class="small"><em>Impact:</em> These conclusions should be read as hypotheses consistent with the indicators.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C8">C8</a><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C9">C9</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Calendar availability used as proxy for residential use</strong><div class="small">The p2p/commercial split and the &#39;cannot be habitual residence&#39; inference rest on forward calendar availability, which excludes already-booked nights and reflects host calendar settings rather than actual use. Bias direction is ambiguous, so the &#39;most lenient possible&#39; characterisation is not established. No sensitivity analysis (e.g. 90- or 120-day thresholds, or reviews-based activity).</div><div class="small"><em>Impact:</em> Magnitudes uncertain; direction likely robust given the size of the gap.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C1">C1</a><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C2">C2</a><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Rent-gap estimate rests on strong, partly non-conservative assumptions</strong><div class="small">Uniform 70 m2 size, asking rents from Idealista, list prices, district-average occupancy applied uniformly, 20% cost deduction, no platform fees/taxes/licence/furnishing costs. The author argues all choices are conservative, but list prices and omitted costs bias upward. No sensitivity ranges are reported and the averaging unit is unclear.</div><div class="small"><em>Impact:</em> Existence of a positive gap is credible; the €500-1,200 magnitude is uncertain.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="causal_inference" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I5">I5</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>causal inference</td>
+      <td><strong>Stock ratio interpreted as supply withdrawal</strong><div class="small">Entire-home listings are divided by the (undated) INE rental stock. Listings may come from owner-occupied, second or previously vacant homes, may be duplicated, or be in purpose-built tourist apartments; thus the ratio is not a measure of units removed from long-term rental.</div><div class="small"><em>Impact:</em> Weakens the step from exposure to impact.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C7">C7</a><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="arithmetic" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I1">I1</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>arithmetic</td>
+      <td><strong>Arithmetic/reporting inconsistencies</strong><div class="small">(a) 7,654 − 451 − 46 = 7,157, not the 7,203 analysed (7,203 = 7,654 − 451 only; the 46 long-stay listings appear not to have been removed, or overlap with inactive ones). (b) p2p nights are reported as 11.8% / commercial 88.2% on p. 10, but the reported counts give 10.87% / 89.13% (the conclusion uses 10.87%). (c) p2p listings given as 24.19% on p. 11 vs 24.23% elsewhere. (d) Single-listing hosts 71.91% vs 71.66% computed from counts. (e) Hosts with 6+ listings hold 23.4% of listings, described as &#39;casi un tercio&#39;. (f) &gt;20-listing hosts: 9.16% not 9.14%.</div><div class="small"><em>Impact:</em> None on direction of conclusions; indicates limited proofreading.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C2">C2</a><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="measurement" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>measurement</td>
+      <td><strong>Host accounts ≠ economic actors</strong><div class="small">Concentration is measured per host account; management companies may use several accounts and single accounts may represent many owners. The bias likely understates concentration among operators but overstates concentration of ownership.</div><div class="small"><em>Impact:</em> Qualifies interpretation of &#39;who&#39; controls supply.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="measurement" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#issue-I7">I7</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>measurement</td>
+      <td><strong>Modelled revenue drives the inequality result</strong><div class="small">Revenue is computed from availability, district occupancy and list price, so cross-host dispersion is largely mechanical (number of listings x availability). The step from revenue concentration to &#39;widening social inequality&#39; needs information on who the hosts are.</div><div class="small"><em>Impact:</em> Concentration finding stands; inequality interpretation is an extrapolation.</div></td>
+      <td><a class="chip" href="papers/gil_2021_valencia_airbnb.html#claim-C10">C10</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Post hoc causal attribution of the 2014-2020 boom</strong><div class="small">The boom is attributed to the package because it followed it. Concurrent drivers acknowledged elsewhere in the paper (QE, record-low rates, global liquidity, SAREB, bank restructuring, economic recovery) are not weighed, and no comparison case is used (e.g. countries adopting REIT regimes without LAU changes or privatizations).</div><div class="small"><em>Impact:</em> The package plausibly contributed; its decisive role is not demonstrated.</div></td>
+      <td><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C1">C1</a><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="causal_inference" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>causal inference</td>
+      <td><strong>Coordination and intent inferred from timing</strong><div class="small">Strategic coordination and design intent are asserted (&#39;wisely coordinate&#39;, &#39;designed to&#39;) on the basis of co-occurrence and single-party control, without primary documentary evidence; the stated official rationales are dismissed rather than assessed.</div><div class="small"><em>Impact:</em> The &#39;package&#39; is an interpretive construct more than a documented plan.</div></td>
+      <td><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C1">C1</a><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C4">C4</a><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="arithmetic" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>arithmetic</td>
+      <td><strong>Table 2 errors and mis-described evidence</strong><div class="small">(a) Row differences sum to €17,654,238 (= 200,726,431 − 183,072,193), not the €17,799,057 reported; per-home total is €6,015, not €5,394. (b) The &#39;average selling price&#39; column contains totals, and every municipality&#39;s implied price per home is exactly €68,391 — i.e. a uniform pro-rata allocation, so municipal differences reflect only construction cost. (c) The table compares price with historical construction cost, not market value, so it cannot show &#39;below market price&#39;; overall the sale exceeded cost.</div><div class="small"><em>Impact:</em> Below-market claim rests on court findings, not on this table.</div></td>
+      <td><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="citation" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>citation</td>
+      <td><strong>Heavy reliance on press sources</strong><div class="small">Many quantitative claims (fund acquisitions, Blackstone portfolio, revaluation gains) and court findings are cited through news media rather than primary documents.</div><div class="small"><em>Impact:</em> Acceptable for context; reduces verifiability.</div></td>
+      <td><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>SOCIMI tax description internally inconsistent</strong><div class="small">The paper states profits must be distributed to shareholders and then that SOCIMIs &#39;do not pay tax on non-distributed dividends&#39; and that distributed dividends are not taxed &#39;as other companies do&#39;; the description of where taxation falls is unclear.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/gil_martinez_2023_state_led.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Efficacy judged from producers&#39; self-reports</strong><div class="small">The paper&#39;s third research question (contribution to activism) is answered mainly with directors&#39; statements and six activist consultations; there are no audience figures for the films judged most successful, and no testimony from branches that allegedly learned from Seven Days.</div><div class="small"><em>Impact:</em> Typology stands; efficacy rankings are impressionistic.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2022_evictions_films.html#claim-C2">C2</a><a class="chip" href="papers/martinez_gil_2022_evictions_films.html#claim-C4">C4</a><a class="chip" href="papers/martinez_gil_2022_evictions_films.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="logic" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#issue-I2">I2</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>logic</td>
+      <td><strong>Representation treated as evidence</strong><div class="small">The conclusion states the films &#39;evince&#39; that the crisis was politically driven by neoliberal decisions; the films present this interpretation but are not evidence for it.</div><div class="small"><em>Impact:</em> Rhetorical.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2022_evictions_films.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Eviction figures inconsistent</strong><div class="small">&#39;On average 80,000 evictions per year 2009-2015&#39; vs the paper&#39;s own footnote (40,740 repossessions in 2011, 64,902 in 2015, ~80% homes) and vs 409,000 evictions 2009-2018 in Gil &amp; Martínez (state-led paper).</div><div class="small"><em>Impact:</em> Background only.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2022_evictions_films.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="sampling" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>sampling</td>
+      <td><strong>Two cases selected to fit the periodisation</strong><div class="small">Bankia and Blackstone are chosen as the firms that &#39;best illustrate&#39; each period; with N = 2 and no within-period variation or counter-cases, the claim that political-economy cycles &#39;essentially define&#39; protest dynamics cannot be distinguished from learning, opportunity structures or tenure composition.</div><div class="small"><em>Impact:</em> Periodisation is a plausible heuristic, not a demonstrated determinant.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C1">C1</a><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="causal_inference" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>causal inference</td>
+      <td><strong>Outcomes attributed without counterfactual or measurement</strong><div class="small">Bank protocols, reputational damage and &#39;halting&#39; Blackstone are attributed to campaigns based on activist testimony and press; rival explanations (regulators, courts, bailout conditions, market cycle) and magnitudes are not assessed; the proposed media-based reputation indicator is not operationalised.</div><div class="small"><em>Impact:</em> Documented local wins; broader effects uncertain.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C2">C2</a><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C3">C3</a><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C5">C5</a><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="data_quality" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>data quality</td>
+      <td><strong>Implausible &#39;€4 billion&#39; black-card spending</strong><div class="small">€4bn across 87 card holders implies ≈€46m each; the figure likely duplicates the €4bn returned to preferential-share holders cited a few lines earlier.</div><div class="small"><em>Impact:</em> Factual slip; does not alter the argument.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Cross-paper inconsistency on privatization prices</strong><div class="small">&#39;Even below construction costs&#39; conflicts with the IVIMA table in the authors&#39; companion paper (sale exceeded cost overall). Minor differences also in unit counts (1,860 vs 1,861) and rent increases (40% vs 50%).</div><div class="small"><em>Impact:</em> Background.</div></td>
+      <td><a class="chip" href="papers/martinez_gil_2024_grassroots.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="transparency" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>transparency</td>
+      <td><strong>New data lack any method description</strong><div class="small">The 1,796 listings / 73.61% estimate and the Idealista counts are presented without explaining identification of former tourist units, dates, geography or extraction method.</div><div class="small"><em>Impact:</em> The only empirical anchors of the paper cannot be assessed.</div></td>
+      <td><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C1">C1</a><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C2">C2</a><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="overgeneralization" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#issue-I2">I2</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Key claims without evidence in the paper</strong><div class="small">Professionalisation (small managers expelled), contract practices, and demand shift to urban roamers are stated as findings (&#39;as the article has shown&#39;) but no supporting data are shown.</div><div class="small"><em>Impact:</em> These are hypotheses for future research rather than results.</div></td>
+      <td><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C1">C1</a><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C4">C4</a><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C5">C5</a><a class="chip" href="papers/sequera_2022_covid_str_spain.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Abstract promises demand analysis</strong><div class="small">The abstract says the paper examines shifts in &#39;the type of demand&#39;, but no demand data are analysed; the abstract&#39;s claim that hedge funds favoured touristification is also not developed.</div><div class="small"><em>Impact:</em> Editorial.</div></td>
+      <td></td>
+    </tr>
+    <tr data-sev="major" data-cat="conceptual" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>conceptual</td>
+      <td><strong>Concept&#39;s distinctive features not operationalised</strong><div class="small">What distinguishes &#39;assetization&#39; from rent-gap-driven touristification (liquidity, capital switching, investor ownership, asset-class treatment) is not measured: the data are listing-level only, with no ownership, transaction or capital-flow information. Hence the empirical section cannot adjudicate between the proposed concept and rival framings, and &#39;greater explanatory power&#39; is asserted rather than demonstrated.</div><div class="small"><em>Impact:</em> The concept remains a plausible theoretical proposal; the Valencia case illustrates but does not test it.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C1">C1</a><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="overgeneralization" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I6">I6</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Displacement estimate presented as a minimum</strong><div class="small">The 9,047 figure assumes every high-availability entire home displaced a tenant household; it is explicitly an estimate on p. 13 (&#39;are believed to&#39;, &#39;are thought to&#39;) but becomes &#39;a minimum of 9,047 residents&#39; in the discussion. The same &#39;at least&#39; framing is applied to the supply-reduction figures, which rest on the assumption that multi-host listings were withdrawn from residential rental.</div><div class="small"><em>Impact:</em> Headline displacement numbers should be read as upper-bound scenarios.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C8">C8</a><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C9">C9</a><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C13">C13</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I8">I8</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Causal claims about rents and livability from cross-sectional ratios</strong><div class="small">Rent increases are co-temporal only (and Ciutat Vella ranked 4th), and livability effects are inferred from capacity ratios; both are then stated as outcomes (&#39;As a result, STRs ... increase residential rental prices&#39;; &#39;does not deteriorate community livability&#39;).</div><div class="small"><em>Impact:</em> These conclusions are hypotheses consistent with the data.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C9">C9</a><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C10">C10</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="transparency" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>transparency</td>
+      <td><strong>Rent-gap method changed from earlier paper on identical data</strong><div class="small">Gil (2021) used price x available days x occupancy − 20% and found €500-1,200/month; this paper uses price x occupancy − 15% commission − 20% and finds €497-958/month, without noting the change or reconciling results. Key assumptions (70 m2, asking rents, list prices) are unchanged and untested.</div><div class="small"><em>Impact:</em> Magnitude uncertain; a positive gap likely.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I5">I5</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Guest capacity treated as actual occupancy</strong><div class="small">&#39;Occupancy rate&#39; is used both for booked-night share (AirDNA) and for maximum guests per bedroom; the latter is compared with average household size (2.47) as if it were actual occupants. Also &#39;40% / 30% / 20%&#39; of listings by guests per bedroom sum to 90%.</div><div class="small"><em>Impact:</em> Density differences are suggestive only.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="arithmetic" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>arithmetic</td>
+      <td><strong>Carried-over data errors</strong><div class="small">Sample arithmetic (7,654 − 451 − 46 ≠ 7,203) and the 71.91% single-host share (should be 71.66%) are repeated from Gil (2021). Also 3,663 homes vs 74.75% x 4,920 = 3,678.</div><div class="small"><em>Impact:</em> None on conclusions.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="measurement" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>measurement</td>
+      <td><strong>Part-whole correlations and unreported significance</strong><div class="small">Band distributions are correlated with an overall distribution that includes them; no n, test or p-values are given; the pattern is not monotonic.</div><div class="small"><em>Impact:</em> Weakens a secondary claim; the Ciutat Vella overrepresentation may still hold.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="measurement" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I7">I7</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>measurement</td>
+      <td><strong>Modelled revenue and &#39;impact&#39; language</strong><div class="small">Revenue and &#39;yield&#39; are modelled from district occupancy and list price; impact on the residential market is inferred, not measured. Over-representation units (percent vs points) are ambiguous.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C3">C3</a><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="logic" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#issue-I9">I9</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>logic</td>
+      <td><strong>Overstated policy claim</strong><div class="small">&#39;It is therefore impossible for STR-induced rent gaps to emerge under a strict housing regulation&#39; is an unqualified deduction; the cited pandemic evidence is in tension with other corpus papers that report some STR-to-residential switching.</div><div class="small"><em>Impact:</em> Recommendation direction reasonable; certainty overstated.</div></td>
+      <td><a class="chip" href="papers/gil_2024_assetization_valencia.html#claim-C12">C12</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="overgeneralization" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Superlative comparative claims without comparative data</strong><div class="small">&#39;Hardest hit and most exploited&#39; and &#39;more prone/more frequently targeted&#39; are not supported by any comparison of outcomes across groups; the study&#39;s data are about PAH participants only.</div><div class="small"><em>Impact:</em> Plausible claims presented as findings.</div></td>
+      <td><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C2">C2</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Migrant × gender composition not measured</strong><div class="small">Survey items report gender and migrant shares separately and as estimates by group representatives; the intersection &#39;migrant women&#39; — the paper&#39;s central subject — is never quantified.</div><div class="small"><em>Impact:</em> Centrality of migrant women (vs women or migrants generally) rests on qualitative material.</div></td>
+      <td><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C1">C1</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="transparency" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>transparency</td>
+      <td><strong>Interview sample not described</strong><div class="small">55 interviews over seven years in nine cities, but no breakdown by gender, origin, role or tenure; only ~7 interviewees are quoted; no indication of how prevalent each theme was.</div><div class="small"><em>Impact:</em> Limits assessment of representativeness of the empowerment narratives.</div></td>
+      <td><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C1">C1</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C4">C4</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C6">C6</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="causal_inference" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>causal inference</td>
+      <td><strong>Necessary-condition and cross-movement claims untested</strong><div class="small">The claim that wide mobilisation is necessary for immediate success, and that other movements lack immediate goals, are not examined against contrasting cases.</div><div class="small"><em>Impact:</em> Interpretive.</div></td>
+      <td><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C7">C7</a><a class="chip" href="papers/gutierrez_cueli_2024_migrant_women.html#claim-C9">C9</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="missing_counterevidence" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>missing counterevidence</td>
+      <td><strong>Insider evaluation without triangulation</strong><div class="small">Both authors are union members and spokespeople evaluating their own organisations&#39; impact. Positionality is disclosed, but there is no reflexive treatment of bias, no interviews with legislators/ministries/landlord organisations, and key counterfactual claims rely on unnamed ministers.</div><div class="small"><em>Impact:</em> Causal attributions should be read as informed participant accounts.</div></td>
+      <td><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C1">C1</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C4">C4</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#issue-I2">I2</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Alternative explanations for legislative outcomes not weighed</strong><div class="small">Coalition agreement commitments, partisan competition, COVID-era policy diffusion (eviction moratoria internationally), budget bargaining and the votes of non-left parties are not systematically considered. The 2018 decree&#39;s defeat required a majority against, including parties outside the left bloc.</div><div class="small"><em>Impact:</em> Union contribution is plausible; &#39;key factor&#39; status not established.</div></td>
+      <td><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C1">C1</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C5">C5</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="overgeneralization" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Macro claims from micro illustrations</strong><div class="small">Effects on &#39;urban accumulation&#39;, &#39;hegemonic crisis&#39; and &#39;crises of representation&#39; are inferred from individual episodes (one REIT exit, municipal adoption of rent control, Berlin referendum vote blocs).</div><div class="small"><em>Impact:</em> Speculative conclusions.</div></td>
+      <td><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C2">C2</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C10">C10</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="citation" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>citation</td>
+      <td><strong>Unsourced quantitative/opinion claims</strong><div class="small">&#39;Surveys show strong support&#39; for rent control, &#39;140,000 households protected&#39;, union growth — no sources or data given.</div><div class="small"><em>Impact:</em> Minor for the main argument.</div></td>
+      <td><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C3">C3</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C7">C7</a><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C9">C9</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="presentation" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>presentation</td>
+      <td><strong>Editorial slips</strong><div class="small">The PAH activity list skips item 4; a sentence on the 2023 law apparently inverts its meaning (&#39;mentions promoting social housing for rent, but makes it compulsory for the state to increase the budget&#39;, presumably &#39;does not make it compulsory&#39;).</div><div class="small"><em>Impact:</em> Editorial.</div></td>
+      <td><a class="chip" href="papers/gil_palomera_2024_tenants_unions.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="logic" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>logic</td>
+      <td><strong>Low baseline supply does not refute supply effects of regulation</strong><div class="small">Arguing that the counterproductive claim &#39;loses force&#39; because the unregulated market supplies little affordable housing conflates the level of supply with the marginal effect of regulation on it.</div><div class="small"><em>Impact:</em> Weakens one strand of the rebuttal; the case-by-case conclusion remains reasonable.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="missing_counterevidence" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#issue-I2">I2</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>missing counterevidence</td>
+      <td><strong>Asymmetric scrutiny</strong><div class="small">Opponents&#39; arguments are tested rigorously while evidence unfavourable to the authors&#39; position (e.g. quality deterioration found by most studies per Kholodilin) is countered with an older critique; the monopoly-rent claim is asserted strongly.</div><div class="small"><em>Impact:</em> Tone of advocacy; conclusions still broadly defensible.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C1">C1</a><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C6">C6</a><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="logic" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>logic</td>
+      <td><strong>Recurrence ≠ ideological rigidity</strong><div class="small">Same arguments across measures are taken as evidence of entrenched beliefs, though measures share the features that trigger those objections.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="logic" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>logic</td>
+      <td><strong>Rebuttal narrower than the claim rebutted</strong><div class="small">The pension-fund rebuttal concerns Spanish savers only, whereas the contested claim concerned &#39;millions of individual citizens&#39; in general; foreign pension capital is acknowledged to be significant.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2024_generation_rent.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="internal_inconsistency" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>&#39;Majority are multi-property landlords&#39; contradicted by own table; Barcelona extrapolated to Spain</strong><div class="small">The text states non-corporate landlords are mostly multi-property, yet Table 1 shows 79% own one dwelling; what is true is that 60.3% of dwellings belong to multi-owners. The conclusion then asserts this holds for &#39;Spain&#39;s rental units&#39; using only Barcelona data.</div><div class="small"><em>Impact:</em> The concentration argument survives in its dwelling-share form, for Barcelona.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C1">C1</a><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="sampling" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>sampling</td>
+      <td><strong>Selective discourse sample</strong><div class="small">Quotes are chosen to illustrate the myth; no corpus, selection rule, frequency count or counter-examples (e.g. politicians distinguishing small landlords from large holders — Rufián&#39;s quote actually does this).</div><div class="small"><em>Impact:</em> Shows the myth exists, not how dominant it is.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C1">C1</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="logic" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>logic</td>
+      <td><strong>Functionalist inference of intent</strong><div class="small">Discourses are said to be deployed &#39;deliberately&#39; and &#39;with the aim of&#39; preserving class interests; intent is inferred from content and beneficiaries. The paper concedes that activists and statistical offices also use the same categories, which weakens a purely interest-driven explanation.</div><div class="small"><em>Impact:</em> The hegemony reading is plausible but not demonstrated.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C1">C1</a><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C10">C10</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I7">I7</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Rent-group classification cannot identify who rent control affects</strong><div class="small">Groups are based on a landlord&#39;s total annual rent received, which conflates rent per dwelling, number of dwellings and months let; index-based control depends on each dwelling&#39;s rent relative to the local index.</div><div class="small"><em>Impact:</em> The &#39;low-rent landlords unaffected&#39; inference is unsupported.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="conceptual" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>conceptual</td>
+      <td><strong>Accurate statistics labelled as myths</strong><div class="small">&#39;92% of rented housing is owned by private individuals&#39; is a statement about legal form that the authors do not dispute; the myth lies in equating individuals with small/vulnerable owners. The text sometimes blurs the two (e.g. &#39;all assert that 85%-95% of the rental market is controlled by private individuals who are small-scale landlords&#39;).</div><div class="small"><em>Impact:</em> Rhetorical overreach.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="transparency" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>transparency</td>
+      <td><strong>Scope of Barcelona table unclear</strong><div class="small">It is not explicit whether Table 1 covers natural persons only (as the text implies) or all landlords including companies; this matters for the &gt;15 group (24.1% of dwellings).</div><div class="small"><em>Impact:</em> Could change the interpretation of top concentration.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="transparency" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I6">I6</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>transparency</td>
+      <td><strong>LCS landlord definition not given</strong><div class="small">The paper does not state whether &#39;landlord households&#39; in LCS are identified by housing rental income specifically or by any property/land rental income.</div><div class="small"><em>Impact:</em> Likely small given convergence with other sources.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#issue-I8">I8</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Inconsistent poverty figures</strong><div class="small">Tenant at-risk-of-poverty rate is 30.16% in the results and 36.28% in the conclusions; landlord rate 6.47% vs 6.48%. The 36.28% figure coincides with the LCS-2021 estimate (36.3%) published in Vidal, Gil &amp; Martínez (2024), suggesting the conclusion was not updated after switching to LCS 2023.</div><div class="small"><em>Impact:</em> Does not alter the contrast.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2025_vulnerable_landlords.html#claim-C9">C9</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="causal_inference" data-pap="vidal_gil_2025_corporate_landlordism">
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html">Vidal et al. (2025)</a></td>
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>causal inference</td>
+      <td><strong>GCL-specific causation not separated from general affordability pressures</strong><div class="small">The cycle of contention is attributed to GCLs, but tenant unions also confront small and medium landlords and general rent inflation; no comparison isolates GCLs&#39; role. &#39;Endemic&#39; rogue practices generalise from cases.</div><div class="small"><em>Impact:</em> Framing claim plausible but not demonstrated.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2025_corporate_landlordism.html#claim-C1">C1</a><a class="chip" href="papers/vidal_gil_2025_corporate_landlordism.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="sampling" data-pap="vidal_gil_2025_corporate_landlordism">
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html">Vidal et al. (2025)</a></td>
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html#issue-I2">I2</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>sampling</td>
+      <td><strong>Selection of cases from the Global North and from engaged scholars</strong><div class="small">Acknowledged by the authors; contributions come from politically engaged scholars studying visible conflicts, which favours cases where contention occurred.</div><div class="small"><em>Impact:</em> Limits generalisability; acknowledged.</div></td>
+      <td><a class="chip" href="papers/vidal_gil_2025_corporate_landlordism.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="measurement" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>measurement</td>
+      <td><strong>&#39;Property&#39; includes non-residential units</strong><div class="small">Per the methodological note, EFF &#39;inmuebles&#39; include garages, warehouses, shops, offices and hotels; Catastro urban units likewise include parking spaces and storage rooms. A household owning its flat and a garage is a &#39;multi-owner&#39;. The report nonetheless interprets results as housing concentration (&#39;el problema de la vivienda&#39;). No residential-only breakdown is shown.</div><div class="small"><em>Impact:</em> Multi-ownership levels and possibly trends are not interpretable as housing concentration without a dwellings-only analysis.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C1">C1</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C3">C3</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="internal_inconsistency" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I2">I2</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Headline tenure figure contradicts the report&#39;s own definitions</strong><div class="small">The executive summary says households living in their own home fell from 79% to 63.9%, but &#39;propietario&#39; excludes owner-occupiers who receive rent (classified as &#39;caseros&#39;). With footnote 1, owner-occupancy in 2022 is ≈72%. Part of the fall in &#39;owners&#39; is owners becoming landlords, not losing ownership.</div><div class="small"><em>Impact:</em> Overstates the decline of owner-occupation by roughly 8 points.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="logic" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>logic</td>
+      <td><strong>Ecological inference about household trajectories</strong><div class="small">Changes in the size of portfolio bands between two cross-sections are read as faster growth for households with larger initial portfolios. Band membership changes over time; panel data would be needed.</div><div class="small"><em>Impact:</em> The &#39;rich get richer&#39; mechanism is plausible but not shown.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C1">C1</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="missing_counterevidence" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>missing counterevidence</td>
+      <td><strong>Alternative explanations not examined</strong><div class="small">Household count grew ~11% (implied 17.3M → 19.1M), with new households (young, immigrant) typically non-owners; ageing and inheritance increase multi-ownership mechanically. Neither demographic composition nor age-specific rates are analysed.</div><div class="small"><em>Impact:</em> Polarisation may be partly compositional.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C1">C1</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C6">C6</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="internal_inconsistency" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I5">I5</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Two sources, two periods, mixed in headline claims</strong><div class="small">Catastro (holders, 2008-2025) and EFF (households, 2008-2022) are combined in single summary statements (e.g. point 3 mixes Catastro band growth with EFF property counts). EFF-implied growth of household-held properties (+6.2M) is three times the &#39;2 million&#39; Catastro stock growth used in the conclusion. The multi-owner &#39;majority&#39; holds in Catastro (51.7%) but not in EFF (47.6%).</div><div class="small"><em>Impact:</em> Readers cannot tell which source supports which number.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C3">C3</a><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="transparency" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#issue-I6">I6</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>transparency</td>
+      <td><strong>No sampling uncertainty for survey estimates</strong><div class="small">EFF estimates for small groups (&gt;10 properties, 4-5 properties) are reported to the unit (e.g. 625,883) without confidence intervals.</div><div class="small"><em>Impact:</em> Spurious precision for small groups.</div></td>
+      <td><a class="chip" href="papers/gil_concentracion_inmobiliaria.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="measurement" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>measurement</td>
+      <td><strong>Ambiguous counting rule for &#39;multi-landlord&#39;</strong><div class="small">Multi-landlord status is &#39;determined by aggregating and counting unique cadastral references linked to each landlord household in the Panel&#39;s real-estate module&#39;. Garages, storage rooms and the landlord&#39;s own residence each have distinct cadastral references. Unless counting is restricted to dwellings actually let (not stated), landlords letting one flat could be classified as multi-landlords. Co-owned dwellings may be counted once per co-owning household.</div><div class="small"><em>Impact:</em> Could materially inflate the 52.8% headline; direction and size unknown from the report.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C1">C1</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C2">C2</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="internal_inconsistency" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I5">I5</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>City results describe landlords&#39; residence, not city markets</strong><div class="small">The methodological note states that municipal figures reflect the portfolios of landlords who file taxes in the city, wherever their dwellings are. The executive summary and section 1 nevertheless describe them as the share of each city&#39;s rental market controlled by multi-landlords and infer a link with local price pressure.</div><div class="small"><em>Impact:</em> City comparisons cannot support claims about local markets.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C4">C4</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C5">C5</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="conceptual" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I2">I2</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>conceptual</td>
+      <td><strong>Public housing counted as &#39;multiarrendadores&#39;</strong><div class="small">The ~60% figure groups private multi-landlords, companies and ~300,000 public/social dwellings, and the synthesis describes the whole as multi-landlords concentrating the market. Public landlords are not the object of the &#39;concentration&#39; critique. Excluding them, single landlords hold 43.4% and private multi + corporate 56.6%.</div><div class="small"><em>Impact:</em> The 60/40 headline mixes conceptually different actors.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C1">C1</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="data_quality" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>data quality</td>
+      <td><strong>Coverage limited to declared rentals</strong><div class="small">Tax data capture only declared residential lettings in the common fiscal territory. The report&#39;s own figure of 20.2% tenant households (with the companion report&#39;s ~19.1M households) implies ~3.9M renting households vs the 3.09M dwellings counted. Who owns the undeclared segment is unknown, so shares may be biased.</div><div class="small"><em>Impact:</em> Shares apply to the declared market only.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C2">C2</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="overgeneralization" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I4">I4</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>overgeneralization</td>
+      <td><strong>Modest change read as structural concentration; ecological inference</strong><div class="small">The single-landlord share moves from ~49.0% to 47.2% in seven years. Growth by category is read as growth by incumbents with several dwellings, though landlords change category. Formalisation of previously undeclared lettings could also differ by landlord type.</div><div class="small"><em>Impact:</em> Direction credible, magnitude small; the &#39;clear trend&#39; language is strong.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C1">C1</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C6">C6</a><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="presentation" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#issue-I6">I6</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>presentation</td>
+      <td><strong>Landlord vs dwelling share confusion</strong><div class="small">Section 1 text says &#39;64.9% of landlords are multi-landlords&#39; while the chart and summary report &#39;% of rented dwellings&#39;. These are different quantities (the landlord share is necessarily lower).</div><div class="small"><em>Impact:</em> Confusing; probably a wording error.</div></td>
+      <td><a class="chip" href="papers/gil_multiarrendadores_informe1.html#claim-C4">C4</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="logic" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I2">I2</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>logic</td>
+      <td><strong>Circular tenure-vs-age comparison</strong><div class="small">Tenure groups are defined by property ownership, which is most of household wealth, so they differ in wealth largely by construction; comparing ranges of medians across groups of very different sizes (small multi-landlord group vs broad age bands) is not a test of &#39;which divides more&#39;. Causality from tenure to wealth is asserted although low wealth also causes tenancy.</div><div class="small"><em>Impact:</em> The &#39;tenure not age&#39; conclusion is not established by the analysis shown.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C4">C4</a><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C5">C5</a><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C7">C7</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="overgeneralization" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I1">I1</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>overgeneralization</td>
+      <td><strong>&#39;Main axis of inequality&#39; not tested against alternatives</strong><div class="small">No comparison with other determinants (education, employment, financial wealth, inheritance). The executive summary says &#39;el principal eje&#39;, the conclusion &#39;uno de los principales ejes&#39;.</div><div class="small"><em>Impact:</em> Headline should read &#39;a major axis&#39;.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C1">C1</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="transparency" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>transparency</td>
+      <td><strong>No sample sizes or uncertainty</strong><div class="small">Medians for small groups (multi-landlords with 3 or 4+ dwellings; under-35 household heads per wave) are reported without n or confidence intervals, despite the EFF providing the means to compute them.</div><div class="small"><em>Impact:</em> Precision of extreme-group figures and of the youth-ownership collapse unknown.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C2">C2</a><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="missing_counterevidence" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I6">I6</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>missing counterevidence</td>
+      <td><strong>Compositional change in young households ignored</strong><div class="small">Delayed emancipation changes who appears as an under-35 household; selection into household formation and immigration could account for part of the ownership drop.</div><div class="small"><em>Impact:</em> The &#39;exclusion&#39; interpretation may overstate the change for the cohort as a whole.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="causal_inference" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I3">I3</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>causal inference</td>
+      <td><strong>Transfer mechanism inferred from group medians</strong><div class="small">Rent flows are not traced between specific tenants and landlords; some tenants rent from corporate/public landlords; landlords&#39; income includes rent received.</div><div class="small"><em>Impact:</em> Direction plausible; the statement is appropriately hedged in the conclusion.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="presentation" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>presentation</td>
+      <td><strong>Selective base years</strong><div class="small">Top-share change uses 2002, Gini change uses 2005 (series minimum). From 2002, the Gini rise is +15% not +18%.</div><div class="small"><em>Impact:</em> Small overstatement.</div></td>
+      <td><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C1">C1</a><a class="chip" href="papers/gil_renta_riqueza_informe3.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I1">I1</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>Time-series regressions on trending levels with N = 24</strong><div class="small">OLS on quarterly levels of strongly trending series (listings, prices) without detrending, differencing, autocorrelation-robust errors or unit-root checks risks spurious significance; four correlated predictors (rent gap is a function of price/m2) with 24 observations; the text speaks of &#39;growth&#39; while models use levels. The authors flag small N but not these issues.</div><div class="small"><em>Impact:</em> Regression results cannot discriminate among H1-H3 with confidence.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C1">C1</a><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C4">C4</a><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C5">C5</a><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C6">C6</a></td>
+    </tr>
+    <tr data-sev="major" data-cat="causal_inference" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I2">I2</a></td>
+      <td data-sort="1"><span class="badge s-major">major</span></td>
+      <td>causal inference</td>
+      <td><strong>H1 never directly tested</strong><div class="small">No regulation variable (dummies for Law 11/2020 in force, Law 12/2023, Catalan application in 2024) enters any model; H1 support is inferred from a negative rent-gap coefficient and descriptive timing. An interrupted time-series or difference-in-differences vs Madrid/Málaga would be the natural test.</div><div class="small"><em>Impact:</em> Barcelona&#39;s regulatory story rests on descriptive timing (which is actually quite persuasive) rather than the regression.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C1">C1</a><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="logic" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I3">I3</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>logic</td>
+      <td><strong>Over-interpretation of the negative rent-gap coefficient</strong><div class="small">Reverse causality (MTR supply growth lowers MTR prices; LTR listing scarcity raises LTR asking prices) and mis-measured incentive (the capped legal rent, not asking LTR rent, is the landlord&#39;s alternative under control) can produce the negative sign. Evasion of controls is a form of profit maximisation, so &#39;rules out profit maximisation&#39; is a false dichotomy.</div><div class="small"><em>Impact:</em> The H1 conclusion may be right, but not for the reason given.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="moderate" data-cat="measurement" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I4">I4</a></td>
+      <td data-sort="2"><span class="badge s-moderate">moderate</span></td>
+      <td>measurement</td>
+      <td><strong>Listings are flows, not stocks</strong><div class="small">MTRs turn over (and are advertised) more often than LTRs; longer LTR leases and rent control reduce LTR vacancies reaching the platform; landlords may fill controlled units off-platform. Listing shares and leads-per-listing therefore exaggerate shifts in the underlying stock and in competition.</div><div class="small"><em>Impact:</em> Direction credible; magnitudes overstated.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C2">C2</a><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C8">C8</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="arithmetic" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I5">I5</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>arithmetic</td>
+      <td><strong>Small arithmetic/labelling slips</strong><div class="small">Barcelona&#39;s rent gap fell 36.5 points from its Dec-2021 peak, or 17.2 points since 2019 — described as &#39;a compression of 17 percentage points in three years&#39;. Madrid&#39;s 17.97% is the MTR/residential ratio, not &#39;of total listings&#39; (≈15.2% of total). Simple-regression β (−0.94) and multiple-regression coefficient (−140.8) appear to be on different scales without explanation.</div><div class="small"><em>Impact:</em> Minor.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C3">C3</a></td>
+    </tr>
+    <tr data-sev="minor" data-cat="internal_inconsistency" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#issue-I6">I6</a></td>
+      <td data-sort="3"><span class="badge s-minor">minor</span></td>
+      <td>internal inconsistency</td>
+      <td><strong>Introduction vs results on H3; unfinished references</strong><div class="small">The introduction says transnational demand is not significant &#39;in any of the three cities&#39;, but simple regressions are significant in Madrid and Málaga (only multivariate models are null). Two references are printed with &#39;[to be confirmed]&#39; placeholders.</div><div class="small"><em>Impact:</em> Editorial; the conclusion itself is nuanced.</div></td>
+      <td><a class="chip" href="papers/gil_vidal_2026_midterm_rental.html#claim-C6">C6</a></td>
+    </tr>
+    </tbody>
+  </table>
+</section>
+</main>
+<footer>
+  Generated 2026-11-08 by <code>src/build_site.py</code> from JSON audit records.
+  Assessments are analyst (LLM) judgements based only on the documents' own content; see <a href="method.html">method</a>.
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Numeric verification checks</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Paper Audit</a>
+  <nav>
+    <a href="index.html">Corpus</a>
+    <a href="issues.html">Issues</a>
+    <a href="checks.html">Numeric checks</a>
+    <a href="method.html">Method &amp; rubric</a>
+  </nav>
+</header>
+<main>
+<section class="paper-head"><h1>Numeric verification checks (96)</h1>
+<p class="meta">Recomputations of the documents' figures: internal consistency (totals, shares, ratios, text vs tables), cross-document consistency and, for web-verified records, comparison with external sources or replication.</p></section>
+<section>
+  <div class="selectors">
+    <label>Status <select id="f-sev"><option value="">all</option><option value="pass">pass</option><option value="minor_discrepancy">minor discrepancy</option><option value="fail">fail</option><option value="not_checkable">not checkable</option></select></label>
+    <label>Scope <select id="f-cat"><option value="">all</option><option value="internal">internal</option><option value="cross_paper">cross paper</option><option value="external">external</option><option value="replication">replication</option></select></label>
+    <label>Paper <select id="f-pap"><option value="">all</option><option value="gil_2019_recerca_hosts">Gil (2019)</option><option value="gil_2022_airbnb_madrid">Gil &amp; Sequera (2020)</option><option value="gil_2021_valencia_airbnb">Gil (2021)</option><option value="gil_martinez_2023_state_led">Gil &amp; Martínez (2021)</option><option value="martinez_gil_2022_evictions_films">Martínez &amp; Gil (2021)</option><option value="martinez_gil_2024_grassroots">Martínez &amp; Gil (2022)</option><option value="sequera_2022_covid_str_spain">Sequera et al. (2022)</option><option value="gil_2024_assetization_valencia">Gil (2023)</option><option value="gutierrez_cueli_2024_migrant_women">Gutiérrez-Cueli et al. (2023)</option><option value="gil_palomera_2024_tenants_unions">Gil &amp; Palomera (2024)</option><option value="vidal_gil_2024_generation_rent">Vidal et al. (2024)</option><option value="gil_vidal_2025_vulnerable_landlords">Gil et al. (2025)</option><option value="vidal_gil_2025_corporate_landlordism">Vidal et al. (2025)</option><option value="gil_concentracion_inmobiliaria">Gil et al. (2026a)</option><option value="gil_multiarrendadores_informe1">Gil et al. (2026b)</option><option value="gil_renta_riqueza_informe3">Gil et al. (2026c)</option><option value="gil_vidal_2026_midterm_rental">Gil et al. (2026d)</option></select></label>
+    <span id="f-count" class="small"></span>
+  </div>
+  <table class="tbl sortable filterable" id="check-table">
+    <thead><tr><th data-type="text">Paper</th><th data-type="text">ID</th><th data-type="num">Status</th><th data-type="text">Scope</th><th data-type="text">Check</th><th>Computation</th><th>Result</th></tr></thead>
+    <tbody>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Each city column in Tabla 1 sums to 100%.<div class="small">p. 17</div></td>
+      <td class="mono">Madrid 57.63+14.56+10.25+17.56; Barcelona 49.95+21.73+13.69+14.63; NY 31.77+17.84+14.98+35.41; Amsterdam 32.38+23.00+19.04+25.58; Paris 30.50+17.33+16.06+36.11; London 35.73+21.58+14.92+27.77</td>
+      <td>All six columns sum to exactly 100.00%.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#check-V2">V2</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Share of hosts responding within 24 hours (cumulative) vs the claim that response times are &#39;very short&#39;.<div class="small">p. 17</div></td>
+      <td class="mono">Sum of first three rows per city.</td>
+      <td>Madrid 82.44%, Barcelona 85.37%, New York 64.59%, Amsterdam 74.42%, Paris 63.89%, London 72.23%. One-hour response is the modal category only in Madrid and Barcelona; in NY and Paris &#39;Otro&#39; is the largest category.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gil_2019_recerca_hosts">
+      <td><a href="papers/gil_2019_recerca_hosts.html">Gil (2019)</a></td>
+      <td><a href="papers/gil_2019_recerca_hosts.html#check-V3">V3</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Implied interview count from quote labels vs &#39;decenas&#39;.<div class="small">pp. 7-16</div></td>
+      <td class="mono">Highest labels cited: Nueva York-15, San Francisco-16, Madrid-15, Barcelona-1.</td>
+      <td>Consistent with at least ~47 interviews, i.e. &#39;dozens&#39;; exact N unknown.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Central District share.<div class="small">p. 7</div></td>
+      <td class="mono">8,759 / 18,332</td>
+      <td>47.78% — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>District-weighted reconstruction of city-wide shares.<div class="small">pp. 7-11</div></td>
+      <td class="mono">0.4778 x Central + 0.5222 x Rest for entire apts (76.3/51), commercial (80.07/71.64), multi-host (68.85/51.57)</td>
+      <td>63.09%, 75.67%, 59.83% vs reported 63.0%, 75.7%, 59.8% — consistent.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V3">V3</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>&#39;Nearly 10 points greater than the Madrid average&#39;.<div class="small">p. 9</div></td>
+      <td class="mono">80.07 − 75.7</td>
+      <td>4.37 points (8.43 vs rest of city).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Host-band shares sum and &gt;20 band listings.<div class="small">pp. 12-13</div></td>
+      <td class="mono">74.50+21.19+3.65+0.66; 40.17+27.7+17.11+15.02; 2,753/18,332</td>
+      <td>100.00%; 100.00%; 15.02% — matches. Implied number of hosts ≈ 65/0.0066 ≈ 9,850.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V5">V5</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Band-level district and accommodation shares reproduce totals.<div class="small">p. 13</div></td>
+      <td class="mono">Σ band listing share x band central share; Σ band share x band entire share</td>
+      <td>Central = 47.78% (reported 47.78%); multi-host share of central = 68.85% (reported 68.85%); entire apts = 63.06% (reported 63.0%).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>2017 comparison: point changes vs relative growth.<div class="small">p. 13</div></td>
+      <td class="mono">2.92/(17.11−2.92); 6.61/(15.02−6.61); 4.84/(40.17+4.84)</td>
+      <td>20.58%, 78.6%, 10.75% — all match. Implied 2-5 band change: −4.69 points (not reported).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2022_airbnb_madrid">
+      <td><a href="papers/gil_2022_airbnb_madrid.html">Gil &amp; Sequera (2020)</a></td>
+      <td><a href="papers/gil_2022_airbnb_madrid.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>&#39;Less than 5% of hosts control over 30% of listings&#39;.<div class="small">p. 13</div></td>
+      <td class="mono">3.65+0.66; 17.11+15.02</td>
+      <td>4.31% of hosts, 32.13% of listings — matches.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V1">V1</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Sample size after exclusions.<div class="small">p. 6</div></td>
+      <td class="mono">7,654 − 451 − 46</td>
+      <td>= 7,157, but 7,203 is used throughout (7,203 = 7,654 − 451).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>P2P vs commercial listing shares.<div class="small">p. 9</div></td>
+      <td class="mono">1,745/7,203; 5,458/7,203</td>
+      <td>24.23% / 75.77% — matches.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V3">V3</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Nights shares from reported counts.<div class="small">p. 10</div></td>
+      <td class="mono">133,831 / (133,831 + 1,096,993)</td>
+      <td>10.87% p2p / 89.13% commercial; text on p. 10 reports 11.8% / 88.2% (conclusion p. 20 correctly uses 10.87%).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Accommodation types reconcile to total.<div class="small">p. 11</div></td>
+      <td class="mono">4,920 + 2,251 + 32 shared rooms</td>
+      <td>= 7,203; 68.30% / 31.25% / 0.44% — matches.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V5">V5</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Host-band shares.<div class="small">pp. 12-13</div></td>
+      <td class="mono">Hosts 2,986+1,048+118+15 = 4,167; shares 71.66 / 25.15 / 2.83 / 0.36%</td>
+      <td>Text gives 71.91% for single-listing hosts (bands then sum to 100.25%); the complement 28.34% is correct.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Listing-band shares and averages.<div class="small">pp. 12-13</div></td>
+      <td class="mono">2,986+2,534+1,023+660 = 7,203; 41.45 / 35.18 / 14.20 / 9.16%; means 2.42, 8.67, 44.0</td>
+      <td>All match except 9.16% vs reported 9.14%.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V7">V7</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>&#39;Hosts with six or more listings hold almost a third of listings&#39;.<div class="small">p. 12</div></td>
+      <td class="mono">(1,023 + 660) / 7,203</td>
+      <td>23.4% — closer to a quarter than a third.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V8">V8</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>District shares.<div class="small">p. 13</div></td>
+      <td class="mono">1,551/7,203; 1,233/7,203</td>
+      <td>21.53% and 17.12% (sum 38.65%) — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V9">V9</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Rent-gap annualisation.<div class="small">p. 15</div></td>
+      <td class="mono">€585 x 12</td>
+      <td>€7,020 &gt; €7,000 — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V10">V10</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Revenue shares complement.<div class="small">p. 19</div></td>
+      <td class="mono">67.58% + 32.45%</td>
+      <td>100.03% — rounding.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gil_2021_valencia_airbnb">
+      <td><a href="papers/gil_2021_valencia_airbnb.html">Gil (2021)</a></td>
+      <td><a href="papers/gil_2021_valencia_airbnb.html#check-V11">V11</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Implied Ciutat Vella population.<div class="small">p. 18</div></td>
+      <td class="mono">6,165 / 0.2277</td>
+      <td>≈ 27,075 residents — plausible for the district; not otherwise checkable.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V1">V1</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Table 2 totals.<div class="small">p. 10</div></td>
+      <td class="mono">Σ row differences; Σ price − Σ cost</td>
+      <td>Both give €17,654,238 vs reported €17,799,057 (−€144,819).</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V2">V2</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Table 2 per-home total.<div class="small">p. 10</div></td>
+      <td class="mono">17,654,238 / 2,935</td>
+      <td>€6,015 vs reported €5,394.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V3">V3</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Table 2 implied price per home by municipality.<div class="small">p. 10</div></td>
+      <td class="mono">selling price / units per row</td>
+      <td>€68,391 in every municipality — uniform allocation, not observed prices. Row-level per-home differences are otherwise correct.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Table 2 unit and cost totals.<div class="small">p. 10</div></td>
+      <td class="mono">Σ units; Σ cost; Σ price</td>
+      <td>2,935; €183,072,193; €200,726,431 — match.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V5">V5</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Table 3 SOCIMI counts.<div class="small">p. 12</div></td>
+      <td class="mono">2+5+8+17+20+21+4 − 4 exclusions</td>
+      <td>73 — matches cumulative column.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Madrid social housing sold.<div class="small">p. 9</div></td>
+      <td class="mono">1,861 + 2,935</td>
+      <td>4,796 ≈ &#39;nearly 5,000&#39; — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_martinez_2023_state_led">
+      <td><a href="papers/gil_martinez_2023_state_led.html">Gil &amp; Martínez (2021)</a></td>
+      <td><a href="papers/gil_martinez_2023_state_led.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>NPL reduction.<div class="small">p. 14</div></td>
+      <td class="mono">1 − 61.5/197.2</td>
+      <td>68.8% ≈ &#39;nearly 70%&#39; — consistent.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#check-V1">V1</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Average evictions 2009-2015 vs footnote repossession figures.<div class="small">p. 4; fn. 11</div></td>
+      <td class="mono">64,902 x 0.8 ≈ 51,900 home repossessions in 2015 (a peak year); 40,740 x 0.8 ≈ 32,600 in 2011</td>
+      <td>An 80,000/year average would require other years far above the figures given; inconsistent unless a broader definition is used (not stated).</td>
+    </tr>
+    <tr data-sev="fail" data-cat="cross_paper" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#check-V2">V2</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>cross paper</td>
+      <td>Cross-corpus eviction totals.<div class="small">p. 4</div></td>
+      <td class="mono">80,000 x 7 (2009-2015) = 560,000 vs 409,000 for 2009-2018 (gil_martinez_2023_state_led, p. 11)</td>
+      <td>Same authors report incompatible magnitudes in different papers.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="martinez_gil_2022_evictions_films">
+      <td><a href="papers/martinez_gil_2022_evictions_films.html">Martínez &amp; Gil (2021)</a></td>
+      <td><a href="papers/martinez_gil_2022_evictions_films.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Vacancy rate vs absolute numbers.<div class="small">p. 4</div></td>
+      <td class="mono">3.5M / 0.14 = 25M; 7.1M / 0.28 = 25.4M</td>
+      <td>Both imply a ~25M dwelling stock — internally consistent.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#check-V1">V1</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Black-card spending plausibility.<div class="small">p. 10</div></td>
+      <td class="mono">€4,000,000,000 / 87</td>
+      <td>≈ €46 million per card holder — implausible for personal expense cards; likely an error.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Raval agreement arithmetic.<div class="small">p. 13</div></td>
+      <td class="mono">6 regularised + 3 repossessed</td>
+      <td>= 9 apartments — consistent.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#check-V3">V3</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Sareb average price per property.<div class="small">p. 6</div></td>
+      <td class="mono">€50.781bn / 352,000</td>
+      <td>≈ €144,000 per property; the paper says acquisitions were &#39;above market prices&#39; — not checkable from the paper&#39;s data.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="cross_paper" data-pap="martinez_gil_2024_grassroots">
+      <td><a href="papers/martinez_gil_2024_grassroots.html">Martínez &amp; Gil (2022)</a></td>
+      <td><a href="papers/martinez_gil_2024_grassroots.html#check-V4">V4</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>cross paper</td>
+      <td>Cross-corpus consistency of post-2013 figures.<div class="small">p. 7</div></td>
+      <td class="mono">Compare with gil_martinez_2023_state_led</td>
+      <td>73 SOCIMIs, house prices +31% (Madrid 56%, Catalonia 45%) identical; rents &#39;+40% in some cities&#39; here vs &#39;+50%&#39; there; 1,860 vs 1,861 homes.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#check-V1">V1</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Implied count of former tourist apartments.<div class="small">p. 3</div></td>
+      <td class="mono">1,796 x 0.7361</td>
+      <td>≈ 1,322 listings; consistent figure but derivation not documented.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Listing series internal logic.<div class="small">p. 3</div></td>
+      <td class="mono">1,300 → 4,000 (+208%) → 4,600 (+15%) → 1,900 (−59%)</td>
+      <td>Pattern consistent with a temporary switch; September 2021 level still 46% above 2019.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="cross_paper" data-pap="sequera_2022_covid_str_spain">
+      <td><a href="papers/sequera_2022_covid_str_spain.html">Sequera et al. (2022)</a></td>
+      <td><a href="papers/sequera_2022_covid_str_spain.html#check-V3">V3</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>cross paper</td>
+      <td>Cross-corpus consistency on pandemic switching.<div class="small">p. 3</div></td>
+      <td class="mono">Compare with gil_2024_assetization_valencia (&#39;STRs did not return to the residential market&#39;) and gil_vidal_2026_midterm_rental (&#39;temporarily redirected to residential or mid-term segments&#39;)</td>
+      <td>This paper documents a temporary rise of STR units on residential portals, mostly under seasonal contracts — reconcilable with both, but the 2023 paper&#39;s (gil_2024_assetization_valencia) unqualified statement understates the temporary switch.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Displacement arithmetic.<div class="small">p. 13</div></td>
+      <td class="mono">3,663 x 2.47</td>
+      <td>9,047.6 — matches.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V2">V2</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Homes listed &gt;60 days vs stated share.<div class="small">pp. 10, 13</div></td>
+      <td class="mono">74.75% x 4,920</td>
+      <td>3,678, vs 3,663 used (difference 15; threshold &gt;60 vs ≥60 could explain).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Table 2 price per bedroom.<div class="small">p. 11, Table 2</div></td>
+      <td class="mono">price / bedrooms (studio = 1)</td>
+      <td>59.70, 65.22, 38.78, 28.52, 27.69 — all match.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V4">V4</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Table 2 price per guest.<div class="small">p. 11, Table 2</div></td>
+      <td class="mono">price / guests</td>
+      <td>21.55, 20.70, 17.16, 15.04, 15.49 vs reported 24.82, 23.10, 17.74, 15.36, 15.49. Consistent only if per-guest is a mean of listing-level ratios (legitimate but then inconsistent with the per-bedroom column, which is a ratio of means). Not documented.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V5">V5</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Guests per bedroom by size.<div class="small">p. 12</div></td>
+      <td class="mono">4.52/2; 5.69/3; 7.15/4</td>
+      <td>2.26, 1.90, 1.79 — match.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V6">V6</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Listings by guests-per-bedroom categories.<div class="small">p. 12</div></td>
+      <td class="mono">40% + 30% + 20%</td>
+      <td>90% — 10% of listings unaccounted for.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Four-person group example.<div class="small">p. 11</div></td>
+      <td class="mono">110.74 − 77.55</td>
+      <td>€33.19 saving (text: &#39;€30&#39;) — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="cross_paper" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V8">V8</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>cross paper</td>
+      <td>Revenue shares vs Gil (2021) on the same data.<div class="small">p. 12</div></td>
+      <td class="mono">52.79/67.53/32.47 (here) vs 52.81/67.58/32.45 (2021)</td>
+      <td>Very close; differences consistent with changed revenue formula. Shares sum to 100.00%.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V9">V9</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Implied total STR revenue and Poblats Marítims population.<div class="small">pp. 10, 14</div></td>
+      <td class="mono">€30m / 0.518; 5,345 / 0.0959</td>
+      <td>≈ €58m total; ≈ 55,700 residents — plausible, not otherwise checkable.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_2024_assetization_valencia">
+      <td><a href="papers/gil_2024_assetization_valencia.html">Gil (2023)</a></td>
+      <td><a href="papers/gil_2024_assetization_valencia.html#check-V10">V10</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Sample size after exclusions (carried over).<div class="small">p. 9</div></td>
+      <td class="mono">7,654 − 451 − 46</td>
+      <td>7,157 ≠ 7,203.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Survey response rate.<div class="small">p. 3</div></td>
+      <td class="mono">94 / (150 − 30 inactive)</td>
+      <td>78% of active groups — good coverage for an organisational survey.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#check-V2">V2</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Survey proportions base.<div class="small">pp. 10, 17</div></td>
+      <td class="mono">Percentages vs n = 94 (lower for some items)</td>
+      <td>Item-level n not reported; percentages cannot be converted to counts.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="cross_paper" data-pap="gutierrez_cueli_2024_migrant_women">
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html">Gutiérrez-Cueli et al. (2023)</a></td>
+      <td><a href="papers/gutierrez_cueli_2024_migrant_women.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>cross paper</td>
+      <td>Background statistics consistency with other corpus papers.<div class="small">pp. 8-9</div></td>
+      <td class="mono">Compare with gil_martinez_2023_state_led (4M homes 2000-06, prices +123%, household debt +172%)</td>
+      <td>Identical figures and sources (López &amp; Rodríguez 2010; Colau &amp; Alemany 2012) — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Structure of the legislative narrative.<div class="small">p. 13</div></td>
+      <td class="mono">&#39;Four phases&#39; vs episodes analysed</td>
+      <td>The four phases correspond to the four legislative episodes (2019 LAU, COVID measures, Catalan law, Right to Housing Law), each following the same three-step sequence — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Catalan parliamentary majority.<div class="small">p. 18</div></td>
+      <td class="mono">ERC 32 + Podemos 8 + CUP 4 + Junts 34</td>
+      <td>78 MPs — a majority of the 135-seat Parliament of Catalonia (analyst note: chamber size is general knowledge, not from the paper).</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gil_palomera_2024_tenants_unions">
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html">Gil &amp; Palomera (2024)</a></td>
+      <td><a href="papers/gil_palomera_2024_tenants_unions.html#check-V3">V3</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>National coalition arithmetic as described.<div class="small">pp. 12-13</div></td>
+      <td class="mono">PSOE-led group 120 + UP 35 + left opposition 24</td>
+      <td>179 — the paper&#39;s account is internally consistent with the left bloc being a minority within it.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>&#39;Tenant households earn only 55% of what landlord households earn&#39; (ex-rent).<div class="small">p. 9</div></td>
+      <td class="mono">22,183/39,931; 18,457/33,602</td>
+      <td>55.6% (mean), 54.9% (median) — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Document count in Table 2.<div class="small">p. 7</div></td>
+      <td class="mono">3+2+2+2 + (2 joint + 2 additional Chamber docs) + 1+1+1</td>
+      <td>16 unique documents — matches &#39;A total of 16 documents&#39;.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Poverty shares of all households.<div class="small">p. 9</div></td>
+      <td class="mono">6.5% x 9%; 15% x 9%</td>
+      <td>0.59%, 1.35% — match 0.6% and 1.3%.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#check-V4">V4</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Implied total Spanish pension-fund assets.<div class="small">p. 10</div></td>
+      <td class="mono">€150m / 0.0014</td>
+      <td>≈ €107bn — plausible, not otherwise checkable.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="cross_paper" data-pap="vidal_gil_2024_generation_rent">
+      <td><a href="papers/vidal_gil_2024_generation_rent.html">Vidal et al. (2024)</a></td>
+      <td><a href="papers/vidal_gil_2024_generation_rent.html#check-V5">V5</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>cross paper</td>
+      <td>Cross-corpus: tenant at-risk-of-poverty rate.<div class="small">p. 9</div></td>
+      <td class="mono">36.3% (LCS 2021, here) vs 30.16% (LCS 2023, gil_vidal_2025 results) and 36.28% (gil_vidal_2025 conclusions)</td>
+      <td>The 2025 paper&#39;s conclusion figure matches this paper&#39;s 2021 estimate, suggesting it was carried over from this earlier analysis.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Table 1 totals and shares.<div class="small">p. 11</div></td>
+      <td class="mono">Dwellings 78,383 + 121,979 + 2,031 = 202,393; sub-bands sum to 121,979; landlords 10,035+6,224+2,578+869+1,175 = 20,881; total landlords 99,264</td>
+      <td>38.73% / 60.27% / 79.0% / 21.0% — all shares and ratios (5.84, 3.64, 7.53, 12.64, 41.57) reproduce.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Income ratios.<div class="small">pp. 12-14</div></td>
+      <td class="mono">45,977/22,851; 45,977/30,433; 38,162/22,851</td>
+      <td>2.01x, 1.51x, 1.67x — match &#39;double&#39;, &#39;~50% higher&#39;, &#39;67% higher&#39;.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Table 2 internal consistency.<div class="small">p. 14</div></td>
+      <td class="mono">Share of rents ∝ share of households x mean rent; monthly = annual/12</td>
+      <td>Implied rent shares 16.88 / 9.75 / 11.89 / 61.48% (reported 16.87 / 9.75 / 11.89 / 61.49); monthly 287 / 459 / 600 / 1,476 — consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Poverty shares of all households.<div class="small">p. 15</div></td>
+      <td class="mono">6.47% x 9.3%; 7.63% x 9.3%; 9.5% x 9.3%</td>
+      <td>0.60%, 0.71%, 0.88% — match 0.6 / 0.7 / 0.9%.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V5">V5</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Tenant poverty rate: results vs conclusion.<div class="small">pp. 15-16</div></td>
+      <td class="mono">Compare</td>
+      <td>30.16% vs 36.28%; landlords 6.47% vs 6.48%.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_vidal_2025_vulnerable_landlords">
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html">Gil et al. (2025)</a></td>
+      <td><a href="papers/gil_vidal_2025_vulnerable_landlords.html#check-V6">V6</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>&#39;Majority are multi-property landlords&#39;.<div class="small">pp. 9, 11</div></td>
+      <td class="mono">Table 1 landlord shares</td>
+      <td>Single-dwelling landlords are 79% of landlords; the majority claim holds for dwellings (60.3%), not landlords.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="vidal_gil_2025_corporate_landlordism">
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html">Vidal et al. (2025)</a></td>
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>NYC rent-regulated stock implied.<div class="small">p. 4</div></td>
+      <td class="mono">100,000 / 0.10</td>
+      <td>≈ 1 million rent-regulated units — consistent with the claim as stated.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="cross_paper" data-pap="vidal_gil_2025_corporate_landlordism">
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html">Vidal et al. (2025)</a></td>
+      <td><a href="papers/vidal_gil_2025_corporate_landlordism.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>cross paper</td>
+      <td>Cross-corpus consistency on Spanish policy facts.<div class="small">pp. 9-10</div></td>
+      <td class="mono">Compare with gil_palomera_2024 and gil_vidal_2026 (2019 lease extension to 7 years for legal persons; Catalonia only region applying 2023 controls)</td>
+      <td>Consistent.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Household growth rates from shares and property counts.<div class="small">pp. 10-13</div></td>
+      <td class="mono">Implied households = single-property holdings / share (10,059,534/0.583; 7,810,630/0.409) → 17.25M, 19.10M; then 0-property and 2+ counts.</td>
+      <td>+63.1%, +53.2%, −22.4% vs reported +63.4%, +53.5%, −22.4% — consistent; implied household totals plausible.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>&#39;Multiplied by more than four&#39;.<div class="small">p. 10</div></td>
+      <td class="mono">625,883 / 137,943</td>
+      <td>4.54x — matches.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V3">V3</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Multi-owner share among owning households in EFF vs Catastro majority claim.<div class="small">pp. 8, 12</div></td>
+      <td class="mono">2008: 26.8/(58.3+26.8); 2022: 37.1/(40.9+37.1)</td>
+      <td>31.5% → 47.6% in EFF (minority), vs 46.1% → 51.7% in Catastro (majority).</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V4">V4</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Total properties held by households (EFF) vs &#39;two million new properties&#39;.<div class="small">pp. 9-10</div></td>
+      <td class="mono">Σ 2008 bands = 21,784,420; Σ 2022 bands = 28,030,347</td>
+      <td>+6.25M in EFF (2008-2022) vs ~+2M in Catastro (2008-2025). Sources are not reconciled.</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V5">V5</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>Owner-occupation vs &#39;owner&#39; category.<div class="small">pp. 6-7, 15</div></td>
+      <td class="mono">63.85% owners + (9.79% − 1.4% landlords who rent) </td>
+      <td>≈72% of households live in their own home in 2022, not 63.9%.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Tenure categories sum.<div class="small">p. 7</div></td>
+      <td class="mono">78.99+11.92+3.38; 63.85+19.17+9.79</td>
+      <td>94.3% and 92.8% — remainder (other tenures such as free use) not shown; acceptable.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_concentracion_inmobiliaria">
+      <td><a href="papers/gil_concentracion_inmobiliaria.html">Gil et al. (2026a)</a></td>
+      <td><a href="papers/gil_concentracion_inmobiliaria.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>&#39;Landlords almost tripled&#39;.<div class="small">p. 4</div></td>
+      <td class="mono">9.79 / 3.38</td>
+      <td>2.9x — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Whole-market composition.<div class="small">pp. 9-10</div></td>
+      <td class="mono">0.472 x 2,570,845 / (2,570,845 + 223,552 + 300,000)</td>
+      <td>39.2% single landlords — matches; private multi 43.9%, legal+public 16.9% (&#39;~17%&#39;).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Corporate 8% share.<div class="small">p. 9</div></td>
+      <td class="mono">223,552 / (2,570,845 + 223,552)</td>
+      <td>8.0% of the private market — consistent.</td>
+    </tr>
+    <tr data-sev="not_checkable" data-cat="internal" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V3">V3</a></td>
+      <td data-sort="3"><span class="badge c-not_checkable">not checkable</span></td>
+      <td>internal</td>
+      <td>Composition excluding public housing.<div class="small">pp. 9-10</div></td>
+      <td class="mono">1,213,439 / 2,794,397</td>
+      <td>43.4% single vs 56.6% multi + corporate.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>2016-2023 growth consistency.<div class="small">pp. 11-12</div></td>
+      <td class="mono">Total growth 2,570,845/1,900,883 = 1.352; solve 1.304s + 1.399(1−s) = 1.352</td>
+      <td>2016 single share ≈ 49.0% → 47.2% in 2023 — consistent with reported figures; share shift 1.7 points.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V5">V5</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>City shares sum.<div class="small">p. 8</div></td>
+      <td class="mono">Each pair sums to 100%</td>
+      <td>All eight cities sum to 100%.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="cross_paper" data-pap="gil_multiarrendadores_informe1">
+      <td><a href="papers/gil_multiarrendadores_informe1.html">Gil et al. (2026b)</a></td>
+      <td><a href="papers/gil_multiarrendadores_informe1.html#check-V6">V6</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>cross paper</td>
+      <td>Coverage vs tenant households (cross-corpus).<div class="small">p. 6</div></td>
+      <td class="mono">20.2% x ~19.1M households (implied by gil_concentracion_inmobiliaria EFF figures)</td>
+      <td>≈3.86M renting households vs 3.09M dwellings counted — ≈0.76M gap (undeclared/other).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Income ratios vs tenants.<div class="small">pp. 8, 18</div></td>
+      <td class="mono">32,120/21,335; 50,959/21,335; 80,375/21,335</td>
+      <td>1.51, 2.39, 3.77 — match (&#39;51% superior&#39;, &#39;2.39 veces&#39;, &#39;3.77 veces&#39;).</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V2">V2</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Wealth ratios vs tenants.<div class="small">p. 10</div></td>
+      <td class="mono">193,919/2,217; 407,975/2,217; 996,826/2,217</td>
+      <td>87.5 (&#39;casi 90&#39;), 184.0, 449.6 — match.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Age-gap and tenure-gap absolute differences.<div class="small">p. 20</div></td>
+      <td class="mono">221,254 − 20,069; 407,975 − 2,217; 996,826 − 2,217</td>
+      <td>201,185 (&#39;unos 200.000&#39;), 405,758, 994,609 — match.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>&#39;Eleven times less wealth&#39;.<div class="small">p. 29</div></td>
+      <td class="mono">223,960/20,069; 221,254/20,069</td>
+      <td>11.2 and 11.0 — match.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V5">V5</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Gini increase.<div class="small">pp. 4, 25</div></td>
+      <td class="mono">0.591/0.501; 0.591/0.513</td>
+      <td>+18.0% from 2005; +15.2% from 2002.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Top-share complements.<div class="small">p. 4</div></td>
+      <td class="mono">65.4 + 34.5; 58.1 + 41.9</td>
+      <td>99.9% and 100.0% — rounding.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Youth ownership drop.<div class="small">p. 15</div></td>
+      <td class="mono">69.3 − 31.8</td>
+      <td>37.5 points — matches &#39;&gt;37 points&#39;.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="cross_paper" data-pap="gil_renta_riqueza_informe3">
+      <td><a href="papers/gil_renta_riqueza_informe3.html">Gil et al. (2026c)</a></td>
+      <td><a href="papers/gil_renta_riqueza_informe3.html#check-V8">V8</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>cross paper</td>
+      <td>Cross-report consistency of owner-occupation (vs Report 2).<div class="small">p. 17</div></td>
+      <td class="mono">Age-specific 2022 ownership rates range 31.8-84.0%; any population-weighted average lies far above 63.85%.</td>
+      <td>Consistent with an overall owner-occupation rate of roughly 72-75%, supporting the audit finding that Report 2&#39;s 63.9% &#39;propietarios&#39; excludes owner-occupying landlords.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V1">V1</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Barcelona MTR ratio and total listings change.<div class="small">p. 5</div></td>
+      <td class="mono">0.0476 x 3.6888 / 0.2327; (0.0476 x 3.6888 + 0.2327)/1.0476 − 1</td>
+      <td>75.46% (reported 75.45%); −61.03% (reported −61.02%) — consistent.</td>
+    </tr>
+    <tr data-sev="minor_discrepancy" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V2">V2</a></td>
+      <td data-sort="1"><span class="badge c-minor_discrepancy">minor discrepancy</span></td>
+      <td>internal</td>
+      <td>Madrid MTR share.<div class="small">p. 5</div></td>
+      <td class="mono">Solve for initial ratio from MTR +73.89%, LTR −58.58%, total −53.15%</td>
+      <td>Implied 2019 ratio 4.27% → 2024 ratio 17.94% of residential listings (matches 17.97%) = 15.2% of total listings; text says &#39;of total listings&#39;.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V3">V3</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Málaga MTR growth.<div class="small">p. 6</div></td>
+      <td class="mono">458/51 − 1</td>
+      <td>+798.0% — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V4">V4</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Rent gaps and price growth from reported €/m2.<div class="small">pp. 6-9</div></td>
+      <td class="mono">MTR/LTR − 1 and end/start − 1 per city</td>
+      <td>Madrid 44.32%; Barcelona 33.93% → 16.71%, +25.38% / +43.89%; Málaga 20.25% → 10.02%, +47.34% / +61.03% — all match; Madrid 2019 gap back-computed 42.18% (reported 42.17%).</td>
+    </tr>
+    <tr data-sev="fail" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V5">V5</a></td>
+      <td data-sort="2"><span class="badge c-fail">fail</span></td>
+      <td>internal</td>
+      <td>&#39;Compression of 17 percentage points in three years&#39; (Barcelona).<div class="small">p. 9</div></td>
+      <td class="mono">53.17 − 16.71 (Dec 2021 → Dec 2024); 33.93 − 16.71 (2019 → 2024)</td>
+      <td>36.46 points in three years or 17.22 points in five years.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V6">V6</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Leads: per-listing vs total.<div class="small">p. 9</div></td>
+      <td class="mono">71.4/9 = 7.93x per listing; x (1 − 0.7673) listings</td>
+      <td>Total residential leads ≈ 1.85x — per-listing growth mostly due to fewer listings.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V7">V7</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Madrid foreign searches relative increase.<div class="small">p. 9</div></td>
+      <td class="mono">12.22/9.62</td>
+      <td>+27% — matches.</td>
+    </tr>
+    <tr data-sev="pass" data-cat="internal" data-pap="gil_vidal_2026_midterm_rental">
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html">Gil et al. (2026d)</a></td>
+      <td><a href="papers/gil_vidal_2026_midterm_rental.html#check-V8">V8</a></td>
+      <td data-sort="0"><span class="badge c-pass">pass</span></td>
+      <td>internal</td>
+      <td>Quarter count.<div class="small">p. 4</div></td>
+      <td class="mono">Q1-2019 to Q4-2024</td>
+      <td>24 quarters — matches; simple regressions use N = 23 (unexplained drop of one observation).</td>
+    </tr>
+    </tbody>
+  </table>
+</section>
+</main>
+<footer>
+  Generated 2026-11-08 by <code>src/build_site.py</code> from JSON audit records.
+  Assessments are analyst (LLM) judgements based only on the documents' own content; see <a href="method.html">method</a>.
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

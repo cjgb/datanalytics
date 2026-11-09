@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Method, schema and rubric</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Paper Audit</a>
+  <nav>
+    <a href="index.html">Corpus</a>
+    <a href="issues.html">Issues</a>
+    <a href="checks.html">Numeric checks</a>
+    <a href="method.html">Method &amp; rubric</a>
+  </nav>
+</header>
+<main>
+<section class="paper-head"><h1>Method, schema and rubric</h1>
+<p class="meta">How the reports are produced and how to read them.</p></section>
+
+<section>
+  <h2>Pipeline</h2>
+  <ol>
+    <li><strong>Extract</strong> — <code>src/extract_text.py</code> converts each PDF in <code>pdf/</code> into page-tagged text (<code>text/&lt;id&gt;.txt</code>) so every claim can cite a PDF page.</li>
+    <li><strong>Analyse</strong> — following <code>docs/ANALYST_GUIDE.md</code> (prompt bundle: <code>src/make_prompt.py</code>), an analyst (here an LLM; in future runs, another LLM) reads the full text and writes <code>json/&lt;id&gt;.json</code> following <code>src/schema/paper.schema.json</code>. Optionally, a corpus synthesis <code>json/_corpus.json</code> (<code>src/schema/corpus.schema.json</code>) records cross-paper findings.</li>
+    <li><strong>Validate</strong> — <code>src/validate.py</code> checks schema conformance and referential integrity (every cited evidence/issue/claim id exists; relations form a graph; thesis present; empirical claims rated adequate+ cite evidence).</li>
+    <li><strong>Render</strong> — <code>src/build_site.py</code> produces this site. Argument maps use Graphviz when available and a built-in layout otherwise.</li>
+  </ol>
+  <h3>Access modes</h3>
+  <p>Every record declares how it was produced (<span class="badge acc-document_only" title="Sources the analyst could use">document only</span> or <span class="badge acc-web" title="Sources the analyst could use">web-verified</span>).</p>
+  <ul>
+    <li><strong>Document only</strong>: only the document is used, and its data are assumed correctly reported. Checks test internal consistency (arithmetic, text vs tables, agreement across documents), not truth against the world. General domain knowledge may appear only as a labelled analyst note.</li>
+    <li><strong>Web-verified</strong>: after the document-only analysis, the analyst may consult external sources. These include publisher records (corrections, retractions), cited works (<em>citation checks</em>: does the source say what the paper claims?), original statistics and datasets (<em>external</em> checks, matched on vintage), and replication packages (<em>replication</em> checks). Every source is listed with URL, access date, reliability and version.</li>
+  </ul>
+  <p>The two judgements are kept separate. A claim's <strong>support rating</strong> always answers "does the paper itself support this?". Its <strong>external status</strong> (<span class="badge e-corroborated" title="External verification (outside sources)">ext: corroborated</span> <span class="badge e-partially_corroborated" title="External verification (outside sources)">ext: partially corroborated</span> <span class="badge e-contradicted" title="External verification (outside sources)">ext: contradicted</span> <span class="badge e-not_found" title="External verification (outside sources)">ext: not found</span> <span class="badge e-not_checked" title="External verification (outside sources)">ext: not checked</span> ) answers "is it consistent with outside evidence?". External findings can change the verdict and the evidential-support score, and the record explains how in an external-verification summary.</p>
+</section>
+
+<section>
+  <h2>What a paper record contains</h2>
+  <table class="tbl">
+    <tr><th>Block</th><th>Purpose</th></tr>
+    <tr><td>bibliographic, summary</td><td>Identification; analyst paraphrase of abstract, research questions, contribution and argument outline.</td></tr>
+    <tr><td>methodology</td><td>Approach, design, data sources (D*), methods, scope, transparency notes, limitations acknowledged by authors.</td></tr>
+    <tr><td>concepts (K*)</td><td>Key terms with definitions, origin (coined/adapted/borrowed/legal/operational) and analyst notes on consistency.</td></tr>
+    <tr><td>evidence (E*)</td><td>Tables, statistics, excerpts, documents… with locations and key values, linked to data sources.</td></tr>
+    <tr><td>claims (C*)</td><td>Faithful restatement, type, role, location, quote, linked evidence and issues, and a support rating with rationale and "obviousness".</td></tr>
+    <tr><td>relations</td><td>Directed edges between claims/concepts (supports, explains, enables, motivates, defines, qualifies, illustrates, generalizes, contradicts) with strength: the logical structure behind the argument map.</td></tr>
+    <tr><td>issues (I*)</td><td>Problems with severity, category, location, affected claims and impact on conclusions.</td></tr>
+    <tr><td>verification_checks (V*)</td><td>Recomputations with inputs, result, status and scope (internal, cross paper, external, replication).</td></tr>
+    <tr><td>external_sources (S*), citation_checks (R*)</td><td>Web mode only: every outside source consulted, and checks of whether cited works support what is attributed to them.</td></tr>
+    <tr><td>assessment</td><td>Evaluation frame (what standard suits this genre), six rubric scores with rationales, verdict, strengths/weaknesses, robust/fragile claims, what would strengthen the work.</td></tr>
+  </table>
+</section>
+
+<section class="two">
+  <div>
+    <h2>Claim types</h2>
+    <ul>
+<li>definitional</li><li>theoretical</li><li>analytical</li><li>empirical descriptive</li><li>empirical comparative</li><li>empirical causal</li><li>interpretive</li><li>normative</li><li>predictive</li><li>methodological</li><li>background</li>    </ul>
+    <p class="small">Definitional, theoretical and normative claims are usually rated <em>not applicable</em> for empirical support; their quality is reflected in conceptual clarity and coherence instead.</p>
+  </div>
+  <div>
+    <h2>Support ratings</h2>
+    <table class="tbl">
+      <tr><td><span class="badge r-strong">strong</span></td><td>Evidence directly and convincingly establishes the claim; figures reconcile.</td></tr>
+      <tr><td><span class="badge r-adequate">adequate</span></td><td>Reasonable support for the claim as stated; minor caveats.</td></tr>
+      <tr><td><span class="badge r-partial">partial</span></td><td>Supports part of the claim, or the claim is stated more strongly than the evidence allows.</td></tr>
+      <tr><td><span class="badge r-weak">weak</span></td><td>Evidence is thin, indirect, or open to clear alternative explanations.</td></tr>
+      <tr><td><span class="badge r-unsupported">unsupported</span></td><td>No evidence offered, or evidence contradicts the claim.</td></tr>
+      <tr><td><span class="badge r-not_applicable">not applicable</span></td><td>Definitions, framing premises, normative recommendations.</td></tr>
+    </table>
+    <p class="small"><em>Obviousness</em> (self-evident / common knowledge / non-trivial / contested) records how much evidence a claim needs: self-evident claims are not penalised for lacking data.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Rubric dimensions (1–5)</h2>
+  <table class="tbl"><tr><td><strong>conceptual clarity</strong></td><td>Are key concepts defined, operationalised and used consistently?</td></tr><tr><td><strong>logical coherence</strong></td><td>Do conclusions follow from premises; are there internal contradictions or gaps?</td></tr><tr><td><strong>evidential support</strong></td><td>Is the evidence presented adequate, relevant and correctly reported for the claims made?</td></tr><tr><td><strong>methodological rigor</strong></td><td>Is the design appropriate (sampling, measurement, inference) for the questions asked?</td></tr><tr><td><strong>transparency</strong></td><td>Could a reader reconstruct what was done (data, definitions, procedures, dates, N)?</td></tr><tr><td><strong>proportionality</strong></td><td>Are conclusions and their certainty proportionate to the evidence (no overreach)?</td></tr></table>
+  <p>Scale: 1 = serious deficiencies, 2 = weak, 3 = acceptable with notable problems, 4 = good, 5 = exemplary. Scores are judged <em>relative to the genre</em> stated in each record's evaluation frame (a theoretical essay is not penalised for lacking regressions, but its empirical quantifiers are still checked).</p>
+  <h3>Derived indicators</h3>
+  <ul>
+    <li><strong>Rubric score</strong> = mean of the six dimensions.</li>
+    <li><strong>Claim support index</strong> = mean over rated claims of strong 100, adequate 80, partial 50, weak 25, unsupported 0; the <em>core</em> index restricts to thesis/main/conclusion claims.</li>
+    <li><strong>Verdict</strong> (analyst judgement): <span class="badge v-well_supported">well supported</span> <span class="badge v-mostly_supported">mostly supported</span> <span class="badge v-partially_supported">partially supported</span> <span class="badge v-weakly_supported">weakly supported</span> <span class="badge v-unsupported">unsupported</span> </li>
+  </ul>
+  <h3>Issue severity</h3>
+  <ul>
+    <li><span class="badge s-critical">critical</span> invalidates a central conclusion.</li>
+    <li><span class="badge s-major">major</span> substantially weakens a main claim or headline figure.</li>
+    <li><span class="badge s-moderate">moderate</span> qualifies a claim or its magnitude.</li>
+    <li><span class="badge s-minor">minor</span> presentational or peripheral; does not change conclusions.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Limitations of these reports</h2>
+  <ul>
+    <li>The analyses are LLM-generated and, although grounded in page-cited text and explicit recomputation, can contain misreadings; each claim links to its page for verification.</li>
+    <li>Charts and figures whose values are not printed in the text layer could not be checked.</li>
+    <li>Document-only records cannot detect errors in the underlying data or misrepresented citations; web-verified records can, but only for what the analyst checked (see each record's access notes).</li>
+    <li>Ratings are judgements; the rationales are the substantive content and should be read alongside the scores.</li>
+  </ul>
+</section>
+</main>
+<footer>
+  Generated 2026-11-08 by <code>src/build_site.py</code> from JSON audit records.
+  Assessments are analyst (LLM) judgements based only on the documents' own content; see <a href="method.html">method</a>.
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
