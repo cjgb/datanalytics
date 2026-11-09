@@ -22,8 +22,6 @@ url: /2011/02/25/mas-alla-pib/
 
 Igual que reviso mis propios ingresos y gastos, por eso de que vivimos en democracia, me molesto en revisar los números de esas esferas en que me encuadro fiscalmente: ayuntamiento, comunidad autónoma, país (¡pobrecico!) y Unión Europea. Mis dos principales impresiones al examinar las de la Comunidad de Madrid de 2010 fueron:
 
-
-
 * La opacidad (o ininteligibilidad) de las partidas de ingresos: al parecer, estamos en un periodo transitorio en lo concerniente a la financiación autonómica (aunque apostaría bastante dinero a que todos los años desde el 78 lo han venido siendo en mayor o menor grado) y esto hace muy difícil saber quién paga qué, qué son esos fondos de compensación, a qué hacen referencia los ajustes y, sobre todo, cómo se comparan las cifras de un año con las del anterior.
 * Que la recaudación vinculada al IVA y el IRPF descendió un 31% y un 29% respectivamente entre 2008 y 2009.
 
@@ -35,16 +33,12 @@ Por otra parte, el PIB español cayó entre 2008 y 2009 ([datos del INE recogido
 
 Yendo por delante mi confesión de ignorancia en lo que concierne a la contabilidad nacional, estoy seguro de que más de un experto podrá explicarme:
 
-
-
 1. Por qué a principios de 2007 estábamos todos felices y apesadumbrados a fines de 2009 si nuestro nivel económico era idéntico (según el INE).
 2. Qué hacían los 1,6 millones de trabajadores que se fueron al paro entre ambas fechas, un 10% de la masa laboral.
 3. Cómo se compatibiliza una caída del producto del 3,6% con un descenso de la recaudación del IVA y el IRPF de alrededor del 30%.
 4. Si conocen a mucha gente a la que la crisis haya afectado en un 3,6% o menos.
 
 Más aún, quien haya visto el documental [Comprar, tirar, comprar](http://www.rtve.es/mediateca/videos/20110109/comprar-tirar-comprar/983391.shtml) de TVE entenderá al comparar estos dos escenarios:
-
-
 
 * Una empresa fabrica bombillas que valen un euro y duran 1.000 horas.
 * Otra empresa fabrica bombillas que valen dos euros y duran 10.000 horas.

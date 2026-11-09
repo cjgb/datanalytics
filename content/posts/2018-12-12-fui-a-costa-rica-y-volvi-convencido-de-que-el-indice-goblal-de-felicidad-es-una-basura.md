@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2018-12-12 08:13:29+00:00
-draft: false
 lastmod: '2025-04-06T18:45:30.366450'
 related:
 - 2012-05-04-numeros-rojos-y-perfectibles.md
