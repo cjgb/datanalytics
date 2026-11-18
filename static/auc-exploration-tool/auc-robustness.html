@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AUC Robustness Lab — how much do single observations matter?</title>
+<link rel="stylesheet" href="css/common.css">
+<link rel="stylesheet" href="css/robustness.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="topline">
+      <h1>AUC Robustness Lab</h1>
+      <nav class="apps" aria-label="AUC apps">
+        <a href="auc-guide.html">Guide</a>
+        <a href="auc-simulator.html">Simulator</a>
+        <a href="auc-robustness.html" aria-current="page">Robustness lab</a>
+      </nav>
+    </div>
+    <p>Load your scores and labels (or an example) and see how much each observation drives the <b>AUC</b> and its confidence interval.
+    Move, remove or relabel cases and watch the result change. This is a <b>sensitivity analysis</b>, not data cleaning: the original
+    result stays on screen and every edit is logged.</p>
+  </div>
+</header>
+
+<main class="wrap">
+<div class="layout">
+
+<!-- ====================== SIDEBAR ====================== -->
+<aside class="card controls" aria-label="Data and settings">
+  <div class="sec">
+    <h2>Data</h2>
+    <label class="field">Example dataset <select id="example"></select></label>
+    <div class="btnrow">
+      <label class="btn" for="file" tabindex="0">Upload CSV…</label>
+      <input type="file" id="file" accept=".csv,.tsv,.txt,text/csv,text/plain" hidden>
+      <button class="btn" id="btnPaste" aria-expanded="false">Paste data…</button>
+    </div>
+    <div id="pasteBox" hidden>
+      <textarea id="pasteText" rows="6" placeholder="id,label,score&#10;P01,Y,0.91&#10;P02,N,0.35&#10;…"></textarea>
+      <button class="btn small" id="btnPasteLoad">Load pasted data</button>
+    </div>
+    <div id="mapping" hidden>
+      <div class="inline2">
+        <label class="field">Score column <select id="mapScore"></select></label>
+        <label class="field">Label column <select id="mapLabel"></select></label>
+      </div>
+      <div class="inline2">
+        <label class="field">Y (positive) = <select id="mapY"></select></label>
+        <label class="field">ID column <select id="mapId"></select></label>
+      </div>
+    </div>
+    <p class="note" id="dataInfo"></p>
+    <label class="chk"><input type="checkbox" id="dirHigh" checked> Higher score means Y</label>
+  </div>
+
+  <div class="sec">
+    <h2>Conclusion to test</h2>
+    <div class="inline2">
+      <label class="field">Lower CI limit &gt; <input type="number" id="c0" min="0" max="0.99" step="0.05" value="0.5"></label>
+      <label class="field">CI level
+        <select id="level"><option value="0.9">90%</option><option value="0.95" selected>95%</option><option value="0.99">99%</option></select></label>
+    </div>
+    <p class="note">0.5 tests "better than chance"; use e.g. 0.75 for "AUC is at least 0.75".</p>
+  </div>
+
+  <div class="sec inspector" id="inspector" aria-live="polite"></div>
+</aside>
+
+<!-- ====================== MAIN ====================== -->
+<section aria-label="Results">
+  <div class="card lesson" id="about"></div>
+
+  <div class="kpis" aria-live="polite">
+    <div class="kpi truth"><div class="k">Original AUC</div><div class="v" id="kOrig">—</div><div class="s" id="kOrigSub">—</div></div>
+    <div class="kpi samp"><div class="k">Current AUC</div><div class="v" id="kCur">—</div><div class="s" id="kCurSub">—</div></div>
+    <div class="kpi dl"><div class="k" id="kConcK">Conclusion</div><div class="v sm" id="kConc">—</div><div class="s" id="kConcSub">—</div></div>
+    <div class="kpi bs"><div class="k">Fragility</div><div class="v sm" id="kFrag">—</div><div class="s" id="kFragSub">—</div></div>
+    <div class="kpi th"><div class="k">Your edits</div><div class="v sm" id="kEdits">—</div><div class="s" id="kEditsSub">—</div></div>
+  </div>
+
+  <div class="charts">
+    <div class="card full">
+      <div class="card-head">
+        <h2>Observations: dot size = effect on the AUC</h2>
+        <div class="btnrow">
+          <button class="btn small" id="btnUndo" title="Undo last edit (Ctrl+Z)">↶ Undo</button>
+          <button class="btn small" id="btnReset" title="Restore the original data">Reset all</button>
+        </div>
+      </div>
+      <svg class="plot" id="strip" viewBox="0 0 1000 300" role="img" aria-label="Scores of each observation by class"></svg>
+      <div class="legend">
+        <span><span class="sw" style="background:var(--y);border-radius:50%;width:10px"></span>Y case</span>
+        <span><span class="sw" style="background:var(--n);border-radius:50%;width:10px"></span>N case</span>
+        <span><span class="sw" style="border:2px solid #212529;border-radius:50%;width:10px;height:10px;background:#fff"></span>removal moves AUC ≥ ½ SE or changes the conclusion</span>
+        <span><span class="sw" style="border:1.5px solid #868e96;border-radius:50%;width:10px;height:10px;background:#fff"></span>excluded / original position</span>
+        <span id="densityLegend" hidden><span class="sw" style="background:rgba(25,113,194,.18)"></span>density of a large class (only influential cases drawn as dots)</span>
+      </div>
+      <p class="note"><b>Click</b> a dot to inspect it · <b>drag</b> it sideways to change its score · <kbd>Del</kbd> exclude/include ·
+        <kbd>F</kbd> flip label · <kbd>R</kbd> restore · <kbd>←</kbd>/<kbd>→</kbd> previous/next case · <kbd>Ctrl</kbd>+<kbd>Z</kbd> undo</p>
+    </div>
+
+    <div class="card">
+      <h2>ROC staircase</h2>
+      <svg class="plot" id="roc" viewBox="0 0 400 380" role="img" aria-label="ROC curve as a staircase of observations"></svg>
+      <div class="legend">
+        <span><span class="sw line" style="border-color:var(--y)"></span>Y case: step up 1/n<sub>Y</sub></span>
+        <span><span class="sw line" style="border-color:var(--n)"></span>N case: step right 1/n<sub>N</sub></span>
+        <span><span class="sw line" style="border-color:#9c36b5"></span>tied Y and N</span>
+        <span><span class="sw line" style="border-color:#ced4da"></span>original</span>
+        <span class="truthLegend" hidden><span class="sw dash" style="border-color:#212529"></span>true ROC (simulation)</span>
+      </div>
+      <p class="note">Click a step to select its case.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h2>Sensitivity curve (original data)</h2>
+        <label class="chk"><input type="checkbox" id="pathFlips"> allow label flips</label>
+      </div>
+      <svg class="plot" id="sens" viewBox="0 0 480 380" role="img" aria-label="AUC after removing the k most damaging or most flattering cases"></svg>
+      <div class="legend">
+        <span><span class="sw line" style="border-color:#e03131"></span>most damaging edits</span>
+        <span><span class="sw line" style="border-color:#2f9e44"></span>most flattering edits</span>
+        <span>solid = AUC, dashed = lower CI limit</span>
+        <span><span class="sw" style="background:#7048e8;border-radius:50%;width:10px"></span>your edits</span>
+      </div>
+      <p class="note" id="sensNote"></p>
+    </div>
+
+    <div class="card full">
+      <div class="card-head">
+        <h2>All observations</h2>
+        <div class="btnrow">
+          <div class="seg" id="tFilter" role="group" aria-label="Filter rows">
+            <button data-f="all" class="on">all</button><button data-f="Y">Y</button><button data-f="N">N</button><button data-f="edited">edited</button>
+          </div>
+          <label class="chk"><input type="checkbox" id="tAll"> show all rows</label>
+        </div>
+      </div>
+      <div class="tablewrap" id="tableWrap"></div>
+      <p class="note" id="tableNote"></p>
+    </div>
+
+    <div class="card full">
+      <div class="card-head">
+        <h2>Edit log</h2>
+        <div class="btnrow">
+          <button class="btn small" id="btnLogCSV">Export log (CSV)</button>
+          <button class="btn small" id="btnDataCSV">Download edited data (CSV)</button>
+        </div>
+      </div>
+      <div id="log"></div>
+    </div>
+  </div>
+
+  <details class="card methods">
+    <summary>Methods &amp; formulas</summary>
+    <div class="body">
+      <h4>Placement values</h4>
+      <p>For a Y case, V = share of N cases scored below it; for an N case, V = share of Y cases scored above it (ties count ½).
+      V is the share of the other class that the case is correctly ordered against. The AUC is the mean placement value within
+      either class, and the DeLong variance is s²(V<sub>Y</sub>)/n<sub>Y</sub> + s²(V<sub>N</sub>)/n<sub>N</sub>.</p>
+      <h4>Removing one case (exact)</h4>
+      <p>Removing a Y case changes the AUC by <code>(AUC − V)/(n<sub>Y</sub> − 1)</code>, and an N case by <code>(AUC − V)/(n<sub>N</sub> − 1)</code>.
+      The new DeLong SE is also exact: removing a Y case leaves the other Y placements unchanged and takes one pair out of each N placement.
+      The required sums come from prefix sums over the sorted scores, so every case costs O(log N).
+      "Conclusion" means the lower limit of the logit-scale DeLong CI exceeds the chosen value.</p>
+      <h4>Why the small class dominates</h4>
+      <p>Moving a Y case from the bottom to the top of the ranking changes the AUC by exactly 1/n<sub>Y</sub>, and an N case by 1/n<sub>N</sub>.
+      In the ROC staircase each Y case is a vertical step of height 1/n<sub>Y</sub> and each N case a horizontal step of width 1/n<sub>N</sub>.</p>
+      <h4>Flipping a label (exact)</h4>
+      <p>The case loses its pairs with its old class's opponents and gains pairs against its former classmates:
+      e.g. for a Y case, AUC' = (U − n<sub>N</sub>·V + a) / ((n<sub>Y</sub> − 1)(n<sub>N</sub> + 1)), where U is the number of correctly ordered pairs and
+      a counts the other Y cases scored above it (ties ½).</p>
+      <h4>Sensitivity curve and fragility</h4>
+      <p>Starting from the original data, a greedy search repeatedly applies the single edit (removal, or optionally label flip)
+      that lowers (red) or raises (green) the lower CI limit the most. <b>Fragility</b> is the number of steps after which the conclusion changes.
+      Greedy search finds an achievable set of edits, so the true minimum can only be smaller: read "k edits suffice" as an upper bound.</p>
+      <h4>A caution</h4>
+      <p>Removing cases <em>because</em> they lower the AUC biases it upward, and the CI after such a selection is no longer valid.
+      Use edits to understand how much a result depends on particular observations, and report the original analysis together with
+      a justified, pre-specified sensitivity analysis.</p>
+    </div>
+  </details>
+</section>
+</div>
+</main>
+
+<footer>AUC Robustness Lab · your data never leaves the browser.</footer>
+
+<script src="js/stats.js"></script>
+<script src="js/robustness-core.js"></script>
+<script src="js/handoff.js"></script>
+<script src="js/ui-common.js"></script>
+<script src="js/robustness.js"></script>
+</body>
+</html>

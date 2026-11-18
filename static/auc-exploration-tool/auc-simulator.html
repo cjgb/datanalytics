@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AUC Simulator — what the AUC does (and doesn't) tell you</title>
+<link rel="stylesheet" href="css/common.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="topline">
+      <h1>AUC Simulator</h1>
+      <nav class="apps" aria-label="AUC apps">
+        <a href="auc-guide.html">Guide</a>
+        <a href="auc-simulator.html" aria-current="page">Simulator</a>
+        <a href="auc-robustness.html">Robustness lab</a>
+      </nav>
+    </div>
+    <p>Choose the score distributions <b>P(score | Y)</b> and <b>P(score | N)</b>, run simulated experiments, and see what the
+    <b>AUC</b> captures — the ROC curve, confidence intervals, and how much the AUC varies from one study to the next — and what it
+    leaves out: ROC shape, prevalence, calibration, the operating threshold.</p>
+  </div>
+</header>
+
+<main class="wrap">
+<div class="layout">
+
+<!-- ====================== CONTROLS ====================== -->
+<aside class="card controls" aria-label="Experiment settings">
+  <div class="sec">
+    <h2>Scenario</h2>
+    <select id="scenario" aria-label="Scenario"></select>
+  </div>
+
+  <div class="sec cls-y">
+    <div class="cls-title"><span class="dot y"></span>Y — positives <small>P(score | Y)</small></div>
+    <label class="field">Distribution <select id="famY"></select></label>
+    <div id="paramsY"></div>
+    <div class="prow"><label for="nY">n<sub>Y</sub> (cases)</label><span></span><input id="nY" type="number" min="3" max="20000" step="1" value="500"></div>
+  </div>
+
+  <div class="sec cls-n">
+    <div class="cls-title"><span class="dot n"></span>N — negatives <small>P(score | N)</small></div>
+    <label class="field">Distribution <select id="famN"></select></label>
+    <div id="paramsN"></div>
+    <div class="prow"><label for="nN">n<sub>N</sub> (cases)</label><span></span><input id="nN" type="number" min="3" max="20000" step="1" value="500"></div>
+    <div class="truth-live" id="truthLive">—</div>
+  </div>
+
+  <div class="sec">
+    <h2>Experiment</h2>
+    <div class="inline2">
+      <label class="field">Random seed <input id="seed" type="number" value="42"></label>
+      <label class="field">&nbsp;<button class="btn primary" id="btnNew" title="Draw a fresh sample from the same distributions">New sample ↻</button></label>
+    </div>
+    <a class="btn handoff" id="toRobust" href="auc-robustness.html" target="_blank" rel="noopener"
+       title="Open exactly this sample in the Robustness lab (new tab) to see how much each observation drives the AUC">Inspect this sample in the Robustness lab ↗</a>
+    <label class="field">Score transform (applied to both classes)
+      <select id="transform"></select></label>
+    <div class="inline2">
+      <label class="field">CI level
+        <select id="level"><option value="0.9">90%</option><option value="0.95" selected>95%</option><option value="0.99">99%</option></select></label>
+      <label class="field">Bootstrap reps B
+        <input id="bootB" type="number" min="100" max="5000" step="100" value="1000"></label>
+    </div>
+  </div>
+
+  <div class="sec">
+    <h2>Decision threshold</h2>
+    <input type="range" id="threshold" aria-label="Decision threshold">
+    <div class="btnrow" style="justify-content:space-between;margin-top:4px">
+      <span class="mono" id="thresholdVal">t = —</span>
+      <button class="btn small" id="btnYouden" title="Threshold maximising Sensitivity + Specificity − 1 in this sample">Youden-optimal</button>
+    </div>
+    <p class="note">Predict <b>Y</b> iff score ≥ t. Drag the line on the histogram or click the ROC curve.</p>
+  </div>
+
+  <div class="sec">
+    <h2>Display &amp; export</h2>
+    <div class="inline2">
+      <label class="field">Histogram bins <input id="bins" type="number" min="5" max="120" value="40"></label>
+      <label class="field">&nbsp;<button class="btn" id="btnCSV">Download CSV</button></label>
+    </div>
+  </div>
+</aside>
+
+<!-- ====================== RESULTS ====================== -->
+<section aria-label="Results">
+  <div class="card lesson" id="lesson"></div>
+
+  <div class="kpis" aria-live="polite">
+    <div class="kpi truth"><div class="k">True AUC</div><div class="v" id="kTrue">—</div><div class="s">population value P(S<sub>Y</sub> &gt; S<sub>N</sub>)</div></div>
+    <div class="kpi samp"><div class="k">Sample AUC</div><div class="v" id="kAuc">—</div><div class="s" id="kAucSub">—</div></div>
+    <div class="kpi dl"><div class="k" id="kDelongK">95% CI · DeLong</div><div class="v sm" id="kDelong">—</div><div class="s" id="kDelongSub">—</div></div>
+    <div class="kpi bs"><div class="k" id="kBootK">95% CI · Bootstrap</div><div class="v sm" id="kBoot">—</div><div class="s" id="kBootSub">—</div></div>
+    <div class="kpi th"><div class="k">At threshold t</div><div class="v sm" id="kThr">—</div><div class="s" id="kThrSub">—</div></div>
+  </div>
+
+  <div class="charts">
+    <div class="card">
+      <div class="card-head">
+        <h2>Score distributions by class</h2>
+        <div class="seg" id="histMode" role="group" aria-label="Histogram scale">
+          <button data-mode="density" class="on" title="Each class scaled to area 1 — compares shapes">density</button>
+          <button data-mode="counts" title="Raw counts — shows class imbalance">counts</button>
+        </div>
+      </div>
+      <svg class="plot" id="histPlot" viewBox="0 0 600 360" role="img" aria-label="Overlapping histograms of scores for Y and N"></svg>
+      <div class="legend">
+        <span><span class="sw" style="background:var(--y-soft);border:1.5px solid var(--y)"></span>Y sample</span>
+        <span><span class="sw" style="background:var(--n-soft);border:1.5px solid var(--n)"></span>N sample</span>
+        <span><span class="sw line" style="border-color:#7a3203"></span>true P(score | Y)</span>
+        <span><span class="sw line" style="border-color:#0b3c6b"></span>true P(score | N)</span>
+        <span><span class="sw dash" style="border-color:var(--thr)"></span>threshold</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h2>ROC curve</h2>
+        <div class="btnrow">
+          <button class="btn small" id="btnPin" title="Keep the current true ROC on the plot for comparison">📌 Pin true ROC</button>
+          <button class="btn small" id="btnUnpin">Clear pins</button>
+        </div>
+      </div>
+      <svg class="plot" id="rocPlot" viewBox="0 0 400 380" role="img" aria-label="ROC curve"></svg>
+      <div class="legend">
+        <span><span class="sw line" style="border-color:var(--roc)"></span>sample ROC</span>
+        <span><span class="sw dash" style="border-color:var(--truth)"></span>true ROC</span>
+        <span><span class="sw" style="background:var(--thr);border-radius:50%;width:10px"></span>operating point</span>
+        <span id="repLegend" hidden><span class="sw line" style="border-color:rgba(103,65,217,.35)"></span>replicate ROCs</span>
+      </div>
+      <div class="pins" id="pinList"></div>
+    </div>
+
+    <div class="card full">
+      <h2>How uncertain is this AUC? — bootstrap distribution (this sample)</h2>
+      <svg class="plot" id="bootPlot" viewBox="0 0 1000 210" role="img" aria-label="Bootstrap distribution of the AUC"></svg>
+      <div class="legend">
+        <span><span class="sw" style="background:#d0bfff"></span>bootstrap AUCs</span>
+        <span><span class="sw line" style="border-color:var(--roc)"></span>sample AUC</span>
+        <span><span class="sw dash" style="border-color:var(--truth)"></span>true AUC</span>
+        <span><span class="sw" style="background:rgba(151,117,250,.18);border:1px dashed #9775fa"></span>bootstrap CI</span>
+        <span><span class="sw line" style="border-color:var(--ci);border-top-width:4px"></span>DeLong CI</span>
+      </div>
+      <p class="note" id="bootNote"></p>
+    </div>
+
+    <div class="card full" id="repCard">
+      <h2>Repeat the experiment — the AUC is a random variable</h2>
+      <p class="note" style="margin:0 0 8px">In practice you get <em>one</em> sample. Here we rerun the same study (same distributions, same n<sub>Y</sub>, n<sub>N</sub>) many times
+        to see how much the sample AUC moves around, and whether the confidence intervals really capture the true AUC as often as they claim.</p>
+      <div class="rep-controls">
+        <label class="field">Replicates R <input id="repR" type="number" min="20" max="5000" step="10" value="500"></label>
+        <label class="chk"><input type="checkbox" id="repBoot"> also bootstrap CIs (B = <input id="repB" type="number" min="50" max="2000" step="50" value="200" style="width:70px;padding:2px 4px">, slower)</label>
+        <button class="btn primary" id="btnRep">Run R experiments</button>
+        <button class="btn" id="btnRepCancel" hidden>Cancel</button>
+        <div class="progress" id="repProgress" hidden><div></div></div>
+        <span class="note" id="repEta" hidden style="margin:0"></span>
+      </div>
+      <div id="repBody"><div class="empty">Not run yet. Press <b>Run R experiments</b>.</div></div>
+    </div>
+
+    <div class="card">
+      <h2>Confusion matrix at threshold t (this sample)</h2>
+      <div id="cmWrap"></div>
+      <div class="metrics" id="cmMetrics"></div>
+      <p class="note" id="cmNote"></p>
+    </div>
+
+    <div class="card">
+      <h2>AUC as a probability — the pair game</h2>
+      <p class="note" style="margin-top:0">Draw one random <b style="color:var(--y)">Y</b> case and one random <b style="color:var(--n)">N</b> case from the sample. How often does the
+        Y case get the higher score? (Ties count ½.) In the long run that fraction <em>is</em> the AUC — nothing more, nothing less.</p>
+      <div class="btnrow">
+        <button class="btn" id="pair1">Draw 1 pair</button>
+        <button class="btn" id="pair100">+100 pairs</button>
+        <button class="btn" id="pair1000">+1000 pairs</button>
+        <button class="btn small" id="pairReset">Reset</button>
+      </div>
+      <div class="pair-out" id="pairOut"></div>
+    </div>
+  </div>
+
+  <details class="card methods">
+    <summary>Methods &amp; formulas</summary>
+    <div class="body" id="methodsBody">
+      <h4>Simulation</h4>
+      <p>Scores are drawn independently: n<sub>Y</sub> from P(score | Y) and n<sub>N</sub> from P(score | N), using a seeded generator
+      (mulberry32; Box–Muller normals; Marsaglia–Tsang gammas; Beta = G<sub>α</sub>/(G<sub>α</sub>+G<sub>β</sub>)). The same seed gives the same sample.
+      While you change parameters, the seed stays fixed, so the random numbers underneath stay the same and differences come from the parameters, not from noise.
+      An optional monotone <em>score transform</em> is applied to both classes after sampling.</p>
+      <h4>True (population) ROC and AUC</h4>
+      <p>ROC(t) = (1 − F<sub>N</sub>(t), 1 − F<sub>Y</sub>(t)) using exact CDFs (erfc, regularised incomplete gamma and beta functions).
+      Thresholds are refined adaptively until no interval holds more than 0.05% of either class's probability, and
+      AUC = ∫ F<sub>N</sub> dF<sub>Y</sub> = P(S<sub>Y</sub> &gt; S<sub>N</sub>) is the trapezoidal area (accurate to ~1e-6).
+      For two normals this matches the closed form Φ((μ<sub>Y</sub> − μ<sub>N</sub>) / √(σ<sub>Y</sub>² + σ<sub>N</sub>²)).</p>
+      <h4>Sample ROC and AUC</h4>
+      <p>One ROC vertex per distinct score (tied Y/N scores produce a diagonal segment). The trapezoidal area equals the Mann–Whitney statistic
+      <code>P(s<sub>Y</sub> &gt; s<sub>N</sub>) + ½ P(s<sub>Y</sub> = s<sub>N</sub>)</code> over all n<sub>Y</sub>·n<sub>N</sub> pairs.</p>
+      <h4>DeLong confidence interval</h4>
+      <p>Structural components V<sub>10</sub>(i) = fraction of N scores below Y case i, V<sub>01</sub>(j) = fraction of Y scores above N case j (ties ½);
+      Var(AUC) = s²(V<sub>10</sub>)/n<sub>Y</sub> + s²(V<sub>01</sub>)/n<sub>N</sub>. Computed in O(N log N) with one sort per class (equivalent to the mid-rank algorithm of Sun &amp; Xu, 2014).
+      The interval is formed on the logit scale, <code>logit(AUC) ± z·SE / (AUC(1−AUC))</code>, and mapped back, so it stays inside (0, 1).
+      If the sample AUC is exactly 0 or 1 the SE is 0 and the interval collapses to a point (shown as "degenerate").</p>
+      <h4>Bootstrap confidence interval</h4>
+      <p>Stratified: Y and N cases are resampled separately (so prevalence is fixed), B replicates, percentile interval.
+      Each replicate costs O(N): each class is sorted once, and each replicate only redraws multiplicity weights.</p>
+      <h4>Repeated experiments</h4>
+      <p>Each replicate draws a fresh sample and computes the AUC and its DeLong (and optionally bootstrap) CI. <b>Coverage</b> = share of CIs containing the true AUC
+      (± Monte-Carlo SE √(p(1−p)/R)). <b>Power vs chance</b> = share of CIs whose lower limit exceeds 0.5.
+      "Empirical SE" is the SD of the replicate AUCs, i.e. the quantity the DeLong SE tries to estimate from a single sample.</p>
+      <h4>Threshold metrics</h4>
+      <p>Ŷ = Y iff s ≥ t. Sensitivity = TP/(TP+FN), Specificity = TN/(TN+FP), PPV = TP/(TP+FP), NPV = TN/(TN+FN),
+      Youden J = Sens + Spec − 1. PPV and NPV depend on the prevalence n<sub>Y</sub>/(n<sub>Y</sub>+n<sub>N</sub>); the ROC and AUC don't.</p>
+    </div>
+  </details>
+</section>
+</div>
+</main>
+
+<footer>AUC Simulator · educational tool · simulated data only.</footer>
+
+<script src="js/stats.js"></script>
+<script src="js/scenarios.js"></script>
+<script src="js/handoff.js"></script>
+<script src="js/ui-common.js"></script>
+<script src="js/simulator.js"></script>
+</body>
+</html>

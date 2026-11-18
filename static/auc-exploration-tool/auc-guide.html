@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AUC Guide: a tutorial for the AUC Simulator and the Robustness Lab</title>
+<link rel="stylesheet" href="css/common.css">
+<link rel="stylesheet" href="css/guide.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="topline">
+      <h1>AUC Guide</h1>
+      <nav class="apps" aria-label="AUC apps">
+        <a href="auc-guide.html" aria-current="page">Guide</a>
+        <a href="auc-simulator.html">Simulator</a>
+        <a href="auc-robustness.html">Robustness lab</a>
+      </nav>
+    </div>
+    <p>A tutorial for the two AUC tools: what each panel shows, how to operate it, what to look for, and what you can
+    (and cannot) conclude from it. Written for students who know basic probability and statistics.</p>
+  </div>
+</header>
+
+<main class="wrap">
+<div class="guide-layout">
+
+<nav class="card toc" aria-label="Contents">
+  <h2>Contents</h2>
+  <ol>
+    <li><a href="#start">How to use this guide</a></li>
+    <li><a href="#primer">1. ROC curves and the AUC</a>
+      <ol>
+        <li><a href="#primer-roc">Scores, thresholds, ROC</a></li>
+        <li><a href="#primer-auc">The AUC as a probability</a></li>
+        <li><a href="#primer-pop">Population vs sample</a></li>
+        <li><a href="#primer-props">What the AUC ignores</a></li>
+        <li><a href="#primer-colours">Colour code</a></li>
+      </ol></li>
+    <li><a href="#sim">2. The Simulator</a>
+      <ol>
+        <li><a href="#sim-tour">A guided tour</a></li>
+        <li><a href="#sim-setup">Setting up an experiment</a></li>
+        <li><a href="#sim-hist">Score distributions</a></li>
+        <li><a href="#sim-roc">ROC curve</a></li>
+        <li><a href="#sim-kpis">Summary boxes and CIs</a></li>
+        <li><a href="#sim-boot">Bootstrap panel</a></li>
+        <li><a href="#sim-repeat">Repeating the experiment</a></li>
+        <li><a href="#sim-threshold">Threshold metrics, pair game</a></li>
+        <li><a href="#sim-scenarios">Guided scenarios</a></li>
+        <li><a href="#sim-ex">Exercises</a></li>
+      </ol></li>
+    <li><a href="#lab">3. The Robustness lab</a>
+      <ol>
+        <li><a href="#lab-theory">How one case moves the AUC</a></li>
+        <li><a href="#lab-tour">A guided tour</a></li>
+        <li><a href="#lab-data">Loading data</a></li>
+        <li><a href="#lab-strip">Observations plot</a></li>
+        <li><a href="#lab-inspector">Inspector</a></li>
+        <li><a href="#lab-staircase">ROC staircase</a></li>
+        <li><a href="#lab-edit">Editing and the log</a></li>
+        <li><a href="#lab-sens">Fragility, sensitivity curve</a></li>
+        <li><a href="#lab-table">The table</a></li>
+        <li><a href="#lab-examples">Worked examples</a></li>
+        <li><a href="#lab-practice">Good practice</a></li>
+        <li><a href="#lab-ex">Exercises</a></li>
+      </ol></li>
+    <li><a href="#both">4. Using the tools together</a></li>
+    <li><a href="#ref">5. Reference</a>
+      <ol>
+        <li><a href="#ref-formulas">Formulas</a></li>
+        <li><a href="#ref-glossary">Glossary</a></li>
+        <li><a href="#ref-reading">Further reading</a></li>
+      </ol></li>
+  </ol>
+</nav>
+
+<article class="doc">
+
+<!-- ================================================================== -->
+<section id="start">
+  <h2>How to use this guide</h2>
+  <p class="lead">There are two tools. The <b>Simulator</b> lets you invent a classifier by choosing the distribution of its
+  scores in each class, and then watch what the AUC does across many simulated studies. The <b>Robustness lab</b> takes one
+  concrete dataset (yours, or an example) and shows how much each single observation contributes to the AUC and to the
+  conclusion you draw from it.</p>
+  <p>Read <a href="#primer">Section 1</a> first if ROC curves are new to you, or skim it for the notation. Then work through the
+  Simulator (<a href="#sim">Section 2</a>) and the Robustness lab (<a href="#lab">Section 3</a>) with the tool open in another tab.
+  Green <b>Try it</b> boxes contain links that open the tool in exactly the state described; exercises have hidden answers
+  you can reveal. Screenshots show the tools with their default random seeds, so if you follow along without changing the
+  seed you should see the same numbers.</p>
+  <div class="box try"><span class="t">Try it</span>
+    <a class="launch" href="auc-simulator.html" target="_blank" rel="noopener">Open the Simulator ↗</a>
+    <a class="launch" href="auc-robustness.html" target="_blank" rel="noopener">Open the Robustness lab ↗</a>
+  </div>
+</section>
+
+<!-- ================================================================== -->
+<section id="primer">
+  <h2>1. ROC curves and the AUC in one page</h2>
+
+  <h3 id="primer-roc">Scores, thresholds and the ROC curve</h3>
+  <p>A binary classifier assigns each case a <b>score</b> <span class="m">s</span>. Cases belong to one of two classes, which these
+  tools call <b>Y</b> (positives: e.g. diseased, fraud, churn) and <b>N</b> (negatives). To make a decision we pick a
+  <b>threshold</b> <span class="m">t</span> and predict Y whenever <span class="m">s ≥ t</span>. Every threshold gives two error rates:</p>
+  <span class="formula">TPR(t) = P(S ≥ t | Y) = sensitivity &nbsp;&nbsp;&nbsp;&nbsp; FPR(t) = P(S ≥ t | N) = 1 − specificity</span>
+  <p>The <b>ROC curve</b> plots TPR against FPR as <span class="m">t</span> sweeps from +∞ (nobody is flagged: point (0, 0)) to −∞
+  (everybody is flagged: point (1, 1)). A useless score gives the diagonal; a perfect score goes straight up to (0, 1).
+  The two score distributions P(score | Y) and P(score | N) completely determine the ROC curve.</p>
+
+  <h3 id="primer-auc">The AUC is a probability</h3>
+  <p>The area under the ROC curve has a concrete meaning: pick one Y case and one N case at random; the AUC is the probability that the
+  Y case gets the higher score (ties count one half):</p>
+  <span class="formula">AUC = P(S<sub>Y</sub> &gt; S<sub>N</sub>) + ½ P(S<sub>Y</sub> = S<sub>N</sub>)</span>
+  <p>In a sample with <span class="m">n<sub>Y</sub></span> Y cases and <span class="m">n<sub>N</sub></span> N cases this becomes the
+  share of the <span class="m">n<sub>Y</sub> · n<sub>N</sub></span> pairs that are correctly ordered. This is the Mann–Whitney
+  statistic divided by <span class="m">n<sub>Y</sub>n<sub>N</sub></span>, and it is exactly the area under the sample ROC curve.</p>
+  <p>For the classic <b>binormal</b> model, S | Y ~ Normal(μ<sub>Y</sub>, σ<sub>Y</sub>²) and S | N ~ Normal(μ<sub>N</sub>, σ<sub>N</sub>²), there is a
+  closed form:</p>
+  <span class="formula">AUC = Φ( (μ<sub>Y</sub> − μ<sub>N</sub>) / √(σ<sub>Y</sub>² + σ<sub>N</sub>²) )</span>
+  <p>so with μ<sub>Y</sub> = 1, μ<sub>N</sub> = 0 and both SDs equal to 1, the AUC is Φ(1/√2) ≈ 0.760. What matters is the separation of the
+  classes <em>relative to their spread</em>.</p>
+
+  <h3 id="primer-pop">Population value vs. sample estimate</h3>
+  <p>Keep two quantities apart. The <b>true AUC</b> is a property of the two score distributions: a population parameter.
+  The <b>sample AUC</b> is what you compute from one finite study: an estimate with sampling error. Real studies only ever show
+  you the second. The Simulator shows both, because you choose the distributions; the Robustness lab works with a sample, just
+  as you do in practice.</p>
+
+  <h3 id="primer-props">What the AUC ignores</h3>
+  <ul>
+    <li><b>Only ranks matter.</b> Any strictly increasing transformation of the scores (log, cube, logistic…) leaves the AUC unchanged.
+      So the AUC says nothing about <em>calibration</em>, i.e. whether a score of 0.8 really means an 80% risk.</li>
+    <li><b>Prevalence is invisible.</b> TPR and FPR are computed within each class, so the ROC curve and the AUC don't change when
+      one class becomes rarer. Precision (PPV) does change, a lot.</li>
+    <li><b>It averages over all thresholds</b>, including thresholds nobody would use. Two classifiers with the same AUC can be very
+      different in the region of the ROC curve that matters for a given application.</li>
+    <li><b>It is an estimate.</b> With few cases in one class, a single study's AUC can be far from the truth, and a few
+      observations can carry a large share of the result.</li>
+  </ul>
+  <p>Each of these points has a scenario in the Simulator or an example in the lab that lets you see it happen.</p>
+
+  <h3 id="primer-colours">Colour code used by both tools</h3>
+  <div class="tablescroll"><table class="doc">
+    <tr><th>Colour</th><th>Meaning</th></tr>
+    <tr><td><span class="chip" style="background:#e8590c"></span>orange</td><td>Y cases (positives), and P(score | Y)</td></tr>
+    <tr><td><span class="chip" style="background:#1971c2"></span>blue</td><td>N cases (negatives), and P(score | N)</td></tr>
+    <tr><td><span class="chip line" style="border-color:#6741d9"></span>purple, solid</td><td>quantities computed from the sample (sample ROC, sample AUC)</td></tr>
+    <tr><td><span class="chip dash" style="border-color:#212529"></span>black, dashed</td><td>the truth (true ROC, true AUC): only known in simulations</td></tr>
+    <tr><td><span class="chip" style="background:#c2255c"></span>magenta</td><td>the decision threshold and its operating point on the ROC curve</td></tr>
+    <tr><td><span class="chip" style="background:#0c8599"></span>teal</td><td>DeLong confidence interval</td></tr>
+    <tr><td><span class="chip" style="background:#d0bfff"></span>light purple</td><td>bootstrap replicates and the bootstrap confidence interval</td></tr>
+  </table></div>
+</section>
+
+<!-- ================================================================== -->
+<section id="sim">
+  <h2>2. The Simulator</h2>
+  <p class="lead">The Simulator answers the question: <em>if the scores of my classifier behaved like this, what AUC would a study
+  see, how uncertain would it be, and what would the AUC fail to tell me?</em></p>
+
+  <h3 id="sim-tour">2.1 A guided tour</h3>
+  <figure class="shot">
+    <a href="docs/img/sim-overview.webp" target="_blank" title="Open full size"><img width="1372" height="1145" src="docs/img/sim-overview.webp" alt="The Simulator with its controls on the left and results on the right, with numbered callouts" loading="lazy"></a>
+    <figcaption><b>Figure 1.</b> The Simulator right after opening it (scenario “Textbook binormal”, seed 42).</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-overview">
+    <li><b>Scenario.</b> Ready-made experiments, each with a lesson. Choosing one sets all the controls below.</li>
+    <li><b>Y: positives.</b> The distribution P(score | Y): a family (Normal, Beta, Uniform, Gamma or a mixture of two normals), its
+      parameters (slider or typed value) and the number of Y cases n<sub>Y</sub>.</li>
+    <li><b>N: negatives.</b> The same for P(score | N). The dashed box underneath shows the <b>true AUC</b> implied by the two
+      distributions. It is recomputed instantly as you move any slider.</li>
+    <li><b>Experiment.</b> The random seed and <b>New sample ↻</b>; a link that opens this exact sample in the Robustness lab; an optional
+      score transform; the confidence level; and the number of bootstrap replicates.</li>
+    <li><b>Decision threshold.</b> The threshold <span class="m">t</span> used for the confusion matrix and the operating point. The
+      <b>Youden-optimal</b> button picks the threshold that maximises sensitivity + specificity − 1 in this sample.</li>
+    <li><b>Lesson.</b> What the current scenario is meant to show, and what to try.</li>
+    <li><b>Summary boxes.</b> True AUC, sample AUC, two confidence intervals and the metrics at the threshold (<a href="#sim-kpis">§2.5</a>).</li>
+    <li><b>Score distributions</b> of the sample, with the true densities (<a href="#sim-hist">§2.3</a>).</li>
+    <li><b>ROC curve</b> of the sample, with the true ROC curve (<a href="#sim-roc">§2.4</a>).</li>
+  </ol>
+  <p>Below these, the page continues with the bootstrap panel (<a href="#sim-boot">§2.6</a>), the repeated experiments
+  (<a href="#sim-repeat">§2.7</a>), the confusion matrix and the pair game (<a href="#sim-threshold">§2.8</a>), and a
+  <em>Methods &amp; formulas</em> section.</p>
+
+  <h3 id="sim-setup">2.2 Setting up an experiment</h3>
+  <p>An experiment is defined by two distributions and two sample sizes. Some guidance on the families:</p>
+  <ul>
+    <li><b>Normal</b>: the reference case. Unequal SDs already produce interesting, asymmetric ROC curves.</li>
+    <li><b>Beta</b>: scores confined to [0, 1], like predicted probabilities.</li>
+    <li><b>Gamma</b>: positive, right-skewed scores, like many lab measurements.</li>
+    <li><b>Uniform</b>: flat distributions with hard limits; useful for exact hand calculations.</li>
+    <li><b>Mixture of two normals</b>: a class made of two subgroups, for example a disease with a subtype the classifier can't see.</li>
+  </ul>
+  <p>The <b>seed</b> fixes the random numbers. While you move a parameter the seed stays the same, so the underlying random draws stay
+  the same too: the sample changes <em>only</em> because of the parameter. (Statisticians call this using <em>common random
+  numbers</em>.) Pressing <b>New sample ↻</b> draws new random numbers from the same distributions: that is the noise you would see
+  between two real studies.</p>
+  <div class="box key"><span class="t">Key idea</span>
+    <p>Slide a parameter and the sample AUC changes smoothly: that is the effect of the parameter. Press New sample and it jumps:
+    that is sampling variability. Telling these two apart is the whole point of the tool.</p></div>
+
+  <h3 id="sim-hist">2.3 Reading the score distributions</h3>
+  <figure class="shot narrow">
+    <a href="docs/img/sim-hist.webp" target="_blank" title="Open full size"><img width="611" height="501" src="docs/img/sim-hist.webp" alt="Histograms of the scores of Y and N cases with the true densities and the threshold" loading="lazy"></a>
+    <figcaption><b>Figure 2.</b> Score distributions of the 500 Y and 500 N cases of the textbook scenario.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-hist">
+    <li><b>density / counts.</b> In <em>density</em> mode each class is scaled to area 1, which compares shapes. In <em>counts</em>
+      mode you see the actual numbers of cases, which is how you notice class imbalance.</li>
+    <li><b>The threshold.</b> Drag the line (or its handle) left and right. Everything to its right is predicted Y.</li>
+    <li><b>True densities.</b> The smooth curves are the distributions you chose; the step outlines are the sample. The gap between
+      them is sampling noise.</li>
+    <li><b>Sample histograms</b> of the Y scores (orange) and N scores (blue).</li>
+    <li><b>Predicted Y region</b> (lightly shaded). Y cases in it are true positives; N cases in it are false positives.</li>
+  </ol>
+  <p><b>What to look at.</b> The overlap of the two distributions is what limits classification: in the overlap region no threshold
+  can separate the classes. The AUC is a summary of the overlap, but not of its shape: a long left tail of the Y scores and a
+  long right tail of the N scores can give the same AUC with very different consequences. When you move the threshold, watch the
+  operating point move on the ROC curve at the same time.</p>
+
+  <h3 id="sim-roc">2.4 Reading the ROC curve</h3>
+  <figure class="shot xnarrow">
+    <a href="docs/img/sim-roc.webp" target="_blank" title="Open full size"><img width="464" height="501" src="docs/img/sim-roc.webp" alt="ROC curve of the sample with the true ROC curve and the operating point" loading="lazy"></a>
+    <figcaption><b>Figure 3.</b> Sample ROC curve (purple) and true ROC curve (black dashed).</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-roc">
+    <li><b>Operating point:</b> (FPR, TPR) at the current threshold, with dotted guides to the axes. Click anywhere near the curve to move
+      the threshold to that point.</li>
+    <li><b>Sample ROC.</b> A staircase: every Y case is a step up of 1/n<sub>Y</sub>, every N case a step right of 1/n<sub>N</sub>. The shaded
+      area under it is the sample AUC.</li>
+    <li><b>True ROC</b>, computed from the distributions. The sample curve fluctuates around it.</li>
+    <li><b>Chance diagonal.</b> A score unrelated to the class has a ROC curve near this line and an AUC near 0.5.</li>
+    <li><b>Sample AUC and true AUC</b>, as numbers.</li>
+    <li><b>Pin true ROC</b> keeps the current true ROC curve on the plot (dashed, coloured) so you can compare it with other settings;
+      <b>Clear pins</b> removes them.</li>
+  </ol>
+  <p><b>What to look at.</b> The shape. A curve that rises steeply at the left is good at low false-positive rates (screening with few
+  false alarms); a curve that is good only in the top-right corner is good at catching almost all Y cases at the price of many
+  false alarms. The AUC weights all parts of the curve equally. After you run repeated experiments (<a href="#sim-repeat">§2.7</a>),
+  faint purple curves show the ROC curves of other simulated studies (Figure 7).</p>
+
+  <h3 id="sim-kpis">2.5 The summary boxes and the two confidence intervals</h3>
+  <figure class="shot">
+    <a href="docs/img/sim-kpis.webp" target="_blank" title="Open full size"><img width="1046" height="169" src="docs/img/sim-kpis.webp" alt="Five summary boxes" loading="lazy"></a>
+    <figcaption><b>Figure 4.</b> Summary boxes for the textbook scenario.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-kpis">
+    <li><b>True AUC</b> of the chosen distributions.</li>
+    <li><b>Sample AUC</b> and its error, also expressed in standard errors (SE). An error of 0.2 SE is unremarkable; 2 SE or more
+      happens in roughly 1 study in 20.</li>
+    <li><b>DeLong CI.</b> An analytic interval based on the DeLong variance estimate, built on the logit scale so that it stays inside (0, 1).</li>
+    <li><b>Bootstrap CI.</b> A resampling interval (<a href="#sim-boot">§2.6</a>); its progress is shown while it is being computed.</li>
+    <li><b>At threshold t.</b> Sensitivity, specificity, PPV and Youden's J at the current threshold.</li>
+  </ol>
+  <p>The ✓ / ✗ under each interval says whether it contains the true AUC. In a real study you never get to see this mark: a 95%
+  interval is a procedure that is right in about 95% of studies, and you don't know whether yours is one of them.
+  <a href="#sim-repeat">§2.7</a> lets you check the “95%”.</p>
+
+  <h3 id="sim-boot">2.6 The bootstrap panel</h3>
+  <figure class="shot">
+    <a href="docs/img/sim-bootstrap.webp" target="_blank" title="Open full size"><img width="1046" height="390" src="docs/img/sim-bootstrap.webp" alt="Histogram of bootstrap AUCs with the bootstrap and DeLong intervals" loading="lazy"></a>
+    <figcaption><b>Figure 5.</b> 1000 bootstrap AUCs for the textbook sample.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-bootstrap">
+    <li><b>DeLong CI</b> (teal bar).</li>
+    <li><b>Bootstrap percentile CI:</b> the shaded band between the 2.5% and 97.5% quantiles of the bootstrap AUCs.</li>
+    <li><b>Sample AUC</b> (purple line).</li>
+    <li><b>True AUC</b> (dashed line).</li>
+    <li>The bootstrap SD compared with the DeLong SE.</li>
+  </ol>
+  <p>The bootstrap imitates “drawing a new study” by resampling <em>this</em> study: it draws n<sub>Y</sub> Y cases and n<sub>N</sub> N cases with
+  replacement (each class separately, so the class sizes stay fixed) and recomputes the AUC, B times. Two things to notice:</p>
+  <ul>
+    <li>The bootstrap SD and the DeLong SE are two estimates of the same standard error. With 500 cases per class they agree closely
+      (0.0147 vs 0.0149 here); with small classes they can differ.</li>
+    <li>The bootstrap distribution is centred on the <em>sample</em> AUC, not on the truth. Resampling can't tell you where the truth
+      is; it can only estimate how much the AUC would wobble.</li>
+  </ul>
+
+  <h3 id="sim-repeat">2.7 Repeating the experiment</h3>
+  <p>This is the most important panel for understanding uncertainty. It reruns the same study R times (same distributions, same
+  sample sizes, new random numbers) and records every study's AUC and confidence interval.</p>
+  <figure class="shot">
+    <a href="docs/img/sim-repeat.webp" target="_blank" title="Open full size"><img width="1046" height="709" src="docs/img/sim-repeat.webp" alt="Results of 500 repeated small studies" loading="lazy"></a>
+    <figcaption><b>Figure 6.</b> 500 repetitions of the “Small study” scenario (15 Y and 15 N cases, true AUC 0.760), with bootstrap CIs.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-repeat">
+    <li><b>Controls:</b> the number of studies R, and whether to compute bootstrap CIs too (slower). The run shows its progress and can be cancelled.</li>
+    <li><b>Sampling distribution of the AUC:</b> one bar per bin of study results, the true AUC (dashed) and your current sample (purple).
+      The shaded band holds the middle 95% of the studies.</li>
+    <li><b>The first 100 confidence intervals</b>, one vertical segment per study. Intervals that miss the true AUC (horizontal dashed
+      line) are red.</li>
+    <li><b>Middle 95% of study AUCs:</b> the range of results a single study of this size could plausibly report.</li>
+    <li><b>Empirical SE vs DeLong SE:</b> the real study-to-study SD of the AUC, next to the average SE that DeLong's formula estimates
+      from one study. If they agree, the formula is doing its job.</li>
+    <li><b>DeLong coverage:</b> the share of intervals that contain the true AUC, with its Monte-Carlo standard error. It should be
+      close to the nominal level (green); a clear shortfall is shown in red.</li>
+    <li><b>Bootstrap coverage:</b> the same for the bootstrap intervals.</li>
+    <li><b>Power vs chance:</b> the share of studies whose interval lies entirely above 0.5, i.e. that would conclude “better than chance”.</li>
+  </ol>
+  <p>With 15 cases per class, single studies ranged from 0.58 to 0.91 (middle 95%), while the truth is 0.76. The intervals are wide
+  (0.34 on average) and DeLong's covered the truth in 96% of studies. 30% of these studies would not even have shown that a
+  classifier with a true AUC of 0.76 beats chance.</p>
+  <figure class="shot xnarrow">
+    <a href="docs/img/sim-replicate-rocs.webp" target="_blank" title="Open full size"><img width="464" height="531" src="docs/img/sim-replicate-rocs.webp" alt="ROC curve with faint replicate ROC curves" loading="lazy"></a>
+    <figcaption><b>Figure 7.</b> After repeated experiments the ROC plot shows up to 60 replicate ROC curves (faint purple):
+      the spread of the curves is the uncertainty of the ROC curve itself.</figcaption>
+  </figure>
+  <div class="box key"><span class="t">Key idea</span>
+    <p>A confidence level is a property of the procedure, not of one interval. “95%” means: if the study were repeated many
+    times, about 95% of the intervals would contain the true AUC. The repeated-experiment panel lets you count.</p></div>
+  <p>Changing any setting of the experiment clears these results, because they no longer describe the current experiment.</p>
+
+  <h3 id="sim-threshold">2.8 Threshold metrics and the pair game</h3>
+  <figure class="shot">
+    <a href="docs/img/sim-confusion-pair.webp" target="_blank" title="Open full size"><img width="1046" height="332" src="docs/img/sim-confusion-pair.webp" alt="Confusion matrix and pair game" loading="lazy"></a>
+    <figcaption><b>Figure 8.</b> Confusion matrix at the current threshold, and the pair game after 101 pairs.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-confusion-pair">
+    <li><b>Confusion matrix</b> at threshold t: true positives, false negatives, false positives and true negatives.</li>
+    <li><b>Metrics</b> derived from it. Sensitivity, specificity and FPR are computed within each class; PPV, NPV and accuracy mix the
+      classes and therefore depend on the prevalence.</li>
+    <li>The same information in words.</li>
+    <li><b>Pair game:</b> draw random (Y, N) pairs from the sample, one or many at a time.</li>
+    <li>The running share of pairs won by the Y case, next to the sample AUC it converges to.</li>
+  </ol>
+  <p>The last drawn pair is marked on the histogram, so you can see which two scores were compared:</p>
+  <figure class="shot narrow">
+    <a href="docs/img/sim-pair-markers.webp" target="_blank" title="Open full size"><img width="611" height="501" src="docs/img/sim-pair-markers.webp" alt="Histogram with the last drawn pair marked" loading="lazy"></a>
+    <figcaption><b>Figure 9.</b> The last pair of the game: the Y case’s score and the N case’s score.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="sim-pair-markers">
+    <li>The Y case of the last pair.</li>
+    <li>The N case of the last pair. Here the N case scored higher, so the Y case lost this pair.</li>
+  </ol>
+
+  <h3 id="sim-scenarios">2.9 The guided scenarios</h3>
+  <p>Each scenario is a small experiment about one property of the AUC. Open it, read the lesson box, then do what it suggests.</p>
+  <div class="tablescroll"><table class="doc">
+    <tr><th>Scenario</th><th>Setting</th><th>What it shows</th><th></th></tr>
+    <tr><td>Textbook binormal</td><td>N(1, 1) vs N(0, 1), 500 + 500</td><td>the basic picture: truth vs sample</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=textbook" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Same AUC, different classifier</td><td>N(1.90, 2.5²) vs N(0, 1)</td><td>the same AUC with a different ROC shape</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=unequal" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Hidden subgroup</td><td>46% of Y look like N</td><td>the same AUC, but part of the Y class is undetectable</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=subgroup" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Rare positives</td><td>50 Y vs 5,000 N</td><td>the AUC ignores prevalence; PPV doesn't</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=rare" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Small study</td><td>15 + 15 cases</td><td>sampling variability and CI coverage</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=small" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Barely better than chance</td><td>true AUC 0.528</td><td>power, and “significant” vs useful</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=chance" target="_blank" rel="noopener">open ↗</a></td></tr>
+    <tr><td>Only the ranking matters</td><td>Beta scores + transforms</td><td>rank invariance; calibration is invisible</td>
+      <td><a class="launch" href="auc-simulator.html#scenario=ranks" target="_blank" rel="noopener">open ↗</a></td></tr>
+  </table></div>
+
+  <h4>Same AUC, different classifier</h4>
+  <figure class="shot">
+    <a href="docs/img/sim-unequal.webp" target="_blank" title="Open full size"><img width="1046" height="519" src="docs/img/sim-unequal.webp" alt="Unequal variances: histogram and ROC curve with the textbook ROC pinned" loading="lazy"></a>
+    <figcaption><b>Figure 10.</b> Y ~ N(1.90, 2.5²) vs N ~ N(0, 1). The true AUC is 0.760, like the textbook case pinned in green.</figcaption>
+  </figure>
+  <p>The wide Y distribution has cases far above every N case (so the curve rises steeply at the left: at FPR = 1% the TPR is about 43%,
+  against about 9% for the textbook classifier) and cases far below every N case (so in the top-right corner the curve falls
+  below the diagonal). The two classifiers have the same AUC but suit very different purposes.</p>
+
+  <h4>Hidden subgroup</h4>
+  <figure class="shot">
+    <a href="docs/img/sim-subgroup.webp" target="_blank" title="Open full size"><img width="1046" height="519" src="docs/img/sim-subgroup.webp" alt="Hidden subgroup: bimodal Y distribution and its ROC curve" loading="lazy"></a>
+    <figcaption><b>Figure 11.</b> 46% of the Y cases score like N cases; the rest score around 3. AUC 0.761.</figcaption>
+  </figure>
+  <p>The ROC curve climbs steeply to a TPR of about 0.54 and then runs parallel to the diagonal: the easy Y cases are found at once,
+  and the hidden subgroup can't be found by any threshold. The single AUC number gives no hint of this.</p>
+
+  <h4>Rare positives</h4>
+  <div class="figrow">
+    <figure class="shot">
+      <a href="docs/img/sim-rare.webp" target="_blank" title="Open full size"><img width="1046" height="641" src="docs/img/sim-rare.webp" alt="Rare positives: summary boxes, histogram in counts, ROC curve" loading="lazy"></a>
+      <figcaption><b>Figure 12.</b> 50 Y vs 5,000 N (prevalence 1%), histogram in counts mode: the Y cases are barely visible.</figcaption>
+    </figure>
+    <figure class="shot">
+      <a href="docs/img/sim-rare-cm.webp" target="_blank" title="Open full size"><img width="611" height="332" src="docs/img/sim-rare-cm.webp" alt="Confusion matrix with low PPV" loading="lazy"></a>
+      <figcaption><b>Figure 13.</b> The confusion matrix at the Youden threshold: 1,008 cases are flagged, and only 43 of them (4%) are Y cases.</figcaption>
+    </figure>
+  </div>
+  <p>The AUC (about 0.9) describes how well the score separates the classes; it doesn't tell you what a positive prediction is
+  worth. With a prevalence of 1% even a good sensitivity and specificity leave most flagged cases as false alarms. The confidence
+  interval is also wider than the total of 5,050 cases suggests: its width is driven by the 50 Y cases.</p>
+
+  <h4>Only the ranking matters</h4>
+  <figure class="shot">
+    <a href="docs/img/sim-transform.webp" target="_blank" title="Open full size"><img width="1046" height="641" src="docs/img/sim-transform.webp" alt="Scores after a logistic transform: distorted histogram, unchanged AUC" loading="lazy"></a>
+    <figcaption><b>Figure 14.</b> Beta(4, 2) vs Beta(2, 4) scores after the transform 1/(1 + e<sup>−s</sup>): every “probability” now lies
+      between 0.50 and 0.73, yet the AUC and ROC curve are exactly those of the untransformed scores.</figcaption>
+  </figure>
+  <p>A transform that keeps the order of the scores keeps every pairwise comparison, hence the AUC. Calibration (whether the score values
+  mean what they claim) needs other tools, such as calibration plots or the Brier score. The transform −s reverses every comparison
+  and gives 1 − AUC.</p>
+
+  <h4>Barely better than chance</h4>
+  <figure class="shot">
+    <a href="docs/img/sim-chance-reps.webp" target="_blank" title="Open full size"><img width="1046" height="709" src="docs/img/sim-chance-reps.webp" alt="Repeated experiments for a model with true AUC 0.528" loading="lazy"></a>
+    <figcaption><b>Figure 15.</b> 500 studies with 100 cases per class and a true AUC of 0.528.</figcaption>
+  </figure>
+  <p>Only about 1 study in 11 concludes “better than chance”, and some studies even find an AUC below 0.5. With thousands of cases per
+  class (try it) almost every study becomes “significant”, although the classifier is nearly useless. Statistical significance
+  answers “is the AUC above 0.5?”, not “is the classifier good enough?”.</p>
+
+  <h3 id="sim-ex">2.10 Exercises</h3>
+  <div class="exercise"><span class="t">Exercise S1: predict, then check.</span>
+    <p>Y ~ N(2, 1) and N ~ N(0, 1). Compute the true AUC by hand. Then double both SDs to 2: what happens? Check both in the Simulator.</p>
+    <details><summary>Answer</summary>
+      <p>Φ(2/√2) = Φ(1.41) ≈ 0.921. With both SDs equal to 2: Φ(2/√8) = Φ(0.71) ≈ 0.760. The same shift of the mean is worth much less
+      when the scores are noisier: the AUC depends on separation relative to spread.</p></details></div>
+  <div class="exercise"><span class="t">Exercise S2: parameter effect or noise?</span>
+    <p>In the textbook scenario, slowly move the Y mean from 1.0 to 1.2. Note the sample AUC at each step. Then go back to 1.0 and press
+    New sample ↻ five times. Which changes are larger, and why does the first series change so smoothly?</p>
+    <details><summary>Answer</summary>
+      <p>Moving the mean to 1.2 raises the true AUC from 0.760 to Φ(1.2/√2) ≈ 0.802, and the sample AUC follows smoothly because the
+      seed, and hence the underlying random numbers, don't change. New samples move the AUC by roughly ±0.015 (one SE with 500 per
+      class) at random. Small parameter changes can be smaller than the study-to-study noise.</p></details></div>
+  <div class="exercise"><span class="t">Exercise S3: how big must a study be?</span>
+    <p>In the textbook scenario, run 500 experiments with 500 cases per class and note the middle-95% range of the AUC. How many cases per
+    class would you need for that range to be about 0.10 wide? Check your guess.</p>
+    <details><summary>Answer</summary>
+      <p>With 500 per class the SE is about 0.015, so the range is about 4 × 0.015 = 0.06 wide. The SE shrinks like 1/√n, so a width of
+      0.10 (SE ≈ 0.025) needs about 500 × (0.015/0.025)² ≈ 180 cases per class. (In unbalanced designs, the smaller class matters most.)</p></details></div>
+  <div class="exercise"><span class="t">Exercise S4: build your own “same AUC”.</span>
+    <p>Keep N ~ N(0, 1) and give the Y class an SD of 2. Which Y mean gives the textbook AUC of 0.760? Pin both ROC curves. Where do they cross?</p>
+    <details><summary>Answer</summary>
+      <p>You need (μ<sub>Y</sub> − 0)/√(2² + 1) = 1/√2, so μ<sub>Y</sub> = √5/√2 ≈ 1.58. The wider curve is better at low FPR and worse at high
+      FPR; the curves cross once, at FPR ≈ 0.34.</p></details></div>
+  <div class="exercise"><span class="t">Exercise S5: PPV by hand.</span>
+    <p>A test has sensitivity 0.80 and specificity 0.90. What is its PPV at a prevalence of 1%? And at 50%? Check with the Rare positives scenario
+    (move the threshold until sensitivity ≈ 0.80).</p>
+    <details><summary>Answer</summary>
+      <p>PPV = sens·π / (sens·π + (1 − spec)(1 − π)). At π = 0.01: 0.008 / (0.008 + 0.099) ≈ 0.075. At π = 0.5: 0.40 / 0.45 ≈ 0.89. The ROC
+      curve and the AUC are the same in both cases.</p></details></div>
+  <div class="exercise"><span class="t">Exercise S6: coverage with small samples.</span>
+    <p>Open the Small study scenario and tick “also bootstrap CIs”. Run 500 experiments. Compare the two coverages with the nominal 95%.
+    Then set n<sub>Y</sub> = 8 and n<sub>N</sub> = 8, and a Y mean of 2 (a true AUC of 0.92). What happens to the coverage, and why?</p>
+    <details><summary>Answer</summary>
+      <p>With 15 per class both methods are close to 95%. With 8 per class and a true AUC of 0.92, about one sample in six reaches an
+      AUC of exactly 1 (perfect separation). Its DeLong SE is 0 and its interval collapses to the point 1 (shown as “degenerate”), which
+      can't contain the true 0.92; the bootstrap has the same problem. Coverage drops to around 80%. Large-sample intervals are least
+      reliable exactly where small studies tend to land: near the boundary.</p></details></div>
+  <div class="exercise"><span class="t">Exercise S7: how noisy is the pair game?</span>
+    <p>After 100 pairs in the pair game, how far from the sample AUC can the running share reasonably be?</p>
+    <details><summary>Answer</summary>
+      <p>Each pair is a Bernoulli trial with p ≈ AUC. With p = 0.76 the SE after 100 pairs is √(0.76 × 0.24/100) ≈ 0.043, so ±0.08 is
+      typical at 95%. The sample AUC uses all n<sub>Y</sub>·n<sub>N</sub> pairs, which is why it is far more precise than a few random pairs.</p></details></div>
+</section>
+
+<!-- ================================================================== -->
+<section id="lab">
+  <h2>3. The Robustness lab</h2>
+  <p class="lead">The Robustness lab answers a practical worry: <em>“some of my observations look dubious. How much does my AUC, and my
+  conclusion, depend on them?”</em> It shows the exact effect of every single observation, lets you move, remove or relabel cases,
+  and compares your edits with what the most influential edits could do.</p>
+
+  <h3 id="lab-theory">3.1 How one case moves the AUC</h3>
+  <p>Give each case a <b>placement value</b> V: for a Y case, the share of N cases scored below it; for an N case, the share of Y cases
+  scored above it (ties count ½). V is the share of the other class that the case is correctly ordered against. The AUC is the average
+  placement value within either class. Three consequences follow, and everything in the lab builds on them:</p>
+  <ol>
+    <li><b>Removing a case</b> changes the AUC by exactly
+      <span class="formula">ΔAUC = (AUC − V) / (n − 1)</span>
+      where n is the size of the case's own class. A badly ranked case (V much lower than the AUC) pulls the AUC down; removing it raises the AUC.</li>
+    <li><b>Leverage is set by class size.</b> Moving one case's score from the bottom to the top of the ranking changes the AUC by
+      exactly 1/n. With 15 Y cases and 400 N cases, one Y case can move the AUC by up to 0.067, one N case by at most 0.0025.
+      <b>In unbalanced data the small class carries the fragility.</b></li>
+    <li><b>The same placement values give the DeLong standard error</b> (their variance within each class). So the lab can also say
+      exactly how the confidence interval, and therefore the conclusion, would change if a case were removed.</li>
+  </ol>
+  <div class="box key"><span class="t">Key idea</span>
+    <p>An observation is influential because of where it sits in the ranking <em>and</em> how small its class is, not because it
+    looks odd on a plot. A visually extreme case in a large class can matter less than an unremarkable case in a small class.</p></div>
+
+  <h3 id="lab-tour">3.2 A guided tour</h3>
+  <figure class="shot">
+    <a href="docs/img/rob-overview.webp" target="_blank" title="Open full size"><img width="1372" height="748" src="docs/img/rob-overview.webp" alt="The Robustness lab with numbered callouts" loading="lazy"></a>
+    <figcaption><b>Figure 16.</b> The Robustness lab with the example “Biomarker study: one surprising patient” (20 Y, 60 N).</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-overview">
+    <li><b>Data:</b> choose an example, upload a CSV, or paste data (<a href="#lab-data">§3.3</a>).</li>
+    <li><b>Conclusion to test:</b> the claim whose robustness you are checking, “the lower CI limit is above c₀”, and the CI level.
+      c₀ = 0.5 tests “better than chance”; use e.g. 0.75 to test “the AUC is at least 0.75”.</li>
+    <li><b>Selected case:</b> the inspector (<a href="#lab-inspector">§3.5</a>). Until you select a case, it points to the case with the largest effect.</li>
+    <li><b>About this dataset:</b> the story of the example and what to try.</li>
+    <li><b>Summary boxes:</b> original AUC, current AUC, whether the conclusion holds, fragility, and your edits.</li>
+    <li><b>Observations plot</b> (<a href="#lab-strip">§3.4</a>).</li>
+    <li><b>Undo</b> the last edit or <b>Reset all</b> edits.</li>
+  </ol>
+  <p>Further down: the ROC staircase, the sensitivity curve, a table of all observations, the edit log, and <em>Methods &amp;
+  formulas</em>.</p>
+
+  <h3 id="lab-data">3.3 Loading data</h3>
+  <p>The examples are a good place to start. To analyse your own data, prepare a table with one row per case and at least a score
+  column and a label column, for example:</p>
+<pre><code>id,label,score
+P001,Y,0.91
+P002,N,0.35
+P003,N,0.62
+…</code></pre>
+  <p>Upload it as a file or paste it into the text box. The lab detects the separator (comma, semicolon, tab, | or spaces), a header
+  row, quoted fields and decimal commas (<code>0,83</code>), and guesses the columns; you can correct every guess.</p>
+  <figure class="shot xnarrow">
+    <a href="docs/img/rob-upload.webp" target="_blank" title="Open full size"><img width="352" height="372" src="docs/img/rob-upload.webp" alt="Data panel after uploading a semicolon-separated file" loading="lazy"></a>
+    <figcaption><b>Figure 17.</b> A semicolon-separated file with decimal commas and columns <code>patient;diagnosis;marker</code>.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-upload">
+    <li><b>Upload CSV… / Paste data…</b></li>
+    <li><b>Column mapping:</b> which column holds the score, which the label, which label value means Y (all other values count as N),
+      and an optional ID column. Changing the mapping reloads the data and clears your edits.</li>
+    <li><b>Data summary:</b> class sizes, prevalence, and rows dropped because of a missing label or score.</li>
+    <li><b>Higher score means Y.</b> Untick it if low scores indicate Y (for instance, a marker that drops in disease). The lab also
+      warns you when the AUC comes out below 0.5, which often means this box is set the wrong way.</li>
+  </ol>
+  <p>Nothing is uploaded to a server: all computations run in your browser.</p>
+
+  <h3 id="lab-strip">3.4 The observations plot</h3>
+  <figure class="shot">
+    <a href="docs/img/rob-strip.webp" target="_blank" title="Open full size"><img width="1046" height="464" src="docs/img/rob-strip.webp" alt="Strip plot of all observations, with Y07 selected" loading="lazy"></a>
+    <figcaption><b>Figure 18.</b> Every case is a dot at its score, in its class row. Y07 is selected.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-strip">
+    <li><b>Y07:</b> a Y case scored below almost every N case. It is the largest dot: removing it would change the AUC more than removing
+      any other case. The black outline marks cases whose removal moves the AUC by at least ½ SE, or would change the conclusion.</li>
+    <li><b>The N cases with the largest effect</b> are those scored highest: they outrank many Y cases. They are still small dots,
+      because each N case is only 1 of 60.</li>
+    <li><b>Row labels</b> with the current class sizes.</li>
+    <li><b>Legend.</b> Excluded cases become hollow dashed circles, and edited cases leave a grey ghost at their original position.</li>
+    <li><b>How to interact:</b> click a dot to inspect it; drag it sideways to change its score; keyboard shortcuts for the selected case.</li>
+  </ol>
+  <p>Dot size shows the <em>size</em> of a case's effect, not its direction. The direction is in the inspector and the table. In a class with more than
+  300 cases the lab draws the class as a density band and shows only its 40 most influential cases as dots (see
+  <a href="#lab-examples">§3.10</a>, Figure 28).</p>
+
+  <h3 id="lab-inspector">3.5 The inspector</h3>
+  <figure class="shot xnarrow">
+    <a href="docs/img/rob-inspector.webp" target="_blank" title="Open full size"><img width="352" height="501" src="docs/img/rob-inspector.webp" alt="Inspector panel for case Y07" loading="lazy"></a>
+    <figcaption><b>Figure 19.</b> The inspector for Y07.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-inspector">
+    <li><b>Score:</b> type a new value to move the case (the same as dragging it).</li>
+    <li><b>Placement:</b> Y07 is correctly ordered against only 2% of the N cases.</li>
+    <li><b>If removed:</b> the AUC would go from 0.808 to 0.850, +0.042 or +0.71 SE. The lower CI limit would rise from 0.667 to 0.743,
+      and the conclusion (“lower limit &gt; 0.5”) would still hold.</li>
+    <li><b>If its label were flipped</b> (Y07 treated as an N case): AUC 0.852.</li>
+    <li><b>If its score could be anywhere:</b> the AUC could range from 0.807 to 0.857. The span is 1/20, set by the size of class Y,
+      whatever the case.</li>
+    <li><b>Actions:</b> Exclude/Include (<kbd>Del</kbd>), Flip label (<kbd>F</kbd>), Restore (<kbd>R</kbd>).</li>
+  </ol>
+  <p>Check line 3 with the formula of <a href="#lab-theory">§3.1</a>: (AUC − V)/(n<sub>Y</sub> − 1) = (0.808 − 0.017)/19 ≈ 0.042.</p>
+
+  <h3 id="lab-staircase">3.6 The ROC staircase</h3>
+  <figure class="shot xnarrow">
+    <a href="docs/img/rob-staircase.webp" target="_blank" title="Open full size"><img width="538" height="620" src="docs/img/rob-staircase.webp" alt="ROC staircase with the step of Y07 highlighted" loading="lazy"></a>
+    <figcaption><b>Figure 20.</b> The ROC curve drawn case by case, with Y07's step highlighted.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-staircase">
+    <li><b>Y07's step.</b> Each Y case is an orange vertical step of 1/n<sub>Y</sub>, each N case a blue horizontal step of 1/n<sub>N</sub>; tied Y and N
+      cases form a purple diagonal. Y07 has the second-lowest score of all the cases, so its step comes almost at the end,
+      at the right edge.</li>
+    <li><b>Current and original AUC.</b> After edits, the original ROC curve stays visible in grey.</li>
+  </ol>
+  <p>The picture explains the leverage rule: a late vertical step adds little area, and moving it earlier would add a whole
+  column of height 1/n<sub>Y</sub>. Click any step to select its case.</p>
+
+  <h3 id="lab-edit">3.7 Editing, and keeping track</h3>
+  <p>There are three kinds of edit, and each is fully reversible:</p>
+  <ul>
+    <li><b>Exclude</b> a case (<kbd>Del</kbd>, or the button): the case stays on the plot as a hollow circle but no longer counts.</li>
+    <li><b>Flip</b> its label (<kbd>F</kbd>): treat a Y case as N, or vice versa, as if it had been mislabelled.</li>
+    <li><b>Move</b> it (drag, or type a score): as if its score had been measured wrongly.</li>
+  </ul>
+  <figure class="shot">
+    <a href="docs/img/rob-after-exclude.webp" target="_blank" title="Open full size"><img width="1046" height="604" src="docs/img/rob-after-exclude.webp" alt="Summary boxes and plot after excluding Y07" loading="lazy"></a>
+    <figcaption><b>Figure 21.</b> After excluding Y07.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-after-exclude">
+    <li><b>Current AUC</b> and its difference from the original.</li>
+    <li><b>Conclusion</b> now vs. originally, with both lower limits.</li>
+    <li><b>Your edits</b>, counted by type.</li>
+    <li><b>Y07</b>, excluded: a hollow dashed circle at its position.</li>
+  </ol>
+  <p>Every edit is recorded in the <b>edit log</b> with the AUC and lower CI limit before and after, and can be undone
+  (<kbd>Ctrl</kbd>+<kbd>Z</kbd>). You can export the log, and download the edited data with each case's effects, for a report.</p>
+  <figure class="shot">
+    <a href="docs/img/rob-log.webp" target="_blank" title="Open full size"><img width="1046" height="176" src="docs/img/rob-log.webp" alt="Edit log with three edits" loading="lazy"></a>
+    <figcaption><b>Figure 22.</b> The edit log after excluding Y07, flipping N40 and moving Y14.</figcaption>
+  </figure>
+  <figure class="shot">
+    <a href="docs/img/rob-edited-strip.webp" target="_blank" title="Open full size"><img width="1046" height="464" src="docs/img/rob-edited-strip.webp" alt="Observations plot after three edits" loading="lazy"></a>
+    <figcaption><b>Figure 23.</b> The same three edits on the plot: N40 now sits in the Y row, with a dashed line back to its original
+      position; Y14 has moved right; Y07 is hollow.</figcaption>
+  </figure>
+
+  <h3 id="lab-sens">3.8 Conclusion, fragility and the sensitivity curve</h3>
+  <p>Looking at cases one by one can be misleading: there is always a “most influential” case. The sensitivity curve puts your
+  edits in context. Starting from the <em>original</em> data, it removes cases one at a time, each time choosing the removal that
+  lowers the lower CI limit the most (red: <b>most damaging</b>) or raises it the most (green: <b>most flattering</b>).</p>
+  <figure class="shot narrow">
+    <a href="docs/img/rob-sensitivity.webp" target="_blank" title="Open full size"><img width="538" height="644" src="docs/img/rob-sensitivity.webp" alt="Sensitivity curve with red and green paths and the user's edit" loading="lazy"></a>
+    <figcaption><b>Figure 24.</b> Sensitivity curve for the biomarker example after excluding Y07.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-sensitivity">
+    <li><b>Most damaging removals:</b> the AUC (solid) and its lower CI limit (dashed) as k = 1, 2, 3… cases are removed.</li>
+    <li><b>Most flattering removals.</b> The grey band between the paths is everything that removing k cases could do to the AUC.</li>
+    <li><b>You:</b> your own edits (filled dot: AUC; hollow dot: lower limit), placed at k = the number of cases you edited.</li>
+    <li><b>The conclusion threshold</b> c₀.</li>
+    <li><b>Fragility:</b> the number of removals after which the conclusion changes, here 9.</li>
+    <li><b>Allow label flips:</b> let the search also flip labels.</li>
+    <li>The removal sequences (click a case to select it), and a comparison of your edits with the best possible ones.</li>
+  </ol>
+  <p>Here the “you” dot lies exactly on the green path: excluding Y07 is the most flattering single removal there is. The lab
+  says so in red. That doesn't prove the exclusion is wrong; it means it needs a justification that is independent of its effect on
+  the AUC (a documented lab error, for example).</p>
+  <p><b>Fragility</b> is also shown in the summary boxes. If the conclusion holds, it is the number of removals that would break it; if
+  it fails, it is the number that would create it. This second reading is a warning about cherry-picking. The search is greedy: it
+  finds a set of k edits that works, so the true minimum can only be smaller. Read “k removals break it” as “at most k”.</p>
+  <figure class="shot narrow">
+    <a href="docs/img/rob-fragile.webp" target="_blank" title="Open full size"><img width="1046" height="1194" src="docs/img/rob-fragile.webp" alt="Fragile example: summary boxes and sensitivity curve" loading="lazy"></a>
+    <figcaption><b>Figure 25.</b> The “Fragile conclusion” example (12 Y, 30 N): AUC 0.76 and a “significant” result that 2 removals overturn.</figcaption>
+  </figure>
+
+  <h3 id="lab-table">3.9 The table of all observations</h3>
+  <figure class="shot">
+    <a href="docs/img/rob-table.webp" target="_blank" title="Open full size"><img width="1046" height="569" src="docs/img/rob-table.webp" alt="Table of all observations" loading="lazy"></a>
+    <figcaption><b>Figure 26.</b> All observations, sorted by the size of their effect.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-table">
+    <li><b>Filter:</b> all cases, only Y, only N, or only edited cases.</li>
+    <li><b>Show all rows</b> (by default the table shows the top 50).</li>
+    <li><b>Column headers:</b> click to sort, click again to reverse. Hover over a header for its definition.</li>
+    <li><b>Per-row actions:</b> exclude/include, flip, restore.</li>
+  </ol>
+  <div class="tablescroll"><table class="doc">
+    <tr><th>Column</th><th>Meaning</th></tr>
+    <tr><td>placement</td><td>V: the share of the other class this case is correctly ordered against.</td></tr>
+    <tr><td>ΔAUC if removed</td><td>AUC without the case minus AUC with it. Positive: the case pulls the AUC down. Sorted by absolute value.</td></tr>
+    <tr><td>in SE</td><td>the same, divided by the current DeLong SE.</td></tr>
+    <tr><td>conclusion</td><td><i>breaks</i> / <i>creates</i> if removing this one case would change the conclusion.</td></tr>
+    <tr><td>ΔAUC if flipped</td><td>the change if the case's label were the other class.</td></tr>
+    <tr><td>AUC if moved</td><td>the lowest and highest AUC reachable by moving only this case's score; the span is always 1/(class size).</td></tr>
+  </table></div>
+
+  <h3 id="lab-examples">3.10 Worked examples</h3>
+  <h4>A visual outlier that hardly matters</h4>
+  <figure class="shot">
+    <a href="docs/img/rob-mislabel.webp" target="_blank" title="Open full size"><img width="1371" height="551" src="docs/img/rob-mislabel.webp" alt="Suspected mislabelled control N33 with the inspector" loading="lazy"></a>
+    <figcaption><b>Figure 27.</b> “Suspected mislabelled control”: N33 has the highest score of all 100 cases.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="rob-mislabel">
+    <li><b>N33</b>, far to the right of every other N case.</li>
+    <li>Removing it changes the AUC by only +0.010 (0.2 SE).</li>
+    <li>Flipping its label, as if it were really a Y case, changes it by +0.019.</li>
+    <li>Wherever its score were, the AUC could move by at most 1/75 = 0.013.</li>
+  </ol>
+  <p>N33 is the case everybody notices, but it is 1 of 75 N cases. The influential cases are in the smaller Y class: sort the table
+  by |ΔAUC| to see them.</p>
+
+  <h4>A large class drawn as a density</h4>
+  <figure class="shot">
+    <a href="docs/img/rob-rare.webp" target="_blank" title="Open full size"><img width="1046" height="494" src="docs/img/rob-rare.webp" alt="15 Y cases and 400 N cases: N drawn as a density band" loading="lazy"></a>
+    <figcaption><b>Figure 28.</b> “Rare positives”: 15 Y vs 400 N. N is drawn as a density band plus its 40 most influential cases.</figcaption>
+  </figure>
+  <p>Every Y case carries 1/15 of the ROC height, every N case only 1/400 of its width: the largest effect of a Y case is more than ten
+  times the largest effect of an N case. The most damaging path needs 10 removals to break the conclusion, and all 10 are Y cases.</p>
+
+  <h4>Ties: a rating scale (real data)</h4>
+  <figure class="shot">
+    <a href="docs/img/rob-hanley.webp" target="_blank" title="Open full size"><img width="1046" height="1054" src="docs/img/rob-hanley.webp" alt="Hanley and McNeil CT ratings" loading="lazy"></a>
+    <figcaption><b>Figure 29.</b> Hanley &amp; McNeil (1982): 109 CT images rated 1–5 by a radiologist, 51 abnormal (Y) and 58 normal (N).</figcaption>
+  </figure>
+  <p>With only five distinct scores, cases stack in columns, every rating level contains both classes, and the ROC curve consists of
+  diagonal segments (ties count ½). Cases with the same rating and class have identical effects. With 51 and 58 cases and an AUC of
+  0.893, the conclusion “better than chance” survives 20 removals.</p>
+
+  <h3 id="lab-practice">3.11 Good practice</h3>
+  <div class="box warn"><span class="t">Sensitivity analysis, not data cleaning</span>
+    <p>Removing observations <em>because</em> they lower the AUC biases the AUC upward, and the confidence interval computed afterwards
+    is no longer valid: it ignores that the data were selected after looking at the result.</p></div>
+  <ul>
+    <li>Decide on exclusion criteria <b>before</b> looking at effects on the AUC, and apply them to every case alike.</li>
+    <li>Report the <b>original analysis</b>, and any edited analysis alongside it, with the reasons. The exported edit log helps.</li>
+    <li>Compare hand-picked edits with the <b>sensitivity curve</b>. If your edits are as favourable as the best possible choice, be suspicious of them.</li>
+    <li>Report <b>fragility</b> alongside the CI: “lower limit 0.55; two removals would bring it below 0.5” is more honest than the interval alone.</li>
+    <li>Look at the <b>small class</b> first. That is where single cases matter.</li>
+  </ul>
+
+  <h3 id="lab-ex">3.12 Exercises</h3>
+  <div class="exercise"><span class="t">Exercise R1: the formula.</span>
+    <p>A study has n<sub>Y</sub> = 25 and AUC = 0.80. One Y case has placement 0.10. By how much does removing it change the AUC? What is the most
+    that moving this case's score could change the AUC?</p>
+    <details><summary>Answer</summary>
+      <p>ΔAUC = (0.80 − 0.10)/24 ≈ +0.029. Moving it: from 0.80 − 0.10/25 = 0.796 up to 0.80 + 0.90/25 = 0.836; the span is 1/25 = 0.04.</p></details></div>
+  <div class="exercise"><span class="t">Exercise R2: visual vs influential.</span>
+    <p>Open <a href="auc-robustness.html#example=mislabel" target="_blank" rel="noopener">“Suspected mislabelled control”</a>. Find the three most
+    influential cases in the table. Are any of them visual outliers?</p>
+    <details><summary>Answer</summary>
+      <p>The top of the table is Y cases with middling or low scores; N33 is far down the list. Influence is about rank and class size,
+      not about how far a point is from its classmates.</p></details></div>
+  <div class="exercise"><span class="t">Exercise R3: fragility is not guilt.</span>
+    <p>Open <a href="auc-robustness.html#example=fragile" target="_blank" rel="noopener">“Fragile conclusion”</a>. Which cases does the most damaging
+    path remove first? Are they suspicious?</p>
+    <details><summary>Answer</summary>
+      <p>It removes the <em>best-ranked</em> Y cases (placement near 100%): removing good cases lowers the AUC. Nothing is wrong with them.
+      Fragility measures how much a conclusion rests on a few cases; it doesn't identify bad data.</p></details></div>
+  <div class="exercise"><span class="t">Exercise R4: the direction box.</span>
+    <p>In any example, untick “Higher score means Y”. What happens to the AUC, the ROC staircase and the placement values?</p>
+    <details><summary>Answer</summary>
+      <p>The AUC becomes 1 − AUC, the staircase is rotated by 180°, and every placement value V becomes 1 − V. The lab warns that the AUC
+      is below 0.5. The same data can give opposite-looking numbers if the direction is set wrongly.</p></details></div>
+  <div class="exercise"><span class="t">Exercise R5: ties.</span>
+    <p>In the Hanley &amp; McNeil data, drag one Y case rated 1 to rating 5. Compare the change with the inspector's “if its score could be anywhere” range.</p>
+    <details><summary>Answer</summary>
+      <p>The AUC goes from 0.893 to 0.907 (+0.014). That is less than the theoretical maximum of 1/51 ≈ 0.020, because of ties: rated 1,
+      the case already got half credit against the 33 N cases rated 1, and rated 5 it still ties with the 2 N cases rated 5. A single
+      reader error matters little with 51 Y cases.</p></details></div>
+</section>
+
+<!-- ================================================================== -->
+<section id="both">
+  <h2>4. Using the tools together</h2>
+  <p>In the Simulator, the button <b>Inspect this sample in the Robustness lab ↗</b> opens the current simulated sample in the lab, in a
+  new tab. The link carries the recipe (distributions, sample sizes, seed), and the lab regenerates exactly the same sample, so the
+  AUC and CI match to the last digit.</p>
+  <figure class="shot xnarrow">
+    <a href="docs/img/both-button.webp" target="_blank" title="Open full size"><img width="352" height="341" src="docs/img/both-button.webp" alt="The link from the Simulator to the Robustness lab" loading="lazy"></a>
+    <figcaption><b>Figure 30.</b> The link, in the Simulator's Experiment section.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="both-button">
+    <li>Opens this exact sample in the Robustness lab.</li>
+  </ol>
+  <p>Because the data are simulated, the lab knows the <b>true AUC</b> and shows it as a dashed line on the sensitivity curve and the ROC
+  staircase. This makes a point that real data can't make: <em>every case in a simulated sample is a legitimate draw, so nothing is
+  wrong with any of them.</em> Yet the lab still finds “most influential” cases, and removing them moves the AUC in whichever direction
+  you choose, not towards the truth.</p>
+  <figure class="shot">
+    <a href="docs/img/both-lab.webp" target="_blank" title="Open full size"><img width="1046" height="1441" src="docs/img/both-lab.webp" alt="A simulated sample in the Robustness lab with the true AUC" loading="lazy"></a>
+    <figcaption><b>Figure 31.</b> A textbook sample with 40 Y and 40 N cases opened in the lab.</figcaption>
+  </figure>
+  <ol class="callouts" data-for="both-lab">
+    <li>The true AUC of the simulation, next to the original sample AUC.</li>
+    <li>The true AUC on the sensitivity curve: the red and green paths move the estimate away from it as easily as towards it.</li>
+  </ol>
+  <div class="exercise"><span class="t">Exercise T1: where do outliers come from?</span>
+    <p>In the Simulator, open the textbook scenario with 20 Y and 20 N cases and send the sample to the lab. Note the most influential case.
+    Back in the Simulator, press New sample ↻ and send it again; repeat a few times. Is there always a case that looks “dubious”?
+    What does that tell you about judging individual observations by their effect?</p>
+    <details><summary>Answer</summary>
+      <p>Every sample has cases with large effects: typically Y cases with low scores or N cases with high scores. Their size is similar
+      from sample to sample, although nothing is wrong with any of them. Before calling an observation dubious, compare its effect with
+      what ordinary sampling produces, and look for a reason outside the AUC.</p></details></div>
+</section>
+
+<!-- ================================================================== -->
+<section id="ref">
+  <h2>5. Reference</h2>
+  <h3 id="ref-formulas">Formulas</h3>
+  <div class="tablescroll"><table class="doc">
+    <tr><th>Quantity</th><th>Formula</th></tr>
+    <tr><td>Sample AUC</td><td class="m">(1/(n<sub>Y</sub>n<sub>N</sub>)) Σ<sub>i∈Y</sub> Σ<sub>j∈N</sub> ψ(s<sub>i</sub>, s<sub>j</sub>), &nbsp; ψ = 1 if s<sub>i</sub> &gt; s<sub>j</sub>, ½ if equal, 0 otherwise</td></tr>
+    <tr><td>Binormal AUC</td><td class="m">Φ((μ<sub>Y</sub> − μ<sub>N</sub>) / √(σ<sub>Y</sub>² + σ<sub>N</sub>²))</td></tr>
+    <tr><td>Placement values</td><td class="m">V<sub>i</sub> = (1/n<sub>N</sub>) Σ<sub>j</sub> ψ(s<sub>i</sub>, s<sub>j</sub>) for Y case i; &nbsp; V<sub>j</sub> = (1/n<sub>Y</sub>) Σ<sub>i</sub> ψ(s<sub>i</sub>, s<sub>j</sub>) for N case j</td></tr>
+    <tr><td>DeLong variance</td><td class="m">Var(AUC) ≈ s²(V<sub>Y</sub>)/n<sub>Y</sub> + s²(V<sub>N</sub>)/n<sub>N</sub></td></tr>
+    <tr><td>Logit-scale CI</td><td class="m">logit(AUC) ± z · SE / (AUC(1 − AUC)), mapped back with the inverse logit</td></tr>
+    <tr><td>Removing one case</td><td class="m">ΔAUC = (AUC − V)/(n − 1), n = size of the case's class</td></tr>
+    <tr><td>Moving one case</td><td class="m">AUC ∈ [AUC − V/n, AUC + (1 − V)/n]</td></tr>
+    <tr><td>PPV from sens, spec, prevalence π</td><td class="m">sens·π / (sens·π + (1 − spec)(1 − π))</td></tr>
+    <tr><td>Youden's J</td><td class="m">sensitivity + specificity − 1</td></tr>
+  </table></div>
+
+  <h3 id="ref-glossary">Glossary</h3>
+  <dl class="glossary">
+    <dt>AUC</dt><dd>Area under the ROC curve; the probability that a random Y case scores higher than a random N case (ties ½).</dd>
+    <dt>Bootstrap</dt><dd>Estimating sampling variability by resampling the observed data with replacement (here: each class separately).</dd>
+    <dt>Calibration</dt><dd>Whether score values match observed risks. Not measured by the AUC.</dd>
+    <dt>Confidence interval</dt><dd>A range produced by a procedure that contains the true value in a stated share (e.g. 95%) of repeated studies.</dd>
+    <dt>Coverage</dt><dd>The actual share of intervals that contain the truth; checked by simulation.</dd>
+    <dt>DeLong method</dt><dd>An analytic estimate of the AUC's variance from the placement values.</dd>
+    <dt>Fragility</dt><dd>The number of observations whose removal (or relabelling) changes a conclusion.</dd>
+    <dt>FPR</dt><dd>False positive rate, P(S ≥ t | N) = 1 − specificity.</dd>
+    <dt>Monte-Carlo error</dt><dd>Uncertainty of a simulation result due to the finite number of simulated studies.</dd>
+    <dt>Operating point</dt><dd>The (FPR, TPR) pair for a chosen threshold.</dd>
+    <dt>Placement value</dt><dd>The share of the other class that a case is correctly ordered against.</dd>
+    <dt>Power</dt><dd>The probability that a study reaches a given conclusion (here: a CI entirely above 0.5) when it is true.</dd>
+    <dt>PPV / NPV</dt><dd>Positive / negative predictive value: the share of flagged (unflagged) cases that really are Y (N). They depend on the prevalence.</dd>
+    <dt>Prevalence</dt><dd>The share of Y cases, n<sub>Y</sub>/(n<sub>Y</sub> + n<sub>N</sub>) in a sample.</dd>
+    <dt>ROC curve</dt><dd>TPR against FPR over all thresholds.</dd>
+    <dt>Sensitivity analysis</dt><dd>Checking how much a result changes under reasonable alternative choices, as opposed to choosing the alternative that gives the best result.</dd>
+    <dt>Sensitivity / specificity</dt><dd>TPR = P(S ≥ t | Y); specificity = P(S &lt; t | N).</dd>
+    <dt>Youden's J</dt><dd>Sensitivity + specificity − 1; its maximum over thresholds is the largest vertical distance of the ROC curve above the diagonal.</dd>
+  </dl>
+
+  <h3 id="ref-reading">Further reading</h3>
+  <ol class="refs">
+    <li>Fawcett T. An introduction to ROC analysis. <i>Pattern Recognition Letters</i> 2006; 27(8): 861–874. A readable general introduction.</li>
+    <li>Hanley JA, McNeil BJ. The meaning and use of the area under a receiver operating characteristic (ROC) curve. <i>Radiology</i>
+      1982; 143(1): 29–36. The AUC as a probability; source of the CT rating example.</li>
+    <li>DeLong ER, DeLong DM, Clarke-Pearson DL. Comparing the areas under two or more correlated receiver operating characteristic curves:
+      a nonparametric approach. <i>Biometrics</i> 1988; 44(3): 837–845.</li>
+    <li>Sun X, Xu W. Fast implementation of DeLong's algorithm for comparing the areas under correlated receiver operating characteristic
+      curves. <i>IEEE Signal Processing Letters</i> 2014; 21(11): 1389–1393.</li>
+    <li>Pepe MS. <i>The Statistical Evaluation of Medical Tests for Classification and Prediction.</i> Oxford University Press, 2003.</li>
+    <li>Efron B, Tibshirani RJ. <i>An Introduction to the Bootstrap.</i> Chapman &amp; Hall, 1993.</li>
+    <li>Hand DJ. Measuring classifier performance: a coherent alternative to the area under the ROC curve. <i>Machine Learning</i> 2009;
+      77: 103–123. A critique of the AUC as a single performance measure.</li>
+    <li>Walsh M, et al. The statistical significance of randomized controlled trial results is frequently fragile: a case for a Fragility
+      Index. <i>Journal of Clinical Epidemiology</i> 2014; 67(6): 622–628. The idea behind the lab's fragility count.</li>
+  </ol>
+</section>
+
+</article>
+</div>
+</main>
+
+<footer>AUC Guide · companion to the AUC Simulator and the AUC Robustness Lab.</footer>
+<script src="js/guide.js"></script>
+</body>
+</html>
