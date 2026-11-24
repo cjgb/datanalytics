@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-07-06 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:53:27.164184'
+lastmod: '2025-04-07'
 related:
 - 2018-11-05-cuatro-paquetes-interesantes-de-r.md
 - 2012-09-18-rdatamining-un-paquete-para-mineria-de-datos-con-r.md

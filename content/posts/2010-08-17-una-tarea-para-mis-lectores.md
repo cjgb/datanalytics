@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-08-17 21:09:38+00:00
 draft: false
-lastmod: '2025-04-06T18:48:01.448582'
+lastmod: '2026-09-04'
 related:
 - 2010-09-06-tarea-lectores-resultados.md
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md

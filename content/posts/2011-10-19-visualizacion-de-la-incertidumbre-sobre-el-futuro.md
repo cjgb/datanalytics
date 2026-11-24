@@ -6,7 +6,7 @@ categories:
 - gráficos
 date: 2011-10-19 06:42:33+00:00
 draft: false
-lastmod: '2025-04-06T19:03:49.162716'
+lastmod: '2026-09-04'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2010-09-27-c2bfque-grafico-es-mejor.md

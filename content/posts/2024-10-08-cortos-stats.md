@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-10-08
-lastmod: '2025-04-06T19:08:09.344690'
+lastmod: '2025-11-02'
 related:
 - 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 - 2025-03-11-cortos-causalidad.md

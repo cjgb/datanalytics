@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-10-19
-lastmod: '2025-04-06T19:04:42.109393'
+lastmod: '2026-09-04'
 related:
 - 2019-12-04-p-valores-y-decisiones.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

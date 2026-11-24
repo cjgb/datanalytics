@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-03-01 08:13:08+00:00
 draft: false
-lastmod: '2025-04-06T19:09:46.319356'
+lastmod: '2026-10-22'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2018-10-23-abc-2.md

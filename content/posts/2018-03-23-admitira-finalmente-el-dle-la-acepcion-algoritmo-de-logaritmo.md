@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-03-23 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:59:41.909137'
+lastmod: '2025-04-07'
 related:
 - 2023-06-01-vender-algoritmos.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

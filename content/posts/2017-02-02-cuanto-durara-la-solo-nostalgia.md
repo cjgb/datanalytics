@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-02 08:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:05:14.711765'
+lastmod: '2026-09-04'
 related:
 - 2013-09-05-donde-deberian-comenzar-los-ejes.md
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-08-13 07:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:45:12.295381'
+lastmod: '2026-09-04'
 related:
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
 - 2014-02-06-experimentos-con-el-paquete-gbm.md

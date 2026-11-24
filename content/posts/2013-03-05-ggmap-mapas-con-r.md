@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-03-05 11:09:53+00:00
 noindex: true
-lastmod: '2025-12-15'
+lastmod: '2026-09-04'
 related:
 - 2016-03-01-ficheros-kml-con-r-y-ggmap.md
 - 2012-04-16-rutas-por-zaragoza-con-r.md

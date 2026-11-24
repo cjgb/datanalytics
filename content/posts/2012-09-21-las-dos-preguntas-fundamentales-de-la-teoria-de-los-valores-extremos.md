@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-09-21 07:23:35+00:00
 draft: false
-lastmod: '2025-04-06T18:50:17.641875'
+lastmod: '2025-10-12'
 related:
 - 2016-01-18-el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

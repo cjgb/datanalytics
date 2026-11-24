@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2019-07-08 09:13:50+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:29.360493'
+lastmod: '2026-10-12'
 related:
 - 2019-05-16-charlas-en-alicante-julio-de-2019.md
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md

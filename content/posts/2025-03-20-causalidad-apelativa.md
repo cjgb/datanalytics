@@ -5,7 +5,7 @@ categories:
 date: 2025-03-20
 description: 'La causalidad no está en el mundo sino en la mente: es puramente epistemológica.
   Pero, además, tiene una función apelativa que muchas veces se obvia.'
-lastmod: '2025-04-20T19:04:33.284539'
+lastmod: '2025-09-29'
 related:
 - 2024-09-10-causalidad.md
 - 2015-03-04-adaequatio-rei-et-analysis.md

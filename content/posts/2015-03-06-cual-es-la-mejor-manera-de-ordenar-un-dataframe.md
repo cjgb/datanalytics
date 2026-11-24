@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-03-06 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T18:52:13.395078'
+lastmod: '2026-09-04'
 related:
 - 2011-02-15-como-reordenar-niveles-de-factores-en-r.md
 - 2019-08-07-mas-sobre-factores-strings-y-ordenacion.md

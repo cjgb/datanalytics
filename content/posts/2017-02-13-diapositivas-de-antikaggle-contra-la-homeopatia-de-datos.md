@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2017-02-13 08:13:14+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:32.174714'
+lastmod: '2026-09-04'
 related:
 - 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
 - 2015-03-05-iv-meetup-machine-learning-spain-diapositivas-y-enlaces.md

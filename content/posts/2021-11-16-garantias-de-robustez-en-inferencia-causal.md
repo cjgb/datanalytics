@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2021-11-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:49:16.991979'
+lastmod: '2025-04-07'
 related:
 - 2024-09-12-cortos-stats.md
 - 2024-02-13-outliers-dos-modos.md

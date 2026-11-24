@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-04-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:01.757806'
+lastmod: '2026-09-04'
 related:
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 - 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md

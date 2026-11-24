@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-06-13 07:26:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:10.876190'
+lastmod: '2026-09-04'
 related:
 - 2015-05-18-grafos-sobre-mapas.md
 - 2014-09-15-componentes-conexas-de-grafos-en-spark.md

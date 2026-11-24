@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-01-25
-lastmod: '2025-04-06T19:07:24.953770'
+lastmod: '2025-11-08'
 noindex: true
 related:
 - 2013-12-04-ayuda-de-r-en-espanol.md

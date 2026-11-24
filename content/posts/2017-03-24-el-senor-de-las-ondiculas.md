@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2017-03-24 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:59:25.638730'
+lastmod: '2025-04-07'
 related:
 - 2011-12-02-grandes-avances-criptograficos-segun-el-pais.md
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md

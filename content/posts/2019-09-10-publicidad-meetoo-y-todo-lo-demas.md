@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-09-10 09:13:46+00:00
 draft: false
-lastmod: '2025-04-06T19:03:40.510111'
+lastmod: '2025-04-07'
 related:
 - 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
 - 2023-06-27-seeing-like-market.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-07-28 07:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:43.307965'
+lastmod: '2025-10-12'
 related:
 - 2023-12-28-origen-ancestros.md
 - 2010-07-04-exagerados.md

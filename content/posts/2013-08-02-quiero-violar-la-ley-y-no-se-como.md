@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-08-02 07:49:29+00:00
 draft: false
-lastmod: '2025-04-06T18:44:40.169825'
+lastmod: '2026-09-04'
 related:
 - 2015-05-06-podra-que-significara-podra.md
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md

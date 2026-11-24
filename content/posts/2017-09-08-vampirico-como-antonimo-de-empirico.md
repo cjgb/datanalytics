@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2017-09-08 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:00.439463'
+lastmod: '2025-04-07'
 related:
 - 2016-07-19-mi-argumento-no-era-cientifico-sino-empirico.md
 - 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md

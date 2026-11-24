@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-03-24 09:11:31+00:00
 draft: false
-lastmod: '2025-04-06T19:04:47.571360'
+lastmod: '2026-09-26'
 related:
 - 2011-06-20-ubidata-org-disponible-en-beta.md
 - 2011-06-10-datos-publicos-datos-dup.md

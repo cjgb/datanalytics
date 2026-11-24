@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-12 09:47:53+00:00
 draft: false
-lastmod: '2025-04-06T19:11:54.566685'
+lastmod: '2026-09-04'
 related:
 - 2011-11-10-741-millones-de-barriles-de-petroleo-c2bfmucho-o-poco.md
 - 2011-05-20-problema-de-la-semana-sobre-la-media.md

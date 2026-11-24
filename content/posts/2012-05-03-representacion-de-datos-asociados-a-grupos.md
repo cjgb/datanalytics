@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2012-05-03 06:42:51+00:00
 draft: false
-lastmod: '2025-04-06T18:56:55.030060'
+lastmod: '2026-10-12'
 related:
 - 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
 - 2011-07-27-diagramas-de-puntos-dotplots.md

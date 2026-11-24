@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-05-24 07:00:49+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:39.394671'
+lastmod: '2026-09-04'
 related:
 - 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
 - 2013-04-01-rpython-ya-esta-en-cran.md

@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2018-12-20 08:13:46+00:00
 description: Más evidencias sobre el interés último de la ciencia como institución.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2024-07-03-cortos-stats.md

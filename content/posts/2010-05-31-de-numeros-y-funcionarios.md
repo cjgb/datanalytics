@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-05-31 21:08:42+00:00
-lastmod: '2025-04-06T19:03:06.342310'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-04-12-c2a1que-prensa-tan-mala.md

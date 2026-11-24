@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-09-14 07:29:08+00:00
 draft: false
-lastmod: '2025-04-06T19:09:28.676877'
+lastmod: '2026-09-04'
 related:
 - 2011-02-22-solo-quiero-saber-si-basta-con-tres-casos.md
 - 2016-11-30-la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado.md

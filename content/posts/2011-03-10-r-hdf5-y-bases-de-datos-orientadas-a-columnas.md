@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-03-10 09:25:23+00:00
 draft: false
-lastmod: '2025-04-06T19:12:22.428668'
+lastmod: '2026-09-26'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md
 - 2011-03-04-1680.md

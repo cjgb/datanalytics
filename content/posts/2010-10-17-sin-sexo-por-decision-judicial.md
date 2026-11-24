@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2010-10-17 21:21:45+00:00
 draft: false
-lastmod: '2025-04-06T19:10:10.993377'
+lastmod: '2025-09-07'
 related:
 - 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
 - 2018-11-07-cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy.md

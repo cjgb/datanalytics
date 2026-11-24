@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2019-05-16 09:13:54+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:27.797019'
+lastmod: '2025-11-12'
 related:
 - 2019-07-08-dos-noticias-entrevista-y-cursos-en-alicante.md
 - 2017-09-25-charla-en-pamplona.md

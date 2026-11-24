@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-07-06
-lastmod: '2025-04-06T19:08:02.813273'
+lastmod: '2025-11-02'
 related:
 - 2019-06-05-causalidad-atribucion-madrid-central.md
 - 2019-10-18-el-modelo-son-las-conclusiones.md

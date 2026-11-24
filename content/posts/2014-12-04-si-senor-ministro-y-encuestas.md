@@ -5,7 +5,7 @@ categories:
 - números
 date: 2014-12-04 07:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:53:02.530227'
+lastmod: '2026-09-04'
 related:
 - 2024-04-18-estadistica-individuos.md
 - 2018-10-01-acerca-del-cis-y-la-cocina.md

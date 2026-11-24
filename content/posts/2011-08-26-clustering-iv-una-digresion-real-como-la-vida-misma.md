@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-08-26 07:35:14+00:00
 draft: false
-lastmod: '2025-04-06T18:44:29.058375'
+lastmod: '2026-10-12'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2011-08-03-clustering-iii-sobresimplificacion.md

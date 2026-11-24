@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-06-29
-lastmod: '2025-04-06T18:49:39.913987'
+lastmod: '2025-04-07'
 related:
 - 2024-02-06-llm-obsidian.md
 - 2025-03-25-cortos-llms.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-07-01 07:00:55+00:00
 draft: false
-lastmod: '2025-04-06T18:44:56.937908'
+lastmod: '2026-10-12'
 related:
 - 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
 - 2011-02-25-1605.md

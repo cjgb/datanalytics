@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-02-18 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:03:01.076059'
+lastmod: '2026-09-26'
 related:
 - 2017-01-10-repensando-la-codificacion-por-impacto.md
 - 2014-09-12-bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos.md

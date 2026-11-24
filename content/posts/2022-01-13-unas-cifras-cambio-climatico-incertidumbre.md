@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2022-01-13
-lastmod: '2025-04-06T18:56:48.085471'
+lastmod: '2025-11-02'
 related:
 - 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
 - 2023-07-18-energia-nuclear-salvara-mundo.md

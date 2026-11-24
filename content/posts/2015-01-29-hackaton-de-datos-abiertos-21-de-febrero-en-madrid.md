@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2015-01-29 07:13:15+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:27.945923'
+lastmod: '2026-10-12'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md

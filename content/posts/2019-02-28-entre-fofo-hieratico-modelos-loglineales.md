@@ -6,7 +6,7 @@ categories:
 - nlp
 date: 2019-02-28 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:43.253359'
+lastmod: '2025-05-05'
 related:
 - 2024-07-18-cortos-llms.md
 - 2014-03-17-sobre-el-articulo-de-domingos.md

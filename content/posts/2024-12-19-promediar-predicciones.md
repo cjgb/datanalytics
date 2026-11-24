@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-12-19
-lastmod: '2025-04-06T18:59:55.628255'
+lastmod: '2025-11-02'
 related:
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 - 2014-02-12-de-ratios-apuestas-y-riesgos.md

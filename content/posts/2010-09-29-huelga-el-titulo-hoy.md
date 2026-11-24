@@ -4,7 +4,7 @@ categories:
 - números
 date: 2010-09-29 01:56:54+00:00
 draft: false
-lastmod: '2025-04-06T19:03:04.907459'
+lastmod: '2026-09-26'
 related:
 - 2012-03-29-otra-de-huelgas.md
 - 2017-12-04-la-magnitud-de-la-sequia.md

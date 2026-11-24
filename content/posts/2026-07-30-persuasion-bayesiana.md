@@ -5,7 +5,7 @@ categories:
 date: 2026-07-30
 description: Un ejemplo simple e introductorio de lo que se ha venido a denominar
   «persuasión bayesiana».
-lastmod: '2026-07-24T02:48:43.622220'
+lastmod: '2026-07-31'
 related:
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
 - 2025-06-05-bayesianismo-epistemologia.md

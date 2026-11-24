@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-05-16 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:08:58.352337'
+lastmod: '2026-09-04'
 related:
 - 2022-09-20-tools-etl-memory.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

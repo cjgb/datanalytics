@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-04-06 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T19:07:16.757027'
+lastmod: '2025-04-07'
 related:
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 - 2024-03-11-cortos-01.md

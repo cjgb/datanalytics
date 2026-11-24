@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-01-02
-lastmod: '2025-04-06T18:52:07.391740'
+lastmod: '2026-10-12'
 related:
 - 2022-05-17-como-calcula-inflacion.md
 - 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md

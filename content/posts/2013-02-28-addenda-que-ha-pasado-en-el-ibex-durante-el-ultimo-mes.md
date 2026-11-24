@@ -6,7 +6,7 @@ categories:
 - r
 date: 2013-02-28 07:03:53+00:00
 draft: false
-lastmod: '2025-04-06T18:49:12.321030'
+lastmod: '2026-09-04'
 related:
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
 - 2013-01-09-el-ibex-35-estilo-gapminder.md

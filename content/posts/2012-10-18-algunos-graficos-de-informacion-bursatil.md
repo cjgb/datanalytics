@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-10-18 07:07:41+00:00
 draft: false
-lastmod: '2025-04-06T18:50:04.862762'
+lastmod: '2026-09-04'
 related:
 - 2014-02-18-el-yuyuplot-en-perspectiva.md
 - 2013-01-09-el-ibex-35-estilo-gapminder.md

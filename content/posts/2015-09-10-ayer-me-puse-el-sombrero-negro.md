@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-09-10 08:13:40+00:00
 draft: false
-lastmod: '2025-04-06T19:08:07.162811'
+lastmod: '2026-01-10'
 related:
 - 2015-04-17-si-un-dia-faltan-21-63-euros-en-caja.md
 - 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md

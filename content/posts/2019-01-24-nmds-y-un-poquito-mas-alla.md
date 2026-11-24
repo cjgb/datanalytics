@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-01-24 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:54:58.321480'
+lastmod: '2026-09-04'
 related:
 - 2015-09-14-nmf-una-tecnica-mergente-de-analisis-no-supervisado.md
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md

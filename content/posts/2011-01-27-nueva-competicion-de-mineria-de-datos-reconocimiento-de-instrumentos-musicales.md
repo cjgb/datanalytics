@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2011-01-27 09:48:06+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:18.040971'
+lastmod: '2026-09-26'
 related:
 - 2010-10-03-c2bfpor-que-no-una-competicion.md
 - 2010-03-07-c2bfsabes-estadistica-c2bfquieres-ganar-100k-dolares-pues-lee.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2020-02-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:44:37.030097'
+lastmod: '2026-09-04'
 related:
 - 2020-02-20-curvas-de-equiprobabilidad-de-la-t-bivariada.md
 - 2016-03-30-funciones-de-densidad-log-concavas.md

@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2018-10-22 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:55:41.111429'
+lastmod: '2025-11-02'
 related:
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 - 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md

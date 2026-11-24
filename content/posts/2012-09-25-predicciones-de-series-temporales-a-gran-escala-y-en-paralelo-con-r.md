@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-09-25 07:50:49+00:00
 draft: false
-lastmod: '2025-04-06T18:59:45.419324'
+lastmod: '2026-09-04'
 related:
 - 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 - 2014-05-15-r-en-paralelo.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-06-04 07:29:16+00:00
 draft: false
-lastmod: '2025-04-06T18:50:39.565660'
+lastmod: '2026-09-04'
 related:
 - 2017-05-08-como-fue-r-antes-de-r.md
 - 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md

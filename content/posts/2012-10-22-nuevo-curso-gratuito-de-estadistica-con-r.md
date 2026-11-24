@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-10-22 07:18:23+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:01.335483'
+lastmod: '2026-10-12'
 related:
 - 2014-11-06-estadistica-clasica-vs-remuestreo.md
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md

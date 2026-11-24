@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-07-22 07:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:04:10.100536'
+lastmod: '2026-09-04'
 related:
 - 2014-02-17-donde-estoy-donde-estare.md
 - 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md

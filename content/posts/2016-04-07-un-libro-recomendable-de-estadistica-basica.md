@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-04-07 09:13:36+00:00
 draft: false
-lastmod: '2025-04-06T18:53:25.838590'
+lastmod: '2026-09-03'
 related:
 - 2020-01-27-estadistica-basica-edulcorada.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

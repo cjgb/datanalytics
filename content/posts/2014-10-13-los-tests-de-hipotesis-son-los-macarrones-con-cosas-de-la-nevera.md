@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-10-13 07:13:29+00:00
 draft: false
-lastmod: '2025-04-06T18:46:59.561018'
+lastmod: '2026-09-04'
 related:
 - 2016-02-29-los-tres-contraargumentos-habituales.md
 - 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md

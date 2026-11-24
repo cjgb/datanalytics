@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-03-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:22.472835'
+lastmod: '2026-10-08'
 related:
 - 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md

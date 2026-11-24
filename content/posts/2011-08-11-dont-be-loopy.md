@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-08-11 07:28:36+00:00
 draft: false
-lastmod: '2025-04-06T18:57:43.140463'
+lastmod: '2026-09-04'
 related:
 - 2011-09-23-done28099t-be-loopy-ii.md
 - 2011-09-30-dont-be-loopy-iii-jackknife-y-paralelismo.md

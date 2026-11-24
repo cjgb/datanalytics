@@ -6,7 +6,7 @@ categories:
 - r
 date: 2019-12-04 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:36.592890'
+lastmod: '2026-09-04'
 related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md

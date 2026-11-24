@@ -5,7 +5,7 @@ categories:
 date: 2026-07-28
 description: Incluyendo errores de la ONS británica, la varianza de la posteriori,
   la subjetividad de los modelos estadísticos y la seudoanonimidad.
-lastmod: '2026-07-24T02:41:30.842659'
+lastmod: '2026-09-26'
 related:
 - 2026-04-07-cortos.md
 - 2025-07-01-cortos-estadistica.md

@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2014-11-04 07:13:14+00:00
 draft: false
-lastmod: '2025-04-06T18:56:17.244219'
+lastmod: '2026-10-12'
 related:
 - 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2015-03-27 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T19:01:32.205690'
+lastmod: '2026-10-12'
 related:
 - 2014-04-10-colusion-de-anunciantes-en-perjuicio-de-navegantes.md
 - 2010-05-10-c2a1hasta-microsoft.md

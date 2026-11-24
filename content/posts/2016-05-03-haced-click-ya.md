@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2016-05-03 08:13:25+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:29.269370'
+lastmod: '2026-06-28'
 related:
 - 2020-01-31-pato-o-conejo-y-su-moraleja.md
 - 2019-11-12-tfprobability-deberia-llamarse-tfeoprobability.md

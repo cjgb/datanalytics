@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-10-17
-lastmod: '2025-04-06T18:51:39.099392'
+lastmod: '2025-11-02'
 related:
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
 - 2015-05-20-banzhaf-y-las-elecciones-que-se-nos-vienen.md

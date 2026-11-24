@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-08-01 07:11:51+00:00
 draft: false
-lastmod: '2025-04-06T18:54:59.034077'
+lastmod: '2026-09-04'
 related:
 - 2011-02-15-como-reordenar-niveles-de-factores-en-r.md
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md

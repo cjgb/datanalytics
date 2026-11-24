@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-01-16
-lastmod: '2025-04-06T18:52:32.834432'
+lastmod: '2026-10-22'
 related:
 - 2024-02-13-outliers-dos-modos.md
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md

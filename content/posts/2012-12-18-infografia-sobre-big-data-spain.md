@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2012-12-18 07:17:20+00:00
 draft: false
-lastmod: '2025-04-06T19:06:39.928233'
+lastmod: '2025-11-02'
 related:
 - 2012-07-18-conferencia-sobre-grandes-datos.md
 - 2014-02-25-quien-es-quien-del-big-data-en-espana.md

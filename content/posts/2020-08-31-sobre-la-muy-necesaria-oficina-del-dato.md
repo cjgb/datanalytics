@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-08-31 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:08.834072'
+lastmod: '2025-05-05'
 related:
 - 2020-09-01-cdo-de-p-e-espana-nah.md
 - 2020-07-29-un-instituto-nacional-de-datos.md

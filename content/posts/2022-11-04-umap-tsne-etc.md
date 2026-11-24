@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-11-04
-lastmod: '2025-04-06T18:47:52.279101'
+lastmod: '2025-11-02'
 related:
 - 2017-03-08-reduccion-de-la-dimensionalidad-con-t-sne.md
 - 2022-07-14-proximidad-distribuciones.md

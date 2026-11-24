@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-06-06 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:50:26.909593'
+lastmod: '2026-09-04'
 related:
 - 2013-01-10-una-aplicacion-seo-con-r.md
 - 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md

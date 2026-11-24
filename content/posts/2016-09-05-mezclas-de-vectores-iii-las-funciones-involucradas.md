@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-09-05 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T19:05:50.812755'
+lastmod: '2026-06-12'
 related:
 - 2022-07-12-transferencia-estilo-rrnn.md
 - 2016-09-02-mezclas-de-vectores-ii-un-caso-de-uso.md

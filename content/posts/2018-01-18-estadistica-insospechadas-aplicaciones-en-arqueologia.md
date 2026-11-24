@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-18 08:13:26+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2017-11-23-arqueologos-bayesianos.md
 - 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-10-31 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:53:16.203556'
+lastmod: '2025-11-02'
 related:
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
 - 2016-09-29-curso-de-modelos-graficos-probabilisticos-en-coursera.md

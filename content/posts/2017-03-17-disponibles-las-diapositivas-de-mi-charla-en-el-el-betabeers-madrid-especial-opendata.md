@@ -4,7 +4,7 @@ categories:
 - charlas
 date: 2017-03-17 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:01:44.898495'
+lastmod: '2025-11-05'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md

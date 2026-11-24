@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-02-01 00:32:20+00:00
 draft: false
-lastmod: '2025-04-06T18:50:56.258797'
+lastmod: '2026-09-04'
 related:
 - 2016-07-06-glms-con-prioris-casi-a-voluntad.md
 - 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md

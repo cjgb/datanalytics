@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-12-11 07:35:30+00:00
 draft: false
-lastmod: '2025-04-06T19:09:55.967299'
+lastmod: '2026-09-04'
 related:
 - 2016-04-13-quieres-aprender-r-matriculate-en-mi-curso-en-kschool.md
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md

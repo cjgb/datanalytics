@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-05-17 20:17:15+00:00
-lastmod: '2025-04-06T18:45:03.682336'
+lastmod: '2025-09-27'
 noindex: true
 related:
 - 2012-07-11-otra-oximoron-notarios-y-estadisticas.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-04-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:14.013773'
+lastmod: '2025-04-07'
 related:
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md
 - 2024-01-23-arboles-olvidadizos.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-09-29 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:59:12.345200'
+lastmod: '2025-11-02'
 related:
 - 2023-05-09-encuestas-predicciones-electorales.md
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md

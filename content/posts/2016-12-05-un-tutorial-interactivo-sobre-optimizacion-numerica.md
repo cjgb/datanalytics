@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-12-05 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:54:00.391202'
+lastmod: '2025-04-07'
 related:
 - 2019-07-01-optimizacion-dos-escuelas-y-una-pregunta.md
 - 2020-05-22-optimizacion-estocastica.md

@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-04-26 09:53:52+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2011-04-14-graficos-iv-tutoriales-2.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

@@ -6,7 +6,7 @@ categories:
 - r
 date: 2020-06-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:38.241861'
+lastmod: '2026-09-04'
 related:
 - 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

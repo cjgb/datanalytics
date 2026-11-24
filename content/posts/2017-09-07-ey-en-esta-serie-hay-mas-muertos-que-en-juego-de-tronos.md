@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-09-07 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:12:20.997052'
+lastmod: '2026-09-03'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md

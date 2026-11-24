@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-11-23 06:56:46+00:00
 noindex: true
-lastmod: '2025-04-06T18:48:11.331435'
+lastmod: '2026-09-04'
 related:
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md
 - 2014-07-21-maddata-dataton-de-datos-abiertos.md

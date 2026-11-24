@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-11-28 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T19:13:24.355131'
+lastmod: '2025-04-07'
 related:
 - 2024-05-14-neutralidad-red.md
 - 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md

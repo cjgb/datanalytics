@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-03-17 09:52:06+00:00
 noindex: true
-lastmod: '2025-04-06T18:58:24.995424'
+lastmod: '2026-02-23'
 related:
 - 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md
 - 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md

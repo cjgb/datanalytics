@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2020-10-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:52.938022'
+lastmod: '2025-09-25'
 related:
 - 2010-03-14-la-fabula-del-tendero-la-bascula-y-la-caneca-y-su-desasosegadora-moraleja.md
 - 2019-03-13-mezclas-y-regularizacion.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-05-15 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T18:56:21.880949'
+lastmod: '2025-05-05'
 related:
 - 2024-09-12-cortos-stats.md
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md

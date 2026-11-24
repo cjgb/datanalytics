@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-01-11
-lastmod: '2025-04-06T18:51:32.464062'
+lastmod: '2026-09-24'
 related:
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

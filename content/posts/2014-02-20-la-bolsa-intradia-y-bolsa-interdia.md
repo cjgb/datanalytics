@@ -4,7 +4,7 @@ categories:
 - finanzas
 - r
 date: 2014-02-20 08:29:43+00:00
-lastmod: '2026-01-07'
+lastmod: '2026-09-04'
 related:
 - 2011-12-27-el-lucero-del-alba.md
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md

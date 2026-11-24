@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-02-16 07:50:40+00:00
 draft: false
-lastmod: '2025-04-06T19:07:18.161743'
+lastmod: '2026-09-04'
 related:
 - 2010-10-26-a-vueltas-con-los-fractales.md
 - 2012-03-23-r-y-la-distribucion-de-rayleigh.md

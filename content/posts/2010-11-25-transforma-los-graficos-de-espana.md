@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-11-25 09:25:30+00:00
-lastmod: '2025-04-06T18:53:31.850230'
+lastmod: '2026-10-12'
 related:
 - 2014-10-30-y-si-no-se-mantuvieran.md
 - 2012-09-05-los-principales-problemas-de-espana.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2010-11-11 09:55:58+00:00
 draft: false
-lastmod: '2025-04-06T18:54:20.397595'
+lastmod: '2026-11-23'
 related:
 - 2010-07-18-mas-de-diez-motivos-para-usar-proc-sql-en-sas.md
 - 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
@@ -19,7 +19,7 @@ title: La función monotonic de PROC SQL de SAS
 url: /2010/11/11/la-funcion-monotonic-de-proc-sql-de-sas/
 ---
 
-Previamente he hablado en este blog de las ventajas que ofrece PROC SQL en SAS sobre otros métodos más propiamente SAS de realizar ciertas manipulaciones de datos. Existen no obstante cierto tipo de manipulaciones que exigen _pasos data_: gran parte de las que hacen uso de la _variable automática_ `n`.
+Previamente he hablado en este blog de las ventajas que ofrece PROC SQL en SAS sobre otros métodos más propiamente SAS de realizar ciertas manipulaciones de datos. Existe no obstante cierto tipo de manipulaciones que exigen _pasos data_: gran parte de las que hacen uso de la _variable automática_ `n`.
 
 No obstante, existe una función no documentada de SAS que permite implementar con SQL muchas operaciones de este tipo: monotonic.
 

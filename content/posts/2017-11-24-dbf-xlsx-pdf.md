@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-11-24 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:07:45.762704'
+lastmod: '2026-09-26'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md
 - 2011-03-10-r-hdf5-y-bases-de-datos-orientadas-a-columnas.md

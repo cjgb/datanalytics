@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-03-03 09:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:59:36.133560'
+lastmod: '2026-09-04'
 related:
 - 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

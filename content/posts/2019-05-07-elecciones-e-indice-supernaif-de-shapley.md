@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-05-07 09:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:06:30.628454'
+lastmod: '2026-09-04'
 related:
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 - 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md

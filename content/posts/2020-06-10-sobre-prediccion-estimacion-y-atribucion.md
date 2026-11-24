@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-06-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:38.136859'
+lastmod: '2026-09-04'
 related:
 - 2024-10-17-interpretacion-modelos.md
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md

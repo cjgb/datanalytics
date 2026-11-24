@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-10-05 09:13:00+00:00
-lastmod: '2025-04-06T19:07:10.634289'
+lastmod: '2026-10-12'
 related:
 - 2017-03-03-wikipedia-prophet.md
 - 2020-07-08-que-queda-de-la-estadistica-robusta-clasica.md

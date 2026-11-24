@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-08-28 07:28:33+00:00
 draft: false
-lastmod: '2025-04-06T18:46:02.499070'
+lastmod: '2025-05-05'
 related:
 - 2013-08-27-el-pomelazo-del-csic.md
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md

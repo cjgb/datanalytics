@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-04-08 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:47:44.497580'
+lastmod: '2025-05-05'
 related:
 - 2018-12-10-libros-y-el-indice-de-compresibilidad.md
 - 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-10-15 06:47:59+00:00
 draft: false
-lastmod: '2025-04-06T19:07:47.186471'
+lastmod: '2025-11-02'
 related:
 - 2012-10-23-test-de-student-e-importancia-practica-una-solucion-para-su-discusion.md
 - 2023-09-28-potencia-tests.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-04-12 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T19:08:55.346988'
+lastmod: '2026-09-04'
 related:
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
 - 2014-06-10-a-vueltas-con-el-t-test.md

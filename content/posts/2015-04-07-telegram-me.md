@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-04-07 08:13:09+00:00
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2026-10-12'
 related:
 - 2016-12-13-que-la-fuerza-de-r-tambien-te-acompane-a-ti-alla-a-donde-haya-datos.md
 - 2014-06-13-agrupacion-de-grafos-por-topologia.md

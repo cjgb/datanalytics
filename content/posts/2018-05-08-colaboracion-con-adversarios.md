@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-05-08 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:11:32.676806'
+lastmod: '2026-09-04'
 related:
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
 - 2016-04-26-la-ciencia-dos-puntos-de-vista.md

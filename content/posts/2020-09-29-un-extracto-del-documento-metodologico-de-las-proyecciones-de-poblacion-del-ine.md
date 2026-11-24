@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-09-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:12.732629'
+lastmod: '2026-09-04'
 related:
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 - 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md

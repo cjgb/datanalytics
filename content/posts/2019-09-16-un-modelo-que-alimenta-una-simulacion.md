@@ -6,7 +6,7 @@ categories:
 - r
 date: 2019-09-16 09:13:17+00:00
 draft: false
-lastmod: '2025-04-06T18:48:38.811966'
+lastmod: '2026-09-04'
 related:
 - 2020-03-18-lme4-simulate.md
 - 2020-03-18-k-vecinos-lmer.md

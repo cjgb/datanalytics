@@ -5,7 +5,7 @@ categories:
 date: 2026-09-01
 description: Incentivos en el baloncesto, no ergodicidad de las inversiones, mercados
   de predicciones exóticos, LEFTs evanescentes y el reemplazo del LIBOR.
-lastmod: '2026-08-28T18:34:29.621100'
+lastmod: '2026-09-26'
 related:
 - 2026-03-02-cortos.md
 - 2025-11-13-economia.md

@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2018-06-07 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:45:00.311661'
+lastmod: '2025-04-07'
 related:
 - 2015-09-07-prioris-subjetivas.md
 - 2019-03-15-si-los-prejuicios-son-prioris-entonces.md

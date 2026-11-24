@@ -5,7 +5,7 @@ categories:
 - libros
 date: 2018-05-22 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T18:49:49.374803'
+lastmod: '2025-04-07'
 related:
 - 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

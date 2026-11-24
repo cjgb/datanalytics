@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-01-04 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T19:07:35.629014'
+lastmod: '2025-11-02'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2016-12-13-que-la-fuerza-de-r-tambien-te-acompane-a-ti-alla-a-donde-haya-datos.md

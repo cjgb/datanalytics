@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-11-10 09:06:32+00:00
 draft: false
-lastmod: '2025-04-06T18:46:42.189372'
+lastmod: '2026-09-26'
 related:
 - 2010-09-25-tecnologias-de-la-informacion-2020.md
 - 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md

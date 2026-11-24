@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2015-03-05 12:36:27+00:00
 draft: false
-lastmod: '2025-04-06T18:50:22.266287'
+lastmod: '2025-11-05'
 related:
 - 2015-03-03-iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones.md
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md

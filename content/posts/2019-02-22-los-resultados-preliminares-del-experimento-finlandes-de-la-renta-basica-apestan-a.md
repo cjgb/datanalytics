@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-02-22 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:02:47.163980'
+lastmod: '2026-10-22'
 related:
 - 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
 - 2022-04-05-intervenciones-buenistas.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-26 23:13:39+00:00
-lastmod: '2025-04-06T18:58:58.371810'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md

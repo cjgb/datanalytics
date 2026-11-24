@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-02-17 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T19:01:18.539640'
+lastmod: '2025-11-02'
 related:
 - 2010-07-03-c2bfprograma-vd-en-sas-c2a1aprenda-a-ser-indispensable.md
 - 2018-01-23-terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh.md

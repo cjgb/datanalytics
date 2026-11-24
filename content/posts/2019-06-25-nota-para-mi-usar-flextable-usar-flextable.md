@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-06-25 09:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:47:38.841323'
+lastmod: '2025-11-02'
 related:
 - 2017-06-26-como-preambulais-vuestros-rmd.md
 - 2014-09-24-plyr-dplyr-data-table-que-opinas.md

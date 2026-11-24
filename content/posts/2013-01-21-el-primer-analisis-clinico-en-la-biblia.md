@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-01-21 07:07:25+00:00
 draft: false
-lastmod: '2025-04-06T18:55:20.241067'
+lastmod: '2026-10-12'
 related:
 - 2010-04-07-el-censo-del-rey-david-y-el-castigo-de-yahve.md
 - 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md

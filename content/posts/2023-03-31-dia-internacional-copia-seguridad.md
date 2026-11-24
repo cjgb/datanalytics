@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-03-30
-lastmod: '2025-04-06T18:46:54.166090'
+lastmod: '2026-09-04'
 related:
 - 2025-03-31-dia-internacional-copia-seguridad.md
 - 2024-03-31-dia-internacional-copia-seguridad.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2017-09-11
-lastmod: '2025-04-06T18:58:59.842316'
+lastmod: '2026-04-24'
 related:
 - 2019-08-15-relevante-para-entender-la-maldicion-de-la-dimensionalidad.md
 - 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md

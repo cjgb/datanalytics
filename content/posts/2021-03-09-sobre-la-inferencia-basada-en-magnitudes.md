@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2021-03-09 16:21:00+00:00
 draft: false
-lastmod: '2025-04-06T18:44:31.352072'
+lastmod: '2026-09-03'
 related:
 - 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

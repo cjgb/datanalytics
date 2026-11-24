@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2024-01-23
-lastmod: '2025-04-06T19:02:44.339374'
+lastmod: '2025-09-01'
 related:
 - 2017-01-10-repensando-la-codificacion-por-impacto.md
 - 2024-12-03-cortos-stats.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-03-23 07:26:24+00:00
 draft: false
-lastmod: '2025-04-06T18:44:54.943545'
+lastmod: '2026-09-04'
 related:
 - 2018-03-01-kriging-con-stan.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

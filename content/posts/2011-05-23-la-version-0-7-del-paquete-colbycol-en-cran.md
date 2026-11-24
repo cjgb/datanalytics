@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-05-23 13:18:39+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:15.641230'
+lastmod: '2025-09-14'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md
 - 2014-06-27-disponible-una-nueva-version-de-microdatoses.md

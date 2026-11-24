@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-08-07 09:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:11:56.148296'
+lastmod: '2026-09-04'
 related:
 - 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
 - 2011-02-15-como-reordenar-niveles-de-factores-en-r.md

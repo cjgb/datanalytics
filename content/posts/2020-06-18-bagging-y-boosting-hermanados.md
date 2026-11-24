@@ -5,7 +5,7 @@ categories:
 - ciencia de datos
 date: 2020-06-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:57.604579'
+lastmod: '2025-11-02'
 related:
 - 2020-05-11-agregar-antes-de-modelar.md
 - 2024-01-23-arboles-olvidadizos.md

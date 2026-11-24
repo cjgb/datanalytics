@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2020-10-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:03.882655'
+lastmod: '2025-05-05'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 - 2011-08-03-clustering-iii-sobresimplificacion.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-06 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:57:35.323033'
+lastmod: '2026-09-04'
 related:
 - 2020-04-03-10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre.md
 - 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-07-13 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T18:56:32.295250'
+lastmod: '2026-09-04'
 related:
 - 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
 - 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md

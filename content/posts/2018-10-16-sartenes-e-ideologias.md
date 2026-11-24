@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-10-16 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:44:46.963500'
+lastmod: '2026-11-23'
 related:
 - 2023-06-27-seeing-like-market.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md
@@ -21,7 +21,7 @@ Si alguien me hubiese preguntado hace 15 años qué era para mí una sartén, le
 
 Dejemos la gastronomía.
 
-Hace unos días estaba viendo una entrevista en Youtube. El entrevistado se había declarado seguidor y partidario de una ideología (a la que me referiré como X porque no viene al caso identificarla) y el otro le preguntó: ¿y qué es para ti X? Y dijo algo parecido a lo de mi sartén: _una herramienta para entender e interpretar el mundo_. ¡Y nadie, nadie, nadie le hizo la pregunta obligatoria! Es decir: ¿y te parece X la herramienta más adecuada para entender e interpretar el mundo?
+Hace unos días estaba viendo una entrevista en YouTube. El entrevistado se había declarado seguidor y partidario de una ideología (a la que me referiré como X porque no viene al caso identificarla) y el otro le preguntó: ¿y qué es para ti X? Y dijo algo parecido a lo de mi sartén: _una herramienta para entender e interpretar el mundo_. ¡Y nadie, nadie, nadie le hizo la pregunta obligatoria! Es decir: ¿y te parece X la herramienta más adecuada para entender e interpretar el mundo?
 
 Lo de la ideología no es mi departamento. Pero lo de entender e interpretar (estrechas parcelas de) el mundo sí. Y no puedo evitar hacerlo trayéndome de casa mis prioris personales. Pero el mundo es cabezón y me obliga a descartar herramientas de interpretación una tras otra.
 

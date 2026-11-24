@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-11-06 07:55:45+00:00
 draft: false
-lastmod: '2025-04-06T18:58:03.645207'
+lastmod: '2025-07-22'
 related:
 - 2012-04-17-periodismo-de-datos-en-via52-com.md
 - 2010-03-01-r-en-the-economist.md

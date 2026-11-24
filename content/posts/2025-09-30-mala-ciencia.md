@@ -5,7 +5,7 @@ categories:
 date: 2025-09-30
 description: Mala ciencia, radiación 5G, cerebros encogidos, nudges sobrevalorados,
   conflictos en la FDA y la necesidad (o no) de forasteros en la ciencia moderna.
-lastmod: '2025-10-07T20:01:09.975948'
+lastmod: '2026-01-20'
 related:
 - 2023-11-28-cerebro-padres.md
 - 2024-10-08-cortos-stats.md

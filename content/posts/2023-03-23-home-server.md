@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2023-03-23
 noindex: true
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
 - 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md

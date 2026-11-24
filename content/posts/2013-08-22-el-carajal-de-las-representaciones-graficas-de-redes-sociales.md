@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-08-22 07:10:15+00:00
 draft: false
-lastmod: '2025-04-06T18:57:43.845498'
+lastmod: '2025-11-02'
 related:
 - 2013-03-19-mapas-realmente-necesarios.md
 - 2022-02-22-grafico-quitarse-sombrero.md

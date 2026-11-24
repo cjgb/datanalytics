@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-08-27 18:21:17+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

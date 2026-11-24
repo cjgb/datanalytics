@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-07-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:46.976044'
+lastmod: '2026-09-04'
 related:
 - 2011-12-20-p-n-y-mi-moneda-de-la-suerte.md
 - 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md

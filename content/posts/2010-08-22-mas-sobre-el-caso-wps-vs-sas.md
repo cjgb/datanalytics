@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2010-08-22 13:31:31+00:00
 draft: false
-lastmod: '2025-04-06T18:49:44.690575'
+lastmod: '2026-09-26'
 related:
 - 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md

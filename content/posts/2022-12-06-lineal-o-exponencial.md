@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - economía
 date: 2022-12-08
-lastmod: '2025-04-06T18:56:16.448362'
+lastmod: '2026-09-04'
 related:
 - 2011-11-25-escalas-logaritimicas-puede-pero.md
 - 2023-01-24-funciones-enlace.md

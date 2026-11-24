@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-29 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T19:09:22.603253'
+lastmod: '2026-10-12'
 related:
 - 2012-04-16-rutas-por-zaragoza-con-r.md
 - 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md

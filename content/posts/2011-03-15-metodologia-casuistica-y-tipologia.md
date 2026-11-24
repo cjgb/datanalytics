@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2011-03-15 09:30:09+00:00
-lastmod: '2025-04-06T18:48:16.259981'
+lastmod: '2026-09-26'
 related:
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 - 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md

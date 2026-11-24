@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2011-05-31 07:34:08+00:00
 draft: false
-lastmod: '2025-04-06T18:51:12.526066'
+lastmod: '2026-09-26'
 related:
 - 2014-02-18-el-yuyuplot-en-perspectiva.md
 - 2011-11-25-escalas-logaritimicas-puede-pero.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-01-16 07:16:10+00:00
 draft: false
-lastmod: '2025-04-06T18:58:41.618695'
+lastmod: '2026-10-12'
 related:
 - 2011-10-14-gestion-avanzada-de-memoria-en-r-tracemem-ii.md
 - 2011-10-03-gestion-avanzada-de-memoria-en-r-tracemem.md

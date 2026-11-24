@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-05-18
-lastmod: '2025-04-06T18:59:14.636259'
+lastmod: '2026-09-04'
 related:
 - 2016-04-22-en-una-api-de-cuyo-endpoint-no-quiero-acordarme.md
 - 2010-05-27-google-prediction-api.md

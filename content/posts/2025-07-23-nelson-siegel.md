@@ -9,7 +9,7 @@ categories:
 date: 2025-07-23
 description: Una breve introducción al modelo de Nelson-Siegel y su remota "inspiración
   bayesiana"
-lastmod: '2025-09-16T22:17:51.041020'
+lastmod: '2025-11-05'
 related:
 - 2024-12-05-beta-binomial-deriva.md
 - 2024-10-17-interpretacion-modelos.md

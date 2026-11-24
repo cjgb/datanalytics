@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-07-16 07:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:57:36.751684'
+lastmod: '2025-10-12'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

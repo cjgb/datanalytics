@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2012-09-24 07:57:24+00:00
 draft: false
-lastmod: '2025-04-06T18:46:06.037850'
+lastmod: '2025-04-07'
 related:
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 - 2012-04-30-contar-c2bffacil.md

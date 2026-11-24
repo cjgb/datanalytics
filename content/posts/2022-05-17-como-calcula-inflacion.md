@@ -5,7 +5,7 @@ categories:
 - números
 date: 2022-05-17
 description: Una propuesta para introducir variabilidad en la estimación de la inflación
-lastmod: '2025-04-06T18:46:27.424717'
+lastmod: '2026-09-04'
 related:
 - 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
 - 2021-11-24-medias-ponderadas-a-lo-uluru.md

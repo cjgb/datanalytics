@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-04-27 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T18:52:40.218131'
+lastmod: '2026-09-04'
 related:
 - 2015-05-05-intervalos-de-credibilidad-para-la-beta-una-alternativa.md
 - 2022-01-20-peor-pagina-taleb.md

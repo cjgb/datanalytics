@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2011-10-13 07:36:38+00:00
 draft: false
-lastmod: '2025-04-06T18:52:29.513674'
+lastmod: '2026-09-04'
 related:
 - 2025-03-11-cortos-causalidad.md
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md

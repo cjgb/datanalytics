@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-05-27 22:12:54+00:00
-lastmod: '2025-04-06T19:04:34.542624'
+lastmod: '2026-10-12'
 related:
 - 2010-09-19-jdm-fuese-y-no-hubo-nada.md
 - 2024-03-21-cortos.md

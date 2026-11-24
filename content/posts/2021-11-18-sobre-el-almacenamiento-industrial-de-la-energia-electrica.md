@@ -4,7 +4,7 @@ categories:
 - números
 date: 2021-11-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:19.540621'
+lastmod: '2026-09-04'
 related:
 - 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
 - 2022-10-25-muchos-julios-hidraulica.md

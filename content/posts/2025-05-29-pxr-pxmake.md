@@ -11,7 +11,7 @@ categories:
 - estadística
 date: 2025-05-22
 description: Un anuncio de la existencia del paquete de R pxmake, que reemplaza a pxR en R
-lastmod: '2025-07-01T21:51:02.922582'
+lastmod: '2026-09-26'
 related:
 - 2023-04-20-dejar-morir-pxr.md
 - 2011-07-28-el-paquete-pxr-en-cran.md

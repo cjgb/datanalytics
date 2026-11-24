@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-06-10 20:11:30+00:00
-lastmod: '2025-04-06T19:01:50.518231'
+lastmod: '2026-04-05'
 related:
 - 2019-10-07-una-version-intuitiva-del-problema-de-monty-hall.md
 - 2021-10-28-monty-hall-reformulado.md

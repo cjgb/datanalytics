@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-07-27
-lastmod: '2025-04-06T19:12:28.051962'
+lastmod: '2026-09-03'
 related:
 - 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
 - 2023-03-07-contador-electricidad.md

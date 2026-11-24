@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2014-07-21 07:13:19+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:15.933298'
+lastmod: '2026-10-12'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md

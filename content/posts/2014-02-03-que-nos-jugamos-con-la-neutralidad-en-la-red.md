@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-02-03 08:57:25+00:00
 draft: false
-lastmod: '2025-04-06T18:56:54.155177'
+lastmod: '2026-10-12'
 related:
 - 2024-05-14-neutralidad-red.md
 - 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md

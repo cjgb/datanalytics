@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-01-10 08:05:09+00:00
 draft: false
-lastmod: '2025-04-06T19:01:31.479399'
+lastmod: '2025-07-22'
 related:
 - 2016-08-30-terremotos-consecuencias-y-lecciones.md
 - 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md

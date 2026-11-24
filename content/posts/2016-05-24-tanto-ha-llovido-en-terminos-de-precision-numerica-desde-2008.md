@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-05-24 08:13:42+00:00
 noindex: true
-lastmod: '2025-04-06T19:12:30.881128'
+lastmod: '2026-09-03'
 related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
 - 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md

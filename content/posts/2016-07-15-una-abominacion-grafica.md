@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-07-15 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:12:56.949215'
+lastmod: '2025-11-02'
 related:
 - 2013-03-19-mapas-realmente-necesarios.md
 - 2015-04-23-valores-diferentes.md

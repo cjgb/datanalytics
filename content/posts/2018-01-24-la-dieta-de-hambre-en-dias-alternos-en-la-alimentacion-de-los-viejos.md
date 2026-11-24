@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2018-01-24 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T18:58:18.015473'
+lastmod: '2026-09-26'
 related:
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md

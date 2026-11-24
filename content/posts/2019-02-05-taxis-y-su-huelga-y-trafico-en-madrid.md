@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-02-05 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:48:17.805183'
+lastmod: '2026-09-04'
 related:
 - 2018-12-03-sobre-madrid-central.md
 - 2012-06-29-idea-peregrina-el-taxivan.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-02-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:35.257697'
+lastmod: '2026-09-04'
 related:
 - 2020-05-22-optimizacion-estocastica.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

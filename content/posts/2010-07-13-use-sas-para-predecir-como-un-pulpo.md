@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - consultoría
 date: 2010-07-13 21:25:16+00:00
-lastmod: '2025-04-06T19:01:35.352717'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

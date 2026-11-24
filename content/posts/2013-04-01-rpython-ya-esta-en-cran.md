@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-04-01 07:08:19+00:00
 draft: false
-lastmod: '2025-04-06T19:10:33.452959'
+lastmod: '2026-10-12'
 related:
 - 2013-11-20-rpython-ya-en-windows.md
 - 2011-05-24-se-buscan-alpha-testers-para-rpython.md

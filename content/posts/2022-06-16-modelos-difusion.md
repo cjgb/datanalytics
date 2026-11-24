@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-06-16
 description: Una explicación minimalista de los modelos generativos de difusión
-lastmod: '2025-04-06T18:49:01.729797'
+lastmod: '2026-09-04'
 related:
 - 2023-01-10-stable-diffusion-1d.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

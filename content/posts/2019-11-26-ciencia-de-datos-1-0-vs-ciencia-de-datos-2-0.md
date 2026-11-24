@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2019-11-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:26.420452'
+lastmod: '2026-09-04'
 related:
 - 2023-10-19-errores-chatgpt.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

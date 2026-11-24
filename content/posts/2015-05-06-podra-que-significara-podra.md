@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-05-06 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T19:01:36.838225'
+lastmod: '2025-04-07'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md

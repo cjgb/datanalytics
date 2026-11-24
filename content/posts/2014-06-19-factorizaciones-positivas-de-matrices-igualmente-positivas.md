@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-06-19 07:01:38+00:00
 draft: false
-lastmod: '2025-04-06T18:54:05.033108'
+lastmod: '2026-09-04'
 related:
 - 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 - 2014-07-16-dos-descomposiciones-positivas-de-tablas-de-contingencia.md

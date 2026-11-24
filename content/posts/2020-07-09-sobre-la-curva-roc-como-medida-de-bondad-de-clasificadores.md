@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-07-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:11.868361'
+lastmod: '2025-05-05'
 related:
 - 2020-05-21-analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida.md
 - 2020-04-27-muestreo-sensibilidad-y-especificidad.md

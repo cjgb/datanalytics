@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-11-07
-lastmod: '2025-04-06T19:01:40.657099'
+lastmod: '2025-09-01'
 related:
 - 2024-10-17-interpretacion-modelos.md
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md

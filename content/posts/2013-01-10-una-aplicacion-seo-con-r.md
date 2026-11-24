@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-01-10 07:29:36+00:00
 draft: false
-lastmod: '2025-04-06T18:44:50.945891'
+lastmod: '2026-09-26'
 related:
 - 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
 - 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md

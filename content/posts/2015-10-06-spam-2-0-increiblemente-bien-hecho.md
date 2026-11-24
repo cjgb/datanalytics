@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2015-10-06 08:13:50+00:00
-lastmod: '2025-04-06T18:56:09.756947'
+lastmod: '2025-10-22'
 related:
 - 2014-06-12-hoy-he-echado-de-menos-scala.md
 - 2012-09-28-tutorial-como-analizar-datos-de-twitter-con-r.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-14 08:13:41+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
 - 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md

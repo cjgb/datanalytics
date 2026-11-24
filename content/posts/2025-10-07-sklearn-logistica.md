@@ -9,7 +9,7 @@ categories:
 date: 2025-10-07
 description: La regresión logística en sklearn no es la regresión logística sino otra
   cosa
-lastmod: '2025-10-13T17:16:06.417214'
+lastmod: '2026-09-04'
 related:
 - 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

@@ -6,7 +6,7 @@ categories:
 - números
 date: 2011-08-25 07:53:33+00:00
 draft: false
-lastmod: '2025-04-06T18:48:05.642586'
+lastmod: '2026-09-04'
 related:
 - 2024-11-14-simpson-productividad.md
 - 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md

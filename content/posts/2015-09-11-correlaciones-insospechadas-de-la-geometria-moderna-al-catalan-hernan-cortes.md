@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-09-11 09:50:46+00:00
 draft: false
-lastmod: '2025-04-06T19:03:07.086615'
+lastmod: '2026-09-04'
 related:
 - 2014-11-03-espanoles-hererodoxos-outliers-patrios.md
 - 2015-11-11-ad-more-geometrico.md

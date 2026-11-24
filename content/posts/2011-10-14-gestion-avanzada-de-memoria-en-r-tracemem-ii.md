@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-10-14 07:43:29+00:00
 draft: false
-lastmod: '2025-04-06T18:56:45.776241'
+lastmod: '2026-09-04'
 related:
 - 2011-10-03-gestion-avanzada-de-memoria-en-r-tracemem.md
 - 2012-01-16-eles-casts-y-el-rizo-del-rizo-de-la-programacion-eficiente-con-r.md

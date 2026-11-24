@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-05-17 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:03:05.628374'
+lastmod: '2026-09-04'
 related:
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
 - 2014-10-28-tres-sigmas-o-nanay.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-08-07 07:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:13:14.630280'
+lastmod: '2025-04-07'
 related:
 - 2020-01-27-estadistica-basica-edulcorada.md
 - 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md

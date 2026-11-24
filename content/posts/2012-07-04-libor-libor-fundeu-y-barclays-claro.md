@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-07-04 07:10:22+00:00
 draft: false
-lastmod: '2025-04-06T18:48:54.961466'
+lastmod: '2026-10-12'
 related:
 - 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md

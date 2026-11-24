@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-07-28 06:54:45+00:00
 noindex: true
-lastmod: '2025-04-06T19:03:51.492618'
+lastmod: '2026-10-12'
 related:
 - 2023-04-20-dejar-morir-pxr.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-04-07 07:55:34+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:11.515006'
+lastmod: '2026-09-04'
 related:
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md
 - 2011-03-04-1680.md

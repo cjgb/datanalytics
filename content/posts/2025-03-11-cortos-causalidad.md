@@ -5,7 +5,7 @@ categories:
 date: 2025-03-11
 description: Una serie de enlaces relacionados con la causalidad, el modelo de Neyman-Rubin
   y la inferencia causal, sobre todo en presencia de 'missing values'.
-lastmod: '2025-04-06T19:03:42.996439'
+lastmod: '2026-01-20'
 related:
 - 2024-10-08-cortos-stats.md
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md

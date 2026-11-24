@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2024-01-18
-lastmod: '2025-04-06T18:55:29.688091'
+lastmod: '2026-09-04'
 related:
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
 - 2014-06-27-disponible-una-nueva-version-de-microdatoses.md

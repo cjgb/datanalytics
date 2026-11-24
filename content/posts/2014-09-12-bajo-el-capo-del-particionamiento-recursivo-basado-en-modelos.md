@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-09-12 07:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:51:02.467293'
+lastmod: '2026-09-04'
 related:
 - 2014-07-30-incrementalidad-via-particionamiento-recursivo-basado-en-modelos.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

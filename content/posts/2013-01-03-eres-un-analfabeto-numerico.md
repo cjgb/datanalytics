@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2013-01-03 07:46:36+00:00
 draft: false
-lastmod: '2025-04-06T18:48:40.811012'
+lastmod: '2026-10-12'
 related:
 - 2012-10-30-cultura-numerica-incultura-numerica.md
 - 2011-07-14-la-percepcion-del-riesgo-en-la-bbc.md

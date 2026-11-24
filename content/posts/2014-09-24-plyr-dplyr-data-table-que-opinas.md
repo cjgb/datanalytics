@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-09-24 07:13:27+00:00
 draft: false
-lastmod: '2025-04-06T19:08:34.341494'
+lastmod: '2026-09-04'
 related:
 - 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
 - 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md

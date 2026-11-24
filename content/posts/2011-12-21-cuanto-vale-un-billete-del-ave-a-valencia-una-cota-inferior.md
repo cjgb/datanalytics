@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-12-21 06:36:31+00:00
 draft: false
-lastmod: '2025-04-06T19:07:15.995920'
+lastmod: '2026-09-26'
 related:
 - 2013-07-24-tres-numeros.md
 - 2012-03-28-contrafactualidad-radial.md

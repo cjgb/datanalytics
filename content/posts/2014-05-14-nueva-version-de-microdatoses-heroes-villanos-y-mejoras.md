@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-05-14 07:00:28+00:00
 draft: false
-lastmod: '2025-04-06T19:03:08.654236'
+lastmod: '2026-10-12'
 related:
 - 2014-06-27-disponible-una-nueva-version-de-microdatoses.md
 - 2024-01-18-microdatoses-ultima-version.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-31 22:38:11+00:00
 draft: false
-lastmod: '2025-04-06T18:56:33.822334'
+lastmod: '2026-09-04'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

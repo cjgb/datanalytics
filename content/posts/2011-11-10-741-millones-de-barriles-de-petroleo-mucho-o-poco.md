@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-11-10 07:12:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:28.422604'
+lastmod: '2026-09-26'
 related:
 - 2011-01-12-el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa.md
 - 2011-05-20-problema-de-la-semana-sobre-la-media.md

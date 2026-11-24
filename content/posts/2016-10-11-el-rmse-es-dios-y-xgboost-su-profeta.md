@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2016-10-11 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:03:55.108252'
+lastmod: '2025-11-02'
 related:
 - 2017-10-17-para-esto-que-me-da-de-comer-no-vale-xgboost.md
 - 2019-03-11-charla-mia-el-dia-de-pi-de-2019-en-elche.md

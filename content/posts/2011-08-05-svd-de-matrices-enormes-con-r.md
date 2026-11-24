@@ -6,7 +6,7 @@ categories:
 - r
 date: 2011-08-05 07:38:55+00:00
 draft: false
-lastmod: '2025-04-06T18:48:34.804725'
+lastmod: '2025-09-25'
 related:
 - 2015-03-24-compresion-con-svd.md
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md

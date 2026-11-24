@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-12-23 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:52:25.489635'
+lastmod: '2026-09-04'
 related:
 - 2012-04-04-de-dhondt-a-banzhaf.md
 - 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md

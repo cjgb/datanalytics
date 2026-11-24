@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-04 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:45:08.983927'
+lastmod: '2026-09-04'
 related:
 - 2015-09-07-prioris-subjetivas.md
 - 2020-07-06-un-articulo-muy-raro-raro-raro.md

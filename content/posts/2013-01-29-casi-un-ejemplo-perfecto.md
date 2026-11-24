@@ -5,7 +5,7 @@ categories:
 - números
 date: 2013-01-29 07:15:35+00:00
 draft: false
-lastmod: '2025-04-06T18:52:46.863515'
+lastmod: '2026-09-04'
 related:
 - 2015-01-20-no-me-ha-salido-pero-lo-cuento-igual.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

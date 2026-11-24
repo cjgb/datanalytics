@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-08-24 21:51:28+00:00
-lastmod: '2025-04-06T19:02:50.681406'
+lastmod: '2026-09-26'
 related:
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
 - 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md

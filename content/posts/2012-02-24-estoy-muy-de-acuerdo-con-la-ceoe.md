@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-02-24 07:55:42+00:00
 draft: false
-lastmod: '2025-04-06T18:58:36.506092'
+lastmod: '2025-09-14'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md

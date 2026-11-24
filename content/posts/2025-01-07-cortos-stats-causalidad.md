@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-01-07
-lastmod: '2025-04-06T19:01:19.959243'
+lastmod: '2026-09-04'
 related:
 - 2025-03-11-cortos-causalidad.md
 - 2022-03-08-estadistica-ciencias-blandas.md

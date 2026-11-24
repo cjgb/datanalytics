@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-01 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:08:35.761323'
+lastmod: '2026-10-22'
 related:
 - 2020-09-15-infradispersion-en-la-logistica.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

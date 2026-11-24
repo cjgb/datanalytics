@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-08-16 04:20:30+00:00
-lastmod: '2025-04-06T18:49:22.964502'
+lastmod: '2026-09-04'
 related:
 - 2013-09-05-donde-deberian-comenzar-los-ejes.md
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md

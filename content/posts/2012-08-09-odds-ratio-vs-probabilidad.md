@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-08-09 06:54:23+00:00
 draft: false
-lastmod: '2025-04-06T18:59:29.320315'
+lastmod: '2026-09-04'
 related:
 - 2014-02-12-de-ratios-apuestas-y-riesgos.md
 - 2015-09-01-odds-probabilidades.md

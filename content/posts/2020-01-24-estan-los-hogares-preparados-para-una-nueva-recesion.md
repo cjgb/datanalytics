@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-01-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:23.408905'
+lastmod: '2025-04-07'
 related:
 - 2015-07-27-explorando-la-desigualdad-en-medialab-prado.md
 - 2019-03-14-lo-que-las-diferencias-de-medias-evocan.md

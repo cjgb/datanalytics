@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-06-04 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:49:54.029154'
+lastmod: '2026-09-04'
 related:
 - 2018-05-22-existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas.md
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-04-13 07:01:53+00:00
 draft: false
-lastmod: '2025-04-06T19:01:04.841498'
+lastmod: '2026-09-26'
 related:
 - 2011-02-18-divide-y-compararas.md
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-01 09:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:45:11.633686'
+lastmod: '2026-09-04'
 related:
 - 2017-05-11-cosas-de-twitter-y-encuestas.md
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md

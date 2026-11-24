@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2018-11-28 08:13:17+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:44.681445'
+lastmod: '2026-09-04'
 related:
 - 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md
 - 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md

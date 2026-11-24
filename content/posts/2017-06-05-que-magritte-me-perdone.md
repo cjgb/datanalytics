@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-06-05 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:02:40.847681'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2010-10-26-a-vueltas-con-los-fractales.md

@@ -4,7 +4,7 @@ categories:
 - youtube
 date: 2021-02-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:15.167350'
+lastmod: '2026-09-03'
 related:
 - 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
 - 2022-10-18-nuevo-video-en-youtube-bayesianismo-edad.md

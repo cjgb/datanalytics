@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-09 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T19:07:37.095175'
+lastmod: '2026-09-04'
 related:
 - 2018-01-16-las-correlaciones-positivas-son-transitivas.md
 - 2018-11-16-colinealidad-y-posterioris.md

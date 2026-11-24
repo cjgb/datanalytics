@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-07-22 07:05:04+00:00
 draft: false
-lastmod: '2025-04-06T19:13:01.982250'
+lastmod: '2025-11-02'
 related:
 - 2020-06-26-criptobayesianismo.md
 - 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md

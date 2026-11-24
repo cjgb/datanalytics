@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - finanzas
 date: 2014-01-22 08:35:46+00:00
-lastmod: '2025-04-06T19:10:10.251650'
+lastmod: '2026-10-12'
 related:
 - 2023-07-18-energia-nuclear-salvara-mundo.md
 - 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md

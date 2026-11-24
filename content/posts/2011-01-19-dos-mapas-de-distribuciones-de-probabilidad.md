@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2011-01-19 11:09:07+00:00
 draft: false
-lastmod: '2025-04-06T18:48:03.550757'
+lastmod: '2026-09-26'
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
 - 2021-02-18-donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas.md

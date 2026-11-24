@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-12-19 08:13:08+00:00
 draft: false
-lastmod: '2025-04-06T18:56:13.909455'
+lastmod: '2025-04-07'
 related:
 - 2024-09-26-exigencias-aisladas-rigor.md
 - 2022-04-14-causalidad-defensa-hume.md

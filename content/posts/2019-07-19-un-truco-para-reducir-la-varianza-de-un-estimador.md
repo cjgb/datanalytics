@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-07-19 09:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:10:58.631491'
+lastmod: '2025-10-12'
 related:
 - 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 - 2022-12-22-correlacion-y-y-hat.md

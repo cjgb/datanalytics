@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-01-26 08:13:06+00:00
 draft: false
-lastmod: '2025-04-06T18:56:15.713013'
+lastmod: '2025-07-22'
 related:
 - 2016-11-30-la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado.md
 - 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md

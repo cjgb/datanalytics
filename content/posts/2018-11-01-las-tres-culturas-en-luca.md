@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-11-01 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:45:47.240093'
+lastmod: '2025-04-07'
 related:
 - 2018-11-29-interpretacion-de-modelos-predictivos-en-luca.md
 - 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md

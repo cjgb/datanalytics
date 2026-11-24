@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2022-10-20
-lastmod: '2026-02-07'
+lastmod: '2026-09-03'
 related:
 - 2017-05-12-me-too-me-too.md
 - 2013-03-19-mapas-realmente-necesarios.md

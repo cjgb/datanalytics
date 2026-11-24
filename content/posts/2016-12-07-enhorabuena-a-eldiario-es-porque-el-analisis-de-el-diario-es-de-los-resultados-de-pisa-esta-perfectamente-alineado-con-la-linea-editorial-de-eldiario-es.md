@@ -5,7 +5,7 @@ categories:
 - números
 date: 2016-12-07 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:46:48.856000'
+lastmod: '2025-04-07'
 related:
 - 2024-01-09-regresiones_pisa.md
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md

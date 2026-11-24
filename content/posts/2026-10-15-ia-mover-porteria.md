@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - mala ciencia
 date: 2026-10-15
+lastmod: '2026-10-15'
 description: "Permitiría seguir la evolución en tiempo real del impacto de la IA en la academia y ayudaría a aclarar cuestiones como qué es el saber, la inteligencia, la sabiduría, etc."
 tags:
 - ia

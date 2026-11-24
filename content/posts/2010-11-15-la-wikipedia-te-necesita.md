@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2010-11-15 10:03:13+00:00
 draft: false
-lastmod: '2025-04-06T19:12:40.498512'
+lastmod: '2025-04-07'
 related:
 - 2010-09-21-statprob-una-wikipedia-de-estadistica-y-probabilidad.md
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md

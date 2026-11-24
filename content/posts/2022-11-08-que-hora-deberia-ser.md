@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-11-08
-lastmod: '2025-04-06T18:50:08.166973'
+lastmod: '2026-01-10'
 related:
 - 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
 - 2014-10-14-amanece-me-cuenta-que-no-es-poco.md

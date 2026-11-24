@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-03-15 08:13:37+00:00
 draft: false
-lastmod: '2025-04-06T18:51:01.114267'
+lastmod: '2026-09-04'
 related:
 - 2011-12-29-graficos-de-pares-de-variables-mejorados-con-r.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

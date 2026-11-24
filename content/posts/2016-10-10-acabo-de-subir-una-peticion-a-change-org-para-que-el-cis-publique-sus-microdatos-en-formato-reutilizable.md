@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2016-10-10 08:13:32+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:29.568636'
+lastmod: '2026-01-31'
 related:
 - 2016-10-05-barometros-del-cis-con-r.md
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md

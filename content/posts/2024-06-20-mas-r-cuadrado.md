@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-06-20
-lastmod: '2025-04-06T19:12:25.934901'
+lastmod: '2026-09-26'
 related:
 - 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md

@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2014-06-16 07:06:48+00:00
 draft: false
-lastmod: '2025-04-06T18:47:51.576161'
+lastmod: '2026-10-12'
 related:
 - 2020-10-29-algoritmos-y-etica-circa-1950.md
 - 2023-05-25-evaluaciones-clinicas-actuariales.md

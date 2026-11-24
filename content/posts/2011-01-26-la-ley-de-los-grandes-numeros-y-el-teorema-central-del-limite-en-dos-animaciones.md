@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-01-26 09:21:40+00:00
 draft: false
-lastmod: '2025-04-06T18:47:53.683015'
+lastmod: '2026-09-26'
 related:
 - 2011-02-16-animaciones-estadisticas-con-r.md
 - 2014-10-21-mas-alla-del-teorema-central-del-limite.md

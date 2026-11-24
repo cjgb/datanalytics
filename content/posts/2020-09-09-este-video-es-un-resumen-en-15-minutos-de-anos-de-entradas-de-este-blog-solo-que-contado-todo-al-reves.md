@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-09-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:50.972628'
+lastmod: '2026-07-24'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md

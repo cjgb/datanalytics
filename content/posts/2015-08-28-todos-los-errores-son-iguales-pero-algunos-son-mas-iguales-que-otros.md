@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2015-08-28 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:50:06.844125'
+lastmod: '2026-09-03'
 related:
 - 2023-03-28-se-iguales.md
 - 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md

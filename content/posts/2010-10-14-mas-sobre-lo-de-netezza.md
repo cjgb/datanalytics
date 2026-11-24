@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-10-14 23:18:35+00:00
-lastmod: '2025-04-06T19:06:16.339414'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md

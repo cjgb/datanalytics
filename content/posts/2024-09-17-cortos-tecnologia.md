@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-09-17
-lastmod: '2025-04-06T19:07:52.327715'
+lastmod: '2026-10-12'
 related:
 - 2024-05-09-cortos-tecnologia.md
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md

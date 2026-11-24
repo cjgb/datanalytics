@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-11-08 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:12:17.438548'
+lastmod: '2026-09-04'
 related:
 - 2012-09-20-como-votan-los-diputados.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

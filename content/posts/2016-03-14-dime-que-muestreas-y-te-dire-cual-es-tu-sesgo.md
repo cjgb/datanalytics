@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-03-14 09:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:08:56.084543'
+lastmod: '2026-09-03'
 related:
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 - 2023-10-03-muestreo-superricos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-05-28
-lastmod: '2025-04-06T19:09:09.479150'
+lastmod: '2025-09-03'
 related:
 - 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md
 - 2023-11-21-sumas-lognormales.md

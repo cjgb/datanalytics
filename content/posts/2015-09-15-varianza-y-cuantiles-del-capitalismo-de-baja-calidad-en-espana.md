@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-09-15 08:13:38+00:00
 draft: false
-lastmod: '2025-04-06T18:54:38.197635'
+lastmod: '2026-09-04'
 related:
 - 2020-03-25-cuantificacion-y-riesgo.md
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md

@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2021-10-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:44:23.344827'
+lastmod: '2025-12-07'
 related:
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 - 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-23 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:51:53.813185'
+lastmod: '2025-10-12'
 related:
 - 2010-05-25-sobre-la-media-y-la-mediana.md
 - 2022-07-14-proximidad-distribuciones.md

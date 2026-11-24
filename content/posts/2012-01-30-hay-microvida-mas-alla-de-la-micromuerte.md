@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-01-30 07:32:32+00:00
 draft: false
-lastmod: '2025-04-06T19:07:32.078021'
+lastmod: '2025-11-02'
 related:
 - 2011-06-01-micromuertes.md
 - 2020-05-19-micromuertes-y-coronavirus.md

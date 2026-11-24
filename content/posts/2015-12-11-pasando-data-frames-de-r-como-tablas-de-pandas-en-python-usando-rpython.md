@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-12-11
 noindex: true
-lastmod: '2025-04-06T18:52:47.525869'
+lastmod: '2026-09-04'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md
 - 2014-03-20-los-sospechosos-habituales-y-python.md

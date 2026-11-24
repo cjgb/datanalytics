@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-12-30 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T19:05:28.318763'
+lastmod: '2026-09-04'
 related:
 - 2014-11-04-dislexia-probabilistica.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

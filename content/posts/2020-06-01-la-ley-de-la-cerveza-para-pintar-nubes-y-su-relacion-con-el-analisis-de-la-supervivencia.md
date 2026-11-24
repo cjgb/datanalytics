@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:44.982935'
+lastmod: '2026-09-04'
 related:
 - 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
 - 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md

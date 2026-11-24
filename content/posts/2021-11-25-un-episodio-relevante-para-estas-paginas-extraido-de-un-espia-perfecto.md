@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-11-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:31.600346'
+lastmod: '2026-09-04'
 related:
 - 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
 - 2024-07-03-cortos-stats.md

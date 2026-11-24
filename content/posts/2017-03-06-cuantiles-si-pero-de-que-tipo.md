@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-03-06 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:12:10.380558'
+lastmod: '2026-10-12'
 related:
 - 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
 - 2013-08-05-medianas-ponderadas.md

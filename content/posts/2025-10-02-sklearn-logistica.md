@@ -8,7 +8,7 @@ categories:
 - estadística
 date: 2025-10-02
 description: La regresión logística en sklearn no es la regresión logística sino otra cosa.
-lastmod: '2025-10-08T20:18:56.272756'
+lastmod: '2025-11-05'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2014-10-13-los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera.md

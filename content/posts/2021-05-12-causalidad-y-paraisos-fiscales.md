@@ -6,7 +6,7 @@ categories:
 - mala ciencia
 date: 2021-05-12 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:07.653804'
+lastmod: '2026-10-12'
 related:
 - 2024-01-16-causalidad-conocimiento.md
 - 2011-02-25-1605.md

@@ -7,7 +7,7 @@ categories:
 - causalidad
 date: 2020-03-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:39.443989'
+lastmod: '2025-04-07'
 related:
 - 2020-02-06-model4you.md
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md

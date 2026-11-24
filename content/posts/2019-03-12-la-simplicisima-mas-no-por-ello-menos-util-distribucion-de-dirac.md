@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2019-03-12 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T19:10:09.505348'
+lastmod: '2025-11-02'
 related:
 - 2014-06-25-el-indice-de-birrieza-para-distribuciones-de-probabilidad.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

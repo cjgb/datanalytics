@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2019-11-18 09:13:56+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
 - 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md

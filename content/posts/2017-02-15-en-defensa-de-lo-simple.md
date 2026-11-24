@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-02-15 17:06:52+00:00
 draft: false
-lastmod: '2025-04-06T18:53:43.399482'
+lastmod: '2025-04-07'
 related:
 - 2011-02-22-solo-quiero-saber-si-basta-con-tres-casos.md
 - 2010-11-23-nuestro-mandato-ordenar-y-simplificar.md

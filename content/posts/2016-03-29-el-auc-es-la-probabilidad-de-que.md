@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-03-29 09:13:40+00:00
 draft: false
-lastmod: '2025-04-06T19:12:44.228640'
+lastmod: '2026-09-04'
 related:
 - 2019-02-11-auc-wilcoxon.md
 - 2019-05-24-cotas-superiores-para-el-auc.md

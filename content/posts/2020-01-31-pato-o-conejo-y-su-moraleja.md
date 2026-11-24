@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2020-01-31 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:36.936542'
+lastmod: '2026-09-04'
 related:
 - 2023-03-02-conformal-prediction.md
 - 2019-11-18-los-ejemplos-son-las-conclusiones.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-12-18 07:23:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:18.755115'
+lastmod: '2026-09-04'
 related:
 - 2017-09-06-python-y-r-una-perspectiva-markoviana.md
 - 2014-03-20-los-sospechosos-habituales-y-python.md

@@ -4,7 +4,7 @@ categories:
 - números
 - causalidad
 date: 2016-09-07 08:13:12+00:00
-lastmod: '2026-03-22'
+lastmod: '2026-03-23'
 related:
 - 2024-01-16-causalidad-conocimiento.md
 - 2017-12-22-lo-racional-que-jueguen-a-la-loteria-los-demas.md

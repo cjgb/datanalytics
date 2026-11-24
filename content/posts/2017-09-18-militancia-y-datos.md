@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-09-18 08:13:14+00:00
 draft: false
-lastmod: '2025-04-06T18:45:34.361362'
+lastmod: '2025-04-07'
 related:
 - 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md

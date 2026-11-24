@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-10-29 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:07:55.280608'
+lastmod: '2026-10-12'
 related:
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md

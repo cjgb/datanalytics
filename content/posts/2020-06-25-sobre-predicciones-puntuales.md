@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:27.845339'
+lastmod: '2025-11-02'
 related:
 - 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md
 - 2021-01-14-mas-capitulos-del-libro-de-estadistica-y-otras-cosas-y-proyectos-para-2021.md

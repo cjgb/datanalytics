@@ -5,7 +5,7 @@ categories:
 - causalidad
 date: 2011-04-20 07:44:02+00:00
 draft: false
-lastmod: '2025-04-06T18:57:21.645226'
+lastmod: '2026-09-04'
 related:
 - 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md

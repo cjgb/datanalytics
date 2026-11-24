@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-02-20 07:19:25+00:00
 draft: false
-lastmod: '2025-04-06T19:00:40.602239'
+lastmod: '2026-09-04'
 related:
 - 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-04-19 09:52:38+00:00
 draft: false
-lastmod: '2025-04-06T18:54:11.015073'
+lastmod: '2026-10-12'
 related:
 - 2021-06-23-mi-mapa-provincial-favorito.md
 - 2017-03-02-todas-las-terrazas-de-madrid.md

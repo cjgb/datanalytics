@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2016-10-07 08:13:41+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:59.168415'
+lastmod: '2026-10-12'
 related:
 - 2016-02-25-las-viii-jornadas-de-usuarios-de-r-en-albacete.md
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md

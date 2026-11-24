@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-10-21 01:04:35+00:00
 draft: false
-lastmod: '2025-04-06T18:50:36.254918'
+lastmod: '2026-03-28'
 related:
 - 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 - 2011-03-22-graficos-i-introduccion.md

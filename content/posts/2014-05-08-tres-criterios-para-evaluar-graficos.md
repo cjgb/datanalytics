@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-05-08 07:44:30+00:00
 draft: false
-lastmod: '2025-04-06T19:03:39.061978'
+lastmod: '2026-09-04'
 related:
 - 2010-09-27-c2bfque-grafico-es-mejor.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md

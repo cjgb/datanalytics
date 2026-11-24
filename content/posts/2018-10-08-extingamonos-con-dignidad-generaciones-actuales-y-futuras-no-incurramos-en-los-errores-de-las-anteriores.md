@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2018-10-08 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:10:45.152634'
+lastmod: '2025-04-07'
 related:
 - 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md

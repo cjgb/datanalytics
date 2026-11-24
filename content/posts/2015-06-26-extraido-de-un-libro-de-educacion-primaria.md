@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2015-06-26 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:49:53.365187'
+lastmod: '2026-09-04'
 related:
 - 2016-12-01-hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba.md
 - 2016-05-12-tartas-con-porciones-negativas.md

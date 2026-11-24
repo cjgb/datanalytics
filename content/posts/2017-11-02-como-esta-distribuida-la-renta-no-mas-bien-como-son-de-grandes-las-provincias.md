@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-02 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:08:01.318695'
+lastmod: '2025-11-02'
 related:
 - 2022-01-02-por-que-vivimos-espanoles-tanta-altitud.md
 - 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md

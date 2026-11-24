@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-05-05 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:47:03.746401'
+lastmod: '2025-11-02'
 related:
 - 2020-12-14-encuestas-electorales-medios-y-sesgos.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

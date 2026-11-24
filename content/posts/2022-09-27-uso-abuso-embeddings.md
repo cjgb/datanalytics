@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2022-09-27
-lastmod: '2025-04-06T19:10:29.577699'
+lastmod: '2025-04-07'
 related:
 - 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md
 - 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md

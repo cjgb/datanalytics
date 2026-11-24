@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-01-09 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:06:27.367951'
+lastmod: '2025-11-02'
 related:
 - 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
 - 2012-04-30-contar-c2bffacil.md

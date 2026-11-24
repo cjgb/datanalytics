@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2014-10-20 07:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:50:00.097221'
+lastmod: '2026-09-04'
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

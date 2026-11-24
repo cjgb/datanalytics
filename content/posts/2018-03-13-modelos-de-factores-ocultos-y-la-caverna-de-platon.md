@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-03-13 08:13:25+00:00
 draft: false
-lastmod: '2025-04-06T19:06:20.701989'
+lastmod: '2025-11-02'
 related:
 - 2024-11-12-cortos-stats.md
 - 2020-06-12-explicacion-de-modelos.md

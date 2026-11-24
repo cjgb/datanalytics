@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-10-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:58:21.217050'
+lastmod: '2025-05-05'
 related:
 - 2019-10-10-los-fundamentos-matematicos-de-la-estadistica-teorica.md
 - 2017-01-24-las-tres-o-cuatro-eras-de-la-estadistica.md

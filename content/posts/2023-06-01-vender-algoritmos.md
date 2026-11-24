@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-06-01
-lastmod: '2025-04-06T18:46:30.108676'
+lastmod: '2025-04-07'
 related:
 - 2023-05-25-evaluaciones-clinicas-actuariales.md
 - 2017-01-16-weapons-of-math-destruction.md

@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2020-04-20 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T19:03:12.613242'
+lastmod: '2026-10-08'
 related:
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

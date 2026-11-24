@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-09-27 23:39:43+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2014-05-08-tres-criterios-para-evaluar-graficos.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

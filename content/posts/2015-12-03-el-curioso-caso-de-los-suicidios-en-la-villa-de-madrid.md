@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-12-03 11:45:52+00:00
 draft: false
-lastmod: '2025-04-06T19:07:43.654459'
+lastmod: '2026-09-04'
 related:
 - 2015-09-30-el-curioso-caso-de-los-suicidios-en-madrid.md
 - 2017-06-15-vaya-vaya-vaya-y-hay-motivo-para-retractar.md

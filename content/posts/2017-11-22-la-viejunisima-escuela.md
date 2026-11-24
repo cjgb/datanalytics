@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2017-11-22 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T19:03:17.163127'
+lastmod: '2025-11-02'
 related:
 - 2024-07-03-cortos-stats.md
 - 2023-10-05-llms-historia.md

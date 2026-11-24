@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-11-18 08:13:17+00:00
 noindex: true
-lastmod: '2025-04-06T19:03:48.332658'
+lastmod: '2026-09-26'
 related:
 - 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md
 - 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md

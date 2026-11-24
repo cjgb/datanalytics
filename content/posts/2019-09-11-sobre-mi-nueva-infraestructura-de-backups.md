@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-09-11 09:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:07:56.712989'
+lastmod: '2025-04-07'
 related:
 - 2013-08-21-mis-copias-de-seguridad.md
 - 2017-03-31-hoy-es-el-dia-internacional-de-la-copia-de-seguridad.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-05-30
-lastmod: '2025-04-06T19:09:39.999783'
+lastmod: '2025-09-03'
 related:
 - 2024-07-08-cortos-stats.md
 - 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md

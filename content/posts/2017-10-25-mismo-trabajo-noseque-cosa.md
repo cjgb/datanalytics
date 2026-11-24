@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-10-25 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:51:05.263819'
+lastmod: '2025-04-07'
 related:
 - 2015-03-09-unas-preguntas-incomodas.md
 - 2019-03-26-hay-algo-podrido-en-la-microeconomia-normativa.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-10-25 06:27:08+00:00
 draft: false
-lastmod: '2025-04-06T18:47:30.067954'
+lastmod: '2025-04-07'
 related:
 - 2023-09-14-gestion-liquidez.md
 - 2023-03-16-negocio-bancario.md

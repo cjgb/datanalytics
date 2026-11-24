@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-12-11 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:49:33.844631'
+lastmod: '2026-09-04'
 related:
 - 2010-11-02-comportamiento-inesperado-c2bfsolo-por-mi.md
 - 2014-01-27-guia-de-estilo-de-r-de-google.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-09-08 19:54:09+00:00
-lastmod: '2025-04-06T18:57:05.598492'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md

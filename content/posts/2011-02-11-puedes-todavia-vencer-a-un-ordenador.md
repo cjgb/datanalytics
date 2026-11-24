@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2011-02-11 09:25:58+00:00
 draft: false
-lastmod: '2025-04-06T18:56:29.967865'
+lastmod: '2026-09-26'
 related:
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md

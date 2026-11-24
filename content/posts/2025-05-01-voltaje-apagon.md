@@ -5,7 +5,7 @@ categories:
 date: 2025-05-01
 description: Mediciones del voltaje en Madrid en los días previos al gran apagón de
   abril de 2025 en España y Portugal
-lastmod: '2025-05-01T03:34:29.648920'
+lastmod: '2025-11-02'
 related:
 - 2024-03-14-precio-medio-diario-electricidad.md
 - 2012-03-01-como-poner-una-lavadora.md

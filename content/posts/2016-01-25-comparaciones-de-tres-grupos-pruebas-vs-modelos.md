@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-01-25 09:13:59+00:00
 draft: false
-lastmod: '2025-04-06T18:46:37.399742'
+lastmod: '2026-09-04'
 related:
 - 2020-04-13-regresion-tradicional-vs-multinivel.md
 - 2023-03-21-reduccion-error-tests-ab.md

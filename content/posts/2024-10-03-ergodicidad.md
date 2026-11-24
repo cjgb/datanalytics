@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-10-03
-lastmod: '2025-04-06T18:45:00.975272'
+lastmod: '2025-09-30'
 related:
 - 2022-09-15-perder-ganando.md
 - 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md

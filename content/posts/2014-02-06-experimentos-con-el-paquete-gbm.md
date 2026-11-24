@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-02-06 08:07:56+00:00
 draft: false
-lastmod: '2025-04-06T19:08:24.217470'
+lastmod: '2026-09-04'
 related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

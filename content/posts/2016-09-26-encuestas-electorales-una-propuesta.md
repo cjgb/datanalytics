@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-09-26 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:06:32.347502'
+lastmod: '2026-09-04'
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 - 2022-05-10-encuestas-electorales-cualitativas.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-07-31 07:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:06:54.257260'
+lastmod: '2025-10-12'
 related:
 - 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
 - 2022-09-06-problema-estadistica-frecuencias-naturales.md

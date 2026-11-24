@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-09-09 09:13:08+00:00
 draft: false
-lastmod: '2025-04-06T19:10:11.747186'
+lastmod: '2025-04-07'
 related:
 - 2020-07-29-un-instituto-nacional-de-datos.md
 - 2018-12-05-tiene-sentido-plantearse-un-objetivo-que-no-se-puede-medir.md

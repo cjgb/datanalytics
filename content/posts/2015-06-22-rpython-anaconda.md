@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-22 08:13:28+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:45.898218'
+lastmod: '2026-01-31'
 related:
 - 2019-06-06-mi-infraestructura-para-python.md
 - 2011-05-24-se-buscan-alpha-testers-para-rpython.md

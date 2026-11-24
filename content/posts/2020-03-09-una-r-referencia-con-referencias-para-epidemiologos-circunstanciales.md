@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-03-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:11:25.895527'
+lastmod: '2025-04-07'
 related:
 - 2020-03-10-seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r.md
 - 2020-03-09-seguimiento-del-coronavirus-en-tiempo-real-con-r.md

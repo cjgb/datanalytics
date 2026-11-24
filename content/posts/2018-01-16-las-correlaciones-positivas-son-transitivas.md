@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-01-16 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T18:50:58.911973'
+lastmod: '2026-10-12'
 related:
 - 2017-02-09-la-inesperada-correlacion-de-los-ratios.md
 - 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md

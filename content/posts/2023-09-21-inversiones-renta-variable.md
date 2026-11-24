@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-09-21
-lastmod: '2025-04-06T18:49:46.692455'
+lastmod: '2026-09-04'
 related:
 - 2023-09-14-gestion-liquidez.md
 - 2024-02-29-letf.md

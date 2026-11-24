@@ -4,7 +4,7 @@ categories:
 - números
 date: 2010-12-28 09:58:09+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:02.373099'
+lastmod: '2026-09-26'
 related:
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
 - 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md

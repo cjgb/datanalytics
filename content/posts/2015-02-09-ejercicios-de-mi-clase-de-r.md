@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-02-09 07:13:30+00:00
 draft: false
-lastmod: '2025-04-06T19:01:25.697496'
+lastmod: '2026-09-04'
 related:
 - 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md

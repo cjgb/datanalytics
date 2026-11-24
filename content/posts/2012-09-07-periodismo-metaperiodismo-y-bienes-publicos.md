@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-09-07 07:00:01+00:00
 draft: false
-lastmod: '2025-04-06T19:04:28.352887'
+lastmod: '2026-09-04'
 related:
 - 2014-07-07-por-que-soy-esceptico-con-respecto-al-periodismo-de-datos.md
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md

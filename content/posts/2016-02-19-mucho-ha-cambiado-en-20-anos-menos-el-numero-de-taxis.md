@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-02-19 09:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:01:29.980155'
+lastmod: '2026-07-27'
 related:
 - 2016-09-15-seguro-que-aplica-lo-del-secreto-estadistico.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2021-10-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:50.242422'
+lastmod: '2026-10-12'
 related:
 - 2020-03-03-para-razonar-rigurosamente-bajo-incertidumbre-hay-que-recurrir-al-lenguaje-de-la-probabilidad.md
 - 2024-03-04-cortos-00.md

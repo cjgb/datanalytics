@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-04-01 07:37:42+00:00
 draft: false
-lastmod: '2025-04-06T19:07:23.418746'
+lastmod: '2026-09-04'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2014-04-09-la-escala-natural-de-la-varianza.md

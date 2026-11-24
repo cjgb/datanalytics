@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-07-09 09:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:46:34.085121'
+lastmod: '2026-09-04'
 related:
 - 2019-07-04-mortalidad-y-domingos.md
 - 2019-06-07-vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura.md

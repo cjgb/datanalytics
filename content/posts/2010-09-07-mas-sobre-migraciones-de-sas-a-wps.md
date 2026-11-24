@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-09-07 19:38:59+00:00
-lastmod: '2025-04-06T18:56:30.705219'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-04-02 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:55:32.794631'
+lastmod: '2026-09-03'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md

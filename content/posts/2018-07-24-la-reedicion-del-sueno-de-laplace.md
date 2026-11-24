@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-07-24 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T19:02:34.513182'
+lastmod: '2025-07-22'
 related:
 - 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
 - 2024-10-17-interpretacion-modelos.md

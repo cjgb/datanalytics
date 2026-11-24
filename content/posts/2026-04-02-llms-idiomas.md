@@ -5,7 +5,7 @@ categories:
 date: 2026-04-02
 description: Los LLMs son más buenos, bonitos y baratos cuando interactúas con ellos
   en inglés.
-lastmod: '2026-03-27T19:05:50.445661'
+lastmod: '2026-03-27'
 related:
 - 2024-10-01-cortos-llms.md
 - 2025-04-15-cortos-llm.md

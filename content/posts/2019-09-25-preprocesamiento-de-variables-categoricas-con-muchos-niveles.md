@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-09-25 09:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:54:14.331337'
+lastmod: '2025-11-02'
 related:
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

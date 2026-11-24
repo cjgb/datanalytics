@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2015-10-15 08:13:06+00:00
 draft: false
-lastmod: '2025-10-22'
+lastmod: '2025-11-02'
 related:
 - 2011-04-19-graficos-v-mapas.md
 - 2015-10-13-que-primitivos-eran-aquellos-antepasados-nuestros-o-no.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-10-28 07:08:10+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-11-04-c2bfes-abierto-todo-lo-que-reluce-resultados.md

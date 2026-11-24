@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-08-04 07:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:56:27.759066'
+lastmod: '2025-09-27'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md

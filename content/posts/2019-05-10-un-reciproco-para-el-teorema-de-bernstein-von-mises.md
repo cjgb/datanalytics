@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-05-10 09:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:00:20.557343'
+lastmod: '2025-11-12'
 related:
 - 2021-03-04-sobre-el-teorema-de-aumann.md
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md

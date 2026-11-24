@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-04-04 09:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:49:07.023403'
+lastmod: '2025-04-07'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2016-01-15-vive-la-ciencia-y-su-prestigio-de-las-rentas-del-pasado.md

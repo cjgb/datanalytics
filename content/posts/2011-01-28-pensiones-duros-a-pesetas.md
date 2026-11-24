@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-28 09:31:43+00:00
 draft: false
-lastmod: '2025-04-06T18:54:22.392898'
+lastmod: '2026-09-26'
 related:
 - 2013-01-22-son-sostenibles-las-pensiones-en-el-largo-plazo.md
 - 2015-03-23-mileuristas-anuales.md

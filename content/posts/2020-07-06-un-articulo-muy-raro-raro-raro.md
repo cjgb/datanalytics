@@ -5,7 +5,7 @@ categories:
 - estadística
 - mala ciencia
 date: 2020-07-06 09:13:00+00:00
-lastmod: '2025-04-06T19:12:31.579344'
+lastmod: '2026-06-12'
 related:
 - 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
 - 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md

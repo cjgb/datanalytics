@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-06-13
-lastmod: '2025-04-06T18:54:18.401776'
+lastmod: '2025-10-06'
 related:
 - 2018-11-07-cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy.md
 - 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md

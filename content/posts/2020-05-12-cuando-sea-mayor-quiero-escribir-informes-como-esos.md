@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-12 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:33.222893'
+lastmod: '2026-10-12'
 related:
 - 2013-01-04-sanidad-publica-sanidad-privada.md
 - 2014-02-21-cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion.md

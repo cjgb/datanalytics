@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-10-21 09:10:00+00:00
 draft: false
-lastmod: '2025-04-06T19:13:04.151957'
+lastmod: '2026-09-04'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md

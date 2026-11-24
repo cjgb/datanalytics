@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2020-09-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:36.682181'
+lastmod: '2026-10-12'
 related:
 - 2018-04-02-sobre-lo-de-cambridge-analytica.md
 - 2023-06-01-vender-algoritmos.md

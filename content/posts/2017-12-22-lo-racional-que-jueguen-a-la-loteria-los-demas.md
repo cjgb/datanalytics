@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-12-22 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T18:47:58.572817'
+lastmod: '2026-09-03'
 related:
 - 2024-01-16-causalidad-conocimiento.md
 - 2011-12-22-hoy-dia-del-sorteo-de-la-loteria-de-navidad-no-se-publica-entrada.md

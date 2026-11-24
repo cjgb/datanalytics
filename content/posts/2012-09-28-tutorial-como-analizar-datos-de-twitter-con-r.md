@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-09-28 07:14:39+00:00
 draft: false
-lastmod: '2025-04-06T19:02:26.689920'
+lastmod: '2026-09-04'
 related:
 - 2019-03-22-analisis-clasificacion-etc-de-textos-muy-cortos.md
 - 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md

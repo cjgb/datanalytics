@@ -5,7 +5,7 @@ categories:
 - números
 date: 2013-04-23 07:54:14+00:00
 draft: false
-lastmod: '2025-04-06T18:46:20.686234'
+lastmod: '2026-09-04'
 related:
 - 2011-12-26-ibm-sobre-excel-como-herramienta-estadistica.md
 - 2010-01-25-excel-y-estadistica.md

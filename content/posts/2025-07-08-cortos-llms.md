@@ -5,7 +5,7 @@ categories:
 date: 2025-07-08
 description: Una serie de notas sobre LLMs (incluidas "novedades" sobre el razonamiento
   matemático de ALIA en catalán)
-lastmod: '2025-09-08T19:01:21.300713'
+lastmod: '2026-01-20'
 related:
 - 2025-01-23-alia.md
 - 2024-03-21-cortos.md

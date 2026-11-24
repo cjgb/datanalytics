@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-12-09 10:23:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:00.767283'
+lastmod: '2026-09-04'
 related:
 - 2022-05-24-log-scoring-mv.md
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md

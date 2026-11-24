@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-10-06 21:50:44+00:00
 draft: false
-lastmod: '2025-04-06T19:11:22.822353'
+lastmod: '2026-10-12'
 related:
 - 2019-10-02-blas-eficiencia-y-lme4.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

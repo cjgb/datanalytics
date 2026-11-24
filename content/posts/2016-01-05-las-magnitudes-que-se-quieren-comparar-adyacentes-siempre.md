@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-01-05 16:10:21+00:00
 draft: false
-lastmod: '2025-04-06T19:12:11.801080'
+lastmod: '2026-09-04'
 related:
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
 - 2011-04-26-graficos-vi-teoria.md

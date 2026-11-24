@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-06-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:13.780754'
+lastmod: '2025-10-12'
 related:
 - 2011-07-22-la-escuela-de-chicago-se-defiende.md
 - 2017-01-16-weapons-of-math-destruction.md

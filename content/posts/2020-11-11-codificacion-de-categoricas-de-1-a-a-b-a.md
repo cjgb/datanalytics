@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-11-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:05:22.903921'
+lastmod: '2026-09-04'
 related:
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

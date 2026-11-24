@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2021-03-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:13:29.700304'
+lastmod: '2025-04-07'
 related:
 - 2021-02-08-el-teorema-de-bayes-como-la-version-modal-del-modus-tollens.md
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md

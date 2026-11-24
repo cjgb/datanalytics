@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-12-29 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:48:46.303462'
+lastmod: '2026-09-04'
 related:
 - 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
 - 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md

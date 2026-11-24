@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-04-15 07:17:44+00:00
 draft: false
-lastmod: '2025-04-06T18:52:15.393307'
+lastmod: '2025-04-07'
 related:
 - 2024-07-03-cortos-stats.md
 - 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md

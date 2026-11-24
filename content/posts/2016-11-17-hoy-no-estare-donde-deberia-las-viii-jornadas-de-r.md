@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-11-17 08:00:47+00:00
 draft: false
-lastmod: '2025-04-06T18:55:50.795313'
+lastmod: '2025-09-25'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md

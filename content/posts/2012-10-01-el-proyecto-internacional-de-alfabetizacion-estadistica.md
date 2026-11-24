@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-10-01 06:42:52+00:00
 draft: false
-lastmod: '2025-04-06T18:58:48.787819'
+lastmod: '2025-09-17'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2010-05-20-numeros-estadisticamente-transcendentes.md

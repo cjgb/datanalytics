@@ -5,7 +5,7 @@ categories:
 date: 2026-09-29
 description: De la ineficacia de la vitamina D a las malas noticias sobre la fusión
   nuclear. Pasando, cómo no, por el fraude y la devaluación del concocimiento matemático.
-lastmod: '2026-09-25T10:46:42.149703'
+lastmod: '2026-11-23'
 related:
 - 2025-09-30-mala-ciencia.md
 - 2026-03-23-cortos.md
@@ -26,7 +26,7 @@ En medicina, un estudio basado en el análisis de una población extensa de art�
 
 [Varias _startups_ de fusión nuclear han pivotado hacia áreas aledañas](https://backreaction.blogspot.com/2026/06/nuclear-fusion-is-in-trouble.html): Zap Energy, hacia la fisión; First Light, hacia la tecnología de amplificación; etc. Compárese esto con [lo que escribí hace un tiempo](/2026/05/28/probabilidad-fusion-nuclear/) sobre el argumento de que muchas _startups_ persiguiendo independientemente el mismo objetivo a través de tecnologías diferentes prácticamente aseguraba el éxito de la empresa.
 
-[Project Callisto: no hay tal cosa como la fusión fría](https://callisto.report/). Los efectos reportados en alguna ocasión admiten todos explicaciones prosaicas.
+[Project Callisto: no hay tal cosa como la fusión fría](https://callisto.report/). Los efectos reportados en alguna ocasión admiten explicaciones prosaicas.
 
 En 1993 se escribían cosas como que zanjar la cuestión del bosón de Higgs iba a suponer [«una discontinuidad en la historia intelectual de la humanidad y el hecho más reseñable que pudiera haber ocurrido desde los comienzos de la ciencia moderna en el siglo XVII»](https://statmodeling.stat.columbia.edu/2026/09/12/did-2012-mark-the-discovery-of-the-final-laws-of-nature-a-discontinuity-in-human-intellectual-history-the-sharpest-that-has-occurred-since-the-beginning-of-modern-science-in-the-17th-century/). Nada menos.
 

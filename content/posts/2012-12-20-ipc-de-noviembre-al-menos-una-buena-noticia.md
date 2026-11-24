@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-12-20 06:56:52+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:56.821334'
+lastmod: '2026-10-12'
 related:
 - 2012-07-30-no-es-pais-para-estadisticos.md
 - 2011-02-25-1605.md

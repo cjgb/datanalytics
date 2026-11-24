@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-06-12 07:00:56+00:00
 draft: false
-lastmod: '2025-04-06T18:51:41.088029'
+lastmod: '2026-09-04'
 related:
 - 2014-11-20-spark-gana-la-competicion-gray-sort-de-2014.md
 - 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md

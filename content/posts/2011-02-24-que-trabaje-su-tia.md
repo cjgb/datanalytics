@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-02-24 08:26:24+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:38.903246'
+lastmod: '2026-09-26'
 related:
 - 2012-07-16-el-paro-cosa-de-hombres.md
 - 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md

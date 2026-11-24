@@ -5,7 +5,7 @@ categories:
 date: 2026-03-19
 description: Descubre cuánto tiempo tardan en resolverse las conjeturas matemáticas
   mediante modelos de supervivencia en Excel y R.
-lastmod: '2026-03-16T13:10:37.466327'
+lastmod: '2026-03-16'
 related:
 - 2016-11-28-analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto.md
 - 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md

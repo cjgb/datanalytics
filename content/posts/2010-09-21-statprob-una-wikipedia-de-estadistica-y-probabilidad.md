@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-09-21 23:03:07+00:00
-lastmod: '2025-04-06T18:56:05.155905'
+lastmod: '2026-09-26'
 related:
 - 2010-11-15-la-wikipedia-te-necesita.md
 - 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md

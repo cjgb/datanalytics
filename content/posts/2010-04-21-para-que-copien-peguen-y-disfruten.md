@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-04-21 00:18:06+00:00
-lastmod: '2025-04-06T18:51:53.145227'
+lastmod: '2026-09-26'
 related:
 - 2010-04-14-la-opinion-sobre-r-de-una-pobre-senora.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md

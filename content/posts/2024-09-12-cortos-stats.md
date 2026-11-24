@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-09-12
-lastmod: '2025-04-06T18:49:52.038368'
+lastmod: '2025-10-06'
 related:
 - 2020-04-13-regresion-tradicional-vs-multinivel.md
 - 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md

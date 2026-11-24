@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-05-24 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:09:50.208069'
+lastmod: '2025-04-07'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2012-07-27-a-los-datos-mismos.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-02-16 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T19:05:45.204695'
+lastmod: '2026-09-04'
 related:
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
 - 2023-10-03-muestreo-superricos.md

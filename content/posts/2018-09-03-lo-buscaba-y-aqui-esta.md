@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-09-03 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T19:11:29.730430'
+lastmod: '2025-05-05'
 related:
 - 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
 - 2024-01-09-regresiones_pisa.md

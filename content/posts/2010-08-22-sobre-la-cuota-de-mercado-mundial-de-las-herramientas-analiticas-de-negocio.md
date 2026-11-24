@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-08-22 13:50:11+00:00
-lastmod: '2025-04-06T19:04:49.073275'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2014-03-20-los-sospechosos-habituales-y-python.md

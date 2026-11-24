@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-09-20 07:11:53+00:00
 draft: false
-lastmod: '2025-04-06T19:07:44.348661'
+lastmod: '2026-10-12'
 related:
 - 2011-09-15-la-ley-de-benford.md
 - 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md

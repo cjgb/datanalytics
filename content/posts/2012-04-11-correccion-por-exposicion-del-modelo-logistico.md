@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-04-11 06:52:19+00:00
 draft: false
-lastmod: '2025-04-06T18:47:57.900304'
+lastmod: '2026-10-12'
 related:
 - 2023-01-24-funciones-enlace.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

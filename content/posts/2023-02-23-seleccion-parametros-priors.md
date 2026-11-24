@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-02-23
-lastmod: '2025-04-06T18:50:34.938273'
+lastmod: '2025-04-07'
 related:
 - 2016-07-06-glms-con-prioris-casi-a-voluntad.md
 - 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md

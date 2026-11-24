@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-03-07 07:51:04+00:00
 draft: false
-lastmod: '2025-04-06T19:02:01.374323'
+lastmod: '2026-09-04'
 related:
 - 2014-12-10-hubo-alguna-vez-un-millon-de-palentinas.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

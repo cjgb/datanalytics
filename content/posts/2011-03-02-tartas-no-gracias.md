@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-03-02 09:28:36+00:00
 draft: false
-lastmod: '2025-04-06T19:11:43.760614'
+lastmod: '2026-11-23'
 related:
 - 2021-07-01-la-miseria-de-la-sicologia-de-la-percepcion.md
 - 2011-01-05-1139.md
@@ -22,13 +22,11 @@ url: /2011/03/02/tartas-no-gracias/
 
 Voy a dejar aquí escrito mi argumento. Para que conste. Para no tener que repetirlo cada vez que un _exceladicto_ osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.
 
-El uso de tartas para visualizar fracciones está sancionado ([acepción segunda](http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=sancionar)) por la escuela básica: ¿quién no las vio representadas en una pizarra cuando oyó por primera vez en su vida mencionar las palabras _tres octavos_,  _numerador_ y _denominador_? El que la formación matemática de muchos no llegase mucho más lejos unido a su prominente presencia en el endiosado Excel ha perpetuado su uso en los negocios y publicaciones para el gran público.
+El uso de tartas para visualizar fracciones está sancionado ([acepción segunda](http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=sancionar)) por la escuela básica: ¿quién no las vio representadas en una pizarra cuando oyó por primera vez en su vida mencionar las palabras _tres octavos_,  _numerador_ y _denominador_? El que la formación matemática de muchos no llegase mucho más lejos, unido a su prominente presencia en el endiosado Excel, ha perpetuado su uso en los negocios y publicaciones para el gran público.
 
 Pero es de notar que su uso es casi anecdótico en publicaciones científicas. Y hay sobradas razones para ello. Unas son sicológicas y tienen que ver con la inhabilidad con que el ojo percibe y compara ángulos y áreas. El siguiente gráfico, [extraído de la Wikipedia](http://en.wikipedia.org/wiki/Pie_chart#Use.2C_effectiveness_and_visual_perception), ilustra el fenómeno sin necesidad de más palabras:
 
-
 ![](/img/2011/02/Piecharts.png#center)
-
 
 La Wikipedia añade (mi traducción):
 

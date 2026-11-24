@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2021-12-13
-lastmod: '2025-04-06T18:53:25.170733'
+lastmod: '2026-10-12'
 related:
 - 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 - gráficos
 date: 2012-11-12 07:34:13+00:00
-lastmod: '2025-04-06T19:02:09.576953'
+lastmod: '2026-10-12'
 related:
 - 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
 - 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md

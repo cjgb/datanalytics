@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-01-18 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:08:37.238182'
+lastmod: '2026-09-04'
 related:
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

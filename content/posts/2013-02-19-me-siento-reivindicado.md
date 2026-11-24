@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-02-19 11:37:39+00:00
 draft: false
-lastmod: '2025-04-06T18:56:01.491930'
+lastmod: '2025-05-05'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md

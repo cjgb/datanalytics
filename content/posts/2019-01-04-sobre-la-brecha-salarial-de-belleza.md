@@ -4,7 +4,7 @@ categories:
 - números
 date: 2019-01-04 08:13:48+00:00
 draft: false
-lastmod: '2025-04-06T19:04:19.042295'
+lastmod: '2025-04-07'
 related:
 - 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
 - 2015-03-09-unas-preguntas-incomodas.md

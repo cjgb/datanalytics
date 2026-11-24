@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2020-03-31 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:10.302857'
+lastmod: '2026-10-08'
 related:
 - 2020-05-07-coronavirus-cualitativo.md
 - 2018-01-24-la-dieta-de-hambre-en-dias-alternos-en-la-alimentacion-de-los-viejos.md

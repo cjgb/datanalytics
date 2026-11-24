@@ -5,7 +5,7 @@ categories:
 date: 2026-02-11
 description: 'Sobre el complejo ecosistema de los addons de Kodi: desde servidores
   de archivos y bases de datos de enlaces hasta el papel clave de los servicios Debrid.'
-lastmod: '2026-02-11T11:49:20.571901'
+lastmod: '2026-10-12'
 related:
 - 2025-05-15-dark-web.md
 - 2017-09-19-fedatarios-blockchain-y-bitcoin.md

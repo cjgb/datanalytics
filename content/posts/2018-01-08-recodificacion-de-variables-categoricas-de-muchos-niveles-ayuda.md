@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-01-08 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:44:42.877669'
+lastmod: '2025-05-05'
 related:
 - 2014-10-07-como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis.md
 - 2020-11-11-codificacion-de-categoricas-de-1-a-a-b-a.md

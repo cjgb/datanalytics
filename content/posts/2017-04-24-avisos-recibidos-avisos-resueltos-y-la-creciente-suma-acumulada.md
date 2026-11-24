@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-04-24 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:12:05.433882'
+lastmod: '2026-09-04'
 related:
 - 2017-09-29-bus-al-norte-bus-al-sur.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

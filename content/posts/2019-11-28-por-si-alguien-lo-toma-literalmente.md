@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-11-28 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:50.491030'
+lastmod: '2025-04-07'
 related:
 - 2025-02-25-cortos-stats.md
 - 2015-04-14-la-informacion-es-sorpresa.md

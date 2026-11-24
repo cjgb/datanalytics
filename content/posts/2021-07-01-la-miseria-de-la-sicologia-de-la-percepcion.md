@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2021-07-01 09:13:00+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 description: ¿Difiere la población de sujetos que los sicólogos usan para escribir sobre gráficos y percepción de la población general?
 related:
 - 2011-04-26-graficos-vi-teoria.md

@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2011-06-24 07:19:27+00:00
 draft: false
-lastmod: '2025-04-06T19:00:14.505529'
+lastmod: '2026-09-04'
 related:
 - 2024-12-19-promediar-predicciones.md
 - 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md

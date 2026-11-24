@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-03-04
-lastmod: '2025-04-06T19:06:41.625351'
+lastmod: '2025-11-02'
 related:
 - 2024-03-21-cortos.md
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-02-02 09:05:25+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2010-11-02-comportamiento-inesperado-c2bfsolo-por-mi.md
 - 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md

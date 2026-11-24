@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2016-04-22 09:13:16+00:00
-lastmod: '2026-01-29'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-08 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:54:48.198646'
+lastmod: '2025-04-07'
 related:
 - 2014-12-31-el-problema-de-la-estimacion-inversa.md
 - 2018-11-16-colinealidad-y-posterioris.md

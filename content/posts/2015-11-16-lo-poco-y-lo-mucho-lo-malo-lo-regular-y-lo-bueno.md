@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-11-16 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:11:18.158955'
+lastmod: '2026-09-04'
 related:
 - 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
 - 2019-01-31-hay-demasiados-paquetes-en-r.md

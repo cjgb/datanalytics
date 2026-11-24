@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2014-12-11 07:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:05:41.468738'
+lastmod: '2026-09-04'
 related:
 - 2018-01-29-donde-estan-las-letras.md
 - 2012-09-20-como-votan-los-diputados.md

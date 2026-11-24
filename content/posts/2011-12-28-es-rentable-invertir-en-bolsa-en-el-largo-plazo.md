@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2011-12-28 07:12:11+00:00
 draft: false
-lastmod: '2025-04-06T19:11:26.682004'
+lastmod: '2026-09-04'
 related:
 - 2023-09-21-inversiones-renta-variable.md
 - 2023-09-14-gestion-liquidez.md

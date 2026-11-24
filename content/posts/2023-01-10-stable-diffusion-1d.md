@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-01-10
-lastmod: '2025-04-06T18:49:55.374952'
+lastmod: '2026-09-04'
 related:
 - 2022-06-16-modelos-difusion.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

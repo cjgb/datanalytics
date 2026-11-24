@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-08-29 07:47:26+00:00
 draft: false
-lastmod: '2025-04-06T18:52:04.063556'
+lastmod: '2026-09-04'
 related:
 - 2012-09-12-el-arte-funcional-una-revision-personal.md
 - 2014-03-11-beautiful-evidence-de-tufte.md

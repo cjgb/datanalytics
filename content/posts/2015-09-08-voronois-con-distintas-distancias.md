@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-09-08 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:46:32.102084'
+lastmod: '2026-09-04'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2022-07-14-proximidad-distribuciones.md

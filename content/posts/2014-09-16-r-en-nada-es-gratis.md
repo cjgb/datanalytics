@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-09-16 07:13:33+00:00
 draft: false
-lastmod: '2025-04-06T18:56:06.650014'
+lastmod: '2025-04-07'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

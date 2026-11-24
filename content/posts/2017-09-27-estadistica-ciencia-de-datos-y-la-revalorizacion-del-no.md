@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-09-27 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:48:02.854908'
+lastmod: '2025-11-08'
 related:
 - 2017-09-25-charla-en-pamplona.md
 - 2017-02-13-diapositivas-de-antikaggle-contra-la-homeopatia-de-datos.md

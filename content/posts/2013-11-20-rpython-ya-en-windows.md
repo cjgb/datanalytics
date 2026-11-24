@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-11-20 22:43:56+00:00
 draft: false
-lastmod: '2025-04-06T18:46:56.158305'
+lastmod: '2025-04-07'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md
 - 2015-01-02-publicada-una-nueva-version-de-rpython-win.md

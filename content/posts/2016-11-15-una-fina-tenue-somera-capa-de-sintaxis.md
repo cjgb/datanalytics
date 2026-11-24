@@ -6,7 +6,7 @@ categories:
 - r
 date: 2016-11-15 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:07:00.516852'
+lastmod: '2025-11-02'
 related:
 - 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
 - 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md

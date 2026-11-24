@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-14 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T18:46:58.142183'
+lastmod: '2025-10-12'
 related:
 - 2014-10-06-el-problema-del-100-y-un-ensayo-de-solucion.md
 - 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md

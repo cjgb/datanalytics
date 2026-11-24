@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2015-07-24 08:13:15+00:00
-lastmod: '2025-04-06T19:12:43.451028'
+lastmod: '2026-09-04'
 related:
 - 2022-01-25-universo-muestra-big-data.md
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md

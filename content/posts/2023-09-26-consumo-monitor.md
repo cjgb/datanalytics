@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-09-26
-lastmod: '2025-04-06T19:04:35.284290'
+lastmod: '2026-09-04'
 related:
 - 2022-07-26-hueco-termico.md
 - 2022-09-08-regresion-perdida-asimetrica.md

@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-10-16 08:13:29+00:00
 noindex: true
-lastmod: '2025-10-22'
+lastmod: '2026-10-12'
 related:
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md

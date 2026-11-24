@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-02-12 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T19:09:43.001227'
+lastmod: '2026-09-04'
 related:
 - 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
 - 2017-09-06-python-y-r-una-perspectiva-markoviana.md

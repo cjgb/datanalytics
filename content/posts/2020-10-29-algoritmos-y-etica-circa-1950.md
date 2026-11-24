@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2020-10-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:17.465560'
+lastmod: '2026-09-24'
 related:
 - 2023-05-25-evaluaciones-clinicas-actuariales.md
 - 2014-06-16-tan-actual-25-anos-despues.md

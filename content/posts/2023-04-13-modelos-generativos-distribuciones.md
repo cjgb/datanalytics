@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2023-04-13
-lastmod: '2025-04-06T19:09:31.511380'
+lastmod: '2025-04-07'
 related:
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 - 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2021-02-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:36.632980'
+lastmod: '2026-09-04'
 related:
 - 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
 - 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md

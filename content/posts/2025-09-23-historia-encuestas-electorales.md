@@ -10,7 +10,7 @@ categories:
 date: 2025-09-23
 description: 'Historia de las encuestas políticas y la predicción electoral: de 1900
   a hoy, cambios, errores, aciertos y el futuro del sondeo político y Tezanos'
-lastmod: '2025-10-01T18:56:50.993139'
+lastmod: '2026-01-20'
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

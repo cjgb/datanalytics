@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-11-30 08:13:38+00:00
 draft: false
-lastmod: '2025-04-06T18:59:23.179903'
+lastmod: '2025-10-12'
 related:
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 - 2015-10-21-la-falacia-del-fiscal-pero-con-frecuencias-naturales.md

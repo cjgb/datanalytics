@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2011-04-14
-lastmod: '2026-09-24'
+lastmod: '2026-10-08'
 description: Una lista de tutoriales para la construccción de gráficos e infografías.
 related:
 - 2011-04-26-graficos-vi-teoria.md

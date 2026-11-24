@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-06-25 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:05:22.100420'
+lastmod: '2026-10-12'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2014-11-10-remuestreos-y-tests-de-hipotesis.md

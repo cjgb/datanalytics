@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-01-03 06:23:30+00:00
 draft: false
-lastmod: '2025-04-06T18:54:16.995401'
+lastmod: '2026-09-04'
 related:
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
 - 2023-09-14-gestion-liquidez.md

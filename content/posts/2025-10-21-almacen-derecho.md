@@ -4,7 +4,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-10-21
 description: "Analogía y derecho: cómo las matemáticas ayudan a entender los límites del razonamiento analógico y el principio de proporcionalidad en la interpretación jurídica."
-lastmod: '2025-10-30T19:25:20.416163'
+lastmod: '2026-01-17'
 noindex: true
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-07-10
-lastmod: '2025-04-06T18:51:25.140448'
+lastmod: '2025-10-06'
 related:
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 - 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-03-04 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:06:11.959967'
+lastmod: '2026-09-04'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2018-11-16-colinealidad-y-posterioris.md

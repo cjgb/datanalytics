@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-03-21 07:31:13+00:00
 draft: false
-lastmod: '2025-04-06T19:12:13.927528'
+lastmod: '2026-09-04'
 related:
 - 2011-04-26-graficos-vi-teoria.md
 - 2014-12-05-r-markdown-a-la-tufte.md

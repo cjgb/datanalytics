@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-09-01 08:49:29+00:00
 draft: false
-lastmod: '2025-04-06T18:51:28.463234'
+lastmod: '2026-09-04'
 related:
 - 2020-08-31-sobre-la-muy-necesaria-oficina-del-dato.md
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md

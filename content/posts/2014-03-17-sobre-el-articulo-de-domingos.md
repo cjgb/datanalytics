@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2014-03-17 07:54:12+00:00
 draft: false
-lastmod: '2025-04-06T19:10:24.866624'
+lastmod: '2026-10-12'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

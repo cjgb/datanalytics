@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-01 09:00:11+00:00
-lastmod: '2025-04-06T19:07:01.223428'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2024-07-09-positron.md

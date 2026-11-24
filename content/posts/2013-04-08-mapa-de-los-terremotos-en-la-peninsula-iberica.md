@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-04-08 07:27:21+00:00
 draft: false
-lastmod: '2025-04-06T18:48:40.144481'
+lastmod: '2026-10-12'
 related:
 - 2013-12-10-te-queda-lejos-el-aeropuerto.md
 - 2019-07-15-cartogramas-con-recmap.md

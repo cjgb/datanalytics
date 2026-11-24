@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-07-03 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:57:00.348928'
+lastmod: '2025-04-07'
 related:
 - 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
 - 2017-05-11-cosas-de-twitter-y-encuestas.md

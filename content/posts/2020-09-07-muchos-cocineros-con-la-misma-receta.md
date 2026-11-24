@@ -4,7 +4,7 @@ categories:
 - artículos
 date: 2020-09-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:47.369434'
+lastmod: '2025-04-07'
 related:
 - 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
 - 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md

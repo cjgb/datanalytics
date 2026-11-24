@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-02-10 09:13:03+00:00
 draft: false
-lastmod: '2025-04-06T19:07:50.094405'
+lastmod: '2025-11-02'
 related:
 - 2011-03-22-graficos-i-introduccion.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

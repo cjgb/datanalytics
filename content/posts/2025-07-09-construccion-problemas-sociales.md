@@ -9,7 +9,7 @@ categories:
 date: 2025-07-09
 description: Sobre la construcción de problemas sociales (y el papel de la estadística
   en el proceso)
-lastmod: '2025-09-10T19:54:51.944643'
+lastmod: '2025-11-05'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md

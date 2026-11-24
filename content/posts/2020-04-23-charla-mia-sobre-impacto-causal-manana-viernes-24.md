@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2020-04-23 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T18:56:26.999800'
+lastmod: '2026-01-31'
 related:
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md
 - 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md

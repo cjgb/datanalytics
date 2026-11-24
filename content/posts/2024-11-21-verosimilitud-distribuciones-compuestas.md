@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-11-21
-lastmod: '2025-04-06T18:53:33.861191'
+lastmod: '2025-09-29'
 related:
 - 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

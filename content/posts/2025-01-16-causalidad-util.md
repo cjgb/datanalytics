@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - causalidad
 date: 2025-01-16
-lastmod: '2025-04-06T18:51:21.817981'
+lastmod: '2025-09-29'
 related:
 - 2025-01-09-causalidad-sujeto-verbo-od.md
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md

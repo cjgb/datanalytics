@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-01-28
-lastmod: '2025-04-06T18:57:14.453229'
+lastmod: '2026-09-04'
 related:
 - 2025-03-11-cortos-causalidad.md
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md

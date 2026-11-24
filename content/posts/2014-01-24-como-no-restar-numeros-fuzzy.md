@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-01-24 08:06:40+00:00
 draft: false
-lastmod: '2025-04-06T19:05:07.728864'
+lastmod: '2026-09-04'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

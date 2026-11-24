@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-04-04 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:52:54.227859'
+lastmod: '2026-09-04'
 related:
 - 2012-06-26-ciencia-e-ingenieria-estadistica-y-y-que.md
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md

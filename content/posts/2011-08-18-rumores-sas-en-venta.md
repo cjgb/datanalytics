@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2011-08-18 07:26:29+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:28.662988'
+lastmod: '2026-09-26'
 related:
 - 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

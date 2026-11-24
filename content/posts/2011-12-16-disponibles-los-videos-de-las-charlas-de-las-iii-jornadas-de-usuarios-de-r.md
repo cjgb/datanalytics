@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-12-16 06:51:52+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:03.344621'
+lastmod: '2026-09-04'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md

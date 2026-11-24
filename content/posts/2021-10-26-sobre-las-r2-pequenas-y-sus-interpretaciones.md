@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-10-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:09.645581'
+lastmod: '2026-09-04'
 related:
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 - 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md

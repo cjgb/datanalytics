@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-05-07 07:37:56+00:00
-lastmod: '2025-04-06T18:53:14.070252'
+lastmod: '2026-03-28'
 related:
 - 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
 - 2014-05-21-la-complejidad-de-la-ley.md

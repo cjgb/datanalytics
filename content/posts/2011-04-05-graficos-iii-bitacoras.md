@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2011-04-05 15:49:21+00:00
-lastmod: '2025-04-06T19:07:58.910432'
+lastmod: '2026-10-02'
 related:
 - 2011-04-26-graficos-vi-teoria.md
 - 2011-04-14-graficos-iv-tutoriales-2.md

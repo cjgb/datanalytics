@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2025-02-06
-lastmod: '2025-04-06T18:46:30.772899'
+lastmod: '2025-09-03'
 related:
 - 2021-10-28-monty-hall-reformulado.md
 - 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md

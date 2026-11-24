@@ -5,7 +5,7 @@ categories:
 date: 2025-09-09
 description: 'LLMs: burbujas y rentabilidad, persuasión futura, usos lucrativos, editores
   de imágenes, huella ambiental, límites del razonamiento y nuevas herramientas.'
-lastmod: '2025-09-23T23:20:26.686608'
+lastmod: '2026-01-20'
 related:
 - 2025-06-24-cortos-tecnologia.md
 - 2024-06-06-cortos-llms.md

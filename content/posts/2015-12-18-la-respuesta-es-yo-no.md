@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-12-18 08:13:13+00:00
-draft: false
-lastmod: '2025-04-06T18:48:30.159896'
+noindex: true
+lastmod: '2026-11-23'
 related:
 - 2014-02-18-el-yuyuplot-en-perspectiva.md
 - 2024-07-03-cortos-stats.md
@@ -19,4 +19,4 @@ title: 'La respuesta es: "Yo no"'
 url: /2015/12/18/la-respuesta-es-yo-no/
 ---
 
-La pregunta, a propósito, es [esta](http://www.gurusblog.com/archives/relacion-a-largo-plazo-entre-tipos-de-interes-y-bolsa-de-1970-a-hoy/17/12/2015/).
+La pregunta, a propósito, es [esta](https://web.archive.org/web/20151219234936/http://www.gurusblog.com/archives/relacion-a-largo-plazo-entre-tipos-de-interes-y-bolsa-de-1970-a-hoy/17/12/2015/).

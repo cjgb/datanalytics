@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-10-05 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:57:47.137612'
+lastmod: '2026-09-04'
 related:
 - 2010-11-08-una-revision-neoliberal-del-principio-de-peter.md
 - 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md

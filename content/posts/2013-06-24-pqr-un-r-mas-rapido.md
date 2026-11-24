@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-06-24 07:27:52+00:00
 noindex: true
-lastmod: '2026-03-04'
+lastmod: '2026-03-05'
 related:
 - 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 - 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md

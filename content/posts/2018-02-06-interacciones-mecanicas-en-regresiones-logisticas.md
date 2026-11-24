@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-02-06 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:13:11.051790'
+lastmod: '2026-09-04'
 related:
 - 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 - 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md

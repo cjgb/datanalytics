@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2013-06-14 07:17:37+00:00
 draft: false
-lastmod: '2025-04-06T19:06:34.578315'
+lastmod: '2026-09-04'
 related:
 - 2012-08-14-incendios-en-espana.md
 - 2017-10-18-ardeasturias-ardeaviles-ah-mierda.md

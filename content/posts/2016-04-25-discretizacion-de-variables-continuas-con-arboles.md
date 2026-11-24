@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-04-25 09:13:42+00:00
 draft: false
-lastmod: '2025-04-06T19:12:45.021481'
+lastmod: '2025-05-05'
 related:
 - 2017-01-10-repensando-la-codificacion-por-impacto.md
 - 2016-07-13-rapido-y-frugal-una-digresion-en-la-direccion-inhabitual.md

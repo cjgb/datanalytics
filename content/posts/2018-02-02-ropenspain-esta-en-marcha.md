@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2018-02-02 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:12:07.572510'
+lastmod: '2025-04-07'
 related:
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md
 - 2012-06-08-las-iv-jornadas-de-usuarios-de-r-estan-en-marcha.md

@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2015-05-22 08:13:25+00:00
 draft: false
-lastmod: '2025-04-06T18:58:53.236989'
+lastmod: '2026-07-10'
 related:
 - 2019-05-06-elecciones-mapas-y-mi-favorito.md
 - 2013-03-19-mapas-realmente-necesarios.md

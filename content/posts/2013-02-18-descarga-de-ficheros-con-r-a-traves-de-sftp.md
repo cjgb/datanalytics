@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-02-18 07:34:27+00:00
 draft: false
-lastmod: '2025-04-06T19:12:49.565698'
+lastmod: '2026-09-04'
 related:
 - 2014-11-12-descargar-ficheros-gz-detras-de-https-con-r.md
 - 2016-04-04-tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server.md

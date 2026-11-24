@@ -4,7 +4,7 @@ categories:
 - artículos
 date: 2020-01-30 16:46:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:15.701438'
+lastmod: '2025-04-07'
 related:
 - 2023-04-27-problemas-matematicos-deep-learning.md
 - 2014-03-17-sobre-el-articulo-de-domingos.md

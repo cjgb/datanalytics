@@ -6,7 +6,7 @@ categories:
 date: 2026-06-11
 description: También, sobre los gráficos estadísticos como herramientas de persuasión
   y el uso estratégico de los grados de libertad que existen a la hora de construirlos.
-lastmod: '2026-06-04'
+lastmod: '2026-09-04'
 related:
 - 2023-04-24-estadistica-creativa.md
 - 2025-05-20-cortos-estadistica.md

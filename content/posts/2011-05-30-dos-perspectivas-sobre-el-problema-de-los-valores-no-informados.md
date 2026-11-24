@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-05-30 07:48:59+00:00
 draft: false
-lastmod: '2025-04-06T18:55:22.513306'
+lastmod: '2026-10-12'
 related:
 - 2020-09-03-contrariamente-a-lo-que-creia-recordar-hot-deck-locf.md
 - 2020-04-13-regresion-tradicional-vs-multinivel.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-03-07 19:44:12+00:00
-lastmod: '2025-04-06T18:56:05.928286'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-04-22-goldcorp-netflix-kaggle-mineria-de-datos-y-la-nueva-economia.md

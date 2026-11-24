@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-09-24 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:53:56.854376'
+lastmod: '2026-09-04'
 related:
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md

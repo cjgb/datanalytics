@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-05-25 19:37:59+00:00
 draft: false
-lastmod: '2025-04-06T18:55:03.318411'
+lastmod: '2026-09-26'
 related:
 - 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
 - 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md

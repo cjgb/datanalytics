@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-12 09:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:04:10.804035'
+lastmod: '2025-11-08'
 related:
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md

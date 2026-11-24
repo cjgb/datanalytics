@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2015-10-07 08:13:01+00:00
 draft: false
-lastmod: '2025-04-06T18:46:34.749730'
+lastmod: '2025-10-22'
 related:
 - 2018-01-29-donde-estan-las-letras.md
 - 2020-09-30-una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles.md

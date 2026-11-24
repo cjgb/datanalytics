@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-07-30 09:02:36+00:00
 draft: false
-lastmod: '2025-04-06T19:07:24.185361'
+lastmod: '2026-09-04'
 related:
 - 2012-12-20-ipc-de-noviembre-al-menos-una-buena-noticia.md
 - 2022-01-27-inflacion-media.md

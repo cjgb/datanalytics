@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2022-04-28
 description: Principios de geodesia
-lastmod: '2025-04-06T19:02:57.371411'
+lastmod: '2026-09-04'
 related:
 - 2022-05-03-wgs84-etrs89-ed50-mad1870.md
 - 2023-12-07-mapas-basta-una-linea.md

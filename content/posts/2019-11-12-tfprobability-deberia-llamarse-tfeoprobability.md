@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-11-12 09:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:03:02.623477'
+lastmod: '2026-10-12'
 related:
 - 2019-10-14-pyro.md
 - 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md

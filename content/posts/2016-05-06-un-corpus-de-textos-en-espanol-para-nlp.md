@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2016-05-06 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T18:46:42.857119'
+lastmod: '2026-09-04'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md

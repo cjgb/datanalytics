@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-08-23 07:25:54+00:00
 draft: false
-lastmod: '2025-04-06T18:54:25.757197'
+lastmod: '2026-10-12'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md

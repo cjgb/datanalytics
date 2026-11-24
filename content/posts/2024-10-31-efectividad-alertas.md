@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-10-31
-lastmod: '2025-04-06T18:44:40.843340'
+lastmod: '2026-01-17'
 related:
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 - 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md

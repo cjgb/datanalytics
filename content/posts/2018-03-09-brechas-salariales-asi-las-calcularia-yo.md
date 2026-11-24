@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-03-09 08:13:25+00:00
 draft: false
-lastmod: '2025-04-06T19:05:51.533559'
+lastmod: '2026-09-04'
 related:
 - 2015-03-09-unas-preguntas-incomodas.md
 - 2019-01-04-sobre-la-brecha-salarial-de-belleza.md

@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2017-01-13 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T19:08:14.369862'
+lastmod: '2025-11-02'
 related:
 - 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
 - 2018-12-20-p-valores-y-el-perro-que-no-ladro.md

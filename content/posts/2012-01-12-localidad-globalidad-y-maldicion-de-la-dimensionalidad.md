@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-01-12 23:14:47+00:00
 draft: false
-lastmod: '2025-04-06T18:51:56.470212'
+lastmod: '2026-09-04'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

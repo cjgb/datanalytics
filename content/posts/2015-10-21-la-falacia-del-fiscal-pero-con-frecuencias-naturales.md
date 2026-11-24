@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2015-10-21 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:47:59.959971'
+lastmod: '2026-09-04'
 related:
 - 2022-09-06-problema-estadistica-frecuencias-naturales.md
 - 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md

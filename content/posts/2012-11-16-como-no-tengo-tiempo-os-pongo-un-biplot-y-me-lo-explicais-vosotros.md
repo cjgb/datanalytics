@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-11-16 07:09:58+00:00
 draft: false
-lastmod: '2025-04-06T19:03:07.903419'
+lastmod: '2026-09-04'
 related:
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
 - 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md

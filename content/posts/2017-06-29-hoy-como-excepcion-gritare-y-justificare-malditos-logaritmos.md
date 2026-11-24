@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-06-29 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:01:24.265958'
+lastmod: '2026-09-04'
 related:
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md
 - 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-07-20 08:13:58+00:00
 draft: false
-lastmod: '2025-04-06T18:59:03.869105'
+lastmod: '2025-04-07'
 related:
 - 2014-08-01-coclustering-con-blockcluster.md
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md

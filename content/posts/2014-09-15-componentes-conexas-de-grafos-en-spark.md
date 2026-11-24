@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-09-15 07:13:46+00:00
 draft: false
-lastmod: '2025-04-06T19:03:14.814398'
+lastmod: '2026-09-04'
 related:
 - 2015-05-27-grafos-por-vecindad-en-mapas.md
 - 2016-05-17-melt-y-cast-en-spark-con-scala.md

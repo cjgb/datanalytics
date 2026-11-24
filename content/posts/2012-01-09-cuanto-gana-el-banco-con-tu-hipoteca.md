@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-01-09 06:44:41+00:00
 draft: false
-lastmod: '2025-04-06T18:55:58.429043'
+lastmod: '2026-09-26'
 related:
 - 2012-01-03-ingenieria-fiscal-para-mi-hipoteca-vendo-un-futuro.md
 - 2023-09-14-gestion-liquidez.md

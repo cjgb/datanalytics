@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-01-24 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:12:08.976317'
+lastmod: '2026-10-12'
 related:
 - 2014-06-23-dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales.md
 - 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md

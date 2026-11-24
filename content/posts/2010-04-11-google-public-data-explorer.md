@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-04-11 23:51:41+00:00
-lastmod: '2025-04-06T19:10:25.621426'
+lastmod: '2025-09-27'
 related:
 - 2011-06-10-datos-publicos-datos-dup.md
 - 2011-06-07-ncomva-y-visualizacion-de-datos-publicos.md

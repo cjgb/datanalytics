@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-09-22 08:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:11:23.566339'
+lastmod: '2026-10-12'
 related:
 - 2015-09-11-correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

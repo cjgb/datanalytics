@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-04-22 07:09:56+00:00
 draft: false
-lastmod: '2025-04-06T18:52:33.518652'
+lastmod: '2026-09-04'
 related:
 - 2014-04-09-la-escala-natural-de-la-varianza.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

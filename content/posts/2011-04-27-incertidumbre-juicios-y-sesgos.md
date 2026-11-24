@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2011-04-27 07:25:57+00:00
 draft: false
-lastmod: '2025-04-06T19:12:41.299963'
+lastmod: '2026-10-12'
 related:
 - 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md
 - 2023-04-04-kant-probabilidad-apuestas.md

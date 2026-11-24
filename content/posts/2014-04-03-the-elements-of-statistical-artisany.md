@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-04-03 07:03:22+00:00
 draft: false
-lastmod: '2025-04-06T18:54:13.008771'
+lastmod: '2026-10-12'
 related:
 - 2013-12-05-cuantos-peces-hay-en-un-lago.md
 - 2014-10-10-bootstrap-bayesiano.md

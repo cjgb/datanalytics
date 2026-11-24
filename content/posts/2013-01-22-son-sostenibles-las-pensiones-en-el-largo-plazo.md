@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-01-22 07:39:41+00:00
 draft: false
-lastmod: '2025-04-06T18:53:23.167725'
+lastmod: '2025-04-07'
 related:
 - 2011-01-28-pensiones-c2bfduros-a-pesetas.md
 - 2011-02-25-1605.md

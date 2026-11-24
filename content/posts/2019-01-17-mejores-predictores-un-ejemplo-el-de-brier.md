@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-01-17 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:48:32.813552'
+lastmod: '2025-10-12'
 related:
 - 2019-01-21-scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal.md
 - 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md

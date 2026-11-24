@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-05-24 07:15:18+00:00
 noindex: true
-lastmod: '2025-04-06T19:12:04.007711'
+lastmod: '2026-01-31'
 related:
 - 2015-04-30-apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene.md
 - 2014-06-26-apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid.md

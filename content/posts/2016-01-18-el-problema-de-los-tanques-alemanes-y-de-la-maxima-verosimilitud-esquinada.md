@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-01-18 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T18:44:25.460124'
+lastmod: '2026-09-04'
 related:
 - 2012-09-21-las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

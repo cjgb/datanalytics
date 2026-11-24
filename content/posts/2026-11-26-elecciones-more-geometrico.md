@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2026-11-26
+lastmod: '2026-11-20'
 description: "Si es que verdaderamente quieres perder el tiempo en el «asunto elecciones», esta entrada propone algunas lecturas que son más recomendables que otras."
 tags:
 - elecciones

@@ -5,7 +5,7 @@ categories:
 - python
 date: 2017-10-06 08:13:55+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2017-06-30-una-perspectiva-economica-del-lenguaje.md
 - 2014-05-14-y-sin-embargo-te-quiero.md

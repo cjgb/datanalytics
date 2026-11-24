@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-07-04 07:39:42+00:00
 draft: false
-lastmod: '2025-04-06T18:51:33.125717'
+lastmod: '2026-02-07'
 related:
 - 2012-05-08-todos-los-modelos-son-x-pero-algunos-son-y.md
 - 2024-02-01-optimizacion-generalizacion.md

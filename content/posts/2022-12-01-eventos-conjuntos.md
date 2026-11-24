@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2022-12-01
-lastmod: '2025-04-06T19:11:02.205371'
+lastmod: '2026-09-03'
 related:
 - 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md

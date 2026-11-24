@@ -5,7 +5,7 @@ categories:
 date: 2025-09-25
 description: Un modelo puede estar bien calibrado y aun así tener sesgo. Ejemplo simple
   con monedas para entender calibración, sesgo y variabilidad en predicciones.
-lastmod: '2025-10-06T17:52:18.773436'
+lastmod: '2026-01-20'
 related:
 - 2022-02-17-examenes-probabilisticos.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

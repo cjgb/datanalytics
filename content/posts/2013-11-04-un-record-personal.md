@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-11-04 07:05:09+00:00
 draft: false
-lastmod: '2025-04-06T18:52:56.256765'
+lastmod: '2026-09-04'
 related:
 - 2014-07-09-estrategias-escalables-con-r.md
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md

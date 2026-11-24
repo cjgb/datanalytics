@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2019-12-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:42.952557'
+lastmod: '2025-04-07'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2023-10-19-errores-chatgpt.md

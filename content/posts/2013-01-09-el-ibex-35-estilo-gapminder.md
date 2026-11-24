@@ -6,7 +6,7 @@ categories:
 - r
 date: 2013-01-09 07:07:31+00:00
 draft: false
-lastmod: '2025-04-06T19:11:22.046097'
+lastmod: '2026-09-04'
 related:
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
 - 2016-04-08-clusters-de-trayectorias-con-la-distancia-de-frechet.md

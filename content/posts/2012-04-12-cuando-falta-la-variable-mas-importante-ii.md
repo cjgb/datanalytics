@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-04-12 07:28:55+00:00
 draft: false
-lastmod: '2025-04-06T19:10:31.870246'
+lastmod: '2026-10-12'
 related:
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 - 2012-04-09-3564.md

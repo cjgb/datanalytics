@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2021-07-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:15.350740'
+lastmod: '2026-09-04'
 related:
 - 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md

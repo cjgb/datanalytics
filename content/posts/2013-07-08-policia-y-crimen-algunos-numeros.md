@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-07-08 07:34:43+00:00
 draft: false
-lastmod: '2025-04-06T19:11:00.050337'
+lastmod: '2026-09-04'
 related:
 - 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

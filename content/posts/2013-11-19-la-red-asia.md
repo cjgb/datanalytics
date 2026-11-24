@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-11-19 07:33:28+00:00
 draft: false
-lastmod: '2025-04-06T19:09:32.938756'
+lastmod: '2026-10-12'
 related:
 - 2016-11-02-decisiones-bajo-incertidumbre-i.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

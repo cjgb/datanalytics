@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-03-01 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:08:47.238920'
+lastmod: '2026-10-12'
 related:
 - 2019-12-03-la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad.md
 - 2018-01-31-mortalidad-y-tramos-de-edad-gordotes.md

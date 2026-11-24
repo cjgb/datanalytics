@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-12-05 07:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:06:17.062015'
+lastmod: '2026-09-04'
 related:
 - 2014-03-11-beautiful-evidence-de-tufte.md
 - 2011-04-26-graficos-vi-teoria.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-05-06 09:13:37+00:00
 draft: false
-lastmod: '2025-04-06T18:57:28.072285'
+lastmod: '2026-09-04'
 related:
 - 2015-05-22-cartogramas-vs-huertogramas.md
 - 2022-05-10-encuestas-electorales-cualitativas.md

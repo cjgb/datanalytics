@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-10-12
-lastmod: '2025-04-06T18:58:01.404827'
+lastmod: '2026-09-04'
 related:
 - 2023-10-05-llms-historia.md
 - 2023-10-19-errores-chatgpt.md

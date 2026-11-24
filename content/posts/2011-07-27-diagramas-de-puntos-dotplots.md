@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-07-27 07:07:36+00:00
 draft: false
-lastmod: '2025-04-06T18:56:19.506807'
+lastmod: '2026-10-12'
 related:
 - 2012-05-03-representacion-de-datos-asociados-a-grupos.md
 - 2012-04-23-graficos-dinamita-desaconsejados.md

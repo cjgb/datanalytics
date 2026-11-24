@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-10-10 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:44:24.762970'
+lastmod: '2026-09-04'
 related:
 - 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
 - 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md

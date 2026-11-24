@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-08 07:00:47+00:00
 draft: false
-lastmod: '2025-04-06T18:59:18.487717'
+lastmod: '2026-09-04'
 related:
 - 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md
 - 2013-03-04-cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada.md

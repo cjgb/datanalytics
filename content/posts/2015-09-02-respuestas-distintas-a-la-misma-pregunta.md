@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-09-02 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:10:02.054302'
+lastmod: '2025-11-02'
 related:
 - 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md

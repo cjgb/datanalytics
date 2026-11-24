@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-03-16 09:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:48:42.945666'
+lastmod: '2026-09-03'
 related:
 - 2021-04-27-un-articulo-muy-poco-bde-del-bde.md
 - 2024-06-12-cortos.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-10-25 11:11:02+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:47.054443'
+lastmod: '2026-06-28'
 related:
 - 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-12-16 20:11:37+00:00
 draft: false
-lastmod: '2025-04-06T18:45:15.595312'
+lastmod: '2026-09-04'
 related:
 - 2020-10-07-el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente.md
 - 2024-02-13-outliers-dos-modos.md

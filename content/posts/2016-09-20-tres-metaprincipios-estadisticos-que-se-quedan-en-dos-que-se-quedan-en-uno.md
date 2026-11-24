@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-09-20 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T18:58:48.089141'
+lastmod: '2026-09-04'
 related:
 - 2018-10-17-los-tres-retos-de-la-inferencia-estadistica.md
 - 2016-10-19-recetas-y-principios.md

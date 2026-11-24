@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-05-05 21:09:36+00:00
 draft: false
-lastmod: '2025-04-06T19:08:35.051617'
+lastmod: '2026-09-04'
 related:
 - 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
 - 2017-06-01-este-tambien-buscaba-la-precision-donde-tal-vez-menos-importaba.md

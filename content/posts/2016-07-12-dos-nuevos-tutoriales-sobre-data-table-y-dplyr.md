@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-07-12 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:13:10.335424'
+lastmod: '2025-09-18'
 related:
 - 2014-09-24-plyr-dplyr-data-table-que-opinas.md
 - 2014-03-25-totales-agregados-por-bloques-en-tablas.md

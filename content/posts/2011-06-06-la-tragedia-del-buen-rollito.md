@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2011-06-06 07:37:28+00:00
 draft: false
-lastmod: '2025-04-06T19:00:56.244159'
+lastmod: '2025-09-14'
 related:
 - 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
 - 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md

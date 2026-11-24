@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-10-16 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T19:08:40.134454'
+lastmod: '2026-09-04'
 related:
 - 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

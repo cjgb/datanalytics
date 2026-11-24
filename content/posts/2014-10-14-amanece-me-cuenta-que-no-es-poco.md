@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-10-14 07:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:50:51.614734'
+lastmod: '2026-09-04'
 related:
 - 2022-11-08-que-hora-deberia-ser.md
 - 2017-09-29-bus-al-norte-bus-al-sur.md

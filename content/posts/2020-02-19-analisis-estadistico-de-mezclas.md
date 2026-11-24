@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-02-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:23.831329'
+lastmod: '2025-11-02'
 related:
 - 2016-03-03-mezclas-de-distribuciones-con-rstan.md
 - 2020-03-10-mas-sobre-el-metodo-delta-propagate.md

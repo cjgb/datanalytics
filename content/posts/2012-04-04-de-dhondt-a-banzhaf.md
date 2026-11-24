@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-04-04 07:15:23+00:00
 draft: false
-lastmod: '2025-04-06T19:09:53.662645'
+lastmod: '2026-10-12'
 related:
 - 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
 - 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md

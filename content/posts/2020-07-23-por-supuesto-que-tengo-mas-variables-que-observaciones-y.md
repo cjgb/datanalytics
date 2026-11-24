@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-07-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:07.759944'
+lastmod: '2026-09-04'
 related:
 - 2014-02-06-experimentos-con-el-paquete-gbm.md
 - 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md

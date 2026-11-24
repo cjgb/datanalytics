@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-05-14 07:20:53+00:00
 draft: false
-lastmod: '2025-04-06T18:57:23.758671'
+lastmod: '2026-09-04'
 related:
 - 2017-07-05-syberia-tiene-muy-buena-pinta-pero.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

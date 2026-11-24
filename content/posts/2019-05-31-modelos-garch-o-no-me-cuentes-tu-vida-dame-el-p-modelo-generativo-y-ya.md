@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2019-05-31 09:11:07+00:00
-lastmod: '2025-04-06T19:05:42.906957'
+lastmod: '2026-09-04'
 related:
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2024-03-26 00:00:00
-lastmod: '2025-04-06T18:55:13.880464'
+lastmod: '2026-09-26'
 related:
 - 2012-10-18-algunos-graficos-de-informacion-bursatil.md
 - 2024-03-11-cortos-01.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-12-07 07:13:21+00:00
-lastmod: '2025-04-06T19:09:37.699522'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-07-18-competicion-de-estadistica-con-r-en-las-iii-jornadas-de-usuarios-de-r.md

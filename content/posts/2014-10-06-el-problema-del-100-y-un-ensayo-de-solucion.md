@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-10-06 07:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:54:29.745016'
+lastmod: '2026-09-04'
 related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

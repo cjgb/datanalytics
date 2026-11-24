@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-07-31 07:31:48+00:00
 draft: false
-lastmod: '2025-04-06T18:57:54.521233'
+lastmod: '2026-10-12'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
 - 2011-06-10-datos-publicos-datos-dup.md

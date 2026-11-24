@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-02-14
-lastmod: '2025-04-06T19:06:07.185368'
+lastmod: '2025-09-17'
 related:
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 - 2025-02-27-ensamblador.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-07-18 09:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:00:38.295815'
+lastmod: '2025-11-02'
 related:
 - 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
 - 2020-10-13-ign-r-leaflet.md

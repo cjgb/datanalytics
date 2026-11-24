@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-09-26 09:13:14+00:00
 draft: false
-lastmod: '2025-04-06T18:48:13.425633'
+lastmod: '2025-04-07'
 related:
 - 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
 - 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md

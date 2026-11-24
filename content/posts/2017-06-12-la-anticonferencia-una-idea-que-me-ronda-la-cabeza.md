@@ -6,7 +6,7 @@ categories:
 - r
 date: 2017-06-12 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:08:50.739978'
+lastmod: '2026-10-12'
 related:
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md
 - 2016-01-28-pydata-madrid-2016-en-abril-de-este-ano.md

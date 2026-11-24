@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-07-06 18:07:36+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:56.544447'
+lastmod: '2026-10-12'
 related:
 - 2010-09-17-user-2011.md
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

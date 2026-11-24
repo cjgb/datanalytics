@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-10-02 01:52:00+00:00
-lastmod: '2025-04-06T19:11:27.497227'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-03-27-una-red-social-para-usuarios-y-entusiastas-de-r.md

@@ -4,7 +4,7 @@ categories:
 - cursos
 date: 2013-01-23 07:17:45+00:00
 draft: false
-lastmod: '2025-04-06T18:56:12.346955'
+lastmod: '2026-10-12'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2012-01-25-limpieza-de-cartera-y-miscelanea-de-articulos.md

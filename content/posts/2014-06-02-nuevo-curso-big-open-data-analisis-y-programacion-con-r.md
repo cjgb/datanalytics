@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-06-02 07:30:28+00:00
 noindex: true
-lastmod: '2025-04-06T18:55:26.162420'
+lastmod: '2026-09-04'
 related:
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
 - 2015-10-16-encuentro-big-data-2015-co.md

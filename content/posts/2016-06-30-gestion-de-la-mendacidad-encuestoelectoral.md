@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-30 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T18:47:09.066361'
+lastmod: '2026-09-04'
 related:
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 - 2016-09-26-encuestas-electorales-una-propuesta.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-04-02 08:12:25+00:00
 draft: false
-lastmod: '2025-04-06T19:09:00.966601'
+lastmod: '2026-10-12'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-08-30 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:02:18.289337'
+lastmod: '2026-10-12'
 related:
 - 2014-01-10-error-de-tipo-i-error-de-tipo-ii.md
 - 2024-10-31-efectividad-alertas.md

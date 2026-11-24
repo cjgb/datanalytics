@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-10 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:57:49.259258'
+lastmod: '2025-11-02'
 related:
 - 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
 - 2017-02-01-infradispersion-de-conteos-buenos-ejemplos.md

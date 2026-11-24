@@ -5,7 +5,7 @@ categories:
 date: 2022-06-28
 description: Una cita de Gelman que describe los mecanismos que regulan el avance
   de la estadística
-lastmod: '2025-04-06T18:54:24.431442'
+lastmod: '2025-11-02'
 related:
 - 2024-10-17-interpretacion-modelos.md
 - 2021-11-03-mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia.md

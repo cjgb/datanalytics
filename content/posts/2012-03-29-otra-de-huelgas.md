@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-03-29 07:41:32+00:00
 draft: false
-lastmod: '2025-04-06T19:05:12.302334'
+lastmod: '2026-09-04'
 related:
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
 - 2010-09-29-huelga-el-titulo-hoy.md

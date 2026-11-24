@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-28 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:47:32.276612'
+lastmod: '2025-04-07'
 related:
 - 2017-06-26-como-preambulais-vuestros-rmd.md
 - 2016-05-25-rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica.md

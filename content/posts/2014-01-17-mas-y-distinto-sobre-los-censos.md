@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-01-17 08:15:06+00:00
 draft: false
-lastmod: '2025-04-06T19:02:42.236637'
+lastmod: '2025-05-05'
 related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 - 2014-03-14-seleccion-de-enlaces-censos-el-titanic-periodistas-y-mapas.md

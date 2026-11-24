@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2021-10-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:31.700312'
+lastmod: '2026-09-04'
 related:
 - 2021-07-21-quien-invento-los-random-forests.md
 - 2022-06-07-generalized-random-forests.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-05-11
-lastmod: '2025-04-06T18:48:09.940242'
+lastmod: '2025-11-02'
 related:
 - 2014-04-23-demasiado-simple.md
 - 2012-07-12-edad-nivel-de-formacion-sexo-y-paro.md

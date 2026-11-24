@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-01-19 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:50:42.220131'
+lastmod: '2025-11-02'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 - 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md

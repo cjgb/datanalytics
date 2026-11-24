@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-07-11 07:19:32+00:00
 draft: false
-lastmod: '2025-04-06T19:05:19.916943'
+lastmod: '2026-09-04'
 related:
 - 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
 - 2011-07-19-clustering-ii-c2bfes-replicable.md

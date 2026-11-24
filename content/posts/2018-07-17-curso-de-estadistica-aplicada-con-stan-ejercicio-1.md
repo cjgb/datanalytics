@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-07-17 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T18:58:50.962377'
+lastmod: '2026-09-04'
 related:
 - 2016-03-03-mezclas-de-distribuciones-con-rstan.md
 - 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-03-24 13:05:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:47.536342'
+lastmod: '2026-10-12'
 related:
 - 2011-03-11-riesgo-e-incertidumbre.md
 - 2020-03-25-cuantificacion-y-riesgo.md

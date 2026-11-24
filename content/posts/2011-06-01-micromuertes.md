@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-06-01 07:47:11+00:00
 draft: false
-lastmod: '2025-04-06T18:50:54.939242'
+lastmod: '2026-09-04'
 related:
 - 2020-05-19-micromuertes-y-coronavirus.md
 - 2012-01-30-hay-microvida-mas-alla-de-la-micromuerte.md

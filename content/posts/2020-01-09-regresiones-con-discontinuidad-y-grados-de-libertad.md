@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2020-01-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:19.739564'
+lastmod: '2026-09-04'
 related:
 - 2019-05-29-y-si-quitamos-el-puntico-de-arriba-a-la-izquierda.md
 - 2019-05-14-analisis-de-la-discontinuidad-polinomios-de-grado-alto.md

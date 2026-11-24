@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2015-07-15 08:13:42+00:00
-lastmod: '2025-04-06T18:48:07.042659'
+lastmod: '2026-09-04'
 related:
 - 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
 - 2023-07-20-coeficientes-no-identificables.md

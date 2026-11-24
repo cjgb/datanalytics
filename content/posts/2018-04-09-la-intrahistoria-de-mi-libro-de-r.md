@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-04-09 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:51:47.813419'
+lastmod: '2025-05-05'
 related:
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

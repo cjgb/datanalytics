@@ -8,7 +8,7 @@ categories:
 date: 2025-07-02
 description: Sobre cómo entre los negocios legítimos y los esquemas Ponzi puede existir
   una gama de esquemas semi-Ponzi.
-lastmod: '2025-09-06T13:01:11.558889'
+lastmod: '2026-09-03'
 related:
 - 2023-03-16-negocio-bancario.md
 - 2011-08-09-2452.md

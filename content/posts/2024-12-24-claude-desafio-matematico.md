@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2024-12-24
-lastmod: '2025-04-06T18:54:56.861494'
+lastmod: '2025-09-25'
 related:
 - 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
 - 2022-11-22-rsa-exmatematicos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-11-09 10:13:31+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-01-25-c2bfacaban-las-descargas-ilegales-con-la-cultura.md

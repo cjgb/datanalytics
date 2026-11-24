@@ -5,7 +5,7 @@ categories:
 - números
 date: 2014-11-28 07:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:02:15.925564'
+lastmod: '2026-09-04'
 related:
 - 2012-08-30-yendo-por-moras-en-el-pais-vasco.md
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md

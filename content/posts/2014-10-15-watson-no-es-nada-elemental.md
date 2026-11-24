@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-10-15 07:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:45:01.685200'
+lastmod: '2025-04-07'
 related:
 - 2014-04-04-el-lenguaje-de-wolfram-segun-wolfram.md
 - 2011-05-09-hitler-era-comunista-y-judio.md

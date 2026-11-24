@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2020-09-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:01.812865'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2016-05-25-rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-04-15 08:13:48+00:00
 draft: false
-lastmod: '2025-04-06T18:59:23.926502'
+lastmod: '2025-05-05'
 related:
 - 2015-06-17-liberado-spark-1-4.md
 - 2013-05-06-mi-primera-aplicacion-en-shiny-un-detector-de-idiomas.md

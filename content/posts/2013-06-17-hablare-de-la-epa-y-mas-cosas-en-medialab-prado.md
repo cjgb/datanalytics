@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2013-06-17 07:47:13+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:40.780330'
+lastmod: '2026-01-31'
 related:
 - 2013-06-26-video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado.md
 - 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md

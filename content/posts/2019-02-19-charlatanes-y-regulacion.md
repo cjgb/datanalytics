@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - consultoría
 date: 2019-02-19 08:13:57+00:00
-lastmod: '2026-03-22'
+lastmod: '2026-03-23'
 related:
 - 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
 - 2020-09-07-muchos-cocineros-con-la-misma-receta.md

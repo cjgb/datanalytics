@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-06-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:33.070287'
+lastmod: '2026-09-04'
 related:
 - 2020-06-15-cuidado-con-la-aleatoriedad-pochola.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

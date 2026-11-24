@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-02-16 09:22:39+00:00
 draft: false
-lastmod: '2025-04-06T18:46:41.523505'
+lastmod: '2026-09-04'
 related:
 - 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md
 - 2010-08-21-r-en-yotube-y-facebook.md

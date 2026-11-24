@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-04-22 23:29:06+00:00
-lastmod: '2025-04-06T18:55:02.607472'
+lastmod: '2026-09-26'
 related:
 - 2010-03-07-c2bfsabes-estadistica-c2bfquieres-ganar-100k-dolares-pues-lee.md
 - 2010-10-03-c2bfpor-que-no-una-competicion.md

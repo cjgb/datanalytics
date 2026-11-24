@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-07 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:04:33.656622'
+lastmod: '2025-04-07'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md

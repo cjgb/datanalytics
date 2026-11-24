@@ -5,7 +5,7 @@ categories:
 - anuncio
 - charlas
 date: 2010-09-05 22:34:22+00:00
-lastmod: '2025-04-06T18:48:48.324607'
+lastmod: '2026-01-31'
 noindex: true
 related:
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md

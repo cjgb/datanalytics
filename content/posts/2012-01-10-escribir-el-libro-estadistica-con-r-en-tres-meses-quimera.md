@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-01-10 07:11:10+00:00
 noindex: true
-lastmod: '2025-12-05'
+lastmod: '2026-09-26'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

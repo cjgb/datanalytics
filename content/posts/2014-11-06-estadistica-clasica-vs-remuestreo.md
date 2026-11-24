@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-11-06 07:13:28+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:19.265935'
+lastmod: '2025-11-02'
 related:
 - 2012-10-22-nuevo-curso-gratuito-de-estadistica-con-r.md
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md

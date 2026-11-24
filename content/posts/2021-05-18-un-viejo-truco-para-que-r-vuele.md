@@ -4,7 +4,7 @@ categories:
 - r
 date: 2021-05-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:49:09.666414'
+lastmod: '2026-09-04'
 related:
 - 2011-05-18-solipsismo-comunidad-y-rendimiento.md
 - 2014-03-10-guarjolizacion-de-fotos-con-r.md

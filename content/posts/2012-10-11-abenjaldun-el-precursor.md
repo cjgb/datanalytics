@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-10-11 07:33:30+00:00
 draft: false
-lastmod: '2025-04-06T19:00:53.299554'
+lastmod: '2025-10-08'
 related:
 - 2016-01-06-visualizando-los-quinientos-millones-de-la-begun.md
 - 2010-05-20-numeros-estadisticamente-transcendentes.md

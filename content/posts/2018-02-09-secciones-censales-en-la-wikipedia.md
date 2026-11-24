@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-02-09 08:13:32+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:32.520471'
+lastmod: '2026-09-04'
 related:
 - 2018-03-19-lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies.md
 - 2022-05-10-encuestas-electorales-cualitativas.md

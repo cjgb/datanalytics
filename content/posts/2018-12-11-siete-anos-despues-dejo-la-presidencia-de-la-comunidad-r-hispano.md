@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-12-11 08:13:55+00:00
 noindex: true
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

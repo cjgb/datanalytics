@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-03-12 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:56:35.372195'
+lastmod: '2026-09-04'
 related:
 - 2011-09-07-el-paquete-reshape-de-r-i-melt.md
 - 2015-02-09-ejercicios-de-mi-clase-de-r.md

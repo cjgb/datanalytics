@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-03-14
-lastmod: '2025-04-06T19:10:23.384556'
+lastmod: '2026-09-04'
 related:
 - 2023-06-22-paradoja-lord.md
 - 2015-01-14-rarezas-estadistica-algebraica.md

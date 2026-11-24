@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-05-23 07:25:13+00:00
 draft: false
-lastmod: '2025-04-06T19:09:06.668666'
+lastmod: '2026-09-04'
 related:
 - 2013-10-28-contando-hexagonos-en-paralelo.md
 - 2011-08-29-2570.md

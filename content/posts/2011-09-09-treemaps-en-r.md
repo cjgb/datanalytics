@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-09-09 07:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:08:51.466393'
+lastmod: '2026-09-26'
 related:
 - 2012-10-18-algunos-graficos-de-informacion-bursatil.md
 - 2013-01-09-el-ibex-35-estilo-gapminder.md

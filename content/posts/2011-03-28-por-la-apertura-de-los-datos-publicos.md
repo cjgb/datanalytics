@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2011-03-28 09:13:05+00:00
 nonidex: true
-lastmod: '2028-09-28'
+lastmod: '2026-09-29'
 related:
 - 2011-05-25-los-finalistas-del-desafio-abredatos-2011.md
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

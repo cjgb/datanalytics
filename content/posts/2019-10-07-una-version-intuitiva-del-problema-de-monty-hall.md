@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2019-10-07 09:13:11+00:00
 draft: false
-lastmod: '2025-04-06T18:58:45.273227'
+lastmod: '2026-10-12'
 related:
 - 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
 - 2021-10-28-monty-hall-reformulado.md

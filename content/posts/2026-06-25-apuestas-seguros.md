@@ -5,7 +5,7 @@ categories:
 date: 2026-06-25
 description: El Osasuna contrató un seguro que, se dice, acabó siendo reasegurado
   a través de un mercado de predicciones
-lastmod: '2026-06-19T14:22:03.840425'
+lastmod: '2026-06-19'
 related:
 - 2025-12-30-apuestas-vs-probabilidades.md
 - 2020-10-30-mercados-de-apuestas-como-cobertura.md

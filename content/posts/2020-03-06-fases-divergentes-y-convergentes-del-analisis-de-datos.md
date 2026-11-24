@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2020-03-06 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:52.589569'
+lastmod: '2026-10-12'
 related:
 - 2024-02-13-outliers-dos-modos.md
 - 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md

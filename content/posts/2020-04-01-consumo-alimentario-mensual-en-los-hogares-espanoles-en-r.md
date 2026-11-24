@@ -4,7 +4,7 @@ categories:
 - r
 date: 2020-04-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:13:11.798852'
+lastmod: '2025-04-07'
 related:
 - 2020-04-28-mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

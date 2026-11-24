@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2014-05-21 07:00:59+00:00
 draft: false
-lastmod: '2025-04-06T18:51:36.450304'
+lastmod: '2026-09-04'
 related:
 - 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
 - 2012-05-07-por-un-irpf-ergonomico.md

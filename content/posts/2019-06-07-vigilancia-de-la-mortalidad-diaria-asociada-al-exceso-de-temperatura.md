@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-06-07 09:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:53:14.749977'
+lastmod: '2026-10-12'
 related:
 - 2020-07-27-un-recordatorio-momocalor-esta-up-and-running.md
 - 2022-07-21-critica-critica-momo.md

@@ -5,7 +5,7 @@ categories:
 - números
 - probabilidad
 date: 2011-03-11 09:33:27+00:00
-lastmod: '2025-04-06T18:45:39.062940'
+lastmod: '2026-09-26'
 related:
 - 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md

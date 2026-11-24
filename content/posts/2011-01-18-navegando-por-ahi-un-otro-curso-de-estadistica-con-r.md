@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-01-18 09:51:44+00:00
 noindex: true
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2010-08-21-r-en-yotube-y-facebook.md
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md

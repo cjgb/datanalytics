@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2011-06-28 07:30:25+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:11.044622'
+lastmod: '2026-10-12'
 related:
 - 2010-11-12-google-refine-2-0-una-herramienta-con-muy-buen-aspecto.md
 - 2011-10-11-datawrangler-limpieza-y-transformacion-interactiva-de-datos.md

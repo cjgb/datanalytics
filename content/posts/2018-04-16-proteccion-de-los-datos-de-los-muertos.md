@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-04-16 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:48:35.473059'
+lastmod: '2026-09-04'
 related:
 - 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md

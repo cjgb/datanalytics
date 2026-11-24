@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2017-01-31 08:13:01+00:00
-lastmod: '2025-04-06T18:46:20.023703'
+lastmod: '2026-06-12'
 related:
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 - 2020-09-23-este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita.md

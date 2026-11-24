@@ -5,7 +5,7 @@ categories:
 - números
 date: 2010-10-12 18:35:17+00:00
 draft: false
-lastmod: '2025-04-06T19:09:25.594527'
+lastmod: '2026-09-26'
 related:
 - 2022-05-17-como-calcula-inflacion.md
 - 2021-11-24-medias-ponderadas-a-lo-uluru.md

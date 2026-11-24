@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2013-02-20 07:54:26+00:00
 draft: false
-lastmod: '2025-04-06T18:54:42.204068'
+lastmod: '2026-09-04'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md

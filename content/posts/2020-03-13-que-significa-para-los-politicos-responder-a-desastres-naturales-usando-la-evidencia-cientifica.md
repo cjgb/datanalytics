@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-03-13 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:11.857870'
+lastmod: '2026-10-08'
 related:
 - 2016-07-19-mi-argumento-no-era-cientifico-sino-empirico.md
 - 2016-09-07-loteria-y-elecciones-se-non-e-vero.md

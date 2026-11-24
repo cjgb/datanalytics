@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2018-09-17
-lastmod: 2026-08-31
+lastmod: '2026-09-03'
 description: Temperaturas medias diarias durante el verano de 2018 en España.
 related:
 - 2018-05-25-evolucion-de-la-resistencia-al-calor.md

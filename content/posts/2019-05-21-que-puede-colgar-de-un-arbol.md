@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2019-05-21 09:13:54+00:00
-lastmod: '2025-04-06T19:05:20.619911'
+lastmod: '2025-11-12'
 related:
 - 2017-01-10-repensando-la-codificacion-por-impacto.md
 - 2019-02-18-9857.md

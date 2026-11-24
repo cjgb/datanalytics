@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-02-05 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:58:04.412799'
+lastmod: '2026-09-04'
 related:
 - 2022-09-15-perder-ganando.md
 - 2015-01-07-juegos-justos-con-monedas-truchas.md

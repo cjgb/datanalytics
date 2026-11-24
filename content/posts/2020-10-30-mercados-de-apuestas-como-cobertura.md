@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-10-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:17.794491'
+lastmod: '2026-10-12'
 related:
 - 2023-05-09-encuestas-predicciones-electorales.md
 - 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md

@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2012-04-23 06:41:01+00:00
 draft: false
-lastmod: '2025-04-06T19:11:07.425228'
+lastmod: '2026-09-04'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md

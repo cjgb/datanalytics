@@ -5,7 +5,7 @@ categories:
 - números
 date: 2014-12-01 07:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:50:54.273379'
+lastmod: '2025-05-05'
 related:
 - 2013-03-19-mapas-realmente-necesarios.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md

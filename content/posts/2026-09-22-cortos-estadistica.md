@@ -6,7 +6,7 @@ date: 2026-09-22
 description: Además de paradojas meteorológicas, análisis de la supervivencia, un
   diccionario estadística-ML y el análisis a cara de perro de los microdatos de una
   encuesta.
-lastmod: '2026-09-18T14:48:28.991331'
+lastmod: '2026-09-18'
 related:
 - 2026-07-28-cortos-estadistica.md
 - 2025-11-20-estadistica.md

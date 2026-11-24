@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-05-28 07:07:51+00:00
 draft: false
-lastmod: '2025-04-06T19:01:51.272540'
+lastmod: '2026-09-04'
 related:
 - 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
 - 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md

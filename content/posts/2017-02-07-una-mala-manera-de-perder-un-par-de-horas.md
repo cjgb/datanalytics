@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-02-07 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:03:13.336544'
+lastmod: '2026-09-04'
 related:
 - 2010-07-24-un-curioso-bug-de-r.md
 - 2010-11-02-comportamiento-inesperado-c2bfsolo-por-mi.md

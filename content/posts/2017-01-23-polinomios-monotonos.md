@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-01-23 08:13:44+00:00
 description: Una discusión sobre el ajuste de datos usando polinomios monótonos.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2020-07-07-regresion-polinomica-vs-redes-neuronales.md
 - 2023-01-18-modelo-poisson-numpyro.md

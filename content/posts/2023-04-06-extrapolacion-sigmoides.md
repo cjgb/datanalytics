@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-04-06
-lastmod: '2025-04-06T18:52:10.051515'
+lastmod: '2025-11-02'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

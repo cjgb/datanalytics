@@ -4,7 +4,7 @@ categories:
 - charlas
 date: 2017-09-25 08:13:47+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:31.435913'
+lastmod: '2026-10-12'
 related:
 - 2017-09-27-estadistica-ciencia-de-datos-y-la-revalorizacion-del-no.md
 - 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md

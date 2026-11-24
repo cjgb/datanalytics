@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2016-10-03 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:57:27.334663'
+lastmod: '2025-04-07'
 related:
 - 2020-03-06-fases-divergentes-y-convergentes-del-analisis-de-datos.md
 - 2023-12-14-metodologias-viejunas.md

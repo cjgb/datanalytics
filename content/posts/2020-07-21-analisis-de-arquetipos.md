@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2020-07-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:38.042067'
+lastmod: '2025-04-07'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2019-01-24-nmds-y-un-poquito-mas-alla.md

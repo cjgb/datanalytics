@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - mala ciencia
 date: 2021-09-16
-lastmod: 2026-02-24
+lastmod: '2026-02-24'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md

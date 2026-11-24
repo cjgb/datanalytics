@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2026-10-08
+lastmod: '2026-10-15'
 description: "Una cota superior e inferior al número de «conceptos» que caben en un espacio de «embeddings»."
 tags:
 - ia

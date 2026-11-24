@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-12-01 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T19:12:55.416976'
+lastmod: '2025-11-02'
 related:
 - 2011-04-12-c2a1que-prensa-tan-mala.md
 - 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-04-18 07:50:32+00:00
-lastmod: '2025-04-06T19:02:32.403660'
+lastmod: '2026-10-12'
 related:
 - 2011-12-09-bajo-el-capo-de-teradatar.md
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md

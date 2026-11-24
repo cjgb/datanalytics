@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-02-01 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:50:35.602802'
+lastmod: '2025-04-07'
 related:
 - 2016-05-27-coordenadas-polares-por-doquier.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-12-23 07:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:50:24.265869'
+lastmod: '2026-10-12'
 related:
 - 2012-01-09-comienza-la-lectura-de-e2809cthe-elements-of-statistical-learninge2809d.md
 - 2013-04-24-leemos-analyzing-linguistic-data-juntos.md

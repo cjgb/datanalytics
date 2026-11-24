@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-06-09 07:15:06+00:00
 draft: false
-lastmod: '2025-04-06T19:09:03.084791'
+lastmod: '2025-12-12'
 related:
 - 2014-06-05-minimos-cuadrados-con-restricciones.md
 - 2024-02-01-optimizacion-generalizacion.md

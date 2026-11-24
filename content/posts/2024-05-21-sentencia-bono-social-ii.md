@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-05-21
-lastmod: '2025-04-06T18:59:27.182065'
+lastmod: '2025-09-17'
 related:
 - 2024-05-16-sentencia-bono-social.md
 - 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-10-16 07:12:17+00:00
 draft: false
-lastmod: '2025-04-06T18:50:10.813120'
+lastmod: '2025-11-02'
 related:
 - 2010-03-01-r-en-the-economist.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

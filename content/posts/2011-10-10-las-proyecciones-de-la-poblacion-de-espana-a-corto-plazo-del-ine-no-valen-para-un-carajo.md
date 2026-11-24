@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-10-10 07:00:03+00:00
 draft: false
-lastmod: '2025-04-06T18:51:21.155348'
+lastmod: '2026-10-12'
 related:
 - 2014-10-30-y-si-no-se-mantuvieran.md
 - 2017-01-31-proyecciones-probabilisticas-de-poblacion.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-02-25
 description: Un problema de la teoría de la decisión bayesiana usando NumPyro para
   medir la incertidumbre asociada a la decisión.
-lastmod: '2026-02-24T10:35:49.473535'
+lastmod: '2026-09-04'
 related:
 - 2024-10-10-elbo.md
 - 2019-10-14-pyro.md

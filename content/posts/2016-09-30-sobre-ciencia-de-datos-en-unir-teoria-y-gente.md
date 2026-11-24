@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2016-09-30 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:51:03.877355'
+lastmod: '2026-09-04'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2024-03-21-cortos.md

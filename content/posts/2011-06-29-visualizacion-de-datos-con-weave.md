@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-06-29 07:06:49+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:58.891406'
+lastmod: '2026-10-12'
 related:
 - 2011-03-29-graficos-ii-herramientas.md
 - 2014-05-23-plot-ly-visualizacion-de-datos-multilenguaje.md

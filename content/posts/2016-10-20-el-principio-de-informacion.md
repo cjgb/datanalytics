@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2016-10-20 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:13:21.522504'
+lastmod: '2026-01-10'
 related:
 - 2011-09-28-datos-grandes-colas-largas.md
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md

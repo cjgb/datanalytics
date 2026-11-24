@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-05-23 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:51:07.612524'
+lastmod: '2025-04-07'
 related:
 - 2024-07-03-cortos-stats.md
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-09-18
-lastmod: '2025-04-06T18:45:06.997728'
+lastmod: '2026-09-04'
 related:
 - 2014-06-10-a-vueltas-con-el-t-test.md
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md

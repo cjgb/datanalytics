@@ -6,7 +6,7 @@ categories:
 - causalidad
 date: 2020-10-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:45.497300'
+lastmod: '2026-09-04'
 related:
 - 2022-05-05-individualismo-metodologico.md
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md

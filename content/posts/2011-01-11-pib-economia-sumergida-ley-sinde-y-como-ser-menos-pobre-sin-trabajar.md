@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-11 09:36:04+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2011-02-25-1605.md
 - 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md

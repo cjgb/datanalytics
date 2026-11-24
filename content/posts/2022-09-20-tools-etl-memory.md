@@ -5,7 +5,7 @@ categories:
 date: 2022-09-20
 description: Un repaso a las herramientas disponibles en R y Python para realizar
   ETLs en memoria
-lastmod: '2025-04-06T18:45:17.594395'
+lastmod: '2026-09-04'
 related:
 - 2014-03-20-los-sospechosos-habituales-y-python.md
 - 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md

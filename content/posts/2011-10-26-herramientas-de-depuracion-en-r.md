@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-10-26 06:48:56+00:00
 draft: false
-lastmod: '2025-04-06T18:45:54.582737'
+lastmod: '2026-10-12'
 related:
 - 2015-07-02-mejores-mensajes-de-error-con-deparse-substitute.md
 - 2011-05-13-consejos-para-utilizar-r-en-produccion.md

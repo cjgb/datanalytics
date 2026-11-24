@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-04-01 08:13:55+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:55.175462'
+lastmod: '2026-10-12'
 related:
 - 2015-01-29-hackaton-de-datos-abiertos-21-de-febrero-en-madrid.md
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md

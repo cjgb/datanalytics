@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-01-20 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T19:06:50.963986'
+lastmod: '2026-09-04'
 related:
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md

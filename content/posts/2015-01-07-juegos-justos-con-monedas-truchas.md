@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-01-07 07:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:54:05.697072'
+lastmod: '2025-05-05'
 related:
 - 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
 - 2012-10-26-hhh-hht-y-el-comando-yield-de-python.md

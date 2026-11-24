@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-08-06 14:32:48+00:00
 draft: false
-lastmod: '2025-04-06T18:57:25.886152'
+lastmod: '2026-09-04'
 related:
 - 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
 - 2012-03-01-como-poner-una-lavadora.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2024-06-27
-lastmod: '2025-04-06T18:50:46.907595'
+lastmod: '2025-11-02'
 related:
 - 2020-10-26-intervalos-de-confianza-y-la-velocidad-de-la-luz.md
 - 2024-06-25-consumo-llms.md

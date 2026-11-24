@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2019-03-21
-lastmod: '2025-11-01'
+lastmod: '2026-09-04'
 related:
 - 2015-03-09-unas-preguntas-incomodas.md
 - 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md

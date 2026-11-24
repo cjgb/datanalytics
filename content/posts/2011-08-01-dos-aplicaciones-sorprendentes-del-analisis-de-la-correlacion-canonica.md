@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-08-01 07:08:49+00:00
 draft: false
-lastmod: '2025-04-06T18:54:46.871778'
+lastmod: '2026-10-12'
 related:
 - 2015-01-14-rarezas-estadistica-algebraica.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2010-11-12 09:38:03+00:00
 draft: false
-lastmod: '2025-04-06T19:10:18.883432'
+lastmod: '2026-09-04'
 related:
 - 2022-09-06-problema-estadistica-frecuencias-naturales.md
 - 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md

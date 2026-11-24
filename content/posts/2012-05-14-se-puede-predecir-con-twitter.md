@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-05-14 06:57:21+00:00
 draft: false
-lastmod: '2025-04-06T19:04:51.243717'
+lastmod: '2026-09-26'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md

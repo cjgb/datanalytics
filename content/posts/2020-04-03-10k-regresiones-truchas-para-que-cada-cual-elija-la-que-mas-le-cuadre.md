@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-04-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:59.619584'
+lastmod: '2026-01-10'
 related:
 - 2020-01-10-son-todos-igualitos.md
 - 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md

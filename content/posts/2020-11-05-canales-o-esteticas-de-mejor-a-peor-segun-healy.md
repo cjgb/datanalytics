@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2020-11-05 13:04:36+00:00
 draft: false
-lastmod: '2025-04-06T18:55:23.271631'
+lastmod: '2025-11-02'
 related:
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

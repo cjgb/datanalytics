@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-07-02 07:00:03+00:00
 draft: false
-lastmod: '2025-04-06T18:45:23.706508'
+lastmod: '2025-04-07'
 related:
 - 2012-03-13-las-palabras-esenciales-del-diccionario.md
 - 2012-05-21-desencriptando-i-el-problema-de-un-mal-amigo.md

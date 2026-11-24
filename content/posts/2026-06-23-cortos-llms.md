@@ -5,7 +5,7 @@ categories:
 date: 2026-06-23
 description: De los MCPs para artículos científicos a los clientes sintéticos, pasando
   por los retos de la ciberseguridad y el futuro de los semiconductores.
-lastmod: '2026-06-18T14:35:30.392930'
+lastmod: '2026-06-18'
 related:
 - 2026-06-02-cortos-llms.md
 - 2026-03-30-cortos.md

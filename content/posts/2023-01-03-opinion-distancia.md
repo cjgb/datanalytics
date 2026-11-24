@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-01-03
-lastmod: '2025-04-06T18:49:51.374276'
+lastmod: '2026-10-12'
 related:
 - 2014-10-30-y-si-no-se-mantuvieran.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

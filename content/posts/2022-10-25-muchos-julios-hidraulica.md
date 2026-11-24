@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2022-10-25
-lastmod: '2025-04-06T18:53:05.921054'
+lastmod: '2026-09-04'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
 - 2023-06-06-energia-coches-particulares.md

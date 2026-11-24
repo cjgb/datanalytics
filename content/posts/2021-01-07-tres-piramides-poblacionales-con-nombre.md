@@ -5,7 +5,7 @@ categories:
 - números
 date: 2021-01-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:10.678098'
+lastmod: '2025-11-02'
 related:
 - 2014-02-17-donde-estoy-donde-estare.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-12-04 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:49:16.331013'
+lastmod: '2026-09-04'
 related:
 - 2022-06-09-el-modelo-es-y.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

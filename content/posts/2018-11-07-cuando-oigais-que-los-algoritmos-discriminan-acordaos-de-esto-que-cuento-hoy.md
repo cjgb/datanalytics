@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2018-11-07 08:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:52:28.845427'
+lastmod: '2025-11-02'
 related:
 - 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
 - 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md

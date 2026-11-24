@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-03-12 13:44:48+00:00
 draft: false
-lastmod: '2025-04-06T18:56:07.510413'
+lastmod: '2026-10-12'
 related:
 - 2020-04-08-momo-una-documentacion-oficiosa.md
 - 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md

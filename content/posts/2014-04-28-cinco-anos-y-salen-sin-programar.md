@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-04-28 07:42:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:30.311030'
+lastmod: '2026-09-04'
 related:
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

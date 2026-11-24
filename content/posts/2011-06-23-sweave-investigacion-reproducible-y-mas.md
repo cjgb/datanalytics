@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-06-23 07:08:45+00:00
 noindex: true
-lastmod: '2025-04-06T19:07:25.659956'
+lastmod: '2026-09-04'
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

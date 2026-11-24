@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-08-31 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:01:11.850668'
+lastmod: '2026-09-04'
 related:
 - 2022-12-15-raking.md
 - 2012-09-20-como-votan-los-diputados.md

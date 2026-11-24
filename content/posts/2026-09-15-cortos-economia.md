@@ -6,7 +6,7 @@ date: 2026-09-15
 description: Pasando por la varianza de las estimaciones del PIB, los sistemas de
   recompensas de las tarjetas de crédito o el «macarrismo» del regulador bursátil
   español.
-lastmod: '2026-09-11T15:35:59.945840'
+lastmod: '2026-09-11'
 related:
 - 2026-03-02-cortos.md
 - 2026-09-01-cortos-economia.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-08-29 07:15:52+00:00
 draft: false
-lastmod: '2025-04-06T19:06:14.189669'
+lastmod: '2026-09-26'
 related:
 - 2012-05-23-patrones-hexagonales-con-r.md
 - 2010-10-26-a-vueltas-con-los-fractales.md

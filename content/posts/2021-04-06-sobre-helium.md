@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-04-06 09:13:00+00:00
 description: Indicios de que Helium es poco más que un esquema piramidal.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 - 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md

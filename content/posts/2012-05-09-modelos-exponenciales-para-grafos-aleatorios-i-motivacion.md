@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-05-09 06:58:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:32.364224'
+lastmod: '2026-09-04'
 related:
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
 - 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-09-18 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:12:06.861394'
+lastmod: '2026-10-12'
 related:
 - 2020-06-05-de-histograma-a-distribuciones-usando-la-de-burr.md
 - 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md

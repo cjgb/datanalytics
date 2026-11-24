@@ -4,7 +4,7 @@ categories:
 - estadística bayesiana
 date: 2026-04-09
 description: Reproduciendo la estimación de la excentricidad de la órbita terrestre de Kepler con herramientas modernas (y estadística bayesiana).
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2023-01-18-modelo-poisson-numpyro.md
 - 2023-02-07-numpyro-predictions.md

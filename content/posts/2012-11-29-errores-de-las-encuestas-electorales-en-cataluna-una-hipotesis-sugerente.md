@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-11-29 07:53:47+00:00
 draft: false
-lastmod: '2025-04-06T19:00:12.342317'
+lastmod: '2026-09-04'
 related:
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

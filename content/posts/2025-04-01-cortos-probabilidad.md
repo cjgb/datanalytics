@@ -5,7 +5,7 @@ categories:
 date: 2025-04-01
 description: Unos cuantos enlaces sobre la teoría de la probabilidad, incluidas dos
   paradojas, una discusión sobre los p-valores y el ruido azul y blanco
-lastmod: '2025-04-21T13:55:41.800112'
+lastmod: '2026-01-20'
 related:
 - 2024-12-19-promediar-predicciones.md
 - 2014-02-12-de-ratios-apuestas-y-riesgos.md

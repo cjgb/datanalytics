@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-04-29 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:55:25.396358'
+lastmod: '2026-10-12'
 related:
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
 - 2021-04-15-el-mejor-negocio-de-la-decada.md

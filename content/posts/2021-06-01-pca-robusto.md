@@ -6,7 +6,7 @@ categories:
 - r
 date: 2021-06-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:15.325476'
+lastmod: '2026-09-04'
 related:
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
 - 2014-04-22-reponderacion-de-componentes-un-ejemplo.md

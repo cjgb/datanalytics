@@ -6,7 +6,7 @@ date: 2026-05-12
 description: Apuntes sobre el impacto económico de eliminar el cáncer, la crisis de
   la teoría de precios, el impacto de los LLM en la economía y soluciones al bloqueo
   hipotecario.
-lastmod: '2026-05-07T18:14:04.416401'
+lastmod: '2026-10-12'
 related:
 - 2026-03-02-cortos.md
 - 2025-11-13-economia.md

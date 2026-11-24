@@ -5,7 +5,7 @@ categories:
 - probabilidad
 - r
 date: 2013-12-05 07:14:48+00:00
-lastmod: '2026-03-22'
+lastmod: '2026-09-04'
 related:
 - 2014-04-03-the-elements-of-statistical-artisany.md
 - 2015-12-10-una-revisita-a-cuantos-peces-hay-en-un-lago.md

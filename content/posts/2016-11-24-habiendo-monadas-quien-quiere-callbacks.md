@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-11-24 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:02:15.145787'
+lastmod: '2026-09-04'
 related:
 - 2016-11-04-r-en-paralelo-pero-ahora-con-futuros.md
 - 2016-11-11-cuanto-tarda-en-ejecutarse-este-codigo.md

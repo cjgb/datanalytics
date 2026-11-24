@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2020-05-05 09:51:07+00:00
 draft: false
-lastmod: '2025-04-06T19:10:57.754925'
+lastmod: '2025-11-02'
 related:
 - 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
 - 2014-02-18-el-yuyuplot-en-perspectiva.md

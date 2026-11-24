@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-07-18
-lastmod: '2025-04-06T18:51:15.192961'
+lastmod: '2026-09-04'
 related:
 - 2014-01-22-catorce-mitos-sobre-el-mercado-electrico.md
 - 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md

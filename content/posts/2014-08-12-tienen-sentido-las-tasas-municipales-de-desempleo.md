@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-08-12 07:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:11:52.282750'
+lastmod: '2026-09-04'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2023-04-24-estadistica-creativa.md

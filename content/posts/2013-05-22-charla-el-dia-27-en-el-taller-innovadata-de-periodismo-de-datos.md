@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2013-05-22 10:30:03+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:06.068087'
+lastmod: '2026-10-12'
 related:
 - 2013-05-29-video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos.md
 - 2017-09-25-charla-en-pamplona.md

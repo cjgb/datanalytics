@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-30 06:52:59+00:00
 draft: false
-lastmod: '2025-04-06T18:54:45.532195'
+lastmod: '2026-09-04'
 related:
 - 2011-08-11-dont-be-loopy.md
 - 2011-09-23-done28099t-be-loopy-ii.md

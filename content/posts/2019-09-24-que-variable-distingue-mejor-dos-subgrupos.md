@@ -6,7 +6,7 @@ categories:
 - python
 - r
 date: 2019-09-24 09:13:25+00:00
-lastmod: '2025-10-26'
+lastmod: '2026-10-12'
 related:
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md
 - 2017-03-20-em-duro-a-mano-y-para-humanos.md

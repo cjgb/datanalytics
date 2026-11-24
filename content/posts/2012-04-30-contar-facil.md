@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-04-30 06:41:04+00:00
 draft: false
-lastmod: '2025-04-06T19:11:47.460895'
+lastmod: '2026-09-26'
 related:
 - 2012-02-23-higiene-numerica-para-periodistas.md
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md

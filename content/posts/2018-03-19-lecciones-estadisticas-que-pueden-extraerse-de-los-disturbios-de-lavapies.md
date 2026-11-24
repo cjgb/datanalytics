@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-03-19 11:32:56+00:00
 draft: false
-lastmod: '2025-04-06T19:06:47.225378'
+lastmod: '2025-04-07'
 related:
 - 2018-02-09-secciones-censales-en-la-wikipedia.md
 - 2011-11-03-2872.md

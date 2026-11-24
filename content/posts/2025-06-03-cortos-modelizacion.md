@@ -5,7 +5,7 @@ categories:
 date: 2025-06-03
 description: El algoritmo FSRS para Anki y algunos otros asuntos más sobre modelización
   estadística
-lastmod: '2025-08-31T15:59:39.071606'
+lastmod: '2026-01-20'
 related:
 - 2022-09-13-errores-cierto-tipo-encuestas.md
 - 2025-04-22-cortos-stats.md

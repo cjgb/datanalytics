@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-03-16 09:31:45+00:00
 description: Sobre el extraño asunto de la desigual eficiencia de expresiones muy similares
-lastmod: '2026-08-31'
+lastmod: '2026-09-26'
 related:
 - 2011-05-18-solipsismo-comunidad-y-rendimiento.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-07-06 06:28:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:34.722561'
+lastmod: '2026-09-04'
 related:
 - 2012-07-10-la-desigualdad-y-como-medirla.md
 - 2011-02-25-1605.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-05-28 09:13:05+00:00
 draft: false
-lastmod: '2025-04-06T19:05:31.849752'
+lastmod: '2025-11-02'
 related:
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 - 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md

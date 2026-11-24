@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-03-07 09:59:38+00:00
 draft: false
-lastmod: '2025-04-06T18:58:39.503164'
+lastmod: '2026-09-26'
 related:
 - 2011-10-27-oracle-r-enterprise.md
 - 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md

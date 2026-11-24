@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-09-18 07:13:12+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:08.535729'
+lastmod: '2026-01-31'
 related:
 - 2014-09-10-modelos-mascotas-y-rebanos-en-el-databeers-de-madrid.md
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md

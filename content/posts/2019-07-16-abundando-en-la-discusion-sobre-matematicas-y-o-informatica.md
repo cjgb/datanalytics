@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2019-07-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:40.690565'
+lastmod: '2025-05-05'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2024-02-13-outliers-dos-modos.md

@@ -5,7 +5,7 @@ categories:
 - nlp
 date: 2012-11-07 14:41:14+00:00
 draft: false
-lastmod: '2025-04-06T19:05:02.990171'
+lastmod: '2026-09-04'
 related:
 - 2024-02-06-llm-obsidian.md
 - 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md

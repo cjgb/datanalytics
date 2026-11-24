@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-10-07 12:00:38+00:00
 draft: false
-lastmod: '2025-04-06T18:45:45.232004'
+lastmod: '2026-10-12'
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md
 - 2013-08-14-tres-grandes-numeros-con-enmienda.md

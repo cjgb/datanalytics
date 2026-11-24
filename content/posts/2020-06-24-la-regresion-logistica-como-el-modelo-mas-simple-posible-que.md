@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:58:08.232152'
+lastmod: '2025-10-12'
 related:
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md
 - 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md

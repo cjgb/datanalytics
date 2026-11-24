@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-07-22 12:59:20+00:00
 draft: false
-lastmod: '2025-04-06T19:07:12.857706'
+lastmod: '2026-09-04'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2014-02-05 08:14:21+00:00
 draft: false
-lastmod: '2025-04-06T19:11:50.717731'
+lastmod: '2025-05-05'
 related:
 - 2012-05-22-la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-futbolistas.md
 - 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md

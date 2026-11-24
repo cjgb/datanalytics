@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-07-26 08:13:06+00:00
 draft: false
-lastmod: '2025-04-06T19:12:35.116086'
+lastmod: '2025-04-07'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2016-09-08-quien-demonios-lee-el-segundo-parrafo.md

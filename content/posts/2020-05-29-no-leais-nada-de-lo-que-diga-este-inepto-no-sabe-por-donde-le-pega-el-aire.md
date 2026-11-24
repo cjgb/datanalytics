@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-05-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:16.654375'
+lastmod: '2025-10-12'
 related:
 - 2017-12-05-como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura.md
 - 2022-05-12-principio-mediocridad.md

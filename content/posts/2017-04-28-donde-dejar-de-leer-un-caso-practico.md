@@ -5,7 +5,7 @@ categories:
 - números
 date: 2017-04-28 08:13:54+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md
 - 2023-10-03-muestreo-superricos.md

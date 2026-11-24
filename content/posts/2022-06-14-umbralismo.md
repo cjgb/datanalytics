@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-06-14
 description: 'Dos familias de estadísticos: los umbralistas y los antiumbralistas'
-lastmod: '2025-04-06T18:50:48.952746'
+lastmod: '2025-11-02'
 related:
 - 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
 - 2022-04-21-que-es-seguro.md

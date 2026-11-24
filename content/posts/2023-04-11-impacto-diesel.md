@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-04-11
-lastmod: '2025-04-06T18:59:57.168738'
+lastmod: '2026-09-04'
 related:
 - 2019-10-18-el-modelo-son-las-conclusiones.md
 - 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md

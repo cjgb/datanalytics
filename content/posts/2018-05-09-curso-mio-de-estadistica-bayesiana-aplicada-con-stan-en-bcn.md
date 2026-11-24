@@ -5,7 +5,7 @@ categories:
 - cursos
 date: 2018-05-09 08:13:44+00:00
 noindex: true
-lastmod: '2025-04-06T18:54:29.084403'
+lastmod: '2026-09-04'
 related:
 - 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md
 - 2016-02-08-rstan-y-rstanarm-en-medialab-prado-este-jueves.md

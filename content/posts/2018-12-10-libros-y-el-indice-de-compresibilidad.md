@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2018-12-10 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:02:45.052042'
+lastmod: '2025-04-07'
 related:
 - 2015-04-08-adaequatio-rei-et-intellectus.md
 - 2020-01-27-estadistica-basica-edulcorada.md

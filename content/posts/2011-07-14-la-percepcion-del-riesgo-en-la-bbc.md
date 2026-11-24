@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2011-07-14 07:35:22+00:00
 draft: false
-lastmod: '2025-04-06T18:45:48.580874'
+lastmod: '2026-10-12'
 related:
 - 2011-04-27-incertidumbre-juicios-y-sesgos.md
 - 2013-01-03-eres-un-analfabeto-numerico.md

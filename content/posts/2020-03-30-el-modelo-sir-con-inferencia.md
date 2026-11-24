@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-03-30 10:32:56+00:00
 draft: false
-lastmod: '2025-04-06T18:45:55.250768'
+lastmod: '2025-11-02'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md

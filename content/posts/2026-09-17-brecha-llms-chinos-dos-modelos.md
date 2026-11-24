@@ -6,7 +6,7 @@ date: 2026-09-17
 description: Dos modelos distintos examinan la cuestión de si la brecha entre los
   modelos chinos y los estadounidenses crece o decrece y llegan a conclusiones diametralmente
   opuestas.
-lastmod: '2026-09-05T21:18:15.910626'
+lastmod: '2026-09-05'
 related:
 - 2026-05-21-llms-chinos.md
 - 2025-01-21-cortos-llms.md

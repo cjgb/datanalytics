@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-05-18 07:45:20+00:00
 draft: false
-lastmod: '2025-04-06T19:11:17.454568'
+lastmod: '2026-09-04'
 related:
 - 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 - 2021-05-18-un-viejo-truco-para-que-r-vuele.md

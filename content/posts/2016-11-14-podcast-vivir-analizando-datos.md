@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2016-11-14 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:46:29.447205'
+lastmod: '2025-04-07'
 related:
 - 2014-03-06-me-han-entrevistado-en-big-data-4-success.md
 - 2015-02-04-entrevista-en-principio-de-incertidumbre-big-data-sin-artificio.md

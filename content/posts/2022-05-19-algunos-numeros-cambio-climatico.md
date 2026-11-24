@@ -4,7 +4,7 @@ categories:
 - números
 date: 2022-05-19
 description: Una reevaluación del coste climático de nuestro día a día en la nube
-lastmod: '2025-04-06T18:54:38.864177'
+lastmod: '2026-09-04'
 related:
 - 2024-06-25-consumo-llms.md
 - 2012-03-01-como-poner-una-lavadora.md

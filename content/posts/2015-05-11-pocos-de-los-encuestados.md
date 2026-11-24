@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-05-11 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:54:27.761907'
+lastmod: '2026-09-04'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2011-11-03-2872.md

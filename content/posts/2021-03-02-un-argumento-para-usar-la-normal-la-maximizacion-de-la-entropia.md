@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2021-03-02 09:13:46+00:00
 draft: false
-lastmod: '2025-04-06T19:03:32.328386'
+lastmod: '2026-09-04'
 related:
 - 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
 - 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md

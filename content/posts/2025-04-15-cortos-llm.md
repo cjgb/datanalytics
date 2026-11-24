@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2025-04-15
 description: Una serie de enlaces a páginas para usar los LLMs de manera más eficiente.
-lastmod: '2025-05-10T20:40:55.784085'
+lastmod: '2026-10-12'
 related:
 - 2025-03-25-cortos-llms.md
 - 2024-09-03-cortos-llms.md

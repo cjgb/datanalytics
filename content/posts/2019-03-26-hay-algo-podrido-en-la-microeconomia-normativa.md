@@ -4,7 +4,7 @@ categories:
 - números
 date: 2019-03-26 10:45:17+00:00
 draft: false
-lastmod: '2025-04-06T18:57:12.935598'
+lastmod: '2025-11-01'
 related:
 - 2012-07-27-a-los-datos-mismos.md
 - 2018-01-23-terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh.md

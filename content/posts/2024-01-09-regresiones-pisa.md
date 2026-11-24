@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-01-09
-lastmod: '2025-04-06T18:47:48.018026'
+lastmod: '2026-09-26'
 related:
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
 - 2014-04-23-demasiado-simple.md

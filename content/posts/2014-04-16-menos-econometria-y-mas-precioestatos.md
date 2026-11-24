@@ -5,7 +5,7 @@ categories:
 - números
 date: 2014-04-16 07:39:14+00:00
 draft: false
-lastmod: '2025-04-06T18:52:44.862405'
+lastmod: '2025-04-07'
 related:
 - 2012-03-01-como-poner-una-lavadora.md
 - 2024-03-14-precio-medio-diario-electricidad.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-11-12 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:59:22.412408'
+lastmod: '2026-09-04'
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

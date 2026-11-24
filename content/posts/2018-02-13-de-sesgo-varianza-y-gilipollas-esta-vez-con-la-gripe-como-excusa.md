@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-02-13 08:13:17+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2020-03-15-la-causa-de-muerte-no-es-la-causa-de-muerte.md
 - 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-29 22:09:37+00:00
-lastmod: '2025-04-06T19:08:41.762294'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2010-03-28-proyectos-de-r-en-el-google-summer-of-code-2010.md

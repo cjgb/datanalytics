@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2011-01-14 09:20:33+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2013-01-10-una-aplicacion-seo-con-r.md
 - 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md

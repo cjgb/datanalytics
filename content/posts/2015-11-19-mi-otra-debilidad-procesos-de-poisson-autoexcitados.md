@@ -6,7 +6,7 @@ categories:
 - r
 date: 2015-11-19 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:05:10.036773'
+lastmod: '2026-01-03'
 related:
 - 2019-04-05-simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados.md
 - 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md

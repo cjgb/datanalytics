@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-11-03 07:13:37+00:00
 draft: false
-lastmod: '2025-04-06T18:44:29.915449'
+lastmod: '2026-09-04'
 related:
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

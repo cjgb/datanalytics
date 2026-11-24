@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2026-01-14
 description: 'Analizamos la brecha entre el crecimiento del PIB y el empleo: ¿errores
   estadísticos, impacto de la IA o efecto composición?'
-lastmod: '2026-01-10T20:05:26.434494'
+lastmod: '2026-01-10'
 related:
 - 2024-11-14-simpson-productividad.md
 - 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md

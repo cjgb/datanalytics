@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-07-28 17:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:58:53.952834'
+lastmod: '2026-10-12'
 related:
 - 2013-11-14-curso-de-mapas-en-linea-para-principiantes.md
 - 2011-03-29-graficos-ii-herramientas.md

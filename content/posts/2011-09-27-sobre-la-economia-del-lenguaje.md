@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2011-09-27 07:39:31+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2023-10-05-llms-historia.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-11-14 07:58:37+00:00
 draft: false
-lastmod: '2025-04-06T18:59:39.745311'
+lastmod: '2026-09-04'
 related:
 - 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
 - 2022-09-08-regresion-perdida-asimetrica.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-05-18 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:59:51.973583'
+lastmod: '2026-09-04'
 related:
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
 - 2015-06-29-licencias-urbanisticas-no-viables-y-fin.md

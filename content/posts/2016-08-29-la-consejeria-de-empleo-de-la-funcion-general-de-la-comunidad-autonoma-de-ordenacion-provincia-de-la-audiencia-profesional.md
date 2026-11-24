@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2016-08-29 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:11:13.678482'
+lastmod: '2026-09-04'
 related:
 - 2023-10-05-llms-historia.md
 - 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md

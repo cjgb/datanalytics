@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-01-25
-lastmod: '2025-04-06T19:10:49.101771'
+lastmod: '2025-11-02'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 - 2023-01-16-autoencoders-consejos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2011-03-29 09:01:13+00:00
-lastmod: '2025-04-06T19:04:51.947824'
+lastmod: '2026-10-12'
 related:
 - 2012-10-24-veinte-herramientas-de-visualizacion.md
 - 2011-04-05-graficos-iii-bitacoras.md

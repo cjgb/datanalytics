@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-05-16 07:31:52+00:00
 draft: false
-lastmod: '2025-04-06T19:04:19.813391'
+lastmod: '2026-09-04'
 related:
 - 2022-09-13-errores-cierto-tipo-encuestas.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2020-03-09 14:26:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:29.246421'
+lastmod: '2026-10-08'
 related:
 - 2020-03-10-seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r.md
 - 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md

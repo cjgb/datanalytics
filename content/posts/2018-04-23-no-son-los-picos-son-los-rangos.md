@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2018-04-23 08:13:39+00:00
 noindex: true
-lastmod: '2025-04-06T18:45:37.727885'
+lastmod: '2026-07-10'
 related:
 - 2013-03-19-mapas-realmente-necesarios.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md

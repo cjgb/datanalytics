@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2024-06-25
-lastmod: '2025-04-06T19:03:37.508188'
+lastmod: '2026-01-10'
 related:
 - 2025-01-21-cortos-llms.md
 - 2022-05-19-algunos-numeros-cambio-climatico.md

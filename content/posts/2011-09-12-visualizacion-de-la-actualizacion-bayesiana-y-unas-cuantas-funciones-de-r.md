@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-09-12 07:02:03+00:00
 draft: false
-lastmod: '2025-04-06T19:01:55.192618'
+lastmod: '2026-09-04'
 related:
 - 2014-10-10-bootstrap-bayesiano.md
 - 2018-10-23-abc-2.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2023-11-28
 draft: false
-lastmod: '2025-04-06T19:00:07.249170'
+lastmod: '2025-08-22'
 related:
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md

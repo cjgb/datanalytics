@@ -6,7 +6,7 @@ categories:
 - r
 date: 2021-07-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:45.120123'
+lastmod: '2026-09-04'
 related:
 - 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

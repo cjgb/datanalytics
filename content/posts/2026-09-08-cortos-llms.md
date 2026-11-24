@@ -5,7 +5,7 @@ categories:
 date: 2026-09-08
 description: 'Noticias relevantes del mundo de los LLMs: efectos sobre la productividad,
   burbujas culturales y financieras, modelos pequeños y locales, etc.'
-lastmod: '2026-09-05T21:06:07.779804'
+lastmod: '2026-09-05'
 related:
 - 2025-09-09-cortos-llms.md
 - 2026-03-30-cortos.md

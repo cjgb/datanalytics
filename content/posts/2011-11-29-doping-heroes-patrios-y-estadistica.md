@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-11-29 06:56:20+00:00
 draft: false
-lastmod: '2025-04-06T19:05:50.054879'
+lastmod: '2026-09-26'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md

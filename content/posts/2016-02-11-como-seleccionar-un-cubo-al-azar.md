@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-11 09:13:56+00:00
 draft: false
-lastmod: '2025-04-06T19:02:48.575548'
+lastmod: '2025-05-05'
 related:
 - 2015-08-07-una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta.md
 - 2020-01-07-la-probabilidad-algo-subjetivo.md

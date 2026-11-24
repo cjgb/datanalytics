@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2018-11-09 08:13:09+00:00
 draft: false
-lastmod: '2025-04-06T18:56:49.562990'
+lastmod: '2025-11-02'
 related:
 - 2020-07-07-regresion-polinomica-vs-redes-neuronales.md
 - 2014-03-13-el-escritor-exemplar.md

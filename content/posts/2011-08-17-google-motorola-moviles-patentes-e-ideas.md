@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-08-17 07:16:07+00:00
 draft: false
-lastmod: '2025-04-06T18:46:38.065612'
+lastmod: '2026-05-24'
 related:
 - 2018-11-06-que-hay-de-malo-en-gorronear-investigacion-basica.md
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md

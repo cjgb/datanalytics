@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-11-12
-lastmod: '2025-04-06T19:01:34.577481'
+lastmod: '2026-09-04'
 related:
 - 2024-02-13-outliers-dos-modos.md
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md

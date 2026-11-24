@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2017-01-03 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T19:02:29.529766'
+lastmod: '2025-04-07'
 related:
 - 2018-09-11-la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha.md
 - 2017-09-15-dos-argumentos-racionales-en-pro-de-la-homeopatia.md

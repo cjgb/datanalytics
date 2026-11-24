@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2026-10-30
+lastmod: '2026-11-05'
 description: "Sin otra mayor pretensión que la de contribuir a la propagación del «slop»."
 tags:
 - literatura

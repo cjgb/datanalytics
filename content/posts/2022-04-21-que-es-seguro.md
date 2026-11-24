@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-04-21
 description: E.T. Jaynes hablando de lo que es seguro, modelos e hipótesis previas
-lastmod: '2025-04-06T18:54:37.538763'
+lastmod: '2026-05-24'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2019-05-14 09:13:05+00:00
-lastmod: '2025-04-06T19:10:49.933105'
+lastmod: '2026-10-22'
 related:
 - 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
 - 2019-05-29-y-si-quitamos-el-puntico-de-arriba-a-la-izquierda.md

@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2020-07-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:28.754493'
+lastmod: '2025-05-05'
 related:
 - 2020-07-06-un-articulo-muy-raro-raro-raro.md
 - 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-06-16
 description: Que incluyen una defensa de las discusiones metodológicas «aburridas»
   y otras rarezas relacionadas con la estadística.
-lastmod: '2026-06-11T23:52:25.002105'
+lastmod: '2026-10-12'
 related:
 - 2025-12-11-cortos.md
 - 2025-07-01-cortos-estadistica.md

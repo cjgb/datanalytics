@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2018-06-20 12:40:57+00:00
 draft: false
-lastmod: '2025-04-06T18:58:25.704017'
+lastmod: '2025-04-07'
 related:
 - 2015-03-04-adaequatio-rei-et-analysis.md
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2018-12-12 08:13:29+00:00
-lastmod: '2025-04-06T18:45:30.366450'
+lastmod: '2026-11-09'
 related:
 - 2012-05-04-numeros-rojos-y-perfectibles.md
 - 2023-05-04-ine-satisfaccion-vida.md

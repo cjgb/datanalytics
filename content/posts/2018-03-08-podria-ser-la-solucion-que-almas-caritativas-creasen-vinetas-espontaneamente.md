@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-03-08 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T18:44:46.298517'
+lastmod: '2025-04-07'
 related:
 - 2019-04-05-simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados.md
 - 2019-01-31-hay-demasiados-paquetes-en-r.md

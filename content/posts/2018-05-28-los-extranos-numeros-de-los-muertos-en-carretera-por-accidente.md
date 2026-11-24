@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2018-05-28 08:13:32+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
 - 2012-04-30-contar-c2bffacil.md

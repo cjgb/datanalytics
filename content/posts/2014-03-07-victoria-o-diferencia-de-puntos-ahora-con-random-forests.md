@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-07 07:35:05+00:00
 draft: false
-lastmod: '2025-04-06T19:09:07.368230'
+lastmod: '2026-09-04'
 related:
 - 2014-03-04-victoria-o-diferencia-de-puntos-lm-o-glm.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

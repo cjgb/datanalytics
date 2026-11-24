@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-12-10 08:13:09+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:25.802457'
+lastmod: '2026-06-28'
 related:
 - 2013-12-05-cuantos-peces-hay-en-un-lago.md
 - 2014-04-03-the-elements-of-statistical-artisany.md

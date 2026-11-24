@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-02-28 08:21:09+00:00
 draft: false
-lastmod: '2025-04-06T19:11:48.328612'
+lastmod: '2026-10-12'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md

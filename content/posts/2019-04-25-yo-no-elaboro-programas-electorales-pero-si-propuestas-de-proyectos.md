@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-04-25 09:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:50:50.288757'
+lastmod: '2025-04-07'
 related:
 - 2017-05-17-una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabilidad.md
 - 2016-09-26-encuestas-electorales-una-propuesta.md

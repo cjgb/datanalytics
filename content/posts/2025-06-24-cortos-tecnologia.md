@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2025-06-24
 description: Una selección muy personal de novedades en el mundo de la tecnología y de los LLMs
-lastmod: '2025-08-03T16:56:11.512327'
+lastmod: '2025-09-29'
 related:
 - 2025-03-25-cortos-llms.md
 - 2025-04-15-cortos-llm.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-04-07 07:00:56+00:00
 draft: false
-lastmod: '2025-04-06T19:11:43.022050'
+lastmod: '2026-10-12'
 related:
 - 2014-04-02-varimax-lo-que-se-gana-lo-que-se-pierde.md
 - 2015-11-30-estadistica-cualitativa.md

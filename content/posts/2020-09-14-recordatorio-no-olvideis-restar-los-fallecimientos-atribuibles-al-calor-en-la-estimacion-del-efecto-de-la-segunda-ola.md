@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-09-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:25.189386'
+lastmod: '2026-10-12'
 related:
 - 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
 - 2021-12-16-mas-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md

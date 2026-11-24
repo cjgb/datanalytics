@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2025-02-13
-lastmod: '2025-04-06T18:44:38.391606'
+lastmod: '2025-11-08'
 related:
 - 2021-03-06-nuevo-video-en-youtube-son-las-probabilidades-subjetivas-existe-el-azar.md
 - 2020-09-09-este-video-es-un-resumen-en-15-minutos-de-anos-de-entradas-de-este-blog-solo-que-contado-todo-al-reves.md

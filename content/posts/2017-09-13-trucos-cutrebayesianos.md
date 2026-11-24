@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-09-13 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:05:17.729503'
+lastmod: '2025-10-12'
 related:
 - 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2012-01-31 06:49:32+00:00
 draft: false
-lastmod: '2025-04-06T18:45:16.922449'
+lastmod: '2026-09-04'
 related:
 - 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
 - 2014-01-09-como-apostar-si-tienes-que.md

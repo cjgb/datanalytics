@@ -6,7 +6,7 @@ categories:
 - r
 date: 2020-02-28 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:04.479717'
+lastmod: '2026-10-12'
 related:
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md

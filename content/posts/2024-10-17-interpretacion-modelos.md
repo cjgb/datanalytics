@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-10-17
-lastmod: '2025-04-06T19:10:05.815961'
+lastmod: '2025-11-02'
 related:
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
 - 2024-02-01-optimizacion-generalizacion.md

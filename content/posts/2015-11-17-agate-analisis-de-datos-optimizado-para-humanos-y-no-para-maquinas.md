@@ -6,7 +6,7 @@ categories:
 - r
 date: 2015-11-17 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T18:44:28.309526'
+lastmod: '2026-10-12'
 related:
 - 2014-03-20-los-sospechosos-habituales-y-python.md
 - 2017-07-05-syberia-tiene-muy-buena-pinta-pero.md

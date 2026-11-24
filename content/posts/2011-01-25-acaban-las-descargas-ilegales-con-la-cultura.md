@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-25 09:11:44+00:00
 draft: false
-lastmod: '2025-04-06T19:13:26.674826'
+lastmod: '2026-09-26'
 related:
 - 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md
 - 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-08-12 20:35:29+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-08-22-mas-sobre-el-caso-wps-vs-sas.md

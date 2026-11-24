@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-09-18 07:02:55+00:00
 draft: false
-lastmod: '2025-04-06T18:57:55.281598'
+lastmod: '2026-10-12'
 related:
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md
 - 2018-11-05-cuatro-paquetes-interesantes-de-r.md

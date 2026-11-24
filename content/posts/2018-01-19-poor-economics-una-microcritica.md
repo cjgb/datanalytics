@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2018-01-19 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T19:01:14.063325'
+lastmod: '2026-10-12'
 related:
 - 2020-05-26-poor-economics-el-resumen.md
 - 2017-07-04-dudas-razonables-que-me-asaltan.md

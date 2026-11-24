@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-03-25 07:45:50+00:00
 draft: false
-lastmod: '2025-04-06T19:10:12.517071'
+lastmod: '2026-09-04'
 related:
 - 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
 - 2019-08-05-dplyr-parece-que-prefiere-los-factores.md

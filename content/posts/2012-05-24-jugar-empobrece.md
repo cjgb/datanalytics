@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-05-24 06:49:02+00:00
 draft: false
-lastmod: '2025-04-06T18:55:28.981143'
+lastmod: '2026-10-12'
 related:
 - 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
 - 2015-09-01-odds-probabilidades.md

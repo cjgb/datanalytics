@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-07-04
-lastmod: '2025-04-06T18:44:58.936774'
+lastmod: '2025-11-02'
 related:
 - 2020-05-27-por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares.md
 - 2024-02-01-optimizacion-generalizacion.md

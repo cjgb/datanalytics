@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - causalidad
 date: 2025-01-09
-lastmod: '2025-04-06T19:00:43.649588'
+lastmod: '2026-09-04'
 related:
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
 - 2022-03-31-experimento-fisico-causalidad-ii.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-03-23 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:46:19.357773'
+lastmod: '2025-11-02'
 related:
 - 2016-10-04-si-se-estudio-que-las-autopistas-eran-viables-por-que-estan-ahora-en-quiebra.md
 - 2017-09-29-bus-al-norte-bus-al-sur.md

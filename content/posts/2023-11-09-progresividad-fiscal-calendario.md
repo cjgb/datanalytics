@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-11-09
-lastmod: '2025-04-06T19:01:49.712278'
+lastmod: '2026-09-04'
 related:
 - 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
 - 2021-05-12-causalidad-y-paraisos-fiscales.md

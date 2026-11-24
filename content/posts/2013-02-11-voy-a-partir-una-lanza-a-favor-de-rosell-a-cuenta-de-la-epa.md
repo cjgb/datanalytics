@@ -5,7 +5,7 @@ categories:
 - números
 date: 2013-02-11 07:54:16+00:00
 draft: false
-lastmod: '2025-04-06T19:08:05.755254'
+lastmod: '2026-10-12'
 related:
 - 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

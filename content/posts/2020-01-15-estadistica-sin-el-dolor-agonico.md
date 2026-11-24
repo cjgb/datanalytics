@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-01-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:45.887272'
+lastmod: '2026-09-04'
 related:
 - 2014-06-10-a-vueltas-con-el-t-test.md
 - 2015-04-17-si-un-dia-faltan-21-63-euros-en-caja.md

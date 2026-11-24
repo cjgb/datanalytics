@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-04-27
-lastmod: '2025-04-06T19:00:25.273563'
+lastmod: '2025-04-07'
 related:
 - 2020-01-30-deep-learning-una-evaluacion-critica.md
 - 2020-05-27-por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares.md

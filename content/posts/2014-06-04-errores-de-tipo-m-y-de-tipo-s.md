@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-06-04 07:00:02+00:00
 draft: false
-lastmod: '2025-04-06T19:13:16.177244'
+lastmod: '2026-09-04'
 related:
 - 2012-03-16-error-de-tipo-i-error-de-tipo-ii-y-como-no-confundirlos.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

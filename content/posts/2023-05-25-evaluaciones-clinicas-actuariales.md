@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-05-25
-lastmod: '2025-04-06T18:44:48.293806'
+lastmod: '2026-09-04'
 related:
 - 2020-10-29-algoritmos-y-etica-circa-1950.md
 - 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md

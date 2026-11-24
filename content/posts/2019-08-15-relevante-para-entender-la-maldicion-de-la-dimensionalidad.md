@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-08-15 16:27:01+00:00
 draft: false
-lastmod: '2025-04-06T18:44:17.756506'
+lastmod: '2025-11-02'
 related:
 - 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md
 - 2017-09-11-a-epsilon-de-todo.md

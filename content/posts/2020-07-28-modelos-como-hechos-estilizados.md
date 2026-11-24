@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-07-28 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:17.480799'
+lastmod: '2026-10-12'
 related:
 - 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
 - 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-08-11 07:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:00:35.481062'
+lastmod: '2026-09-04'
 related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
 - 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md

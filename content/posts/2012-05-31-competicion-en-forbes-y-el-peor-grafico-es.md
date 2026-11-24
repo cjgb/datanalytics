@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2012-05-31 07:25:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:27.565628'
+lastmod: '2026-09-04'
 related:
 - 2011-03-02-tartas-no-gracias.md
 - 2011-01-05-1139.md

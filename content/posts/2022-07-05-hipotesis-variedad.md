@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-05
 description: Una discusión sobre la "manifold hypothesis" en ciencia de datos
-lastmod: '2025-04-06T18:46:48.192823'
+lastmod: '2025-11-02'
 related:
 - 2023-01-10-stable-diffusion-1d.md
 - 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md

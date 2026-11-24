@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-01-05 06:42:00+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:46.194059'
+lastmod: '2026-10-12'
 related:
 - 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

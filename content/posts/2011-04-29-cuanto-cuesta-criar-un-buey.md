@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-04-29 07:06:39+00:00
 draft: false
-lastmod: '2025-04-06T18:58:59.077403'
+lastmod: '2026-10-12'
 related:
 - 2011-01-12-el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa.md
 - 2011-11-10-741-millones-de-barriles-de-petroleo-c2bfmucho-o-poco.md

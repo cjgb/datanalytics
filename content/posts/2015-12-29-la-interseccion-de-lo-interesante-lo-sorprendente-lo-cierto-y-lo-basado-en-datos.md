@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-12-29 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:57:58.347426'
+lastmod: '2025-04-07'
 related:
 - 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

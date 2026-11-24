@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-04-04 09:13:39+00:00
 draft: false
-lastmod: '2025-04-06T19:02:22.958207'
+lastmod: '2025-05-05'
 related:
 - 2016-04-01-redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server.md
 - 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md

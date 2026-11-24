@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2016-03-11 09:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:47:55.826038'
+lastmod: '2025-04-07'
 related:
 - 2014-02-06-experimentos-con-el-paquete-gbm.md
 - 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md

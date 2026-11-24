@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-02-26 07:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:55:33.546824'
+lastmod: '2026-09-04'
 related:
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
 - 2012-05-09-modelos-exponenciales-para-grafos-aleatorios-i-motivacion.md

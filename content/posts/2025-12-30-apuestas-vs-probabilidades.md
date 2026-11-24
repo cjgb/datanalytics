@@ -6,7 +6,7 @@ date: 2025-12-30
 description: Explora la relación entre precios y probabilidades subjetivas a través
   de Savage y Sharpe. Analizamos cómo la aversión al riesgo define los mercados de
   predicción.
-lastmod: '2026-01-03T23:24:08.510338'
+lastmod: '2026-09-04'
 related:
 - 2022-04-26-redefinicion-probabilidades-subjetivas.md
 - 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md

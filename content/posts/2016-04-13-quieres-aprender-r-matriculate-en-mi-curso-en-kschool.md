@@ -6,7 +6,7 @@ categories:
 - r
 date: 2016-04-13 09:13:01+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:09.387100'
+lastmod: '2026-01-31'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md
 - 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md

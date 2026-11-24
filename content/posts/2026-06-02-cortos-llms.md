@@ -5,7 +5,7 @@ categories:
 date: 2026-06-02
 description: Del impacto de la IA en la ciberseguridad a la saturación de la inteligencia
   en los usos prácticos de los LLMs.
-lastmod: '2026-05-29T13:43:15.741295'
+lastmod: '2026-10-31'
 related:
 - 2026-03-30-cortos.md
 - 2025-04-15-cortos-llm.md

@@ -4,7 +4,7 @@ categories:
 - youtube
 date: 2021-06-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:46.791169'
+lastmod: '2025-04-07'
 related:
 - 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md
 - 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md

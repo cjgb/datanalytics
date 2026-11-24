@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-10-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:13.072621'
+lastmod: '2025-09-25'
 related:
 - 2020-10-09-explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring.md
 - 2017-01-10-repensando-la-codificacion-por-impacto.md

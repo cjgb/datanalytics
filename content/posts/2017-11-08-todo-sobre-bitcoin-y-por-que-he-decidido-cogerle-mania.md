@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-11-08 08:13:09+00:00
 draft: false
-lastmod: '2025-04-06T18:50:16.301611'
+lastmod: '2026-09-04'
 related:
 - 2017-09-19-fedatarios-blockchain-y-bitcoin.md
 - 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md

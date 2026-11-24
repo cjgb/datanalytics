@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-01-19 07:13:36+00:00
 noindex: true
-lastmod: '2025-04-06T19:00:33.117271'
+lastmod: '2026-09-04'
 related:
 - 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
 - 2014-03-25-totales-agregados-por-bloques-en-tablas.md

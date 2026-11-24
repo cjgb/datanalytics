@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2018-03-27 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:02:02.894781'
+lastmod: '2025-05-05'
 related:
 - 2022-02-15-mas-correlaciones-siglo-xxi.md
 - 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md

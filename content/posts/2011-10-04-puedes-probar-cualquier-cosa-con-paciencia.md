@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2011-10-04 07:10:42+00:00
 draft: false
-lastmod: '2025-04-06T18:45:26.352927'
+lastmod: '2026-09-04'
 related:
 - 2023-09-28-potencia-tests.md
 - 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md

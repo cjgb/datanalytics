@@ -5,7 +5,7 @@ categories:
 date: 2026-04-30
 description: En el contexto de las pruebas A/B bayesianas, se estudia la elección
   de prioris compatibles con «lifts» realistas que pasen el «prior predictive check».
-lastmod: '2026-04-24T12:04:13.020956'
+lastmod: '2026-05-02'
 related:
 - 2023-03-21-reduccion-error-tests-ab.md
 - 2018-05-24-prioris-informativas-un-ejemplo.md

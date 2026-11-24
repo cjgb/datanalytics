@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-05-23
-lastmod: '2025-04-06T18:52:51.550967'
+lastmod: '2025-11-02'
 related:
 - 2022-11-08-que-hora-deberia-ser.md
 - 2023-03-07-contador-electricidad.md

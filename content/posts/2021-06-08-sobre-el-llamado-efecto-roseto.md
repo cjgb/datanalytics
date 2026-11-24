@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-06-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:19.877009'
+lastmod: '2025-09-25'
 related:
 - 2024-10-08-cortos-stats.md
 - 2018-09-11-la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha.md

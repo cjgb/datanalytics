@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-03-18 22:11:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:16.060649'
+lastmod: '2026-09-03'
 related:
 - 2020-03-16-interacciones-y-seleccion-de-modelos.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

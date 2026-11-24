@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-10-05 07:45:07+00:00
-lastmod: '2025-04-06T18:57:23.060494'
+lastmod: '2026-10-06'
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

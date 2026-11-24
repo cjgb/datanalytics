@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-09-12 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:53:41.288954'
+lastmod: '2025-04-07'
 related:
 - 2017-09-26-ajustad-vuestras-prioris-la-mayoria-de-los-programas-sociales-carecen-de-efectos-positivos.md
 - 2022-04-05-intervenciones-buenistas.md

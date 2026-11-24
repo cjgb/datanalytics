@@ -5,7 +5,7 @@ categories:
 date: 2022-06-21
 description: Una breve introducción a los conceptos de matriz de confusión, sensibilidad,
   especificidad, curva ROC y AUC
-lastmod: '2025-04-06T18:55:08.094083'
+lastmod: '2026-09-04'
 related:
 - 2022-02-17-examenes-probabilisticos.md
 - 2023-03-02-conformal-prediction.md

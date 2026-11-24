@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2011-03-09 09:51:47+00:00
-lastmod: '2025-04-06T19:07:27.806644'
+lastmod: '2026-09-26'
 related:
 - 2010-10-03-c2bfpor-que-no-una-competicion.md
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md

@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2013-12-31 07:42:46+00:00
 draft: false
-lastmod: '2025-04-06T18:47:37.438202'
+lastmod: '2026-09-04'
 related:
 - 2019-12-10-electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos.md
 - 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md

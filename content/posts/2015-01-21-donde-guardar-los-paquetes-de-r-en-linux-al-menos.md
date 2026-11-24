@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-01-21 07:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:13:23.661124'
+lastmod: '2026-09-04'
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
 - 2011-12-01-creacion-de-un-r-portable.md

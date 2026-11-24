@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-05-09
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2022-05-10-encuestas-electorales-cualitativas.md
 - 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md

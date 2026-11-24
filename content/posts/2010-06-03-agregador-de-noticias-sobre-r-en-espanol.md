@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-03 02:11:19+00:00
-lastmod: '2025-04-06T18:44:26.162510'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2019-02-27-sobre-el-agregador-de-noticias-sobre-r-en-espanol.md

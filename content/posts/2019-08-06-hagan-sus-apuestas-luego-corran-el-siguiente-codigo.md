@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-08-06 09:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:02:43.640780'
+lastmod: '2026-09-04'
 related:
 - 2011-02-15-como-reordenar-niveles-de-factores-en-r.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

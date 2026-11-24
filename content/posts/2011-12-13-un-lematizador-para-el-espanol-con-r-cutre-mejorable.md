@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-12-13 07:23:56+00:00
 draft: false
-lastmod: '2025-04-06T18:45:29.027235'
+lastmod: '2026-10-12'
 related:
 - 2012-01-05-un-lematizador-para-el-espanol-con-r-ii.md
 - 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md

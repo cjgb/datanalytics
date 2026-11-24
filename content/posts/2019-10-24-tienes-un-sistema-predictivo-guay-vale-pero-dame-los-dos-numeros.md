@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-10-24 09:13:36+00:00
 draft: false
-lastmod: '2025-04-06T18:53:19.109175'
+lastmod: '2025-11-02'
 related:
 - 2019-12-04-p-valores-y-decisiones.md
 - 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md

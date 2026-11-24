@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-10-19 07:07:48+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:32.900997'
+lastmod: '2026-10-12'
 related:
 - 2012-04-24-segunda-reunion-de-usuarios-de-r-de-madrid-recordatorio.md
 - 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md

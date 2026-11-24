@@ -5,7 +5,7 @@ categories:
 date: 2014-04-11 21:00:59+00:00
 noindex: true
 description: Principalmente, porque las nuevas versiones de R corrigen errores de las anteriores.
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md
 - 2013-06-24-pqr-un-r-mas-rapido.md

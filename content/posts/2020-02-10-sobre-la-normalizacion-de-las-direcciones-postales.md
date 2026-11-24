@@ -6,7 +6,7 @@ categories:
 - r
 date: 2020-02-10 18:00:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:56.222313'
+lastmod: '2026-09-04'
 related:
 - 2016-04-15-ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto.md
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md

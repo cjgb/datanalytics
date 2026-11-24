@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-03-17 09:13:06+00:00
 draft: false
-lastmod: '2025-04-06T19:10:21.184575'
+lastmod: '2025-04-07'
 related:
 - 2019-06-06-mi-infraestructura-para-python.md
 - 2024-07-09-positron.md

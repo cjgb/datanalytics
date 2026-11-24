@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-05-26 07:50:58+00:00
 draft: false
-lastmod: '2025-04-06T18:46:25.443028'
+lastmod: '2026-09-04'
 related:
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md

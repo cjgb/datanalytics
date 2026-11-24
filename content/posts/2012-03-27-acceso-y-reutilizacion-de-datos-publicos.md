@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-03-27 07:53:37+00:00
 draft: false
-lastmod: '2025-04-06T19:12:37.278196'
+lastmod: '2026-09-04'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md

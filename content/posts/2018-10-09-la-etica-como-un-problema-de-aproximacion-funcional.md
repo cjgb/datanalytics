@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-10-09 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:59:58.011502'
+lastmod: '2026-09-04'
 related:
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

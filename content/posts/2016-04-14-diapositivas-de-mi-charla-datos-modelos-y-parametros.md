@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-14 09:13:35+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:56.916061'
+lastmod: '2026-01-31'
 related:
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md
 - 2016-02-08-rstan-y-rstanarm-en-medialab-prado-este-jueves.md

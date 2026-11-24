@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2023-09-05
-lastmod: '2025-04-06T18:48:36.808519'
+lastmod: '2026-09-04'
 related:
 - 2021-12-09-mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten.md
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md

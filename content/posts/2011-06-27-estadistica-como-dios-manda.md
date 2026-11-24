@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-06-27 07:07:50+00:00
 draft: false
-lastmod: '2025-04-06T18:44:43.572683'
+lastmod: '2025-04-07'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2010-05-20-numeros-estadisticamente-transcendentes.md

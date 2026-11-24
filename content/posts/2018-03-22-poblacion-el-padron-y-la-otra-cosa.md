@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-03-22 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:58:24.288884'
+lastmod: '2026-09-04'
 related:
 - 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

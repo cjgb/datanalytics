@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2023-11-23
 draft: false
-lastmod: '2025-04-06T19:00:16.626556'
+lastmod: '2025-04-07'
 related:
 - 2022-12-29-aristoteles-probable-improbable.md
 - 2011-03-11-riesgo-e-incertidumbre.md

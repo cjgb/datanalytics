@@ -6,7 +6,7 @@ date: 2025-11-11
 description: Crítica a prácticas estadísticas comunes como trocear variables y ajustar
   regresiones logísticas segmentadas, con reflexiones sobre equilibrios inadecuados
   y alternativas.
-lastmod: '2025-11-13T20:48:54.652729'
+lastmod: '2026-01-10'
 related:
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

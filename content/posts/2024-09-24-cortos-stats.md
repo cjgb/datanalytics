@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-09-24
-lastmod: '2025-04-06T19:05:27.597555'
+lastmod: '2025-10-03'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2024-10-17-interpretacion-modelos.md

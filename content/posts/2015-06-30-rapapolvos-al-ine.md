@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-06-30 08:12:12+00:00
 draft: false
-lastmod: '2025-04-06T19:06:08.009187'
+lastmod: '2025-05-05'
 related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 - 2010-12-28-lo-prometo-no-es-una-broma.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-08-10 07:47:14+00:00
 draft: false
-lastmod: '2025-04-06T18:52:05.405694'
+lastmod: '2026-10-12'
 related:
 - 2011-12-15-graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

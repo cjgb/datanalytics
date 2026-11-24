@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-10-26 21:27:06+00:00
-lastmod: '2025-04-06T19:12:16.026210'
+lastmod: '2026-10-31'
 related:
 - 2012-02-16-virgueria-con-r.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md

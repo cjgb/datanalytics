@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-04-21 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:55:32.048568'
+lastmod: '2026-09-04'
 related:
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md

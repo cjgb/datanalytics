@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-07-05 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T18:44:24.056499'
+lastmod: '2025-04-07'
 related:
 - 2014-05-14-y-sin-embargo-te-quiero.md
 - 2015-11-17-agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas.md

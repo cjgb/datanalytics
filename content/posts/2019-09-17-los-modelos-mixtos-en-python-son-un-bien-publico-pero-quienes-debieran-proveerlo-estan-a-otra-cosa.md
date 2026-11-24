@@ -4,7 +4,7 @@ categories:
 - python
 date: 2019-09-17 09:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:48:45.642049'
+lastmod: '2025-04-07'
 related:
 - 2017-10-06-una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia.md
 - 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md

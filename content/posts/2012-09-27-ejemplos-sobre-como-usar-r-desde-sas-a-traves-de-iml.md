@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-09-27 06:55:36+00:00
 draft: false
-lastmod: '2025-04-06T19:01:10.332162'
+lastmod: '2026-10-12'
 related:
 - 2010-08-28-la-funcion-ifelse-a-la-sas.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

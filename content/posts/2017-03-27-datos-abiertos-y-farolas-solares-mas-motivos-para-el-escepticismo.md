@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-03-27 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:50:19.629685'
+lastmod: '2026-10-12'
 related:
 - 2022-07-26-hueco-termico.md
 - 2012-03-01-como-poner-una-lavadora.md

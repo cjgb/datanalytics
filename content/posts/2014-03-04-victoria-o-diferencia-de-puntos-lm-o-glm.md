@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-04 07:08:18+00:00
 draft: false
-lastmod: '2025-04-06T18:48:58.300456'
+lastmod: '2026-09-04'
 related:
 - 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

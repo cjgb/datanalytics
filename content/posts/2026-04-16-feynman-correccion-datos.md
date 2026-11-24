@@ -6,7 +6,7 @@ date: 2026-04-16
 description: 'Feynman advierte sobre el sesgo en la medición de la carga del electrón:
   por qué los científicos tardaron décadas en corregir a Millikan y cómo evitar el
   autoengaño.'
-lastmod: '2026-04-13T10:58:12.862037'
+lastmod: '2026-04-13'
 related:
 - 2020-10-26-intervalos-de-confianza-y-la-velocidad-de-la-luz.md
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md

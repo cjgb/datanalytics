@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-11-07 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:00:06.457178'
+lastmod: '2026-09-04'
 related:
 - 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
 - 2020-03-04-intervalos-de-confianza-intervalos-de-prediccion.md

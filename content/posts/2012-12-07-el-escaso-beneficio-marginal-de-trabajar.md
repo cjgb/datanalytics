@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2012-12-07 07:42:33+00:00
 draft: false
-lastmod: '2025-04-06T18:49:27.025796'
+lastmod: '2026-09-04'
 related:
 - 2012-02-22-desempleo-incentivos-y-geometria.md
 - 2012-02-24-estoy-muy-de-acuerdo-con-la-ceoe.md

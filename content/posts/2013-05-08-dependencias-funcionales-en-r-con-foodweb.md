@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-05-08 07:17:59+00:00
 draft: false
-lastmod: '2025-04-06T19:06:38.217728'
+lastmod: '2026-09-04'
 related:
 - 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
 - 2014-09-24-plyr-dplyr-data-table-que-opinas.md

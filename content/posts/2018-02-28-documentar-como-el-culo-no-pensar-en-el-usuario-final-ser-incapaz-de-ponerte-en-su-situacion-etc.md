@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-02-28 08:13:54+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:24.982101'
+lastmod: '2026-06-12'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2015-02-05-parametrizacion-para-vagos-muy-muy-vagos.md

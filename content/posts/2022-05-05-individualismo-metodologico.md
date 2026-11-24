@@ -4,7 +4,7 @@ categories:
 - causalidad
 date: 2022-05-05
 description: El individualismo metodológico como instrumento para criticar relaciones de causalidad
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
 - 2022-03-08-estadistica-ciencias-blandas.md

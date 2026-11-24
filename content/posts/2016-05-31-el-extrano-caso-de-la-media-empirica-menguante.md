@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2016-05-31 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:45:41.152758'
+lastmod: '2026-09-04'
 related:
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md

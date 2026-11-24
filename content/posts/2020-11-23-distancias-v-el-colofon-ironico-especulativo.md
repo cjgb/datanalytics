@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2020-11-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:13.660421'
+lastmod: '2025-05-05'
 related:
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md
 - 2020-11-06-distancias-iii-la-gran-pregunta.md

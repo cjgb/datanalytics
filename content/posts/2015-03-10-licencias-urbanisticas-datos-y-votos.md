@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-03-10 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T19:04:12.235106'
+lastmod: '2025-04-07'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2015-06-29-licencias-urbanisticas-no-viables-y-fin.md

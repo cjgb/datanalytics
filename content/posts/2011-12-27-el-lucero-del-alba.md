@@ -7,7 +7,7 @@ date: 2011-12-27 06:39:02+00:00
 description: '"Descubre qué es el lucero del alba en bolsa, su impacto en Telefónica
   e IBEX 35, y análisis con datos históricos."'
 draft: false
-lastmod: '2025-04-07T02:37:59.904837'
+lastmod: '2026-09-04'
 related:
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
 - 2014-02-20-la-bolsa-intradia-y-bolsa-interdia.md

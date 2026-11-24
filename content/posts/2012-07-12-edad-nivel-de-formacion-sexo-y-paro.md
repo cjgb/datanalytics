@@ -6,7 +6,7 @@ categories:
 - números
 date: 2012-07-12 07:05:42+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:09.728568'
+lastmod: '2026-11-23'
 related:
 - 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
 - 2023-05-11-nivel-estudios-vs-progenitores.md
@@ -24,11 +24,11 @@ title: Edad, nivel de formación, sexo y paro
 url: /2012/07/12/edad-nivel-de-formacion-sexo-y-paro/
 ---
 
-No sé si alguien podrá ayudarme con este gráfico que he hecho con [Mondrian](https://web.archive.org/web/20150708222611/http://stats.math.uni-augsburg.de:80/Mondrian/):
+No sé si alguien podrá ayudarme con este gráfico que he construido con [Mondrian](https://web.archive.org/web/20150708222611/http://stats.math.uni-augsburg.de:80/Mondrian/):
 
-![](/img/2012/07/paro_sexo_edad_nivel_formacion.png#center)
+![Tasa de paro por tramo de edad, nivel de estudio y sexo](/img/2012/07/paro_sexo_edad_nivel_formacion.png#center)
 
-Está construido a partir de los [microdatos](https://web.archive.org/web/20160304083243/http://www.ine.es/prodyser/micro_epa.htm) de la última [EPA](http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft22/e308_mnu&file=inebase&L=0) e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
+Usa los [microdatos](https://web.archive.org/web/20160304083243/http://www.ine.es/prodyser/micro_epa.htm) de la [última EPA](http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft22/e308_mnu&file=inebase&L=0) e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
 
 * Tramos de edad (ordenados)
 * Nivel de estudios (desde los que no han completado la primaria hasta los universitarios)

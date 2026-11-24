@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2021-10-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:11:44.637641'
+lastmod: '2025-05-05'
 related:
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 - 2021-10-01-esos-felices-momentos-le-verrier.md

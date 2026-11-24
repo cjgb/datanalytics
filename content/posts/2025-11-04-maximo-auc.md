@@ -4,7 +4,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-11-04
 description: ¿Cuál es el máximo valor del AUC que se puede obtener realísticamente?
-lastmod: '2025-11-10T12:15:55.352351'
+lastmod: '2026-09-04'
 related:
 - 2025-04-17-auc-vs-dispersion-p.md
 - 2025-04-24-auc-vs-dispersion-p-ii.md

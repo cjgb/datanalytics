@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-02-21 08:13:48+00:00
 draft: false
-lastmod: '2025-04-06T18:53:05.243969'
+lastmod: '2025-04-07'
 related:
 - 2024-11-14-simpson-productividad.md
 - 2022-01-04-la-altura-media-animales-zoo-madrid.md

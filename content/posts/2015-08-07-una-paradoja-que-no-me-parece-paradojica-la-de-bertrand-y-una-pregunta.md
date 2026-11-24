@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-08-07 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T19:08:56.804335'
+lastmod: '2025-11-02'
 related:
 - 2019-06-12-la-paradoja-de-berkson-2.md
 - 2015-10-19-la-paradoja-de-berkson.md

@@ -5,7 +5,7 @@ categories:
 date: 2022-06-02
 description: 'Consejos para arrancar y estructurar un proyecto de datos: directorios,
   etc.'
-lastmod: '2025-04-06T18:44:44.287707'
+lastmod: '2026-10-31'
 related:
 - 2011-06-08-gestion-de-proyectos-en-r.md
 - 2023-12-14-metodologias-viejunas.md

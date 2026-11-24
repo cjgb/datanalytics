@@ -6,7 +6,7 @@ categories:
 date: 2025-03-27
 description: Descripción del proceso de creación del widget de entradas relacionadas
   en el blog usando LLMs y editando la plantilla de Hugo.
-lastmod: '2025-04-06T19:21:57.684078'
+lastmod: '2026-02-11'
 related:
 - 2015-03-04-adaequatio-rei-et-analysis.md
 - 2021-03-04-sobre-el-teorema-de-aumann.md

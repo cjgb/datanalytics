@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-03-04 09:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:44:17.050969'
+lastmod: '2025-05-05'
 related:
 - 2019-05-10-un-reciproco-para-el-teorema-de-bernstein-von-mises.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

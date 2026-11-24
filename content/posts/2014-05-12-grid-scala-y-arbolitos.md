@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-05-12 07:39:06+00:00
 draft: false
-lastmod: '2025-04-06T19:08:53.740515'
+lastmod: '2026-10-12'
 related:
 - 2012-05-23-patrones-hexagonales-con-r.md
 - 2014-09-09-factorizacion-de-enteros-con-grid.md

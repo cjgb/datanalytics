@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-05-29 09:13:32+00:00
 draft: false
-lastmod: '2025-04-06T19:05:58.488437'
+lastmod: '2025-11-12'
 related:
 - 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
 - 2019-05-14-analisis-de-la-discontinuidad-polinomios-de-grado-alto.md

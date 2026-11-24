@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2011-05-09 07:07:57+00:00
 noindex: true
-lastmod: '2025-04-06T18:54:04.371777'
+lastmod: '2026-10-12'
 related:
 - 2023-10-05-llms-historia.md
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md

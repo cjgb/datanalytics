@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-05-08 06:41:59+00:00
 draft: false
-lastmod: '2025-04-06T19:04:42.842687'
+lastmod: '2026-09-04'
 related:
 - 2011-07-04-miscelanea-de-citas.md
 - 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md

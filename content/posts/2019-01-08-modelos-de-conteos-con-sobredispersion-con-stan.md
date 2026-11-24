@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-01-08 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:55.444456'
+lastmod: '2026-09-04'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md

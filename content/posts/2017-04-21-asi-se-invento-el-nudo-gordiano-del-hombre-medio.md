@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-04-21 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T19:12:08.272383'
+lastmod: '2025-04-07'
 related:
 - 2011-08-03-clustering-iii-sobresimplificacion.md
 - 2015-10-14-del-hombre-medio-a-la-factura-media.md

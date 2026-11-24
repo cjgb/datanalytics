@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-07-23 14:45:54+00:00
 draft: false
-lastmod: '2025-04-06T18:53:38.592986'
+lastmod: '2026-09-04'
 related:
 - 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
 - 2015-09-30-el-curioso-caso-de-los-suicidios-en-madrid.md

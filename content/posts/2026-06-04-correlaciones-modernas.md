@@ -5,7 +5,7 @@ categories:
 date: 2026-06-04
 description: Una lista desactualizada e incompleta de variantes del coeficiente de
   correlación de toda la vida
-lastmod: '2026-05-29T17:22:20.876460'
+lastmod: '2026-09-26'
 related:
 - 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md
 - 2022-02-15-mas-correlaciones-siglo-xxi.md

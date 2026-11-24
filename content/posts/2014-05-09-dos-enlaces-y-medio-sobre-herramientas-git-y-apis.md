@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-05-09 07:12:37+00:00
 draft: false
-lastmod: '2025-04-06T18:47:28.664697'
+lastmod: '2026-09-04'
 related:
 - 2010-05-27-google-prediction-api.md
 - 2015-06-05-herramientas-y-consejos-para-avanzar-en-tu-carrera.md

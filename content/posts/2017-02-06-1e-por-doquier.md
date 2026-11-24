@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-02-06 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T19:00:49.645227'
+lastmod: '2025-10-12'
 related:
 - 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
 - 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md

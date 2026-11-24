@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-07-11 08:13:37+00:00
 draft: false
-lastmod: '2025-04-06T18:57:10.000440'
+lastmod: '2025-11-02'
 related:
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 - 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md

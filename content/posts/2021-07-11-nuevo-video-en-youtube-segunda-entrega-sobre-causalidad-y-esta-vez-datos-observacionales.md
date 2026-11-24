@@ -6,7 +6,7 @@ categories:
 - causalidad
 date: 2021-07-11 15:17:30+00:00
 draft: false
-lastmod: '2025-04-06T18:58:40.213428'
+lastmod: '2025-04-07'
 related:
 - 2021-05-09-nuevo-video-en-youtube-una-breve-introduccion-a-la-causalidad-a-la-pearl.md
 - 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md

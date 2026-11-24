@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2015-02-04 07:13:40+00:00
-lastmod: '2025-04-06T18:50:00.873132'
+lastmod: '2026-09-04'
 related:
 - 2014-03-06-me-han-entrevistado-en-big-data-4-success.md
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md

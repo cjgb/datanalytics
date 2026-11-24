@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-07-24 07:01:54+00:00
 noindex: true
-lastmod: '2025-04-06T18:54:17.691634'
+lastmod: '2026-01-31'
 related:
 - 2013-08-14-tres-grandes-numeros-con-enmienda.md
 - 2012-09-05-los-principales-problemas-de-espana.md

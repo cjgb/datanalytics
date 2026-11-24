@@ -4,7 +4,7 @@ categories:
 - r
 - gráficos
 date: 2022-01-02
-lastmod: '2025-04-06T19:05:21.371243'
+lastmod: '2026-09-04'
 related:
 - 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
 - 2017-05-12-me-too-me-too.md

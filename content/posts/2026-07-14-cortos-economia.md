@@ -7,7 +7,7 @@ description: Economías de LLMs centralizadas (y no), micromuertes y sus precios
   en España, exportaciones de servicios, racionalidad acotada de personas jurídicas,
   predicciones de The Economist, rentas salariales y la eficiencia en la construcción
   del metro de Madrid.
-lastmod: '2026-07-10T19:46:38.334386'
+lastmod: '2026-09-12'
 related:
 - 2026-05-12-cortos-economia.md
 - 2026-04-14-cortos.md

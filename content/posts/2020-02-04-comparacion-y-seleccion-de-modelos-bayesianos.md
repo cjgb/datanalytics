@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-02-04 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:11:45.641361'
+lastmod: '2025-04-07'
 related:
 - 2020-01-28-gof-para-modelos-bayesianos.md
 - 2024-09-12-cortos-stats.md

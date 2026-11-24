@@ -4,7 +4,7 @@ categories:
 - programación
 - probabilidad
 date: 2024-02-27
-lastmod: '2025-04-06T18:50:32.290064'
+lastmod: '2026-02-11'
 related:
 - 2011-09-28-datos-grandes-colas-largas.md
 - 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md

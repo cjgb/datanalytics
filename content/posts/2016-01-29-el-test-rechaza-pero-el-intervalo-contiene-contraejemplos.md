@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-29 09:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:51:51.818965'
+lastmod: '2026-09-04'
 related:
 - 2016-02-03-otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene.md
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md

@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2020-05-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:52.921608'
+lastmod: '2025-04-07'
 related:
 - 2018-01-19-poor-economics-una-microcritica.md
 - 2022-04-05-intervenciones-buenistas.md

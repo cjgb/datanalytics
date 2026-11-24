@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-07-03
-lastmod: '2025-04-06T19:00:48.111696'
+lastmod: '2025-09-03'
 related:
 - 2014-10-28-tres-sigmas-o-nanay.md
 - 2018-12-20-p-valores-y-el-perro-que-no-ladro.md

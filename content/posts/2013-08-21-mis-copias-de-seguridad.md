@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2013-08-21 07:14:31+00:00
-lastmod: '2025-04-06T18:44:21.950611'
+lastmod: '2026-09-04'
 related:
 - 2022-06-02-orgamizacion-proyectos-datos.md
 - 2011-06-08-gestion-de-proyectos-en-r.md

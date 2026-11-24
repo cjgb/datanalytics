@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2024-02-06
-lastmod: '2025-04-06T19:04:09.337488'
+lastmod: '2026-11-23'
 related:
 - 2025-03-25-cortos-llms.md
 - 2012-11-07-mapreduce-con-mincedmeat.md
@@ -127,4 +127,4 @@ Otra excentricidad de mi proceso es que no usa [`langchain`](https://www.langcha
 
 ### Comentarios finales
 
-Que prácticamente es solo uno. Este proceso que describo para industrializar el proceso de lectura cuesta dinero ---muy, hay que reconocerlo---. Y su autor ---yo--- está dispuesto a pagarlo no para acceder a más y mejor contenido ---no hay apenas _paywalls_ para quien conozca un par de trucos--- sino, precisamente, para leer menos. Hoy en día es más valiosa ---al menos, para este humilde opinador--- una herramienta que seleccione, descarte, resuma y achique que otra que proporcione acceso a contenido presuntamente de calidad. ¡Cosas del siglo que corre!
+Que prácticamente es solo uno. Este proceso que describo para industrializar el proceso de lectura cuesta dinero ---mucho, hay que reconocerlo---. Y su autor ---yo--- está dispuesto a pagarlo no para acceder a más y mejor contenido ---no hay apenas _paywalls_ para quien conozca un par de trucos--- sino, precisamente, para leer menos. Hoy en día es más valiosa ---al menos, para este humilde opinador--- una herramienta que seleccione, descarte, resuma y achique que otra que proporcione acceso a contenido presuntamente de calidad. ¡Cosas del siglo que corre!

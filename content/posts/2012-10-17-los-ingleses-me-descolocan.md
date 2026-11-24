@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-10-17 07:38:03+00:00
 draft: false
-lastmod: '2025-04-06T19:11:29.007373'
+lastmod: '2026-02-07'
 related:
 - 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
 - 2012-02-22-desempleo-incentivos-y-geometria.md

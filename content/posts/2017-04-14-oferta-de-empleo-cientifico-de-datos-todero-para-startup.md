@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2017-04-14 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:54:07.693353'
+lastmod: '2025-04-07'
 related:
 - 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md
 - 2017-10-04-circiter.md

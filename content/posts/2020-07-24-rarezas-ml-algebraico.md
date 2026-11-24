@@ -5,7 +5,7 @@ categories:
 - ciencia de datos
 date: 2020-07-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:28.044866'
+lastmod: '2025-05-05'
 related:
 - 2019-04-22-ml-y-estadistica-cosas-distintas.md
 - 2015-01-14-rarezas-estadistica-algebraica.md

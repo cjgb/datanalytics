@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2015-11-02 08:13:26+00:00
-lastmod: '2025-10-06'
+lastmod: '2025-10-24'
 related:
 - 2011-12-19-la-correlacion-del-siglo-xxi.md
 - 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md

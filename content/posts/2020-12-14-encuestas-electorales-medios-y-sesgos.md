@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-12-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:59.075584'
+lastmod: '2026-09-04'
 related:
 - 2017-09-05-predecir-a-los-predictores-por-incordiar.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

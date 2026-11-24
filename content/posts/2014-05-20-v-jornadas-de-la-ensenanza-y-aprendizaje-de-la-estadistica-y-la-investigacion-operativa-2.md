@@ -4,7 +4,7 @@ categories:
 - cursos
 date: 2014-05-20 07:42:50+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:44.452683'
+lastmod: '2026-09-04'
 related:
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
 - 2012-07-18-conferencia-sobre-grandes-datos.md

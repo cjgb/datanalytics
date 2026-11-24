@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-05 07:57:03+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2012-09-25-predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r.md
 - 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md

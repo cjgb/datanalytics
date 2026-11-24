@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-01-03 07:11:48+00:00
 draft: false
-lastmod: '2025-04-06T18:53:31.179030'
+lastmod: '2026-09-04'
 related:
 - 2014-01-17-mas-y-distinto-sobre-los-censos.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

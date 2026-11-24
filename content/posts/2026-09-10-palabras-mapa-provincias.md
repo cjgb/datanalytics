@@ -5,7 +5,7 @@ categories:
 date: 2026-09-10
 description: Un pequeño ejercicio intrascendente producto de la curiosidad y el aburrimiento,
   pero que puede traer alguna enseñanza para alguien.
-lastmod: '2026-09-04T21:11:41.503154'
+lastmod: '2026-09-04'
 related:
 - 2021-06-23-mi-mapa-provincial-favorito.md
 - 2017-10-27-iso-3166-2es.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-06-09
 description: Incluyendo notas sobre Mahalanobis el estadístico, la aplicación de la
   IRT para evitar la inflación de notas y comentarios sobre el manido tabPFN.
-lastmod: '2026-06-04T12:09:43.254635'
+lastmod: '2026-10-12'
 related:
 - 2025-11-20-estadistica.md
 - 2025-12-11-cortos.md

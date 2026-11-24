@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2022-09-15
 description: 'Perder ganando: consecuencias de la no ergodicidad'
-lastmod: '2025-04-06T19:01:39.943110'
+lastmod: '2025-04-07'
 related:
 - 2024-10-03-ergodicidad.md
 - 2011-05-12-c2bfque-nos-jugamos.md

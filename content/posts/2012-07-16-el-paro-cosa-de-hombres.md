@@ -6,7 +6,7 @@ categories:
 - números
 date: 2012-07-16 07:52:33+00:00
 draft: false
-lastmod: '2025-04-06T19:05:08.484392'
+lastmod: '2026-10-12'
 related:
 - 2022-01-04-la-altura-media-animales-zoo-madrid.md
 - 2015-03-09-unas-preguntas-incomodas.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-03-02 10:33:15+00:00
 draft: false
-lastmod: '2025-04-06T18:57:46.227716'
+lastmod: '2026-09-04'
 related:
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 - 2021-09-16-sobre-la-economia-conductual.md

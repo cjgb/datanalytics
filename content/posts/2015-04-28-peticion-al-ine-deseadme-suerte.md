@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-04-28 08:13:10+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-12-05 08:30:37+00:00
 draft: false
-lastmod: '2025-04-06T18:45:41.897984'
+lastmod: '2025-04-07'
 related:
 - 2020-03-25-cuantificacion-y-riesgo.md
 - 2012-07-10-la-desigualdad-y-como-medirla.md

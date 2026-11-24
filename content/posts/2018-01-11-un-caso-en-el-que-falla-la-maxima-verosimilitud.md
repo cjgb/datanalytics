@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-01-11 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:56:51.704615'
+lastmod: '2025-05-05'
 related:
 - 2017-02-06-1e-por-doquier.md
 - 2016-01-18-el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-09-30 07:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:58:06.662878'
+lastmod: '2026-09-04'
 related:
 - 2012-10-18-algunos-graficos-de-informacion-bursatil.md
 - 2022-07-28-temas-nadaesgratis.md

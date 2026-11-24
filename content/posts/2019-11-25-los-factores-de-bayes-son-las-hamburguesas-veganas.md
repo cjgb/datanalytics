@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-11-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:52:35.519518'
+lastmod: '2025-04-07'
 related:
 - 2016-02-29-los-tres-contraargumentos-habituales.md
 - 2014-10-13-los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera.md

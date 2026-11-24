@@ -5,7 +5,7 @@ categories:
 - ciencia de datos
 date: 2020-06-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:18.797787'
+lastmod: '2025-07-22'
 related:
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md
 - 2018-11-12-goodhart-lucas-y-todas-esas-cosas.md

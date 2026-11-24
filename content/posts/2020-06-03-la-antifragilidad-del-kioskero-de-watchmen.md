@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-06-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:50.827443'
+lastmod: '2025-11-02'
 related:
 - 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
 - 2016-05-30-mis-conciudadanos-no-tienen-wifi.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-08-08 07:13:03+00:00
 draft: false
-lastmod: '2025-04-06T19:12:42.039512'
+lastmod: '2026-09-04'
 related:
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
 - 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-04-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:14.051309'
+lastmod: '2026-01-10'
 related:
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md

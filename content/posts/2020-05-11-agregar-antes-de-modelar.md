@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-05-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:09.678350'
+lastmod: '2026-09-04'
 related:
 - 2020-04-13-regresion-tradicional-vs-multinivel.md
 - 2020-03-18-lme4-simulate.md

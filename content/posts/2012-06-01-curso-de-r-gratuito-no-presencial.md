@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-06-01 07:21:44+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:22.863688'
+lastmod: '2026-10-12'
 related:
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md
 - 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md

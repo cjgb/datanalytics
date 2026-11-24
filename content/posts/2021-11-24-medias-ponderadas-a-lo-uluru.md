@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-11-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:56.799641'
+lastmod: '2026-09-04'
 related:
 - 2022-05-17-como-calcula-inflacion.md
 - 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md

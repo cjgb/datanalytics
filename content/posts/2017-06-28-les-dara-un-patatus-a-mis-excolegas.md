@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-06-28 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T19:11:55.336011'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
 - 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md

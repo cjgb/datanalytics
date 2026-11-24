@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-03-03 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:13:06.540296'
+lastmod: '2026-09-04'
 related:
 - 2017-02-27-consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r.md
 - 2013-01-10-una-aplicacion-seo-con-r.md

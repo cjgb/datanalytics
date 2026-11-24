@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-12-02 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T19:13:00.458296'
+lastmod: '2026-09-04'
 related:
 - 2016-02-18-hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano.md
 - 2015-07-03-r-consortium.md

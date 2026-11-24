@@ -5,7 +5,7 @@ categories:
 date: 2026-07-23
 description: Una mirada crítica a los avances metodológicos en el antiguo problema
   de la clasificación binaria.
-lastmod: '2026-07-17T17:45:53.600814'
+lastmod: '2026-07-17'
 related:
 - 2018-01-04-la-ilusion-de-progreso-en-problemas-de-clasificacion.md
 - 2025-11-11-logistica-troceada.md

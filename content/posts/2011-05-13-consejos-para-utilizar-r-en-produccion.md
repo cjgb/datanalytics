@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-05-13 07:58:02+00:00
 draft: false
-lastmod: '2025-04-06T19:12:24.530138'
+lastmod: '2026-09-04'
 related:
 - 2011-05-18-solipsismo-comunidad-y-rendimiento.md
 - 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md

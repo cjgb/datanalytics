@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2018-11-29 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T19:03:27.997111'
+lastmod: '2025-04-07'
 related:
 - 2018-11-01-las-tres-culturas-en-luca.md
 - 2020-02-12-no-se-como-traducir-partially-additive-generalized-linear-model-trees.md

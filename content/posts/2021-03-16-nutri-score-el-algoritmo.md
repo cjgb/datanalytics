@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2021-03-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:24.380728'
+lastmod: '2026-10-12'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2019-11-18-los-ejemplos-son-las-conclusiones.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-03-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:21.387172'
+lastmod: '2025-04-07'
 related:
 - 2019-01-14-clasificacion-vs-prediccion.md
 - 2019-01-23-reglas-de-scoring-impropias-un-ejemplo.md

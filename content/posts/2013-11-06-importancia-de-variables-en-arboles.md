@@ -6,7 +6,7 @@ categories:
 - r
 date: 2013-11-06 07:49:59+00:00
 draft: false
-lastmod: '2025-04-06T18:53:48.105632'
+lastmod: '2026-09-04'
 related:
 - 2017-01-10-repensando-la-codificacion-por-impacto.md
 - 2020-10-14-explicacion-de-los-scorings-de-ciertos-modelos.md

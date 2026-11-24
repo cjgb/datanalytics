@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2021-02-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:24.075829'
+lastmod: '2026-09-04'
 related:
 - 2021-03-18-la-teoria-de-la-probabilidad-no-extiende-la-logica.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

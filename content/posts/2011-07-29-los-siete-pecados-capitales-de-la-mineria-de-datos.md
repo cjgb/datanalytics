@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-07-29 07:46:19+00:00
 draft: false
-lastmod: '2025-04-06T18:56:45.028687'
+lastmod: '2026-09-04'
 related:
 - 2011-06-22-diez-mandamientos-del-analisis-de-datos.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

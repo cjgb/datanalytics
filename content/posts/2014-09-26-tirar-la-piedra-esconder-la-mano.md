@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-09-26 07:13:37+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:32.320150'
+lastmod: '2026-09-04'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2017-01-16-weapons-of-math-destruction.md

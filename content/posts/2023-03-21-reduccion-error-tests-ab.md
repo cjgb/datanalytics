@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-03-21
-lastmod: '2025-04-06T19:05:44.427696'
+lastmod: '2026-09-04'
 related:
 - 2020-04-13-regresion-tradicional-vs-multinivel.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

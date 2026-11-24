@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-05-16 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T19:06:36.001936'
+lastmod: '2026-09-04'
 related:
 - 2018-03-26-un-voluntario-para-aggiornar-microdatoses.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

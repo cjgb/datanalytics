@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2010-09-02 23:07:22+00:00
 draft: false
-lastmod: '2025-04-06T19:03:39.801498'
+lastmod: '2026-09-26'
 related:
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
 - 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md

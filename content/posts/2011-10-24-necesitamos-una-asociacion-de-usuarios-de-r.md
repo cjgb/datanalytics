@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-10-24 13:47:36+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:51.151228'
+lastmod: '2025-09-14'
 related:
 - 2011-11-07-disponible-el-programa-de-las-iii-jornadas-de-usuarios-de-r.md
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

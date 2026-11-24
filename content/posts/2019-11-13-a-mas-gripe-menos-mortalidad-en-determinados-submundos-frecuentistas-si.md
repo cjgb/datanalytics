@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-11-13 09:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:11:14.399445'
+lastmod: '2025-07-22'
 related:
 - 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
 - 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md

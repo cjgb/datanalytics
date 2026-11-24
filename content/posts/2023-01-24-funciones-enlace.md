@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-01-24
-lastmod: '2025-04-06T18:56:29.229860'
+lastmod: '2026-09-04'
 related:
 - 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
 - 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md

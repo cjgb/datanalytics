@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-07-15 10:58:46+00:00
 draft: false
-lastmod: '2025-04-06T19:04:39.075332'
+lastmod: '2026-10-12'
 related:
 - 2014-03-03-el-chocheo-de-los-dioses.md
 - 2011-07-22-la-escuela-de-chicago-se-defiende.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-10-17 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T19:09:24.040884'
+lastmod: '2025-10-12'
 related:
 - 2016-10-11-el-rmse-es-dios-y-xgboost-su-profeta.md
 - 2014-02-06-experimentos-con-el-paquete-gbm.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-09-23 07:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:52:39.558919'
+lastmod: '2026-09-04'
 related:
 - 2025-03-11-cortos-causalidad.md
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md

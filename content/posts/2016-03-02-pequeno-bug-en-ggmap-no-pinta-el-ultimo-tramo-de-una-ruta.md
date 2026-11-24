@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-03-02 09:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:11:59.808055'
+lastmod: '2026-09-04'
 related:
 - 2012-04-16-rutas-por-zaragoza-con-r.md
 - 2016-04-29-como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela.md

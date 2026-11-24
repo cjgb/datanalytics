@@ -4,7 +4,7 @@ categories:
 - llms
 date: 2026-09-16
 description: ''
-lastmod: '2026-09-16T12:13:43.946092'
+lastmod: '2026-09-16'
 related:
 - 2025-11-18-llms-aporia.md
 - 2026-03-12-llms-conocimiento-legible.md

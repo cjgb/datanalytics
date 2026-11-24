@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2020-09-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:56.757607'
+lastmod: '2026-09-04'
 related:
 - 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
 - 2023-11-10-charla-universidad-oviedo.md

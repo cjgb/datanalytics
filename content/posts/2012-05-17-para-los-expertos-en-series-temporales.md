@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-05-17 10:44:25+00:00
 draft: false
-lastmod: '2025-04-06T18:55:12.267914'
+lastmod: '2026-09-04'
 related:
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md

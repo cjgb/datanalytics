@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-02-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:44:45.634513'
+lastmod: '2026-09-04'
 related:
 - 2022-11-17-igualdad-oportunidades.md
 - 2020-02-27-una-version-aun-mas-sencilla.md

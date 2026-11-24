@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-02-14 07:32:10+00:00
 draft: false
-lastmod: '2025-04-06T19:06:39.061516'
+lastmod: '2025-10-12'
 related:
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md

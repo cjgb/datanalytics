@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-02-08 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:09:13.215532'
+lastmod: '2026-09-04'
 related:
 - 2014-07-07-por-que-soy-esceptico-con-respecto-al-periodismo-de-datos.md
 - 2016-09-26-encuestas-electorales-una-propuesta.md

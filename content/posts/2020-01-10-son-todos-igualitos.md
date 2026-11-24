@@ -6,7 +6,7 @@ categories:
 - mala ciencia
 date: 2020-01-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:34.732340'
+lastmod: '2025-11-02'
 related:
 - 2019-05-29-y-si-quitamos-el-puntico-de-arriba-a-la-izquierda.md
 - 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md

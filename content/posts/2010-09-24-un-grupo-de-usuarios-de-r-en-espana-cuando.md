@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-24 18:35:49+00:00
-lastmod: '2025-04-06T18:59:27.914586'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2014-06-23-grupo-de-usuarios-de-r-de-portugal.md

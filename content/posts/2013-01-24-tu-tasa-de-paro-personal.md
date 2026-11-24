@@ -6,7 +6,7 @@ categories:
 - r
 date: 2013-01-24 13:50:39+00:00
 draft: false
-lastmod: '2025-04-06T18:53:15.498566'
+lastmod: '2026-10-12'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md

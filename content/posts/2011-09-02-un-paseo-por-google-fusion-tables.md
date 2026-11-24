@@ -4,7 +4,7 @@ categories:
 - estadística
 - gráficos
 date: 2011-09-02 07:46:21+00:00
-lastmod: '2025-04-06T19:05:00.700287'
+lastmod: '2026-02-06'
 noindex: true
 related:
 - 2011-06-28-google-refine-para-analizar-estudiar-y-limpiar-los-datos.md

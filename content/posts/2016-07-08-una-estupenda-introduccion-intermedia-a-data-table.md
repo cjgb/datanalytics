@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-07-08 08:13:05+00:00
-lastmod: '2025-04-06T19:01:54.407412'
+lastmod: '2026-10-12'
 related:
 - 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
 - 2014-09-24-plyr-dplyr-data-table-que-opinas.md

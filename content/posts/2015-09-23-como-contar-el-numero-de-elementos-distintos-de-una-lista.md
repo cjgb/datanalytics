@@ -4,7 +4,7 @@ categories:
 - programación
 - probabilidad
 date: 2015-09-23 08:13:47+00:00
-lastmod: '2025-04-06T18:50:05.520127'
+lastmod: '2026-09-04'
 related:
 - 2010-08-17-una-tarea-para-mis-lectores.md
 - 2011-09-22-anonimidad-y-cantidad-de-informacion.md

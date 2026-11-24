@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-03-03 09:36:40+00:00
 draft: false
-lastmod: '2025-04-06T19:12:36.538755'
+lastmod: '2026-09-26'
 related:
 - 2014-10-28-tres-sigmas-o-nanay.md
 - 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md

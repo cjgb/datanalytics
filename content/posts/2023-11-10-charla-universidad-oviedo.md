@@ -4,7 +4,7 @@ categories:
 - charlas
 date: 2023-11-10
 noindex: true
-lastmod: '2025-04-06T19:04:16.641593'
+lastmod: '2026-03-05'
 related:
 - 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md
 - 2016-02-08-rstan-y-rstanarm-en-medialab-prado-este-jueves.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-04 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:08.765235'
+lastmod: '2026-10-08'
 related:
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 - 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md

@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-01-29 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:08:53.006350'
+lastmod: '2026-09-04'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md

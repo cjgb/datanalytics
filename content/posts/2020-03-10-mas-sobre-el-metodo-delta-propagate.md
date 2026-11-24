@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-03-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:13.665526'
+lastmod: '2025-10-12'
 related:
 - 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md
 - 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-07-21 08:13:25+00:00
 draft: false
-lastmod: '2025-04-06T19:01:57.551548'
+lastmod: '2026-09-04'
 related:
 - 2017-05-30-el-teorema-de-rolle-acientifico.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

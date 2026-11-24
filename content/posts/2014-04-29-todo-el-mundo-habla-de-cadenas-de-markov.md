@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2014-04-29 07:19:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:59.341238'
+lastmod: '2025-05-05'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2013-05-13-charla-un-lematizador-probabilistico-con-r.md

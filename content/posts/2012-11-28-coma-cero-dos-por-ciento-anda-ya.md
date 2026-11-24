@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-11-28 06:52:41+00:00
 draft: false
-lastmod: '2025-04-06T19:10:14.783218'
+lastmod: '2026-10-12'
 related:
 - 2015-04-24-el-sujeto-numero-82694.md
 - 2011-11-03-2872.md

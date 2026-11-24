@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2014-10-21 07:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:10:38.605740'
+lastmod: '2026-09-04'
 related:
 - 2014-10-10-bootstrap-bayesiano.md
 - 2014-06-10-a-vueltas-con-el-t-test.md

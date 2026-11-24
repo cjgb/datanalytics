@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-03-02
-lastmod: '2025-04-06T19:07:50.871672'
+lastmod: '2025-07-22'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2024-10-17-interpretacion-modelos.md

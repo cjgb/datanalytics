@@ -6,7 +6,7 @@ categories:
 - youtube
 date: 2021-04-25 13:32:53+00:00
 draft: false
-lastmod: '2025-04-06T18:44:52.278262'
+lastmod: '2026-11-23'
 related:
 - 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
 - 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md
@@ -24,7 +24,7 @@ title: 'Nuevo vídeo en YouTube: analizo un proyecto de fugas de clientes en Pay
 url: /2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/
 ---
 
-Acabo de subir a Youtube mi último vídeo:
+Acabo de subir a YouTube mi último vídeo:
 
 {{< youtube u-BmTq_oYho >}}
 

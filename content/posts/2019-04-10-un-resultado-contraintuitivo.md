@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-04-10 09:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:01:21.378613'
+lastmod: '2025-11-08'
 related:
 - 2019-03-13-mezclas-y-regularizacion.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

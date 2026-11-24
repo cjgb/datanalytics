@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-01-23 07:15:44+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

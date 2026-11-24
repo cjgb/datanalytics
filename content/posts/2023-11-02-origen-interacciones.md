@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-11-02
-lastmod: '2025-04-06T19:08:36.492664'
+lastmod: '2026-09-04'
 related:
 - 2020-03-16-interacciones-y-seleccion-de-modelos.md
 - 2022-03-08-estadistica-ciencias-blandas.md

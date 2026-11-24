@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-07-24 15:24:19+00:00
 draft: false
-lastmod: '2025-04-06T18:45:19.599642'
+lastmod: '2026-09-26'
 related:
 - 2017-12-11-cuidado-con-los.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-05-14
-lastmod: '2025-04-06T19:08:49.102361'
+lastmod: '2026-09-04'
 related:
 - 2017-11-28-neutralidad-de-la-red-importa.md
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md

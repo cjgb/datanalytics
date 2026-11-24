@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-01-25 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:46:03.195171'
+lastmod: '2026-09-04'
 related:
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 - 2018-11-08-siguen-votando-igual-los-diputados.md

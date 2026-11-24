@@ -6,7 +6,7 @@ categories:
 - cursos
 date: 2014-02-26 07:37:40+00:00
 noindex: true
-lastmod: '2025-04-06T19:03:33.885085'
+lastmod: '2026-10-12'
 related:
 - 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md
 - 2012-02-15-curso-de-estadistica-aplicada-a-la-investigacion-biomedica-con-r-en-el-cnio.md

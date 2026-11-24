@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2016-02-08 09:13:19+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:07.021999'
+lastmod: '2026-10-12'
 related:
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md
 - 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md

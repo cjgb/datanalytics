@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-12-26
-lastmod: '2025-04-06T18:51:17.182859'
+lastmod: '2025-09-29'
 related:
 - 2023-03-02-conformal-prediction.md
 - 2024-09-24-cortos-stats.md

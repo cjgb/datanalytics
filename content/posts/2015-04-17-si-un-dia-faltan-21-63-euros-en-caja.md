@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-04-17 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:47:35.321474'
+lastmod: '2025-04-07'
 related:
 - 2015-09-10-ayer-me-puse-el-sombrero-negro.md
 - 2019-12-04-p-valores-y-decisiones.md

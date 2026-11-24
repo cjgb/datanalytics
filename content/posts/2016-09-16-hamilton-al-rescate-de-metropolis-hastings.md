@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-09-16 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:50:10.152879'
+lastmod: '2026-09-04'
 related:
 - 2022-06-23-kalman.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

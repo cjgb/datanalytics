@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-02-20 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:09:35.296593'
+lastmod: '2026-09-04'
 related:
 - 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md

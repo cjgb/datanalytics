@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2023-11-21
 draft: false
-lastmod: '2025-04-06T18:44:18.458793'
+lastmod: '2026-09-04'
 related:
 - 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

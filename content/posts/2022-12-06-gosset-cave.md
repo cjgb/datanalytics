@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2022-12-06
-lastmod: '2025-04-06T18:50:53.610896'
+lastmod: '2025-11-02'
 related:
 - 2012-09-13-gosset-el-remuestreador-de-la-infinita-paciencia.md
 - 2023-10-03-muestreo-superricos.md

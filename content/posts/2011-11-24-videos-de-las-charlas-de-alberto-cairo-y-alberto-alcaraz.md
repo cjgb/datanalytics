@@ -4,7 +4,7 @@ categories:
 - gráficos
 - números
 date: 2011-11-24 06:59:24+00:00
-lastmod: '2025-04-06T19:07:18.861025'
+lastmod: '2026-11-05'
 noindex: true
 related:
 - 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md

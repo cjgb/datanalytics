@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-11-15 11:30:18+00:00
 draft: false
-lastmod: '2025-04-06T18:51:55.139413'
+lastmod: '2025-04-07'
 related:
 - 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
 - 2010-05-20-numeros-estadisticamente-transcendentes.md

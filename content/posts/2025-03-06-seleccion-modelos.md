@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2025-03-06
-lastmod: '2025-04-06T19:10:42.214476'
+lastmod: '2025-09-03'
 related:
 - 2024-09-12-cortos-stats.md
 - 2019-03-18-las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria.md

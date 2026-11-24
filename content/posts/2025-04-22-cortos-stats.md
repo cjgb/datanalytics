@@ -5,7 +5,7 @@ categories:
 date: 2025-04-22
 description: Una serie de apuntes sobre modelos estadísticos AUC, calibración, variables
   binarias, series temporales, XGBoost,...
-lastmod: '2025-06-02T11:23:39.413444'
+lastmod: '2026-01-20'
 related:
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 - 2024-02-01-optimizacion-generalizacion.md

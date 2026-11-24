@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2018-10-03 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T19:12:25.235075'
+lastmod: '2026-09-04'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2022-09-01-tf-idf.md

@@ -4,7 +4,7 @@ categories:
 - números
 - probabilidad
 date: 2011-05-10 07:02:01+00:00
-lastmod: '2025-04-06T18:48:29.497888'
+lastmod: '2026-09-04'
 related:
 - 2023-09-05-superforecasting.md
 - 2012-04-30-contar-c2bffacil.md

@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2012-06-05 07:15:29+00:00
 draft: false
-lastmod: '2025-04-06T18:50:02.215750'
+lastmod: '2026-09-04'
 related:
 - 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md

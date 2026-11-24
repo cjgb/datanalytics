@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-02-04 08:13:23+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:35.261104'
+lastmod: '2026-10-12'
 related:
 - 2019-10-24-tienes-un-sistema-predictivo-guay-vale-pero-dame-los-dos-numeros.md
 - 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md

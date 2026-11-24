@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2021-12-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:26.278610'
+lastmod: '2025-11-02'
 related:
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-05-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:12.302132'
+lastmod: '2026-10-08'
 related:
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 - 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md

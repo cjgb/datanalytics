@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-07-26 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:50:41.556936'
+lastmod: '2026-09-04'
 related:
 - 2018-09-03-lo-buscaba-y-aqui-esta.md
 - 2013-08-16-mapas-mapas-mapas-y.md

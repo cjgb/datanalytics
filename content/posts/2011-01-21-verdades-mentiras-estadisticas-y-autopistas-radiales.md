@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-01-21 09:27:56+00:00
 draft: false
-lastmod: '2025-04-06T19:11:30.445728'
+lastmod: '2026-10-12'
 related:
 - 2012-03-28-contrafactualidad-radial.md
 - 2016-10-04-si-se-estudio-que-las-autopistas-eran-viables-por-que-estan-ahora-en-quiebra.md

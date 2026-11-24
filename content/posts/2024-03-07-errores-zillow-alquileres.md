@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-03-07 00:00:00
-lastmod: '2025-04-06T18:49:10.330470'
+lastmod: '2026-09-26'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2016-06-21-gbm-i-una-mentira-sugerente.md

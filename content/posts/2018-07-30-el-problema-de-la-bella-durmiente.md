@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-07-30 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:59:48.289166'
+lastmod: '2025-04-07'
 related:
 - 2017-02-06-1e-por-doquier.md
 - 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md

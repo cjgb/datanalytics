@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-07-17 07:15:02+00:00
 noindex: true
-lastmod: '2025-04-06T19:13:20.813437'
+lastmod: '2026-10-12'
 related:
 - 2017-05-02-curso-de-introduccion-a-r-en-gijon.md
 - 2010-10-29-ii-jornadas-de-usuarios-de-r.md

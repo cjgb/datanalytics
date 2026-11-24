@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2023-04-04
-lastmod: '2025-04-06T19:00:01.080166'
+lastmod: '2026-09-03'
 related:
 - 2022-04-26-redefinicion-probabilidades-subjetivas.md
 - 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md

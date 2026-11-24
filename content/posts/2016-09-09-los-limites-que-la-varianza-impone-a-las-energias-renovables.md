@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-09-09 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T19:01:44.191744'
+lastmod: '2026-09-04'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
 - 2012-03-01-como-poner-una-lavadora.md

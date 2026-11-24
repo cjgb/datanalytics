@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2015-11-05
-lastmod: '2025-10-23'
+lastmod: '2025-11-02'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2012-10-30-cultura-numerica-incultura-numerica.md

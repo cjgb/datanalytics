@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-07-18 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:07:34.924356'
+lastmod: '2025-04-07'
 related:
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 - 2017-01-16-weapons-of-math-destruction.md

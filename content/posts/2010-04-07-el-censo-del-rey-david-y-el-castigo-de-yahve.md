@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-04-07 00:43:10+00:00
-lastmod: '2025-04-06T19:09:42.293958'
+lastmod: '2026-09-26'
 related:
 - 2013-01-21-el-primer-analisis-clinico-en-la-biblia.md
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md

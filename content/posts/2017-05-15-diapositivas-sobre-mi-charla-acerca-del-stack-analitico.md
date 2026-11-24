@@ -6,7 +6,7 @@ categories:
 - consultoría
 date: 2017-05-15 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:56:22.594431'
+lastmod: '2026-09-04'
 related:
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md
 - 2016-09-19-un-curso-de-15-horas-de-introduccion-a-la-programacion.md

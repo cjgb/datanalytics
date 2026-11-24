@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-01-22 08:13:01+00:00
 draft: false
-lastmod: '2025-04-06T18:57:01.128762'
+lastmod: '2026-10-06'
 related:
 - 2014-07-23-si-participase-en-maddata.md
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md

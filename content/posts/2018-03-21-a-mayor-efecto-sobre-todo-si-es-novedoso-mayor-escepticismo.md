@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-03-21 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:50:23.605125'
+lastmod: '2026-09-04'
 related:
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
 - 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md

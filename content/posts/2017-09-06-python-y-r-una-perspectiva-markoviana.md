@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-09-06 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:46:36.739246'
+lastmod: '2026-09-04'
 related:
 - 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md
 - 2014-08-13-mis-procesos-puntuales-con-glm.md

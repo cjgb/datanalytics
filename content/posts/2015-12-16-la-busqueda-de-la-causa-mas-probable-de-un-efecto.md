@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-12-16 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:50:42.892155'
+lastmod: '2025-05-05'
 related:
 - 2016-11-02-decisiones-bajo-incertidumbre-i.md
 - 2011-04-20-causalidad-o-asociacion-indicios-de-la-primera.md

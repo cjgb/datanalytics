@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-09-22 18:37:05+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
 - 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md

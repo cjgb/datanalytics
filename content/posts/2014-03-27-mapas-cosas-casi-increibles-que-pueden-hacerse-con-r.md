@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-27 07:23:26+00:00
 draft: false
-lastmod: '2025-04-06T19:02:46.459341'
+lastmod: '2025-04-07'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2023-10-03-muestreo-superricos.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-11-25 08:13:08+00:00
 draft: false
-lastmod: '2025-04-06T18:49:38.582715'
+lastmod: '2025-04-07'
 related:
 - 2015-08-05-quien-es-quien-del-big-data-en-espana-2015-y-yo.md
 - 2015-02-26-bellostamisc-y-una-moraleja.md

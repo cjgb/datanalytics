@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2014-03-03 07:52:39+00:00
 draft: false
-lastmod: '2025-04-06T18:48:59.635712'
+lastmod: '2025-12-15'
 related:
 - 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md
 - 2022-01-20-peor-pagina-taleb.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-11-02 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:58:34.220490'
+lastmod: '2026-09-04'
 related:
 - 2020-01-07-la-probabilidad-algo-subjetivo.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

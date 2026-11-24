@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-03-15 08:01:46+00:00
 draft: false
-lastmod: '2025-04-06T18:45:33.025130'
+lastmod: '2026-09-04'
 related:
 - 2021-04-15-el-mejor-negocio-de-la-decada.md
 - 2011-02-25-1605.md

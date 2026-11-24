@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2016-09-27 08:13:42+00:00
-lastmod: '2025-04-06T19:07:45.058642'
+lastmod: '2026-10-12'
 related:
 - 2022-03-31-experimento-fisico-causalidad-ii.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

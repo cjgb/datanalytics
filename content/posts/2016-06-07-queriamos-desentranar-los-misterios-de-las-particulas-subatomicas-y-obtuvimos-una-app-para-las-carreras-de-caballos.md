@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-06-07 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T19:12:23.131539'
+lastmod: '2026-09-04'
 related:
 - 2013-08-28-que-ha-hecho-el-csic-por-mi.md
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md

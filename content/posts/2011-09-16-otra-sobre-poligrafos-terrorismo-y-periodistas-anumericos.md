@@ -5,7 +5,7 @@ categories:
 - números
 - r
 date: 2011-09-16 07:23:33+00:00
-lastmod: '2025-04-06T18:49:39.241554'
+lastmod: '2026-09-04'
 related:
 - 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md
 - 2011-02-21-mineria-de-datos-promesas-y-realidades.md

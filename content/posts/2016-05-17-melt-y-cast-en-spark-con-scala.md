@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2016-05-17 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T18:46:16.710852'
+lastmod: '2026-09-04'
 related:
 - 2011-09-07-el-paquete-reshape-de-r-i-melt.md
 - 2014-09-15-componentes-conexas-de-grafos-en-spark.md

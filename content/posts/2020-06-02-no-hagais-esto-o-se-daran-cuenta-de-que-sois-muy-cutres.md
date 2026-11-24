@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:27.081956'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2018-01-17-quitar-variables-no-significativas.md

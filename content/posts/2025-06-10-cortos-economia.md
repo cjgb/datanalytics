@@ -5,7 +5,7 @@ categories:
 date: 2025-06-10
 description: Se discute la decreciente calidad de las estadísticas públicas, los errores
   a la hora de elegir carreras universitarias y la productividad en agricultura.
-lastmod: '2025-08-03T16:12:50.463461'
+lastmod: '2026-01-20'
 related:
 - 2025-05-06-cortos-economia.md
 - 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md

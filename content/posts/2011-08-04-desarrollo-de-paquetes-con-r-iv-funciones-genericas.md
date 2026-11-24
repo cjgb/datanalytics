@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-08-04 07:26:52+00:00
 draft: false
-lastmod: '2025-04-06T19:08:21.918823'
+lastmod: '2026-09-04'
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
 - 2015-02-11-recurrencia-recurrente.md

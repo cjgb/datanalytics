@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-12-03 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:03:53.335590'
+lastmod: '2025-11-02'
 related:
 - 2019-06-05-causalidad-atribucion-madrid-central.md
 - 2012-03-28-contrafactualidad-radial.md

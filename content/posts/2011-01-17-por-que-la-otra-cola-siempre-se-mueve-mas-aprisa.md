@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2011-01-17 09:27:21+00:00
 draft: false
-lastmod: '2025-04-06T18:50:12.989110'
+lastmod: '2026-09-26'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md

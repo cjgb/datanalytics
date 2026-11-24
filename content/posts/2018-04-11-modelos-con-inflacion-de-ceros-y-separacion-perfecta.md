@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-04-11 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:56:48.827631'
+lastmod: '2025-05-05'
 related:
 - 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
 - 2010-10-25-una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas.md

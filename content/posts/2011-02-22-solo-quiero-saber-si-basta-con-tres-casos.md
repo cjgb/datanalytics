@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-02-22 09:53:46+00:00
 draft: false
-lastmod: '2025-04-06T18:53:01.852982'
+lastmod: '2026-10-02'
 related:
 - 2011-09-14-la-estadistica-del-numero-tres.md
 - 2017-02-15-en-defensa-de-lo-simple.md

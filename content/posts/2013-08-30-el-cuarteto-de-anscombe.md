@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-08-30 07:54:47+00:00
 draft: false
-lastmod: '2025-04-06T18:58:37.240771'
+lastmod: '2026-10-06'
 related:
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
 - 2011-04-26-graficos-vi-teoria.md

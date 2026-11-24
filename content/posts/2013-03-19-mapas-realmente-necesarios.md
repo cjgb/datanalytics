@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-03-19 07:56:22+00:00
 draft: false
-lastmod: '2025-04-06T18:47:17.066667'
+lastmod: '2026-09-04'
 related:
 - 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
 - 2011-03-22-graficos-i-introduccion.md

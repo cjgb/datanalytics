@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-09-28 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:56:57.314405'
+lastmod: '2025-11-02'
 related:
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
 - 2022-06-30-sumas-bernuillis-heterogenas.md

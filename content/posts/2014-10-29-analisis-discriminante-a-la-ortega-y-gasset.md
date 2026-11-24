@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-10-29 07:13:49+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:33.615821'
+lastmod: '2026-07-17'
 related:
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md

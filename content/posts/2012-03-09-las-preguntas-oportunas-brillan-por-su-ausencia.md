@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2012-03-09 07:41:25+00:00
 draft: false
-lastmod: '2025-04-06T18:58:57.673263'
+lastmod: '2026-10-12'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md

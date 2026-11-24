@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2015-02-18 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T19:01:42.776740'
+lastmod: '2025-05-05'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

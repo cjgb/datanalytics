@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-01-11 06:52:19+00:00
 draft: false
-lastmod: '2025-04-06T18:47:36.031582'
+lastmod: '2026-09-04'
 related:
 - 2017-07-12-alguien-sabe-por-que-es-tan-pequeno-este-numero.md
 - 2011-02-25-1605.md

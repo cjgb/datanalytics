@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-09-21 08:13:25+00:00
 draft: false
-lastmod: '2025-04-06T19:10:08.755804'
+lastmod: '2026-10-12'
 related:
 - 2018-11-08-siguen-votando-igual-los-diputados.md
 - 2012-09-20-como-votan-los-diputados.md

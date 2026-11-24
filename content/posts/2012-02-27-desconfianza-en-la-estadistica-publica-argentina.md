@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-02-27 07:57:19+00:00
 draft: false
-lastmod: '2025-04-06T19:11:36.474037'
+lastmod: '2026-10-12'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2012-09-05-los-principales-problemas-de-espana.md

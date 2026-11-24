@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-01-13 09:24:51+00:00
-lastmod: '2025-04-06T18:48:34.132945'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md

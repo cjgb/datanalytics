@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-05-16
-lastmod: '2025-04-06T19:04:54.771272'
+lastmod: '2025-11-02'
 related:
 - 2023-05-09-encuestas-predicciones-electorales.md
 - 2020-12-14-encuestas-electorales-medios-y-sesgos.md

@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2015-05-07 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T18:58:35.755029'
+lastmod: '2025-05-05'
 related:
 - 2018-01-05-preludio-de-mas-por-venir.md
 - 2022-07-28-temas-nadaesgratis.md

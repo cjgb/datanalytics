@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-04-24 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T19:06:57.468222'
+lastmod: '2026-09-04'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md

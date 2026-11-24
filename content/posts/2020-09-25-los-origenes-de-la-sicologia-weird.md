@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-09-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:09.494916'
+lastmod: '2025-04-07'
 related:
 - 2021-05-20-por-que-nos-habremos-acostumbrado-a-esto.md
 - 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md

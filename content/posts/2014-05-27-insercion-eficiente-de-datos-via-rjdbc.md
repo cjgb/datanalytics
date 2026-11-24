@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-05-27 07:27:54+00:00
 draft: false
-lastmod: '2025-04-06T19:11:53.037333'
+lastmod: '2026-09-04'
 related:
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
 - 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md

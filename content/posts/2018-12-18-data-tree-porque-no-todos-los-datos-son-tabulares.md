@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-12-18 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T19:08:54.462718'
+lastmod: '2025-11-02'
 related:
 - 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
 - 2017-01-10-repensando-la-codificacion-por-impacto.md

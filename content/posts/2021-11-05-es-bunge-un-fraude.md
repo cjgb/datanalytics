@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2021-11-05 09:36:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:38.432480'
+lastmod: '2026-09-04'
 related:
 - 2014-10-10-bootstrap-bayesiano.md
 - 2017-01-16-weapons-of-math-destruction.md

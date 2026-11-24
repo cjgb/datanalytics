@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-04-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:21.201322'
+lastmod: '2026-10-08'
 related:
 - 2020-05-25-the-great-reset.md
 - 2020-03-25-cuantificacion-y-riesgo.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-09-03 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:10.968234'
+lastmod: '2026-09-04'
 related:
 - 2011-05-30-dos-perspectivas-sobre-el-problema-de-los-valores-no-informados.md
 - 2024-07-10-cortos-stats.md

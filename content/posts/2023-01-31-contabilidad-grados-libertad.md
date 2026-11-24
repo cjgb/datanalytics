@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-01-31
-lastmod: '2025-04-06T19:11:20.477202'
+lastmod: '2025-11-02'
 related:
 - 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

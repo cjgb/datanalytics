@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-04-27 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:57:39.561351'
+lastmod: '2025-04-07'
 related:
 - 2016-09-12-big-vs-small-data-en-estadistica-aplicada-aplicada.md
 - 2021-01-26-que-modelas-cuando-modelas.md

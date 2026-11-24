@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2015-01-20 07:13:54+00:00
-lastmod: '2025-04-06T19:08:29.367784'
+lastmod: '2026-09-04'
 related:
 - 2013-01-29-casi-un-ejemplo-perfecto.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

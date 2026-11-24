@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-01-10 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T18:54:31.077909'
+lastmod: '2026-09-04'
 related:
 - 2013-11-06-importancia-de-variables-en-arboles.md
 - 2024-01-23-arboles-olvidadizos.md

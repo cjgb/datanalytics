@@ -4,7 +4,7 @@ categories:
 - cursos
 date: 2014-05-22 06:59:05+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:19.709526'
+lastmod: '2026-01-31'
 related:
 - 2015-04-30-apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene.md
 - 2013-05-24-apidays-mediterranea-la-semana-que-viene.md

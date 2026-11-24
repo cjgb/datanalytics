@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-10-19 08:13:09+00:00
 draft: false
-lastmod: '2025-04-06T19:04:30.674804'
+lastmod: '2026-09-04'
 related:
 - 2019-06-12-la-paradoja-de-berkson-2.md
 - 2015-08-07-una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta.md

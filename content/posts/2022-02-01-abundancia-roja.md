@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2022-02-01
-lastmod: '2025-04-06T18:49:47.366500'
+lastmod: '2026-09-04'
 related:
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 - 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md

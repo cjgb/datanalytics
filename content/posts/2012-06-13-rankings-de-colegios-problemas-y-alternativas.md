@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-06-13 06:34:16+00:00
 draft: false
-lastmod: '2025-04-06T19:08:15.791932'
+lastmod: '2026-10-12'
 related:
 - 2012-02-23-higiene-numerica-para-periodistas.md
 - 2023-01-26-educacion-tabarrok.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-03-22 08:05:49+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:32.953223'
+lastmod: '2026-09-04'
 related:
 - 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
 - 2012-02-20-entrevista-con-los-promotores-de-rugbcn.md

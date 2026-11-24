@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2011-04-11 07:11:44+00:00
-lastmod: '2025-04-06T18:58:40.914506'
+lastmod: '2026-10-12'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md

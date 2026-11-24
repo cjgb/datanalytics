@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2012-02-23 08:36:13+00:00
-lastmod: '2026-01-03'
+lastmod: '2026-09-04'
 related:
 - 2012-04-30-contar-c2bffacil.md
 - 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-01-17 06:56:36+00:00
 draft: false
-lastmod: '2025-04-06T19:06:48.741388'
+lastmod: '2026-10-12'
 related:
 - 2012-03-23-r-y-la-distribucion-de-rayleigh.md
 - 2022-07-14-proximidad-distribuciones.md

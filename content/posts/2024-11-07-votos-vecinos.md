@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-11-07
-lastmod: '2025-04-06T18:49:04.371981'
+lastmod: '2026-10-12'
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 - 2020-12-14-encuestas-electorales-medios-y-sesgos.md

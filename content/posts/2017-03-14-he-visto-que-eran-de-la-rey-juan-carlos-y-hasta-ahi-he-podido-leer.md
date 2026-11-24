@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-03-14 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:01:55.962390'
+lastmod: '2026-09-04'
 related:
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md
 - 2017-01-16-weapons-of-math-destruction.md

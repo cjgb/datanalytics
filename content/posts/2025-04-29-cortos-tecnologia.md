@@ -5,7 +5,7 @@ categories:
 date: 2025-04-29
 description: Una serie de apuntes sobre herramientas tecnológicas útiles para el análisis
   de datos
-lastmod: '2025-06-16T20:53:28.215129'
+lastmod: '2026-01-20'
 related:
 - 2024-05-09-cortos-tecnologia.md
 - 2025-03-18-cortos-tecnologia.md

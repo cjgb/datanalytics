@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2015-03-24 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:03:16.359294'
+lastmod: '2026-09-04'
 related:
 - 2014-09-09-factorizacion-de-enteros-con-grid.md
 - 2011-08-05-svd-de-matrices-enormes-con-r.md

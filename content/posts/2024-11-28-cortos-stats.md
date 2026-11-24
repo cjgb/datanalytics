@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-11-28
-lastmod: '2025-04-06T18:50:30.303579'
+lastmod: '2026-09-04'
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
 - 2025-03-04-cortos-stats.md

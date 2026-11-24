@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-09-06 07:36:24+00:00
 draft: false
-lastmod: '2025-04-06T19:12:32.283664'
+lastmod: '2026-10-12'
 related:
 - 2012-07-27-a-los-datos-mismos.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

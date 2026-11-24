@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-12-02 07:12:20+00:00
-lastmod: '2025-04-06T18:45:25.028599'
+lastmod: '2026-09-04'
 related:
 - 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md

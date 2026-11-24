@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-08-22 07:44:56+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:08.724951'
+lastmod: '2026-10-12'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md
 - 2010-03-01-r-en-the-economist.md

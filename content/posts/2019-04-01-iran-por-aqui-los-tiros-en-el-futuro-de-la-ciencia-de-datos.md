@@ -7,7 +7,7 @@ categories:
 - estadística
 date: 2019-04-01 09:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:58:16.459508'
+lastmod: '2026-10-12'
 related:
 - 2013-07-10-mi-definicion-de-big-data.md
 - 2017-03-09-un-parrafo-afortunadisimo-sobre-las-nuevas-aptitudes.md

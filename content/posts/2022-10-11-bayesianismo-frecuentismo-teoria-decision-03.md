@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-10-11
-lastmod: '2025-04-06T19:13:22.231263'
+lastmod: '2026-09-04'
 related:
 - 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2017-07-12 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:46:07.365218'
+lastmod: '2026-10-12'
 related:
 - 2012-01-11-una-cifra-ya-que-estamos-con-el-irpf.md
 - 2011-02-25-1605.md

@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2017-12-21 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T19:05:25.278385'
+lastmod: '2026-10-12'
 related:
 - 2013-08-28-que-ha-hecho-el-csic-por-mi.md
 - 2011-03-14-publica-o-perece.md

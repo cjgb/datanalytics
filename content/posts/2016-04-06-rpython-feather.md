@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-06 09:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:57:32.486060'
+lastmod: '2026-09-04'
 related:
 - 2013-05-02-data-table-i-cruces.md
 - 2015-12-11-pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython.md

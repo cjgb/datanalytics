@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-04-03 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T18:47:59.267624'
+lastmod: '2026-09-04'
 related:
 - 2012-09-05-los-principales-problemas-de-espana.md
 - 2010-11-25-transforma-los-graficos-de-espana.md

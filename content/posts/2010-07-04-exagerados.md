@@ -4,7 +4,7 @@ categories:
 - números
 date: 2010-07-04 17:44:53+00:00
 draft: false
-lastmod: '2025-04-06T18:46:38.731152'
+lastmod: '2026-10-12'
 related:
 - 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
 - 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md

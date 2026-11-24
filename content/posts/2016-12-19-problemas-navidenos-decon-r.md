@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-12-19 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T19:13:27.620446'
+lastmod: '2026-09-04'
 related:
 - 2015-02-09-ejercicios-de-mi-clase-de-r.md
 - 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md

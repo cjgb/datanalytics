@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-06-15 00:34:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:54.381134'
+lastmod: '2026-10-12'
 related:
 - 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
 - 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md

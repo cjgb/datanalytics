@@ -6,7 +6,7 @@ categories:
 - r
 date: 2019-12-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:51.752459'
+lastmod: '2026-09-04'
 related:
 - 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
 - 2018-01-31-mortalidad-y-tramos-de-edad-gordotes.md

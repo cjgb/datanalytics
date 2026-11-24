@@ -5,7 +5,7 @@ categories:
 date: 2025-05-27
 description: Gráficas de sesgo vs gráficas de calibración y algunas notas más sobre
   estadística
-lastmod: '2025-06-29T18:15:48.432629'
+lastmod: '2026-06-12'
 related:
 - 2025-04-22-cortos-stats.md
 - 2025-05-20-cortos-estadistica.md

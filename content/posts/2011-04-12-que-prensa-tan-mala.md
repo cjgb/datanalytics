@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-04-12 07:41:46+00:00
 draft: false
-lastmod: '2025-04-06T18:45:27.015664'
+lastmod: '2026-10-06'
 related:
 - 2010-11-25-transforma-los-graficos-de-espana.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

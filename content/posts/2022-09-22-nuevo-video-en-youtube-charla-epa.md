@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2022-09-22
-lastmod: '2025-04-06T19:04:07.021446'
+lastmod: '2025-04-07'
 related:
 - 2013-06-26-video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado.md
 - 2013-06-17-hablare-de-la-epa-y-mas-cosas-en-medialab-prado.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2017-12-15 20:07:25+00:00
-lastmod: '2026-01-03'
+lastmod: '2026-09-04'
 related:
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

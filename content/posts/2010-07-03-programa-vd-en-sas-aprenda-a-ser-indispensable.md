@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-07-03 19:59:45+00:00
 draft: false
-lastmod: '2025-04-06T19:10:50.733824'
+lastmod: '2026-09-26'
 related:
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md

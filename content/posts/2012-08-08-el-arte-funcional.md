@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2012-08-08 06:47:15+00:00
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2025-11-02'
 related:
 - 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md
 - 2012-09-12-el-arte-funcional-una-revision-personal.md

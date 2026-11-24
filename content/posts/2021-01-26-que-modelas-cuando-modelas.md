@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2021-01-26 17:59:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:00.752704'
+lastmod: '2026-09-24'
 related:
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

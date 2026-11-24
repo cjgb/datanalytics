@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2026-11-05
+lastmod: '2026-10-29'
 description: "Y su relevancia en el actual debate sobre la regulación de la inteligencia artificial."
 tags:
 - ia

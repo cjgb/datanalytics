@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2013-08-16 07:10:15+00:00
 draft: false
-lastmod: '2025-04-06T18:50:04.204677'
+lastmod: '2026-10-12'
 related:
 - 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
 - 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md

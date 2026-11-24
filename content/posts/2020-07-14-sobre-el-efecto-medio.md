@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-07-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:19.411800'
+lastmod: '2025-04-07'
 related:
 - 2017-07-13-gelmaneando.md
 - 2024-12-12-estimacion-interacciones.md

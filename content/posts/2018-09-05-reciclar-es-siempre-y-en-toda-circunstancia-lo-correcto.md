@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-09-05 08:13:29+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 - 2023-07-18-energia-nuclear-salvara-mundo.md

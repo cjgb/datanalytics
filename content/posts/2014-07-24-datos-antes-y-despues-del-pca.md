@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-07-24 07:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:12.103906'
+lastmod: '2026-09-04'
 related:
 - 2021-06-01-pca-robusto.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

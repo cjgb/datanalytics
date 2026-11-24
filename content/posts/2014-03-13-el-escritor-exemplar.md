@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-13 07:45:27+00:00
 draft: false
-lastmod: '2025-04-06T18:47:31.571892'
+lastmod: '2026-10-12'
 related:
 - 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md
 - 2014-10-03-lengua-y-markov-en-martinacocina-este-sabado.md

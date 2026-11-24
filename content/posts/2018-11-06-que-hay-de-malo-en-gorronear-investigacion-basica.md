@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-11-06 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:57:48.550034'
+lastmod: '2026-09-04'
 related:
 - 2011-08-17-google-motorola-moviles-patentes-e-ideas.md
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md

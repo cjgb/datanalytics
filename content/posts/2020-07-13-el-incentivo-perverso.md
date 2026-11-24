@@ -4,7 +4,7 @@ categories:
 - varios
 - mala ciencia
 date: 2020-07-13 09:13:00+00:00
-lastmod: 2026-10-19
+lastmod: '2026-10-22'
 description: "Sobre los incentivos perversos subproducto de la institucionalización de la ciencia."
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md

@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2013-11-18 07:22:36+00:00
 draft: false
-lastmod: '2025-04-06T18:52:52.904959'
+lastmod: '2026-10-06'
 related:
 - 2010-09-21-statprob-una-wikipedia-de-estadistica-y-probabilidad.md
 - 2010-11-15-la-wikipedia-te-necesita.md

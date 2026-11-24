@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-05-30 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:01.546981'
+lastmod: '2025-10-12'
 related:
 - 2015-07-21-un-curioso-corolario-politicoeconomico-del-teorema-de-rolle.md
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md

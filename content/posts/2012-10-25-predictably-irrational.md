@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-10-25 07:45:27+00:00
 draft: false
-lastmod: '2025-04-06T18:46:08.028550'
+lastmod: '2026-09-04'
 related:
 - 2021-09-16-sobre-la-economia-conductual.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md

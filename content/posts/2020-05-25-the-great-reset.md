@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2020-05-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:09.018729'
+lastmod: '2026-10-08'
 related:
 - 2020-04-15-cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus.md
 - 2021-01-21-mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven.md

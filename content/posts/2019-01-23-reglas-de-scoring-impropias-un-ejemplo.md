@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-01-23 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:54:49.534576'
+lastmod: '2025-04-07'
 related:
 - 2022-02-17-examenes-probabilisticos.md
 - 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md

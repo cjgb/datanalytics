@@ -6,7 +6,7 @@ date: 2025-10-30
 description: 'Artículos sobre probabilidad y estadística: del problema de Monty Hall
   a la distribución de la correlación, la racionalidad del voto y las trampas del
   azar real.'
-lastmod: '2025-11-05T19:20:36.837962'
+lastmod: '2025-11-05'
 related:
 - 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
 - 2025-06-17-cortos-probabilidad.md

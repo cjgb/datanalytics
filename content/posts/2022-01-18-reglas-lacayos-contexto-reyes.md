@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2022-01-18
-lastmod: '2025-04-06T18:48:15.519318'
+lastmod: '2025-04-07'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md

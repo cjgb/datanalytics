@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-12-19 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:11:46.574221'
+lastmod: '2025-04-07'
 related:
 - 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
 - 2024-03-11-cortos-01.md

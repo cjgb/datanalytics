@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-04-21 21:53:21+00:00
-lastmod: '2025-04-06T18:47:25.004952'
+lastmod: '2026-10-31'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2010-10-26-a-vueltas-con-los-fractales.md

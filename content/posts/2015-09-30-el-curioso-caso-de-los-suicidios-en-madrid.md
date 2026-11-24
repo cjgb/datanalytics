@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-09-30 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T19:11:37.889552'
+lastmod: '2025-11-02'
 related:
 - 2015-12-03-el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-10-18 09:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:44:32.768604'
+lastmod: '2026-09-04'
 related:
 - 2019-06-05-causalidad-atribucion-madrid-central.md
 - 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md

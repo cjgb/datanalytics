@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-09-07
-lastmod: '2025-04-06T18:57:22.357295'
+lastmod: '2025-11-02'
 related:
 - 2023-07-20-coeficientes-no-identificables.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

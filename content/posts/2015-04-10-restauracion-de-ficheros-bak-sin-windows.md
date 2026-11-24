@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2015-04-10 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:46:47.534343'
+lastmod: '2026-09-04'
 related:
 - 2011-09-05-un-paseo-por-cloudnumbers.md
 - 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-04-29 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:06:06.197242'
+lastmod: '2026-09-04'
 related:
 - 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
 - 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md

@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-12-20 08:13:16+00:00
 description: ¿Es realmente importante el principio de neutralidad de la red para que internet funcione tal como la conocemos?
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 - 2024-05-14-neutralidad-red.md

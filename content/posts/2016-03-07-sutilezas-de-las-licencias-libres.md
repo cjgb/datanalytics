@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-03-07 09:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:48:04.943540'
+lastmod: '2025-04-07'
 related:
 - 2010-08-05-un-ilustrador-problema-de-compatibilidad-de-licencias-libres.md
 - 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md

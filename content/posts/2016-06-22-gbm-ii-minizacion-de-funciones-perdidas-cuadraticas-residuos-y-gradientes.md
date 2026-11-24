@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-22 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:54:44.204361'
+lastmod: '2025-10-12'
 related:
 - 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 - 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md

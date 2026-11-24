@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2015-11-04 08:13:28+00:00
-lastmod: '2025-10-23'
+lastmod: '2025-10-26'
 related:
 - 2016-04-18-visualizacion-de-k-medias-y-dbscan.md
 - 2011-07-19-clustering-ii-c2bfes-replicable.md

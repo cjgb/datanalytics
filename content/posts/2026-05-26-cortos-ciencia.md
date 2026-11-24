@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2026-05-26
 description: Notas varias sobre ciencia, conocimiento y tecnología.
-lastmod: '2026-05-24T18:29:06.453038'
+lastmod: '2026-09-04'
 related:
 - 2025-07-15-cortos-mala-ciencia.md
 - 2026-03-23-cortos.md

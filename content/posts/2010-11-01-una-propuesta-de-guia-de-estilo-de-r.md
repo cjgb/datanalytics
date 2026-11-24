@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-11-01 20:16:39+00:00
 draft: false
-lastmod: '2025-04-06T19:11:03.794574'
+lastmod: '2026-09-26'
 related:
 - 2014-01-27-guia-de-estilo-de-r-de-google.md
 - 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md

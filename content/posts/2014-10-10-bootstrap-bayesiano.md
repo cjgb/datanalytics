@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-10-10 07:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:04:04.665374'
+lastmod: '2026-09-04'
 related:
 - 2014-10-21-mas-alla-del-teorema-central-del-limite.md
 - 2011-09-23-done28099t-be-loopy-ii.md

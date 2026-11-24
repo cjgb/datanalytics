@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-06-20 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:53:13.401038'
+lastmod: '2026-09-04'
 related:
 - 2012-04-25-espana-c2bfradial-i.md
 - 2013-12-10-te-queda-lejos-el-aeropuerto.md

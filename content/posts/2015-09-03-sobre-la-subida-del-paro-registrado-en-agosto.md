@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-09-03 08:13:15+00:00
 noindex: true
-lastmod: '2025-04-06T19:05:09.221832'
+lastmod: '2026-09-04'
 related:
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

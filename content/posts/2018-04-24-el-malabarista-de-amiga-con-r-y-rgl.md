@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-04-24 08:11:30+00:00
 draft: false
-lastmod: '2025-04-06T18:46:15.383284'
+lastmod: '2025-04-07'
 related:
 - 2016-12-20-las-conexiones-telefonicas-de-vodafone-espana-visualizadas-con-r.md
 - 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md

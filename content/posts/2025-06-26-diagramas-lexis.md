@@ -9,7 +9,7 @@ categories:
 - estadística
 date: 2025-06-26
 description: Una introducción a los diagramas de Lexis y sus aplicaciones fuera de la demografía.
-lastmod: '2025-07-24T19:54:46.809148'
+lastmod: '2025-11-05'
 related:
 - 2025-04-10-diversidad-explicaciones.md
 - 2017-01-16-weapons-of-math-destruction.md

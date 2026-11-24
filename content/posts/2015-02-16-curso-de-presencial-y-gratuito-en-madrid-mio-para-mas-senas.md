@@ -6,7 +6,7 @@ categories:
 - r
 date: 2015-02-16 08:13:36+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:40.619097'
+lastmod: '2026-10-12'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md

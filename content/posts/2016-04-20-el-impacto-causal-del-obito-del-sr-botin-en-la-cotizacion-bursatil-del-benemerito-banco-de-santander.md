@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-20 09:13:32+00:00
 draft: false
-lastmod: '2025-04-06T19:09:05.265249'
+lastmod: '2026-09-04'
 related:
 - 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md
 - 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md

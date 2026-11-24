@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-12-09 06:50:57+00:00
 draft: false
-lastmod: '2025-04-06T18:52:53.567850'
+lastmod: '2026-09-04'
 related:
 - 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md

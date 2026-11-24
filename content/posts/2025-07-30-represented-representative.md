@@ -9,7 +9,7 @@ categories:
 date: 2025-07-30
 description: 'El ''problema de la abuela guay'' en encuestas: sesgos, reponderación
   y cómo un concepto estadístico explica más de lo que parece.'
-lastmod: '2025-09-18T20:27:01.899276'
+lastmod: '2025-11-05'
 related:
 - 2016-02-22-la-democracia-no-representativa-no-es-representativa.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

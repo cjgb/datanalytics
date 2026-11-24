@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-07-23 07:13:36+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:45.516550'
+lastmod: '2026-11-23'
 related:
 - 2015-03-10-licencias-urbanisticas-datos-y-votos.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
@@ -22,7 +22,7 @@ title: Si participase en MadData...
 url: /2014/07/23/si-participase-en-maddata/
 ---
 
-El otro día ayudé a divulgar por aquí [MadData](https://datanalytics.com/2014/07/21/maddata-dataton-de-datos-abiertos/), el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).
+El otro día ayudé a divulgar por aquí [MadData](https://datanalytics.com/2014/07/21/maddata-dataton-de-datos-abiertos/), el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y muy, muy ocupado).
 
 Eso sí, os voy a contar dónde me gustaría meter la cuchara. En datos del ayuntamiento de Madrid, claro. Pero no los abiertos, ni los públicos, ni los conocidos. Sino los otros.
 

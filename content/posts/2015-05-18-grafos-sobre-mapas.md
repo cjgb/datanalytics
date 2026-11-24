@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-05-18 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T19:03:30.925699'
+lastmod: '2026-09-04'
 related:
 - 2012-04-16-rutas-por-zaragoza-con-r.md
 - 2012-04-25-espana-c2bfradial-i.md

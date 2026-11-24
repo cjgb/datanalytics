@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2014-11-25 07:13:38+00:00
-lastmod: '2025-04-06T18:52:08.060922'
+lastmod: '2026-01-20'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md

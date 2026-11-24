@@ -6,7 +6,7 @@ categories:
 - r
 date: 2015-01-12 07:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:05:16.228493'
+lastmod: '2025-09-25'
 related:
 - 2016-07-13-rapido-y-frugal-una-digresion-en-la-direccion-inhabitual.md
 - 2024-01-23-arboles-olvidadizos.md

@@ -6,7 +6,7 @@ categories:
 - r
 date: 2011-01-05 09:36:55+00:00
 draft: false
-lastmod: '2025-04-06T19:09:27.181679'
+lastmod: '2026-09-26'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 - 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md

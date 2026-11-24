@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2016-07-11 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:44:19.856514'
+lastmod: '2026-09-04'
 related:
 - 2020-04-14-consensus-clustering.md
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md

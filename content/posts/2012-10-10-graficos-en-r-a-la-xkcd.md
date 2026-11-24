@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-10-10 07:08:20+00:00
 draft: false
-lastmod: '2025-04-06T19:04:44.391026'
+lastmod: '2026-10-12'
 related:
 - 2013-06-13-la-cosa-mas-friqui-que-he-visto-en.md
 - 2010-06-28-graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin.md

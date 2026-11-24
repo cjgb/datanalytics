@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-03-22 09:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:07:54.571971'
+lastmod: '2026-10-12'
 related:
 - 2011-04-26-graficos-vi-teoria.md
 - 2012-09-12-el-arte-funcional-una-revision-personal.md

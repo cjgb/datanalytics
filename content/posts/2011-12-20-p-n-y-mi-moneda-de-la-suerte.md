@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-12-20 06:29:25+00:00
 draft: false
-lastmod: '2025-04-06T19:09:19.637849'
+lastmod: '2026-09-04'
 related:
 - 2020-07-30-misma-p-distinto-n-luego.md
 - 2011-10-04-puedes-probar-cualquier-cosa-con-paciencia.md

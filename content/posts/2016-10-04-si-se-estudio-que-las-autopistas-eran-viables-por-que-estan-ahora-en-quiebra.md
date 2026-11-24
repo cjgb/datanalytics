@@ -5,7 +5,7 @@ categories:
 - números
 date: 2016-10-04 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:59:11.575444'
+lastmod: '2025-11-02'
 related:
 - 2012-04-30-contar-c2bffacil.md
 - 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md

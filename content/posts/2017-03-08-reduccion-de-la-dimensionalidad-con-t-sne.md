@@ -6,7 +6,7 @@ categories:
 - r
 date: 2017-03-08 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T19:13:17.694465'
+lastmod: '2026-10-12'
 related:
 - 2022-11-04-umap-tsne-etc.md
 - 2022-07-14-proximidad-distribuciones.md

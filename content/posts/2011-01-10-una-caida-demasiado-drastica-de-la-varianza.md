@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2011-01-10 09:39:18+00:00
 draft: false
-lastmod: '2025-04-06T18:49:20.316511'
+lastmod: '2026-09-26'
 related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2024-12-05-beta-binomial-deriva.md

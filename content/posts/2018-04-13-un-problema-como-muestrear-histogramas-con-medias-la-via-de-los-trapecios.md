@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-04-13 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:53:39.952298'
+lastmod: '2025-11-02'
 related:
 - 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

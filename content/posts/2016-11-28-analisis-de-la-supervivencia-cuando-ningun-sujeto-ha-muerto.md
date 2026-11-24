@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-11-28 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:00:31.512672'
+lastmod: '2026-09-04'
 related:
 - 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
 - 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md

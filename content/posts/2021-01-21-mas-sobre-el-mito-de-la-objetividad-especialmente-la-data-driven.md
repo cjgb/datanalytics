@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2021-01-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:39.482152'
+lastmod: '2026-05-15'
 related:
 - 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
 - 2023-10-03-muestreo-superricos.md

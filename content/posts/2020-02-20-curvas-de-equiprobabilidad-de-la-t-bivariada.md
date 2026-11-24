@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2020-02-20 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:29.953664'
+lastmod: '2026-09-04'
 related:
 - 2020-02-07-la-densidad-de-una-cauchy-bivariada-es-cuasiconvexa.md
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md

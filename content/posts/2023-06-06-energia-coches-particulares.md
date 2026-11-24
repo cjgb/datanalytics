@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-06-06
-lastmod: '2025-04-06T18:45:13.612291'
+lastmod: '2026-09-04'
 related:
 - 2022-10-25-muchos-julios-hidraulica.md
 - 2022-05-19-algunos-numeros-cambio-climatico.md

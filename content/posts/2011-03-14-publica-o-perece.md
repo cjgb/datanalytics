@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-03-14 09:15:57+00:00
-lastmod: '2025-04-06T18:46:26.756553'
+lastmod: '2026-09-04'
 related:
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
 - 2024-01-11-gino-ariely-fraude.md

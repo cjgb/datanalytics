@@ -5,7 +5,7 @@ categories:
 - causalidad
 date: 2016-09-23 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:48:51.640341'
+lastmod: '2025-04-07'
 related:
 - 2017-11-14-advertencias-sobre-el-uso-de-los-n-gramas-de-google.md
 - 2014-09-23-el-impacto-causal-de-google.md

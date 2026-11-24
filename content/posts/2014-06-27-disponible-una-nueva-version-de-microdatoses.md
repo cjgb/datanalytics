@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-06-27 07:46:29+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:21.031092'
+lastmod: '2025-11-18'
 related:
 - 2015-06-18-la-encuesta-de-presupuestos-familiares-en-microdatoses.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

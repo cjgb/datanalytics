@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-03-13 07:49:13+00:00
 draft: false
-lastmod: '2025-04-06T19:06:42.497195'
+lastmod: '2026-09-04'
 related:
 - 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-12-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:46.470474'
+lastmod: '2025-04-07'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2020-04-06-en-primavera-en-serio-ni-de-cona.md

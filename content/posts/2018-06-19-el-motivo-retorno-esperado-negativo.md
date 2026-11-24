@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2018-06-19 08:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:07:22.667485'
+lastmod: '2025-04-07'
 related:
 - 2010-10-03-c2bfpor-que-no-una-competicion.md
 - 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md

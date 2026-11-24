@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - consultoría
 date: 2011-02-21 09:12:26+00:00
-lastmod: '2025-04-06T18:56:14.822325'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md

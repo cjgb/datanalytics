@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-12-26 07:10:39+00:00
 draft: false
-lastmod: '2025-04-06T19:09:01.671553'
+lastmod: '2026-09-04'
 related:
 - 2013-12-10-te-queda-lejos-el-aeropuerto.md
 - 2024-03-12-dorling-cartograms.md

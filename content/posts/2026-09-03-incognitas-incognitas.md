@@ -5,7 +5,7 @@ categories:
 date: 2026-09-03
 description: 'El trabajo sobre la incertidumbre de Knight es anterior a la axiomatización
   de Kolmogorov y cabe preguntarse: ¿cómo se interpreta desde ella?'
-lastmod: '2026-08-28T18:37:00.261062'
+lastmod: '2026-08-28'
 related:
 - 2011-03-11-riesgo-e-incertidumbre.md
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md

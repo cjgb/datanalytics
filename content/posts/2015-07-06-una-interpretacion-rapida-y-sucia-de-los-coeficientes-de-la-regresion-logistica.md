@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-07-06 08:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:00:42.884146'
+lastmod: '2026-09-04'
 related:
 - 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 - 2014-02-12-de-ratios-apuestas-y-riesgos.md

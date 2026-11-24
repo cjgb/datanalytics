@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-15 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T19:09:43.864195'
+lastmod: '2025-04-07'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md

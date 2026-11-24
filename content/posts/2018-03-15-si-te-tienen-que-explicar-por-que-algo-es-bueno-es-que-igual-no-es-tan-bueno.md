@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-03-15 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:07:33.486665'
+lastmod: '2025-04-07'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md

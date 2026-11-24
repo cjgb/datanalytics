@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-05-08 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:02:06.556890'
+lastmod: '2025-11-02'
 related:
 - 2012-06-04-la-prehistoria-de-r-segun-patrick-burns.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

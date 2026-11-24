@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-06-06 07:12:30+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:06.178884'
+lastmod: '2026-09-26'
 related:
 - 2015-06-15-paralelismo-en-r-memorandum.md
 - 2016-02-23-validacion-cruzada-en-r.md

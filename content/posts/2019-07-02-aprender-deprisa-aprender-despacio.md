@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-07-02 09:13:48+00:00
 draft: false
-lastmod: '2025-04-06T18:47:46.611257'
+lastmod: '2026-09-04'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md

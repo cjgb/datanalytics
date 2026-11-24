@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-07-09 07:47:28+00:00
 draft: false
-lastmod: '2025-04-06T19:02:33.100901'
+lastmod: '2026-10-06'
 related:
 - 2021-11-03-mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia.md
 - 2014-06-10-a-vueltas-con-el-t-test.md

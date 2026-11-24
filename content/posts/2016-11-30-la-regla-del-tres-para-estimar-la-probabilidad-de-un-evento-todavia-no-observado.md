@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-30 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T18:49:14.998953'
+lastmod: '2026-09-04'
 related:
 - 2011-09-14-la-estadistica-del-numero-tres.md
 - 2019-12-04-p-valores-y-decisiones.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-07-20 07:10:45+00:00
 draft: false
-lastmod: '2025-04-06T18:48:06.341884'
+lastmod: '2026-09-04'
 related:
 - 2012-09-05-los-principales-problemas-de-espana.md
 - 2012-08-14-incendios-en-espana.md

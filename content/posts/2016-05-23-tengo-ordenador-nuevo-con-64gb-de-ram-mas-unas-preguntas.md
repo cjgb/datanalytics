@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2016-05-23 08:13:37+00:00
 draft: false
-lastmod: '2025-04-06T18:58:46.679533'
+lastmod: '2025-04-07'
 related:
 - 2013-11-04-un-record-personal.md
 - 2010-03-15-los-portatiles-c2bfobjetos-falicos.md

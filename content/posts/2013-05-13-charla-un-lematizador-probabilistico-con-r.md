@@ -6,7 +6,7 @@ categories:
 - charlas
 date: 2013-05-13 07:18:08+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:31.501986'
+lastmod: '2026-01-31'
 related:
 - 2013-05-23-diapositivas-de-mi-charla-sobre-un-lematizador-desambiguado-con-r.md
 - 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md

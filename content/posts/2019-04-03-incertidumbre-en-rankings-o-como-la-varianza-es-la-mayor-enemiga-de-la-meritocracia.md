@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-04-03 19:27:36+00:00
 draft: false
-lastmod: '2025-04-06T19:07:59.663837'
+lastmod: '2025-11-08'
 related:
 - 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md
 - 2020-02-06-model4you.md

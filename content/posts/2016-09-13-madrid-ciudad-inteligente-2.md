@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-09-13 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:02:35.928994'
+lastmod: '2026-10-12'
 related:
 - 2015-04-22-madrid-ciudad-inteligente.md
 - 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md

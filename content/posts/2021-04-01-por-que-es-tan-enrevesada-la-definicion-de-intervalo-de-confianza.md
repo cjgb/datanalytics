@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-04-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:57.582491'
+lastmod: '2025-10-12'
 related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md

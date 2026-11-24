@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-02-17 09:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:06:36.714894'
+lastmod: '2025-05-05'
 related:
 - 2019-06-24-existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable.md
 - 2015-07-01-condicional-e-incertidumbre.md

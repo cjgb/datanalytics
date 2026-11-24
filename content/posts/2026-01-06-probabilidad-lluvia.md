@@ -6,7 +6,7 @@ date: 2026-01-06
 description: ¿Sabemos interpretar el pronóstico del tiempo? Analizamos la confusión
   sobre la probabilidad de precipitación y la brecha de comunicación entre científicos
   y ciudadanos.
-lastmod: '2026-01-06T15:19:18.401060'
+lastmod: '2026-01-10'
 related:
 - 2022-06-09-el-modelo-es-y.md
 - 2014-11-11-un-30-de-probabilidad-de-que-llueva-manana.md

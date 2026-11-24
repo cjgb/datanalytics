@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-09-13 07:18:27+00:00
 draft: false
-lastmod: '2025-04-06T18:47:50.877253'
+lastmod: '2025-09-17'
 related:
 - 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
 - 2022-12-06-gosset-cave.md

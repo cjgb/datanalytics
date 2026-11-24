@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-11-22 07:14:13+00:00
 draft: false
-lastmod: '2025-04-06T19:12:38.080207'
+lastmod: '2026-09-04'
 related:
 - 2015-08-10-estar-en-racha-y-promediar-promedios.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

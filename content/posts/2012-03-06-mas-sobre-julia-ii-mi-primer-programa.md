@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-03-06 08:37:57+00:00
 draft: false
-lastmod: '2025-04-06T18:47:12.361988'
+lastmod: '2026-09-04'
 related:
 - 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md
 - 2014-07-04-vectorizacion-en-r-un-contraejemplo.md

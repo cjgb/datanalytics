@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-01-05 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:01:32.997060'
+lastmod: '2026-01-17'
 related:
 - 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md
 - 2022-07-28-temas-nadaesgratis.md

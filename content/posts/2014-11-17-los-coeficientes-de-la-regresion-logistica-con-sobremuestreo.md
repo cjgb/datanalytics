@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-11-17 07:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:48:53.628386'
+lastmod: '2026-09-04'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md

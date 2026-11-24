@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-03-11 16:43:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:43.238337'
+lastmod: '2026-09-04'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md

@@ -4,7 +4,7 @@ categories:
 - causalidad
 date: 2018-03-16 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T18:54:53.795060'
+lastmod: '2025-04-07'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md

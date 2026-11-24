@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-09-14 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:52.580206'
+lastmod: '2025-11-02'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2021-10-01-esos-felices-momentos-le-verrier.md

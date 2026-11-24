@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-10-11 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:09:34.486694'
+lastmod: '2026-10-12'
 related:
 - 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md

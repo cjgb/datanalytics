@@ -4,7 +4,7 @@ categories:
 - causalidad
 date: 2024-01-16
 description: Una discusión sobre la causalidad motivada por un artículo en NadaEsGratis.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2021-05-12-causalidad-y-paraisos-fiscales.md
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-11-12 07:13:22+00:00
 draft: false
-lastmod: '2025-04-06T19:09:49.360528'
+lastmod: '2026-09-04'
 related:
 - 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md
 - 2014-04-24-aventuras-de-web-scraping-como-bajarse-todo-el-boe.md

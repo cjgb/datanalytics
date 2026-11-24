@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-09-04 08:13:38+00:00
 draft: false
-lastmod: '2025-04-06T18:46:33.421239'
+lastmod: '2026-09-04'
 related:
 - 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
 - 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md

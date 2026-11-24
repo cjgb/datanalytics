@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - nlp
 date: 2010-10-03 18:14:18+00:00
-lastmod: '2025-04-06T19:11:31.953280'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2014-01-21-cambios-cambios-cambios.md

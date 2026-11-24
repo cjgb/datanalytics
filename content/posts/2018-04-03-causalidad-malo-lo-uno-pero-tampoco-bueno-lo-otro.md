@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-04-03 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:13:03.430063'
+lastmod: '2026-10-12'
 related:
 - 2021-05-12-causalidad-y-paraisos-fiscales.md
 - 2024-01-16-causalidad-conocimiento.md

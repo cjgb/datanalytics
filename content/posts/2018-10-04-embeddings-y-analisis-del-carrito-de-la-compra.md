@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-10-04 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T18:54:40.854723'
+lastmod: '2025-05-05'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md

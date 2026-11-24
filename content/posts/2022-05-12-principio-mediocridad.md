@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-05-12
 description: El principio de mediocridad como instrumento para estimar duraciones
-lastmod: '2025-04-06T18:57:51.545164'
+lastmod: '2026-09-03'
 related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md

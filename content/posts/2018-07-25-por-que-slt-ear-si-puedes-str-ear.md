@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2018-07-25 08:13:42+00:00
-lastmod: '2026-01-03'
+lastmod: '2026-09-04'
 related:
 - 2018-11-05-cuatro-paquetes-interesantes-de-r.md
 - 2017-12-19-mezcolanza-de-inla-a-gam-pasando-por-la-frenologia.md

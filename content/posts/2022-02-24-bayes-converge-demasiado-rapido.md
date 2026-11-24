@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-02-24
-lastmod: '2025-04-06T18:44:21.247713'
+lastmod: '2025-04-07'
 related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

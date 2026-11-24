@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-06-17 07:16:50+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:40.976345'
+lastmod: '2025-09-14'
 related:
 - 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
 - 2012-11-21-260gb-es-big-data.md

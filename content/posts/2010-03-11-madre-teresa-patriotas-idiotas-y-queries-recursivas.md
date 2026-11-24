@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2010-03-11 20:00:14+00:00
 draft: false
-lastmod: '2025-04-06T19:10:02.789439'
+lastmod: '2026-09-26'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md

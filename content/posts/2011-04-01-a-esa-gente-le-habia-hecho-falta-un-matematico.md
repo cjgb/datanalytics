@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-04-01 07:31:39+00:00
 draft: false
-lastmod: '2025-04-06T19:01:15.537953'
+lastmod: '2025-10-12'
 related:
 - 2010-07-04-exagerados.md
 - 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-09-21 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:54:31.758380'
+lastmod: '2026-10-12'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
 - 2017-06-30-una-perspectiva-economica-del-lenguaje.md

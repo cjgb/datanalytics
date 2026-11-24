@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-11-20 07:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:49:48.035286'
+lastmod: '2026-09-04'
 related:
 - 2014-06-12-hoy-he-echado-de-menos-scala.md
 - 2014-07-18-en-serio-con-spark-instalacion.md

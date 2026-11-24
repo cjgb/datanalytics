@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-09-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:38.648292'
+lastmod: '2026-10-12'
 related:
 - 2020-06-05-de-histograma-a-distribuciones-usando-la-de-burr.md
 - 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md

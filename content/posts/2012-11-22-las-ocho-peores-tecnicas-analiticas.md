@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-11-22 07:06:40+00:00
 noindex: true
-lastmod: '2025-04-06T19:00:37.588445'
+lastmod: '2026-01-31'
 related:
 - 2014-03-17-sobre-el-articulo-de-domingos.md
 - 2017-03-09-un-parrafo-afortunadisimo-sobre-las-nuevas-aptitudes.md

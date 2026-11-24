@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-09-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:37.773702'
+lastmod: '2026-09-04'
 related:
 - 2016-03-28-un-teorema-de-muestreo-que-no-se-si-existe.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-01-28 08:58:55+00:00
 draft: false
-lastmod: '2025-04-06T18:55:05.499649'
+lastmod: '2026-09-04'
 related:
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 - 2014-02-06-experimentos-con-el-paquete-gbm.md

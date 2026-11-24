@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-05-18 08:13:37+00:00
 draft: false
-lastmod: '2025-04-06T19:00:30.036117'
+lastmod: '2026-09-04'
 related:
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
 - 2016-05-04-transparencia-libertad-y-carcas-de-antano-y-hogano.md

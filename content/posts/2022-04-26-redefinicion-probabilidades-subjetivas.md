@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2022-04-26
 description: Una redefinición "profesional" del concepto subjetivo de la probabilidad
-lastmod: '2025-04-06T19:08:26.407320'
+lastmod: '2025-04-07'
 related:
 - 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md
 - 2023-04-04-kant-probabilidad-apuestas.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-09-23 22:05:13+00:00
-lastmod: '2025-04-06T18:58:56.912079'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-06-17-grandes-numeros.md

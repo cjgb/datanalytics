@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-03-31 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:13:22.954468'
+lastmod: '2025-11-02'
 related:
 - 2023-03-31-dia-internacional-copia-seguridad.md
 - 2024-03-31-dia-internacional-copia-seguridad.md

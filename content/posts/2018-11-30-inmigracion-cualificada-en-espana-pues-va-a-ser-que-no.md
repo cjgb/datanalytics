@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-11-30 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:53:44.070564'
+lastmod: '2025-04-07'
 related:
 - 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md
 - 2017-04-11-el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar.md

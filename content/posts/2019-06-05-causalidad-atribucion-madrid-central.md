@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-06-05 09:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:13:19.255955'
+lastmod: '2026-09-04'
 related:
 - 2018-12-03-sobre-madrid-central.md
 - 2019-10-18-el-modelo-son-las-conclusiones.md

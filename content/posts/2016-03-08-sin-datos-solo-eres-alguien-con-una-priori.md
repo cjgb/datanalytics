@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-03-08 09:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:58:43.751673'
+lastmod: '2025-11-02'
 related:
 - 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
 - 2018-05-22-existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas.md

@@ -5,7 +5,7 @@ categories:
 date: 2022-09-06
 description: Un problema no tan simple de probabilidades resuelto usando frecuencias
   naturales
-lastmod: '2025-04-06T18:54:11.679494'
+lastmod: '2025-11-02'
 related:
 - 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

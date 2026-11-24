@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-07-03 10:40:34+00:00
 draft: false
-lastmod: '2025-04-06T19:06:53.433604'
+lastmod: '2026-09-04'
 related:
 - 2015-01-28-la-profesionalizacion-de-r.md
 - 2011-11-21-iii-jornadas-de-usuarios-de-r-algunas-reflexiones.md

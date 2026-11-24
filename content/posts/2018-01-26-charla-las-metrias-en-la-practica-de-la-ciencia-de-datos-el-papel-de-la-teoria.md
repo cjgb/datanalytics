@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2018-01-26 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:51:40.430895'
+lastmod: '2025-11-02'
 related:
 - 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

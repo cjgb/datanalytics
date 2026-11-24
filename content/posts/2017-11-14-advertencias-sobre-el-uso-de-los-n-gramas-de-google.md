@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2017-11-14 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:46:35.411752'
+lastmod: '2026-01-10'
 related:
 - 2016-09-23-importa-mas-la-causalidad-hoy-en-dia.md
 - 2022-07-28-temas-nadaesgratis.md

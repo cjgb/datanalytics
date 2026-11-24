@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-03-01 21:02:07+00:00
-lastmod: '2025-04-06T18:46:43.525991'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2012-10-16-r-como-herramienta-de-captura-de-datos.md

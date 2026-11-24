@@ -4,7 +4,7 @@ categories:
 - nlp
 description: "Sobre el uso de Wolfram Alpha para encontrar información que exige inteligencia por parte del buscador."
 date: 2011-02-12 11:12:33+00:00
-lastmod: '2025-04-06T19:12:46.610704'
+lastmod: '2026-09-26'
 related:
 - 2014-10-01-donde-he-estado-segun-google.md
 - 2014-04-04-el-lenguaje-de-wolfram-segun-wolfram.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-05-31 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T18:51:18.504714'
+lastmod: '2025-11-02'
 related:
 - 2014-09-23-el-impacto-causal-de-google.md
 - 2018-09-25-disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad.md

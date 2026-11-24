@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-03-21 15:50:20+00:00
-lastmod: '2025-04-06T18:52:02.671292'
+lastmod: '2025-09-27'
 related:
 - 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
 - 2011-02-25-1605.md

@@ -4,7 +4,7 @@ categories:
 - r
 - anuncio
 date: 2010-03-28 14:09:18+00:00
-lastmod: '2025-04-06T18:44:35.663325'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-09-29-proyectos-de-r-en-el-google-summer-of-code-2010-ii.md

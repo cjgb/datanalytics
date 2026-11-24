@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2011-08-08 16:13:33+00:00
-lastmod: '2025-04-06T18:45:18.928751'
+lastmod: '2025-09-14'
 related:
 - 2017-02-06-1e-por-doquier.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

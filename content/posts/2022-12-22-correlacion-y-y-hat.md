@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-12-22
-lastmod: '2025-04-06T18:44:36.345060'
+lastmod: '2026-09-04'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2023-03-21-reduccion-error-tests-ab.md

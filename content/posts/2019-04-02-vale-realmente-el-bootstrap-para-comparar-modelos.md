@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-04-02 09:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:12:53.912379'
+lastmod: '2025-11-08'
 related:
 - 2014-10-10-bootstrap-bayesiano.md
 - 2024-09-24-cortos-stats.md

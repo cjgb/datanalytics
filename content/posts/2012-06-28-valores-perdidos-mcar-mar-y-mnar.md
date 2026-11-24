@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-06-28 06:41:25+00:00
 draft: false
-lastmod: '2025-04-06T19:06:28.192389'
+lastmod: '2026-09-04'
 related:
 - 2011-05-30-dos-perspectivas-sobre-el-problema-de-los-valores-no-informados.md
 - 2014-09-11-missing.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-05-20 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:59:16.766671'
+lastmod: '2026-09-04'
 related:
 - 2012-04-04-de-dhondt-a-banzhaf.md
 - 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md

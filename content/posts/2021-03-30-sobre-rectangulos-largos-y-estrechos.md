@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-03-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:58.446613'
+lastmod: '2025-11-02'
 related:
 - 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md

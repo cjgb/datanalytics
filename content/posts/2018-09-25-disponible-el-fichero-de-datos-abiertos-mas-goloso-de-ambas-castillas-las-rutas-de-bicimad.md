@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-09-25 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:50:50.944826'
+lastmod: '2026-09-04'
 related:
 - 2017-09-29-bus-al-norte-bus-al-sur.md
 - 2012-03-14-c2a1mano-que-mapa.md

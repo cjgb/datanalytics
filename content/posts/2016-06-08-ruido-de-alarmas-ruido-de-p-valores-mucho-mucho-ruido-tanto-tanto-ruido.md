@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-08 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:51:39.766104'
+lastmod: '2025-05-05'
 related:
 - 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
 - 2017-10-03-vivir-del-ruido.md

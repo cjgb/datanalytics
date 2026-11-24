@@ -6,7 +6,7 @@ date: 2026-07-16
 description: La literatura sobre el AUC advierte sobre sus problemas. Que son que
   puede ser explotado para hacer pasar gato por liebre. Aquí se explica cómo hacerlo
   sin que se note.
-lastmod: '2026-07-11T19:18:43.849225'
+lastmod: '2026-07-11'
 related:
 - 2025-04-24-auc-vs-dispersion-p-ii.md
 - 2025-04-17-auc-vs-dispersion-p.md

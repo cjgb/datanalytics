@@ -5,7 +5,7 @@ categories:
 date: 2025-07-29
 description: Rango dinámico con R, Docling para parsear docs, dudas sobre Observable
   2.0 y crítica a la narrativa emocional en tech.
-lastmod: '2025-09-17T20:37:31.423754'
+lastmod: '2025-09-27'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2024-02-06-llm-obsidian.md

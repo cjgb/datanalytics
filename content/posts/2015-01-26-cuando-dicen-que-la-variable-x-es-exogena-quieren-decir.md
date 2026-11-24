@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-01-26 07:13:05+00:00
 draft: false
-lastmod: '2025-04-06T19:04:22.092765'
+lastmod: '2025-10-12'
 related:
 - 2012-04-19-variables-instrumentales-con-r.md
 - 2020-09-08-mas-sobre-variables-instrumentales-con-r.md

@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2011-08-30 07:12:05+00:00
 draft: false
-lastmod: '2025-04-06T18:47:16.403466'
+lastmod: '2025-04-07'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2018-02-08
-lastmod: '2025-12-08'
+lastmod: '2025-12-12'
 related:
 - 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 - 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md

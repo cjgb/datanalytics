@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-09-10 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T18:45:22.357639'
+lastmod: '2025-11-02'
 related:
 - 2020-09-17-una-herramienta-para-el-analisis-no-parametrico-de-series-temporales.md
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md

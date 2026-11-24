@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-01-15 08:28:07+00:00
 noindex: true
-lastmod: '2025-04-06T18:55:54.021542'
+lastmod: '2026-10-12'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md
 - 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md

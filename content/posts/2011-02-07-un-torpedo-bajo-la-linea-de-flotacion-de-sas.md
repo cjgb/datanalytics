@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-02-07 09:52:19+00:00
-lastmod: '2025-04-06T18:55:45.594308'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-03-04-1680.md

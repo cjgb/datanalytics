@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-10-26 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:19.075611'
+lastmod: '2026-01-28'
 related:
 - 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md
 - 2024-06-27-vida-media-neutrones.md

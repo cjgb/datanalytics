@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-10-27 22:21:05+00:00
 draft: false
-lastmod: '2025-04-06T18:46:17.376369'
+lastmod: '2026-10-12'
 related:
 - 2014-05-14-y-sin-embargo-te-quiero.md
 - 2012-01-18-r-en-el-top-20-de-tiobe.md

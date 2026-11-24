@@ -5,7 +5,7 @@ categories:
 - r
 date: 2021-02-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:19.834519'
+lastmod: '2026-09-04'
 related:
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 - 2014-10-21-mas-alla-del-teorema-central-del-limite.md

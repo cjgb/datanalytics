@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-12-02 07:13:59+00:00
 draft: false
-lastmod: '2025-04-06T18:44:41.514489'
+lastmod: '2025-04-07'
 related:
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

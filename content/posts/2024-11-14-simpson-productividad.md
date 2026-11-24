@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-11-14
-lastmod: '2025-04-06T18:53:46.098956'
+lastmod: '2025-09-29'
 related:
 - 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md
 - 2022-01-04-la-altura-media-animales-zoo-madrid.md

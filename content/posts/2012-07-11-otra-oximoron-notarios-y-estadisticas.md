@@ -6,7 +6,7 @@ categories:
 - números
 date: 2012-07-11 06:48:55+00:00
 draft: false
-lastmod: '2025-04-06T18:52:54.896046'
+lastmod: '2026-09-04'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2010-12-28-lo-prometo-no-es-una-broma.md

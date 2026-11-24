@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2012-09-17 07:22:17+00:00
 draft: false
-lastmod: '2025-04-06T19:10:16.450557'
+lastmod: '2026-09-04'
 related:
 - 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md

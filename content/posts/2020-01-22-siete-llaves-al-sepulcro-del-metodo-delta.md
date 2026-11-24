@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-01-22 09:13:00+00:00
-lastmod: '2025-04-06T18:45:31.033863'
+lastmod: '2026-09-04'
 related:
 - 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

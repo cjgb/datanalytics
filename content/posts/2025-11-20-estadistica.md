@@ -5,7 +5,7 @@ categories:
 date: 2025-11-20
 description: 'Resumen de lecturas sobre ML y estadística: intervalos conformes, tamaños
   muestrales, modelos de Markov, robustez, visualización y sesgos en datos.'
-lastmod: '2025-11-16T23:32:11.441896'
+lastmod: '2026-01-10'
 related:
 - 2025-04-22-cortos-stats.md
 - 2025-10-16-estadistica.md

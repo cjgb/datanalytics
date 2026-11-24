@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-01-12 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T19:03:18.644239'
+lastmod: '2026-09-04'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2016-07-06-glms-con-prioris-casi-a-voluntad.md

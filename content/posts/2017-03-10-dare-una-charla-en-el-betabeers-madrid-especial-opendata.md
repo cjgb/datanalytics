@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2017-03-10 08:13:13+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:04.564246'
+lastmod: '2026-01-31'
 related:
 - 2017-03-17-disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata.md
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md

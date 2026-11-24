@@ -4,7 +4,7 @@ categories:
 - finanzas
 - r
 date: 2012-07-05 06:02:59+00:00
-lastmod: '2025-04-06T18:49:32.519217'
+lastmod: '2026-09-04'
 related:
 - 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md

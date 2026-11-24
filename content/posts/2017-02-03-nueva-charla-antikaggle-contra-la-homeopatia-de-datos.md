@@ -4,7 +4,7 @@ categories:
 - charlas
 date: 2017-02-03 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:50:18.963521'
+lastmod: '2025-04-07'
 related:
 - 2017-02-13-diapositivas-de-antikaggle-contra-la-homeopatia-de-datos.md
 - 2016-11-03-homeopatia-de-datos.md

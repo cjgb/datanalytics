@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2014-02-25 08:22:48+00:00
 draft: false
-lastmod: '2025-04-06T19:06:59.810044'
+lastmod: '2026-09-04'
 related:
 - 2012-12-18-infografia-sobre-big-data-spain.md
 - 2015-08-05-quien-es-quien-del-big-data-en-espana-2015-y-yo.md

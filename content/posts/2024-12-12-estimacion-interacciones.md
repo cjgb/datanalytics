@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-12-12
-lastmod: '2025-04-06T18:57:16.612108'
+lastmod: '2025-09-29'
 related:
 - 2017-07-13-gelmaneando.md
 - 2020-07-14-sobre-el-efecto-medio.md

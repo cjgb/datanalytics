@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2014-11-11 07:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:52:11.379370'
+lastmod: '2026-09-04'
 related:
 - 2022-06-09-el-modelo-es-y.md
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md

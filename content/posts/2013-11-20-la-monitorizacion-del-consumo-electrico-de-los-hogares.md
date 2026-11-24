@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-11-20 07:15:46+00:00
 draft: false
-lastmod: '2025-04-06T19:04:31.406049'
+lastmod: '2025-04-07'
 related:
 - 2012-03-01-como-poner-una-lavadora.md
 - 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md

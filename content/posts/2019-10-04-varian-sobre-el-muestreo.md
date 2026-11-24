@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-10-04 09:13:08+00:00
 draft: false
-lastmod: '2025-04-06T18:55:35.972542'
+lastmod: '2026-09-04'
 related:
 - 2016-09-12-big-vs-small-data-en-estadistica-aplicada-aplicada.md
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md

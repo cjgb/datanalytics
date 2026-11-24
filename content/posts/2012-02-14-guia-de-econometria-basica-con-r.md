@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2012-02-14 21:24:09+00:00
-lastmod: '2025-04-06T18:50:14.977252'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md

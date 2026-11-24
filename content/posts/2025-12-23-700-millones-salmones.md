@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-12-22
 description: ¿Será cierto que gastaron 700 millones de libras en salvar la vida de
   un salmón cada diez años?
-lastmod: '2025-12-12T12:52:29.611606'
+lastmod: '2025-12-12'
 related:
 - 2023-07-18-energia-nuclear-salvara-mundo.md
 - 2024-06-25-consumo-llms.md

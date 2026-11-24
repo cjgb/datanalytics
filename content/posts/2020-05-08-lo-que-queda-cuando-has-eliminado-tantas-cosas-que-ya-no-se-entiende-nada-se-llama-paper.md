@@ -6,7 +6,7 @@ categories:
 - mala ciencia
 date: 2020-05-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:36.024140'
+lastmod: '2026-09-04'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2021-09-16-sobre-la-economia-conductual.md

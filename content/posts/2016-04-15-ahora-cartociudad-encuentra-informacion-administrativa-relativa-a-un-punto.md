@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-04-15 09:13:20+00:00
 draft: false
-lastmod: '2025-04-06T18:52:27.472888'
+lastmod: '2026-09-04'
 related:
 - 2016-05-11-manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid.md
 - 2019-07-15-cartogramas-con-recmap.md

@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2011-06-22 06:59:17+00:00
 draft: false
-lastmod: '2025-04-06T18:53:53.491002'
+lastmod: '2026-10-12'
 related:
 - 2017-10-24-tres-de-seis-consejos-para-mejorar-las-regresiones.md
 - 2011-07-04-miscelanea-de-citas.md

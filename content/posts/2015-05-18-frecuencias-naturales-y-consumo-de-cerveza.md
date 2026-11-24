@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-05-18 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:49:18.987283'
+lastmod: '2026-09-04'
 related:
 - 2016-12-19-problemas-navidenos-decon-r.md
 - 2012-02-23-higiene-numerica-para-periodistas.md

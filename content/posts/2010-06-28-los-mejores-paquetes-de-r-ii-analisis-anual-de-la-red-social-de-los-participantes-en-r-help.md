@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-28 02:22:59+00:00
-lastmod: '2025-04-06T18:46:22.010124'
+lastmod: '2026-09-04'
 related:
 - 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
 - 2013-12-04-ayuda-de-r-en-espanol.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-03-28 07:47:05+00:00
 draft: false
-lastmod: '2025-04-06T18:46:46.860899'
+lastmod: '2026-09-04'
 related:
 - 2012-04-25-espana-c2bfradial-i.md
 - 2012-04-26-espana-c2bfradial-ii.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-12-03 07:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:50:26.250236'
+lastmod: '2026-09-04'
 related:
 - 2014-05-15-r-en-paralelo.md
 - 2015-06-15-paralelismo-en-r-memorandum.md

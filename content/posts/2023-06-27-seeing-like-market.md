@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - artículos
 date: 2023-06-27
-lastmod: '2025-04-06T18:53:29.850117'
+lastmod: '2025-04-07'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2023-10-03-muestreo-superricos.md

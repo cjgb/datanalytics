@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-21 07:44:31+00:00
 draft: false
-lastmod: '2025-04-06T18:56:02.205589'
+lastmod: '2026-10-12'
 related:
 - 2014-12-03-paralelizacion-en-r-con-snow.md
 - 2014-07-09-estrategias-escalables-con-r.md

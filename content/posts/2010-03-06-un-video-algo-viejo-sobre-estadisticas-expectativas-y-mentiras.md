@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2010-03-06 16:38:53+00:00
-lastmod: '2025-04-06T18:45:18.264407'
+lastmod: '2026-09-03'
 related:
 - 2012-08-09-odds-ratio-vs-probabilidad.md
 - 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md

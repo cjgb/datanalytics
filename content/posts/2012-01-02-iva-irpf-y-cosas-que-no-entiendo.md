@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-01-02 07:07:28+00:00
 draft: false
-lastmod: '2025-04-06T18:45:24.368402'
+lastmod: '2025-04-07'
 related:
 - 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
 - 2011-02-25-1605.md

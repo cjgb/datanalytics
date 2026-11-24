@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-06 07:00:44+00:00
 draft: false
-lastmod: '2025-04-06T18:48:49.650758'
+lastmod: '2026-09-04'
 related:
 - 2011-09-08-codigos-de-caracteres-en-r.md
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md

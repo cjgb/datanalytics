@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2017-12-18 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:48:27.353583'
+lastmod: '2026-09-04'
 related:
 - 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

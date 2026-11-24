@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2026-11-09
+lastmod: '2026-11-09'
 description: "En particular, de 17 de los 20 artículos académicos más citados de Javier Gil García."
 tags:
 - sociología

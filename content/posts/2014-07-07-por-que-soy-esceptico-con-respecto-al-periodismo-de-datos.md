@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-07-07 07:27:34+00:00
 draft: false
-lastmod: '2025-04-06T18:46:54.838183'
+lastmod: '2026-09-04'
 related:
 - 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md

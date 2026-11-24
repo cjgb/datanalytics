@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-01-06 09:58:49+00:00
 draft: false
-lastmod: '2025-04-06T18:48:20.066164'
+lastmod: '2026-10-31'
 related:
 - 2010-01-29-addenda-excel-y-estadistica.md
 - 2010-01-25-excel-y-estadistica.md

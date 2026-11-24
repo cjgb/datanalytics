@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-03-04 22:18:00+00:00
-lastmod: '2025-04-06T19:13:04.904813'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md

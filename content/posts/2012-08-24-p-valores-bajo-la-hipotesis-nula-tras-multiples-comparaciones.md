@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2012-08-24 06:50:08+00:00
-lastmod: '2025-04-06T18:49:36.521857'
+lastmod: '2026-10-22'
 related:
 - 2017-12-12-p-curvas.md
 - 2023-09-28-potencia-tests.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-12-12 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:07.044194'
+lastmod: '2026-10-12'
 related:
 - 2014-04-23-demasiado-simple.md
 - 2024-01-09-regresiones_pisa.md

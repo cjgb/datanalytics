@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-23 09:56:13+00:00
-lastmod: '2025-04-06T18:50:28.241020'
+lastmod: '2025-09-14'
 related:
 - 2011-12-01-creacion-de-un-r-portable.md
 - 2011-07-28-el-paquete-pxr-en-cran.md

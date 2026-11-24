@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-20 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:11:01.461681'
+lastmod: '2026-09-04'
 related:
 - 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
 - 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md

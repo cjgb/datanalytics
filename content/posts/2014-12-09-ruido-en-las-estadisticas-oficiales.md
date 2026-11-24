@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2014-12-09 07:13:20+00:00
-lastmod: '2025-10-31'
+lastmod: '2026-09-04'
 related:
 - 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md

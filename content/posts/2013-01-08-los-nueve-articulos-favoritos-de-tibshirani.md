@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-01-08 07:20:32+00:00
 draft: false
-lastmod: '2025-04-06T18:46:32.758840'
+lastmod: '2025-10-22'
 related:
 - 2020-02-24-to-irls-or-not-to-irls.md
 - 2014-10-10-bootstrap-bayesiano.md

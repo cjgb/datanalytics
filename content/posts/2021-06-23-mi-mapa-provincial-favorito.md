@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2021-06-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:23.019761'
+lastmod: '2026-10-22'
 related:
 - 2011-04-19-graficos-v-mapas.md
 - 2012-03-28-contrafactualidad-radial.md

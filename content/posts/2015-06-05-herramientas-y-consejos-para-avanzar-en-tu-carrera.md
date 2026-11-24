@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2015-06-05 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:48:28.835641'
+lastmod: '2026-09-04'
 related:
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md

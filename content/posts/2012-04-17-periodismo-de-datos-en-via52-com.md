@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-04-17 07:33:54+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:24.751941'
+lastmod: '2026-10-12'
 related:
 - 2012-11-06-tesis-de-maestria-periodismo-de-datos-big-data-y-open-data.md
 - 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md

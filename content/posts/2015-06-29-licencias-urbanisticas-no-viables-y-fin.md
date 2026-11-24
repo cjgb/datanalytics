@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-06-29 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:53:27.845878'
+lastmod: '2026-09-04'
 related:
 - 2015-03-10-licencias-urbanisticas-datos-y-votos.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md

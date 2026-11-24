@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-02-25 08:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:06:14.937320'
+lastmod: '2025-04-07'
 related:
 - 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

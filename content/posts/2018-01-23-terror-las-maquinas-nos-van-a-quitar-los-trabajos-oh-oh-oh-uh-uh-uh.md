@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-01-23 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:45:56.633394'
+lastmod: '2026-09-04'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2019-03-26-hay-algo-podrido-en-la-microeconomia-normativa.md

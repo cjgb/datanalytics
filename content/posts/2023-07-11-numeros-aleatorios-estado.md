@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-07-11
-lastmod: '2025-04-06T19:05:37.636494'
+lastmod: '2026-09-04'
 related:
 - 2010-09-01-el-paquete-multicore-de-r.md
 - 2013-11-22-un-pequeno-problema-de-probabilidad.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-10-20 08:13:02+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:17.279495'
+lastmod: '2026-07-10'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md

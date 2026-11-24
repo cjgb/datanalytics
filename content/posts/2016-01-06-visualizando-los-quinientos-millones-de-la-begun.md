@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-01-06 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:58:31.812383'
+lastmod: '2025-04-07'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2011-10-05-calculo-mental-alzheimer-anumerismo-y-20n.md

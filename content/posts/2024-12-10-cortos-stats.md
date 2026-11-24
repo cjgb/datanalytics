@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-12-10
-lastmod: '2025-04-06T19:12:18.837740'
+lastmod: '2025-09-29'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2020-12-29-sobre-el-programa-fuerte-de-la-sociologia-de-la-ciencia-una-vision-desde-la-ciencia-de-datos.md

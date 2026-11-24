@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística bayesiana
 date: 2022-04-07
-lastmod: '2025-04-06T19:08:12.237675'
+lastmod: '2025-04-07'
 related:
 - 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

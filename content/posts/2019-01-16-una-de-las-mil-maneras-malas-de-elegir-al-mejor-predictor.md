@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-01-16 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:12:38.868076'
+lastmod: '2026-03-05'
 related:
 - 2019-01-17-mejores-predictores-un-ejemplo-el-de-brier.md
 - 2019-01-15-quien-sera-el-mejor-predictor-como-se-podra-medir.md

@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2019-05-13 09:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:05:13.934804'
+lastmod: '2025-11-02'
 related:
 - 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 - 2011-06-03-explica-el-portal-divulgativo-del-ine.md

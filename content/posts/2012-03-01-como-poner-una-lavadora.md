@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-03-01 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:11:37.181749'
+lastmod: '2026-09-04'
 related:
 - 2014-04-16-menos-econometria-y-mas-precioestatos.md
 - 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md

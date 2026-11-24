@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-02-23 08:13:39+00:00
 noindex: true
-lastmod: '2025-04-06T18:49:37.858744'
+lastmod: '2026-01-31'
 related:
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

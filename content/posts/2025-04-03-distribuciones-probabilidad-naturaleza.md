@@ -5,7 +5,7 @@ categories:
 date: 2025-04-03
 description: Si la incertidumbre es solo epistemológica, ¿por qué observamos distribuciones
   de probabilidad en la naturaleza?
-lastmod: '2025-04-21T13:55:29.409930'
+lastmod: '2026-01-20'
 related:
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
 - 2011-03-11-riesgo-e-incertidumbre.md

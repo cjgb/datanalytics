@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-25 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T19:07:42.204425'
+lastmod: '2026-04-24'
 related:
 - 2017-07-10-estereotipos-y-estadistica-ii.md
 - 2023-10-03-muestreo-superricos.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-10-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:25.591394'
+lastmod: '2025-04-07'
 related:
 - 2010-05-31-de-numeros-y-funcionarios.md
 - 2017-07-04-dudas-razonables-que-me-asaltan.md

@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2016-11-03 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:51:14.524639'
+lastmod: '2025-11-02'
 related:
 - 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
 - 2017-02-13-diapositivas-de-antikaggle-contra-la-homeopatia-de-datos.md

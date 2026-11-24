@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2013-11-14 11:43:43+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:33.638586'
+lastmod: '2026-09-04'
 related:
 - 2016-05-11-manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid.md
 - 2016-07-28-onodo-redes-para-contar-historias.md

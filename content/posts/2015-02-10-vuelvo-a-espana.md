@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-02-10 07:13:59+00:00
 noindex: true
-lastmod: '2025-04-06T19:07:26.368708'
+lastmod: '2026-01-31'
 related:
 - 2014-01-21-cambios-cambios-cambios.md
 - 2014-11-21-mi-querido-colega-de-iberia.md

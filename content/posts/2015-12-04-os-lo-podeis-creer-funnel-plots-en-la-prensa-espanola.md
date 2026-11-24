@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2015-12-04 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:50:30.969506'
+lastmod: '2026-09-04'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2011-12-15-graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas.md

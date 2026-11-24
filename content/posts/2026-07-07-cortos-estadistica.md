@@ -6,7 +6,7 @@ date: 2026-07-07
 description: De la ínfima calidad de muchos paquetes de R, a consejos para abandonar
   el AUC y la curva ROC e indicios para sospechar que se está abusando de los RCTs
   en algunas disciplinas.
-lastmod: '2026-07-02T16:46:23.280498'
+lastmod: '2026-07-02'
 related:
 - 2026-01-26-cortos.md
 - 2025-04-22-cortos-stats.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-23 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:01:07.958768'
+lastmod: '2026-10-12'
 related:
 - 2015-06-17-liberado-spark-1-4.md
 - 2011-03-04-1680.md

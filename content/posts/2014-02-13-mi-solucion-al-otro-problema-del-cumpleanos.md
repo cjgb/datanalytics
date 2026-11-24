@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-02-13 07:23:19+00:00
 draft: false
-lastmod: '2025-04-06T19:05:39.945803'
+lastmod: '2026-09-04'
 related:
 - 2013-11-22-un-pequeno-problema-de-probabilidad.md
 - 2017-02-06-1e-por-doquier.md

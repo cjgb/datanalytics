@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-09-02 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:59:50.503695'
+lastmod: '2025-11-02'
 related:
 - 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md
 - 2016-09-05-mezclas-de-vectores-iii-las-funciones-involucradas.md

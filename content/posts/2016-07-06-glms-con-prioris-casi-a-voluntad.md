@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-07-06 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:05:05.457305'
+lastmod: '2026-09-04'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

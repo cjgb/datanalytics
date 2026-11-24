@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2023-06-20
-lastmod: '2025-04-06T18:52:38.238137'
+lastmod: '2026-04-24'
 related:
 - 2023-09-21-inversiones-renta-variable.md
 - 2023-09-14-gestion-liquidez.md

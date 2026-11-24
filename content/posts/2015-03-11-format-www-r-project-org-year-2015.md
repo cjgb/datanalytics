@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-03-11 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:54:30.411156'
+lastmod: '2026-09-04'
 related:
 - 2013-12-04-ayuda-de-r-en-espanol.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

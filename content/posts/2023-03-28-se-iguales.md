@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-03-28
-lastmod: '2025-04-06T18:55:10.681335'
+lastmod: '2026-09-04'
 related:
 - 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
 - 2015-08-28-todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros.md

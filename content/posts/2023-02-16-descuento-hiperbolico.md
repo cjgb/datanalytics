@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística bayesiana
 date: 2023-02-16
-lastmod: '2025-04-06T19:05:33.955883'
+lastmod: '2026-10-08'
 related:
 - 2024-06-03-descuento-hiperbolico.md
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md

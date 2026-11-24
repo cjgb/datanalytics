@@ -4,7 +4,7 @@ categories:
 - estadística
 - probabilidad
 date: 2011-08-22 07:55:14+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2011-10-04-puedes-probar-cualquier-cosa-con-paciencia.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

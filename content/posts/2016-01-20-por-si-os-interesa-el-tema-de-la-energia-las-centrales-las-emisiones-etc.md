@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-01-20 08:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:48:58.975433'
+lastmod: '2026-10-12'
 related:
 - 2022-04-12-graficaca-ree.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md

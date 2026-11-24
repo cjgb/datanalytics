@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2022-12-29
-lastmod: '2025-04-06T18:50:14.315981'
+lastmod: '2025-10-06'
 related:
 - 2023-11-23-futuro-subjuntivo.md
 - 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md

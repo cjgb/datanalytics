@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-03-06 07:13:58+00:00
 draft: false
-lastmod: '2025-04-06T18:50:22.931837'
+lastmod: '2026-10-12'
 related:
 - 2015-02-09-ejercicios-de-mi-clase-de-r.md
 - 2019-07-15-cartogramas-con-recmap.md

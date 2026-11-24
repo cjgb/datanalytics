@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-01-22 08:13:17+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:13.478813'
+lastmod: '2026-01-17'
 related:
 - 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
 - 2020-04-30-sobre-lo-de-publicar-cuando-ya-no-hace-falta.md

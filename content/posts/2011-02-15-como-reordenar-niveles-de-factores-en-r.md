@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-02-15 02:10:57+00:00
 draft: false
-lastmod: '2025-04-06T19:11:11.395641'
+lastmod: '2026-09-04'
 related:
 - 2012-08-01-reetiquetar-factores-en-r.md
 - 2015-03-06-cual-es-la-mejor-manera-de-ordenar-un-dataframe.md

@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2015-07-17 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T19:11:31.167078'
+lastmod: '2025-10-12'
 related:
 - 2011-12-15-graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md

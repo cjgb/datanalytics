@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-05-24 09:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:45:44.564884'
+lastmod: '2025-04-07'
 related:
 - 2016-03-29-el-auc-es-la-probabilidad-de-que.md
 - 2019-02-11-auc-wilcoxon.md

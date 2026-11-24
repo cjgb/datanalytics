@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2023-11-16
 draft: false
-lastmod: '2025-04-06T19:03:57.932296'
+lastmod: '2026-01-10'
 related:
 - 2013-01-22-son-sostenibles-las-pensiones-en-el-largo-plazo.md
 - 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md

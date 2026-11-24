@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-12-03
-lastmod: '2025-04-06T19:06:31.492897'
+lastmod: '2025-09-29'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

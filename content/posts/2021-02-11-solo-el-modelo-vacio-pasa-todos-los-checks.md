@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2021-02-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:34.462244'
+lastmod: '2025-05-05'
 related:
 - 2018-11-07-cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy.md
 - 2019-11-18-los-ejemplos-son-las-conclusiones.md

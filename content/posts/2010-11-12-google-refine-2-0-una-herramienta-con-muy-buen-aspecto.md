@@ -5,7 +5,7 @@ categories:
 - consultoría
 - estadística
 date: 2010-11-12 00:51:16+00:00
-lastmod: '2025-04-06T19:08:38.007751'
+lastmod: '2025-09-07'
 noindex: true
 related:
 - 2011-06-28-google-refine-para-analizar-estudiar-y-limpiar-los-datos.md

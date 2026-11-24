@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-05-23
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2025-10-30'
 related:
 - 2016-04-27-graficos-interactivos-con-r-un-resumen.md
 - 2012-10-24-veinte-herramientas-de-visualizacion.md

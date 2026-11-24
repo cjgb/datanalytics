@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-04-22 09:13:08+00:00
 draft: false
-lastmod: '2025-04-06T18:54:47.537535'
+lastmod: '2025-04-07'
 related:
 - 2020-07-24-rarezas-ml-algebraico.md
 - 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md

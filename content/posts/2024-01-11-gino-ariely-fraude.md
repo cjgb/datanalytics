@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-01-11
-lastmod: '2025-04-06T18:47:05.730729'
+lastmod: '2026-10-12'
 related:
 - 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
 - 2023-10-03-muestreo-superricos.md

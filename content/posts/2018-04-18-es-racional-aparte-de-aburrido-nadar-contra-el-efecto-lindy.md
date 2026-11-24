@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-04-18 09:02:44+00:00
 draft: false
-lastmod: '2025-04-06T18:58:47.382609'
+lastmod: '2025-05-05'
 related:
 - 2017-09-15-dos-argumentos-racionales-en-pro-de-la-homeopatia.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md

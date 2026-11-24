@@ -4,7 +4,7 @@ categories:
 - estadística bayesiana
 date: 2026-04-23
 description: 'Un análisis de dos artículos recientes sobre los orígenes del covid usando estadística bayesiana.'
-lastmod: '2026-04-18T17:06:50.301931'
+lastmod: '2026-09-04'
 related:
 - 2018-01-12-abc.md
 - 2018-10-23-abc-2.md

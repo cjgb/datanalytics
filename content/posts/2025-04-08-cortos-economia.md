@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-04-08
+lastmod: '2026-10-12'
 description: 'Comentarios sobre varios artículos sobre economía: desde la calidad
   de las estadísticas públicas a los orígenes de la ecuación de Black-Scholes, pasando
   por una discusión sobre la inflación.'

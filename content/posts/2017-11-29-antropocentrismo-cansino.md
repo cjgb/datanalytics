@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-11-29 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T18:48:56.293647'
+lastmod: '2025-07-22'
 related:
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md

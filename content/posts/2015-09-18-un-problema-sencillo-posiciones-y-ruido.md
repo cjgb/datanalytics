@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-09-18 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:10:40.012569'
+lastmod: '2026-09-04'
 related:
 - 2022-06-23-kalman.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

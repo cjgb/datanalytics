@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-12-14 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:08:46.539519'
+lastmod: '2026-09-04'
 related:
 - 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
 - 2024-02-01-optimizacion-generalizacion.md

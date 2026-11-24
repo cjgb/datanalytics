@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-05-11 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:46:36.075403'
+lastmod: '2026-10-12'
 related:
 - 2017-05-11-cosas-de-twitter-y-encuestas.md
 - 2016-06-01-alguien-podria-identificar-tirios-y-troyanos.md

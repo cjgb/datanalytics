@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-22 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:12:14.631941'
+lastmod: '2026-09-04'
 related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2021-04-13 09:13:00+00:00
-lastmod: '2025-04-06T18:45:38.394803'
+lastmod: '2026-01-03'
 related:
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
 - 2021-09-16-sobre-la-economia-conductual.md

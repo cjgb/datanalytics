@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-08-28 09:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:02:07.283858'
+lastmod: '2025-04-07'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md

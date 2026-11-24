@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2015-12-01 15:24:02+00:00
 draft: false
-lastmod: '2025-04-06T19:12:27.335197'
+lastmod: '2026-09-04'
 related:
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
 - 2016-09-19-un-curso-de-15-horas-de-introduccion-a-la-programacion.md

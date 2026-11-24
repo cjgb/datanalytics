@@ -6,7 +6,7 @@ categories:
 - r
 date: 2020-03-16 15:41:00+00:00
 draft: false
-lastmod: '2025-04-06T19:05:30.436378'
+lastmod: '2026-10-22'
 related:
 - 2020-03-18-k-vecinos-lmer.md
 - 2017-01-10-repensando-la-codificacion-por-impacto.md

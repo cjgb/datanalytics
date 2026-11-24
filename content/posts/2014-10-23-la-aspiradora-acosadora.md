@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-10-23 07:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:57:03.972853'
+lastmod: '2026-09-04'
 related:
 - 2023-12-21-casi-todo-acos.md
 - 2014-11-21-mi-querido-colega-de-iberia.md

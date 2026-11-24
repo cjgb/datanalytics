@@ -6,7 +6,7 @@ categories:
 - libros
 date: 2020-11-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:32.220273'
+lastmod: '2026-09-24'
 related:
 - 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
 - 2021-01-14-mas-capitulos-del-libro-de-estadistica-y-otras-cosas-y-proyectos-para-2021.md

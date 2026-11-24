@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-11-11 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:01:23.569259'
+lastmod: '2025-04-07'
 related:
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

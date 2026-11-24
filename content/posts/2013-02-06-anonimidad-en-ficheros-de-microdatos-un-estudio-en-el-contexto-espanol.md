@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-02-06 07:49:29+00:00
 draft: false
-lastmod: '2025-04-06T19:05:31.143636'
+lastmod: '2026-10-12'
 related:
 - 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md

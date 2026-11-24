@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-05-04 08:13:50+00:00
 noindex: true
-lastmod: '2025-04-06T18:48:26.653440'
+lastmod: '2026-01-31'
 related:
 - 2015-03-04-adaequatio-rei-et-analysis.md
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md

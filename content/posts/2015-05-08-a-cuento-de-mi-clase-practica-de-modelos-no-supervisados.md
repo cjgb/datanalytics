@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-05-08 08:13:06+00:00
 draft: false
-lastmod: '2025-04-06T18:49:23.641756'
+lastmod: '2026-09-04'
 related:
 - 2020-01-31-pato-o-conejo-y-su-moraleja.md
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md

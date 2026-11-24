@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-06-04 12:14:46+00:00
 draft: false
-lastmod: '2025-04-06T18:46:44.857686'
+lastmod: '2026-09-04'
 related:
 - 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 - 2019-07-17-sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn.md

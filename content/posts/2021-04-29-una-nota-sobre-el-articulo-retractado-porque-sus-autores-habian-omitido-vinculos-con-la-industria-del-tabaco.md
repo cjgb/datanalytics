@@ -4,7 +4,7 @@ categories:
 - mala ciencia
 date: 2021-04-29 09:13:00+00:00
 description: Un ejemplo más de cómo en muchas disciplinas científicas, el quién es tanto o más relevante que el muy maleable qué.
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md

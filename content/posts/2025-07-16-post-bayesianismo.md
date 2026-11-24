@@ -8,7 +8,7 @@ categories:
 - estadística
 date: 2025-07-16
 description: "Del naive Bayes al post-bayesianismo: cuando los principios teóricos ceden el paso a trucos ad hoc para obtener mejores resultados prácticos."
-lastmod: '2025-09-14T01:18:28.975069'
+lastmod: '2025-11-05'
 related:
 - 2024-03-05-sobreajuste-modelos-bayesianos.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

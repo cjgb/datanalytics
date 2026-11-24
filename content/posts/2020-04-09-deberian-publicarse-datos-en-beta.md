@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-04-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:47.845880'
+lastmod: '2025-05-05'
 related:
 - 2020-04-30-sobre-lo-de-publicar-cuando-ya-no-hace-falta.md
 - 2010-12-28-lo-prometo-no-es-una-broma.md

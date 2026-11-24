@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2018-02-20 08:13:58+00:00
 draft: false
-lastmod: '2025-04-06T19:10:00.519385'
+lastmod: '2025-04-07'
 related:
 - 2024-09-26-exigencias-aisladas-rigor.md
 - 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md

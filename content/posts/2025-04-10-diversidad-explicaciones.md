@@ -6,7 +6,7 @@ date: 2025-04-10
 description: Es posible construir modelos estadísticos similares en calidad pero que
   tienen interpretaciones distintas. En la entrada se exploran algunas consecuencias
   de ello.
-lastmod: '2025-04-29T23:34:22.350692'
+lastmod: '2025-09-29'
 related:
 - 2024-10-17-interpretacion-modelos.md
 - 2024-09-12-cortos-stats.md

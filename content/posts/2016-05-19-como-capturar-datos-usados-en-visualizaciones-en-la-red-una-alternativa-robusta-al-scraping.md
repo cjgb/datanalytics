@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-05-19 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:28.788790'
+lastmod: '2026-09-04'
 related:
 - 2016-05-20-descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real.md
 - 2011-03-24-c2bfdonde-obtengo-mis-datos-c2a1pregunta.md

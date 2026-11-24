@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-10-17 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:05:33.252574'
+lastmod: '2025-04-07'
 related:
 - 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
 - 2024-04-18-estadistica-individuos.md

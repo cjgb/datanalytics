@@ -6,7 +6,7 @@ categories:
 - anuncio
 date: 2013-08-26 07:37:15+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:49.492100'
+lastmod: '2026-10-06'
 related:
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

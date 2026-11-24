@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-07-14 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:53:07.949969'
+lastmod: '2025-11-02'
 related:
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-05-16
-lastmod: '2025-04-06T19:06:25.825897'
+lastmod: '2026-11-23'
 related:
 - 2024-05-21-sentencia-bono-social-ii.md
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
@@ -32,9 +32,9 @@ Lo que pasó luego se cuenta [aquí](https://almacendederecho.org/por-que-se-equ
 La fundación Civio solicitó el código fuente de BOSCO por vía administrativa primero y judicial después y ya tenemos sentencia: no, no se le va a dar acceso al código fuente de BOSCO.
 
 Y sobre esa sentencia he leído dos artículos (nótese el uso de las comillas, posiblemente involuntario, pero lleno de información) en el mismo blog:
+
 - [Por qué aciertan las sentencias sobre el ‘algoritmo’ del bono social eléctrico](https://almacendederecho.org/por-que-aciertan-las-sentencias-sobre-el-algoritmo-del-bono-social-electrico), de Alejandro Huergo
 - [Por qué se equivocan las sentencias sobre el algoritmo del bono social eléctrico](https://almacendederecho.org/por-que-se-equivocan-las-sentencias-sobre-el-algoritmo-del-bono-social-electrico), de Juli Ponce Solé
-
 
 ## II.
 
@@ -81,7 +81,7 @@ Es de ayernacidos dar por sentado que porque alguien haya escrito en algún siti
 
 > El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
 
-Ese texto de 1978 (por eso acentúa _éstos_) describe el mecanismo por el que ha de renovarse el CGPJ. De él ha habido, parece ser, dos implementaciones distintas y contradictorias: una en 1980 y otra de 1985 (llamadas, respectivamente, Ley Orgánica 1/1980, de 10 de enero y Ley Orgánica 6/1985, de 1 de julio). Los expertos todavía no están de acuerdo en cuál es la más acertada y, en particular, quién es el responsable de elegir los primeros doce miembros del consejo a los que se refiere el algoritmo anterior. (Para los detalles, puede leerse [esto](https://almacendederecho.org/la-renovacion-del-consejo-general-del-poder-judicial-una-farsa).)
+Ese texto de 1978 (por eso acentúa _éstos_) describe el mecanismo por el que ha de renovarse el CGPJ. De él ha habido, parece ser, dos implementaciones distintas y contradictorias: una de 1980 y otra de 1985 (llamadas, respectivamente, Ley Orgánica 1/1980, de 10 de enero y Ley Orgánica 6/1985, de 1 de julio). Los expertos todavía no están de acuerdo en cuál es la más acertada y, en particular, quién es el responsable de elegir los primeros doce miembros del consejo a los que se refiere el algoritmo anterior. (Para los detalles, puede leerse [esto](https://almacendederecho.org/la-renovacion-del-consejo-general-del-poder-judicial-una-farsa).)
 
 El lenguaje natural está lleno de ambigüedades: cuando la gente escribe "o", no está claro si se refiere al operador `OR` o al `XOR`. Cuando la gente escribe "si A entonces X y si B, entonces Y" no está claro si la segunda cláusula es o no un `ELSE` de la primera (es decir, qué opción, la X o la Y, tiene preferencia si se cumplen A y B simultáneamente), o qué hacer cuando no se cumple ninguna. O qué forma tiene en código un artículo que principia diciendo _without prejudice to Rule 171.a,..._. Etc. Esas son todas cuestiones que tiene que resolver el programador. Es natural, habiendo tantos [senderos que se bifurcan](https://es.wikipedia.org/wiki/El_jard%C3%ADn_de_senderos_que_se_bifurcan), que dos que trabajen independientemente sobre un mismo seudocódigo obtengan implementaciones que den resultados distintos.
 
@@ -96,7 +96,6 @@ Lo raro de la cosa es que:
 3. Si es que, claro está, esas decisiones son vinculantes (y no meramente opiniones circunstanciales).
 
 Es decir, que no exista un mecanismo por el cual el código de BOSCO converja hacia el que esperan las instancias que tienen poder para resolver vinculantemente las ambigüedades cuando estas tienen ocasión de manifestarse.
-
 
 ### V.
 

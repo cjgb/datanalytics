@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-09-19 07:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:11:49.118647'
+lastmod: '2026-09-04'
 related:
 - 2013-05-02-data-table-i-cruces.md
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md

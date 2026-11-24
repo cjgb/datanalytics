@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2020-11-06 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:11.340179'
+lastmod: '2025-04-07'
 related:
 - 2020-11-23-distancias-v-el-colofon-ironico-especulativo.md
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md

@@ -6,7 +6,7 @@ categories:
 - causalidad
 date: 2021-05-09 17:56:18+00:00
 draft: false
-lastmod: '2025-04-06T19:12:58.595096'
+lastmod: '2026-11-23'
 related:
 - 2021-07-11-nuevo-video-en-youtube-segunda-entrega-sobre-causalidad-y-esta-vez-datos-observacionales.md
 - 2020-11-16-inferencia-causal-entrevista-a-pearl-el-2020-11-17.md
@@ -22,7 +22,7 @@ title: 'Nuevo vídeo en YouTube: una breve introducción a la causalidad "a la P
 url: /2021/05/09/nuevo-video-en-youtube-una-breve-introduccion-a-la-causalidad-a-la-pearl/
 ---
 
-Acabo de subir a Youtube mi nuevo vídeo,
+Acabo de subir a YouTube mi nuevo vídeo,
 
 {{< youtube Re9q2-AKiAg >}}
 

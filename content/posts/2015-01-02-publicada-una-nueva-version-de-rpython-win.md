@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-01-02 07:13:50+00:00
 noindex: true
-lastmod: '2025-04-06T18:54:19.067928'
+lastmod: '2026-01-31'
 related:
 - 2013-11-20-rpython-ya-en-windows.md
 - 2013-04-01-rpython-ya-esta-en-cran.md

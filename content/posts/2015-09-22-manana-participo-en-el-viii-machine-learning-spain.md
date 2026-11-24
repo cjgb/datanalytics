@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2015-09-22 08:13:57+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:01.177333'
+lastmod: '2025-10-22'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 - 2015-03-03-iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones.md

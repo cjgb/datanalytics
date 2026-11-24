@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-06-23 07:00:39+00:00
 draft: false
-lastmod: '2025-04-06T18:51:31.805651'
+lastmod: '2026-09-04'
 related:
 - 2014-11-18-sevilla-otro-grupo-local-de-usuarios-de-r.md
 - 2010-09-24-un-grupo-de-usuarios-de-r-en-espana-c2bfcuando.md

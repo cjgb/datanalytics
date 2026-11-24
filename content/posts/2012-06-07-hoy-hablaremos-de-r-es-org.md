@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-06-07 06:40:17+00:00
 draft: false
-lastmod: '2025-04-06T18:56:28.477774'
+lastmod: '2026-10-12'
 related:
 - 2013-06-27-nos-ayudais-a-mejorar-r-es-org.md
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md

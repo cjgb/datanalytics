@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2011-04-25 07:09:54+00:00
 draft: false
-lastmod: '2025-04-06T18:53:59.553214'
+lastmod: '2025-04-07'
 related:
 - 2015-06-05-herramientas-y-consejos-para-avanzar-en-tu-carrera.md
 - 2013-11-27-cuatro-principios-para-tomar-mejores-decisiones.md

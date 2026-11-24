@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-06-22 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:41.197816'
+lastmod: '2025-12-15'
 related:
 - 2015-07-22-estrategias-escalables-con-r-2.md
 - 2011-09-28-datos-grandes-colas-largas.md

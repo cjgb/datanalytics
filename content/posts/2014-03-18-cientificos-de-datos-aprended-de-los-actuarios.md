@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-03-18 07:35:19+00:00
 draft: false
-lastmod: '2025-04-06T19:13:07.350095'
+lastmod: '2026-09-04'
 related:
 - 2024-05-23-espeanza-vida-covid.md
 - 2014-06-16-tan-actual-25-anos-despues.md

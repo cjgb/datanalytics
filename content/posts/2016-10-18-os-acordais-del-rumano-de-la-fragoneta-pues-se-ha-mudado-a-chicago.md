@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-10-18 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T18:49:12.997201'
+lastmod: '2025-11-02'
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 - 2013-07-16-la-epa-en-materia-y-otros-medios.md

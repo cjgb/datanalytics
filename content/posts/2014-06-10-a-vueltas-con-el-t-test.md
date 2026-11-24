@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-06-10 07:28:17+00:00
 draft: false
-lastmod: '2025-04-06T19:06:23.695449'
+lastmod: '2026-09-04'
 related:
 - 2023-09-19-curtosis-t-test.md
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md

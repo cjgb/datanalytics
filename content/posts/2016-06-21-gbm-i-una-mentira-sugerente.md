@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-21 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T19:08:30.082618'
+lastmod: '2026-09-04'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md

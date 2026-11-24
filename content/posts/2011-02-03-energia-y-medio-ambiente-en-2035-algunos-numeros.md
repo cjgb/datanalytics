@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-02-03 09:05:08+00:00
 draft: false
-lastmod: '2025-04-06T19:11:58.292908'
+lastmod: '2026-09-26'
 related:
 - 2012-11-14-anumerismo-en-los-medios-y-seudoperiodismo-de-datos.md
 - 2022-01-13-unas-cifras-cambio-climatico-incertidumbre.md

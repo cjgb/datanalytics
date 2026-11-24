@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-05 09:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:54:32.536111'
+lastmod: '2026-09-04'
 related:
 - 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 - 2024-10-08-cortos-stats.md

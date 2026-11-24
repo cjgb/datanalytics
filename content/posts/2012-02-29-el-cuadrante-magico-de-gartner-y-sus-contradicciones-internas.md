@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2012-02-29 07:09:28+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2010-10-14-mas-sobre-lo-de-netezza.md
 - 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md

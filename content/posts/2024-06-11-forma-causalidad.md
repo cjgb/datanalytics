@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-06-11
-lastmod: '2025-04-06T19:09:21.178029'
+lastmod: '2025-11-02'
 related:
 - 2024-01-04-diagrama-causal-simple.md
 - 2020-07-14-sobre-el-efecto-medio.md

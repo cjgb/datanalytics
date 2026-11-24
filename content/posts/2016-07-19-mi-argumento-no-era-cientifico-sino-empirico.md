@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-07-19 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:12:52.475426'
+lastmod: '2025-04-07'
 related:
 - 2014-09-26-tirar-la-piedra-esconder-la-mano.md
 - 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md

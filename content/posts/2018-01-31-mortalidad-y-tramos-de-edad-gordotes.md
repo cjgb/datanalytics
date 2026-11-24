@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-31 13:01:21+00:00
 draft: false
-lastmod: '2025-04-06T18:55:37.442927'
+lastmod: '2025-04-07'
 related:
 - 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
 - 2019-12-03-la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad.md

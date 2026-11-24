@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-01 22:24:44+00:00
-lastmod: '2025-04-06T18:53:54.844806'
+lastmod: '2026-09-04'
 related:
 - 2011-04-08-paralelizacion-de-bucles-con-foreach.md
 - 2014-05-15-r-en-paralelo.md

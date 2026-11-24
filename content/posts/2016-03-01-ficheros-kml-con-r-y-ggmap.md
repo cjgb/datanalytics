@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-03-01 09:13:25+00:00
 draft: false
-lastmod: '2025-04-06T18:53:22.499431'
+lastmod: '2026-09-04'
 related:
 - 2013-03-05-ggmap-mapas-con-r.md
 - 2016-04-08-clusters-de-trayectorias-con-la-distancia-de-frechet.md

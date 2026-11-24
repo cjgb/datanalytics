@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-10 08:13:05+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2017-10-24-tres-de-seis-consejos-para-mejorar-las-regresiones.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md

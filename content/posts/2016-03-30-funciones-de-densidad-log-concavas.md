@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-03-30 09:13:25+00:00
 draft: false
-lastmod: '2025-04-06T18:50:43.558909'
+lastmod: '2025-10-12'
 related:
 - 2020-02-07-la-densidad-de-una-cauchy-bivariada-es-cuasiconvexa.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

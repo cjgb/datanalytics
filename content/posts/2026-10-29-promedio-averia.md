@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2026-10-29
+lastmod: '2026-10-29'
 description: "Avería y «average» tienen un antecesor común en el árabe; la «esperanza moral» es aquello que hoy llamaríamos la «utilidad media»."
 tags:
 - estadística

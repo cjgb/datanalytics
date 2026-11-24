@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-08-05 09:13:50+00:00
 draft: false
-lastmod: '2025-04-06T18:59:44.717383'
+lastmod: '2026-09-04'
 related:
 - 2014-03-25-totales-agregados-por-bloques-en-tablas.md
 - 2010-09-06-tarea-lectores-resultados.md

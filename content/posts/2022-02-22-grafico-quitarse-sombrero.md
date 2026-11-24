@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2022-02-22
-lastmod: '2025-04-06T19:11:15.953690'
+lastmod: '2026-09-04'
 related:
 - 2011-06-03-explica-el-portal-divulgativo-del-ine.md
 - 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md

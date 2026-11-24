@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-04-15 09:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:57:11.422517'
+lastmod: '2025-11-08'
 related:
 - 2019-08-15-relevante-para-entender-la-maldicion-de-la-dimensionalidad.md
 - 2021-02-18-donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas.md

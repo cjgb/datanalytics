@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-07
 description: Tratando de encontrar la intuición en el concepto de los l-momentos
-lastmod: '2025-04-06T18:51:08.338394'
+lastmod: '2026-06-12'
 related:
 - 2022-07-14-proximidad-distribuciones.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-09-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:45.860637'
+lastmod: '2025-04-07'
 related:
 - 2020-01-27-estadistica-basica-edulcorada.md
 - 2016-04-07-un-libro-recomendable-de-estadistica-basica.md

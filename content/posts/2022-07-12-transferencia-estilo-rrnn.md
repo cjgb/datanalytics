@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-12
 description: Un análisis del concepto de estilo en una imagen
-lastmod: '2025-04-06T18:49:42.013081'
+lastmod: '2026-10-31'
 related:
 - 2016-09-05-mezclas-de-vectores-iii-las-funciones-involucradas.md
 - 2022-07-14-proximidad-distribuciones.md

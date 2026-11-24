@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-06-10
-lastmod: '2025-04-06T18:51:01.781238'
+lastmod: '2026-10-12'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md

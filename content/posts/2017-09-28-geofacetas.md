@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-09-28 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:07:51.612009'
+lastmod: '2025-11-02'
 related:
 - 2017-04-07-podria-fabricarse-uno-para-espana.md
 - 2011-12-29-graficos-de-pares-de-variables-mejorados-con-r.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-04-13 07:32:54+00:00
 draft: false
-lastmod: '2025-04-06T18:44:56.270970'
+lastmod: '2026-10-12'
 related:
 - 2012-10-09-balanzas-fiscales-y-periodismo-basado-en-datos.md
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md

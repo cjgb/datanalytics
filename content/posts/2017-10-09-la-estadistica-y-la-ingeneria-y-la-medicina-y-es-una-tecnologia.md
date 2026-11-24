@@ -4,7 +4,7 @@ categories:
 - charlas
 - estadística
 date: 2017-10-09 08:13:34+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-11-23'
 related:
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 - 2011-03-15-metodologia-casuistica-y-tipologia.md
@@ -33,9 +33,9 @@ La que propuse en la charla (que convengo, tiene poca gracia y pudiera afinarse 
 
 >Conjunto de procedimientos y recursos que se usan para alcanzar un objetivo.
 
-De manera que pudiese comprender esos procedimientos, a veces complicadísimos y sofisticadísimos, ponen en práctica adivinadores o _científicos de datos_.
+De manera que pudiese comprender esos procedimientos, a veces complicadísimos y sofisticadísimos, que ponen en práctica adivinadores o _científicos de datos_.
 
-Un tipo especial de técnicas ha sido comprobada (o está fundada en, o...) por la ciencia. Entonces se las llama _tecnologías_.
+Un tipo especial de técnicas ha sido comprobado (o está fundado en, o...) por la ciencia. Entonces se las llama _tecnologías_.
 
 La medicina (o su práctica) es una tecnología que usa resultados de la biología, la bioquímica, etc., para sanar a la gente. Pero no es una ciencia. Las ciencias recorren un camino inverso: de lo concreto a lo general. Mi médico de cabecera hace uso de muchas ideas generales que le enseñaron en la facultad para tratar de resolver mi problema de salud concreto. Eso sin perjuicio de que en ocasiones haya médicos que circunstancialmente dejen su labor habitual y se dediquen a acrecentar el acervo científico y construyan sus cohortes, realicen sus diseños experimentales, etc. Pero eso no es medicina: eso es otra cosa.
 

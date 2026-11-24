@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2013-06-10 14:09:54+00:00
 noindex: true
-lastmod: '2025-04-06T19:02:11.094449'
+lastmod: '2026-09-04'
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
 - 2014-10-20-roi-de-ida-y-vuelta.md

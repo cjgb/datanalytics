@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-05-23 07:18:17+00:00
 draft: false
-lastmod: '2025-04-06T18:52:40.885695'
+lastmod: '2025-11-05'
 related:
 - 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md

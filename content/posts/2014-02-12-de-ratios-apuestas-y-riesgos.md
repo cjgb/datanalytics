@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-02-12 07:49:19+00:00
 draft: false
-lastmod: '2025-04-06T19:11:08.290523'
+lastmod: '2026-10-12'
 related:
 - 2012-08-09-odds-ratio-vs-probabilidad.md
 - 2015-09-01-odds-probabilidades.md

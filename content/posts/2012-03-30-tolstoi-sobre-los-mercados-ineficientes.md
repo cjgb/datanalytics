@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2012-03-30 07:27:45+00:00
 draft: false
-lastmod: '2025-04-06T18:49:18.321237'
+lastmod: '2026-09-04'
 related:
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 - 2022-03-08-estadistica-ciencias-blandas.md

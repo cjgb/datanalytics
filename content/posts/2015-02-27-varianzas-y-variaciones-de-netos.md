@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-02-27 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:05:24.548396'
+lastmod: '2026-09-04'
 related:
 - 2015-02-23-mas-sobre-el-error-de-medida.md
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md

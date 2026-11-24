@@ -4,7 +4,7 @@ categories:
 - youtube
 date: 2021-03-06 12:23:40+00:00
 draft: false
-lastmod: '2025-04-06T18:58:49.491416'
+lastmod: '2026-09-04'
 related:
 - 2022-10-18-nuevo-video-en-youtube-bayesianismo-edad.md
 - 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md

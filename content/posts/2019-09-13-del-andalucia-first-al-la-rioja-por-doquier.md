@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-09-13 09:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:05:03.726880'
+lastmod: '2026-09-26'
 related:
 - 2011-11-03-2872.md
 - 2023-04-24-estadistica-creativa.md

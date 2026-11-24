@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-03-13 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:47:36.730133'
+lastmod: '2026-10-12'
 related:
 - 2022-02-17-examenes-probabilisticos.md
 - 2023-05-09-encuestas-predicciones-electorales.md

@@ -6,7 +6,7 @@ categories:
 - r
 date: 2017-10-31 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:10:46.602675'
+lastmod: '2026-09-04'
 related:
 - 2012-03-23-r-y-la-distribucion-de-rayleigh.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md

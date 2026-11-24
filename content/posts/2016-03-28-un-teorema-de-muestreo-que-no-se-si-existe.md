@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-03-28 09:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:49:25.697988'
+lastmod: '2026-09-04'
 related:
 - 2018-10-23-abc-2.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

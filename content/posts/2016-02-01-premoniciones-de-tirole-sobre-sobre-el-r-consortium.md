@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-02-01 09:13:28+00:00
-lastmod: '2025-04-06T19:13:28.555652'
+lastmod: '2026-09-04'
 related:
 - 2015-07-03-r-consortium.md
 - 2015-01-28-la-profesionalizacion-de-r.md

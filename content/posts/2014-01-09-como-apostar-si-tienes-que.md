@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2014-01-09 08:56:29+00:00
 draft: false
-lastmod: '2025-04-06T19:08:49.906520'
+lastmod: '2026-09-04'
 related:
 - 2011-05-12-c2bfque-nos-jugamos.md
 - 2011-05-16-c2bfque-nos-jugamos-addenda-no-queremos-jugarnos-nada.md

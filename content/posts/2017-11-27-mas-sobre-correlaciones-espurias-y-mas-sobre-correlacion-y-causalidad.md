@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-27 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:11:53.817555'
+lastmod: '2026-04-24'
 related:
 - 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
 - 2024-10-08-cortos-stats.md

@@ -5,7 +5,7 @@ categories:
 - libros
 date: 2020-12-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:17.877591'
+lastmod: '2026-02-13'
 related:
 - 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
 - 2023-10-03-muestreo-superricos.md

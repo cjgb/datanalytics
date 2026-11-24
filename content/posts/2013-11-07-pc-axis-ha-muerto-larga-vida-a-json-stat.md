@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-11-07 07:26:13+00:00
 draft: false
-lastmod: '2025-04-06T19:00:22.939323'
+lastmod: '2026-10-12'
 related:
 - 2023-04-20-dejar-morir-pxr.md
 - 2011-07-28-el-paquete-pxr-en-cran.md

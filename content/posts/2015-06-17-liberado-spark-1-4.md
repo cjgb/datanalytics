@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-17 08:13:15+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:16.902071'
+lastmod: '2026-01-31'
 related:
 - 2015-06-23-sparkr-1-4-carga-de-ficheros-csv.md
 - 2015-04-15-spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps.md

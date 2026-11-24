@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-12-07 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:55.806806'
+lastmod: '2026-09-04'
 related:
 - 2016-11-21-nadiesinluz.md
 - 2018-05-25-evolucion-de-la-resistencia-al-calor.md

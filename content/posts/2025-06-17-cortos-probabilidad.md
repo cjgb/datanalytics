@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2025-06-17
 description: Una serie de reflexiones breves sobre lógica doxástica, el teorema de Bayes y una curiosa variante del problema de Monty Hall y otros asuntos relacionados con la probabilidad.
-lastmod: '2025-09-02T12:15:13.494754'
+lastmod: '2026-04-24'
 related:
 - 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
 - 2021-02-08-el-teorema-de-bayes-como-la-version-modal-del-modus-tollens.md

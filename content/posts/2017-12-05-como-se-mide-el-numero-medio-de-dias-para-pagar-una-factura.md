@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-12-05 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:22.112840'
+lastmod: '2025-11-02'
 related:
 - 2020-05-29-no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire.md
 - 2012-02-23-higiene-numerica-para-periodistas.md

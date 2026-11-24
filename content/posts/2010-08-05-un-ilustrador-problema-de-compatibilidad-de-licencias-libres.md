@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-08-05 14:40:52+00:00
-lastmod: '2025-04-06T19:04:38.282853'
+lastmod: '2026-10-12'
 related:
 - 2016-03-07-sutilezas-de-las-licencias-libres.md
 - 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md

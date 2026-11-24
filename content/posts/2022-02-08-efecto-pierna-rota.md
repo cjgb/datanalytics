@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-02-08
-lastmod: '2025-04-06T19:02:23.720651'
+lastmod: '2026-09-04'
 related:
 - 2023-05-25-evaluaciones-clinicas-actuariales.md
 - 2024-10-17-interpretacion-modelos.md

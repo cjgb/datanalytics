@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2022-11-29
-lastmod: '2025-04-06T19:11:33.470537'
+lastmod: '2026-10-12'
 related:
 - 2022-11-24-ley-estadistico-inconsciente.md
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md

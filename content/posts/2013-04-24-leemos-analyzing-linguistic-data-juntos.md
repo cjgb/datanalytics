@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-04-24 07:48:34+00:00
 noindex: true
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2012-01-09-comienza-la-lectura-de-e2809cthe-elements-of-statistical-learninge2809d.md
 - 2011-12-23-c2bfnos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa.md

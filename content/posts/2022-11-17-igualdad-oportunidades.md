@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-11-17
-lastmod: '2025-04-06T19:12:57.721621'
+lastmod: '2026-11-23'
 related:
 - 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
 - 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
@@ -17,7 +17,7 @@ title: Operacionalización de la "igualdad de oportunidades"
 url: /2022/11/17/igualdad-oportunidades/
 ---
 
-Tiene Google (o una parte de él) un vídeo en Youtube,
+Tiene Google (o una parte de él) un vídeo en YouTube,
 
 {{< youtube 4uls4ApmHXE >}}
 

@@ -5,7 +5,7 @@ categories:
 - números
 - r
 date: 2011-09-21 07:33:55+00:00
-lastmod: '2025-04-06T18:44:37.703537'
+lastmod: '2026-09-03'
 related:
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md

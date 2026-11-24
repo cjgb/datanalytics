@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2010-04-18 19:43:28+00:00
-lastmod: '2025-04-06T18:56:50.281245'
+lastmod: '2026-09-03'
 related:
 - 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
 - 2013-12-04-ayuda-de-r-en-espanol.md

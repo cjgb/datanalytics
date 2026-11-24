@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-05-23 22:33:16+00:00
-lastmod: '2025-04-06T19:07:55.996892'
+lastmod: '2025-09-07'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2014-10-10-bootstrap-bayesiano.md

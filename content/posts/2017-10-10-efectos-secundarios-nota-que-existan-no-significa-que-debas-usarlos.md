@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-10-10 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T19:12:13.219043'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2017-12-11-cuidado-con-los.md

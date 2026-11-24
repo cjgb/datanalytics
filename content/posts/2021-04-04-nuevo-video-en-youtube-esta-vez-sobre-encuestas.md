@@ -5,7 +5,7 @@ categories:
 - youtube
 date: 2021-04-04 14:35:45+00:00
 draft: false
-lastmod: '2025-04-06T18:53:37.255175'
+lastmod: '2025-04-07'
 related:
 - 2021-05-25-nuevo-video-en-youtube-se-pueden-estimar-probabilidades-pequenas-con-pocas-observaciones.md
 - 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md

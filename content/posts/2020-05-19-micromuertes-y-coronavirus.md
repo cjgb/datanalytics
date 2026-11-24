@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:56.598827'
+lastmod: '2026-10-08'
 related:
 - 2011-06-01-micromuertes.md
 - 2012-01-30-hay-microvida-mas-alla-de-la-micromuerte.md

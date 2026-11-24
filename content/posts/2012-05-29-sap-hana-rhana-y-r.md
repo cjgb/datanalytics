@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-05-29 06:52:15+00:00
 draft: false
-lastmod: '2025-04-06T18:46:05.369354'
+lastmod: '2026-09-04'
 related:
 - 2010-03-01-r-en-the-economist.md
 - 2012-10-16-r-como-herramienta-de-captura-de-datos.md

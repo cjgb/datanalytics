@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2020-05-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:47.070596'
+lastmod: '2025-12-15'
 related:
 - 2022-04-26-redefinicion-probabilidades-subjetivas.md
 - 2023-04-04-kant-probabilidad-apuestas.md

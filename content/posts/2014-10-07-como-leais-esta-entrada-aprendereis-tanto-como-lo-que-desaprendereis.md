@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2014-10-07 07:13:01+00:00
 draft: false
-lastmod: '2025-04-06T18:59:42.609608'
+lastmod: '2026-10-12'
 related:
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
 - 2014-03-17-sobre-el-articulo-de-domingos.md

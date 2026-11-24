@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-12-09 08:13:08+00:00
 draft: false
-lastmod: '2025-04-06T19:07:27.075303'
+lastmod: '2026-09-04'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md

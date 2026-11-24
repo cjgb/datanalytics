@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2026-07-21
 description: Que incluyen un análisis del coste de los modelos frontera, el nada barato vicio del tokenmaxxing y del papel de la fricción en la sincronización de equipos de trabajo.
-lastmod: '2026-07-17T16:21:19.791656'
+lastmod: '2026-09-04'
 related:
 - 2026-03-02-cortos.md
 - 2026-03-16-cortos.md

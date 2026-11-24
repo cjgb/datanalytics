@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2020-05-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:24.546531'
+lastmod: '2025-04-07'
 related:
 - 2023-04-27-problemas-matematicos-deep-learning.md
 - 2019-07-01-optimizacion-dos-escuelas-y-una-pregunta.md

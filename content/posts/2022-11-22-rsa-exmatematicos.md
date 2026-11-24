@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2022-11-22
-lastmod: '2025-04-06T18:46:51.513936'
+lastmod: '2026-09-04'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2011-12-02-grandes-avances-criptograficos-segun-el-pais.md

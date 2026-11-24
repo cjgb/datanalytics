@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2023-07-13
-lastmod: '2025-04-06T18:51:31.132757'
+lastmod: '2025-11-02'
 related:
 - 2011-03-22-graficos-i-introduccion.md
 - 2013-08-29-una-revisita-a-el-arte-funcional.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-04-16 07:17:15+00:00
 draft: false
-lastmod: '2025-04-06T19:06:01.540236'
+lastmod: '2026-09-04'
 related:
 - 2012-03-14-c2a1mano-que-mapa.md
 - 2012-04-25-espana-c2bfradial-i.md

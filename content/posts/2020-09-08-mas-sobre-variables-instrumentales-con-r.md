@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2020-09-08 09:13:00+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2012-04-19-variables-instrumentales-con-r.md
 - 2018-11-16-colinealidad-y-posterioris.md

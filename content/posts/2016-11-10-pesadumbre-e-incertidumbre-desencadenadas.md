@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2016-11-10 08:13:24+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 - 2015-11-12-encuestas-censos-elecciones.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-01-20
-lastmod: '2025-04-06T18:52:22.131596'
+lastmod: '2026-09-04'
 related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

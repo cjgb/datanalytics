@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-10-10 23:22:35+00:00
-lastmod: '2025-04-06T19:03:55.819197'
+lastmod: '2026-09-26'
 related:
 - 2010-10-14-mas-sobre-lo-de-netezza.md
 - 2011-09-28-datos-grandes-colas-largas.md

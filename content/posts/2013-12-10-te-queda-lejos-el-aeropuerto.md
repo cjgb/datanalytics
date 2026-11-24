@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-12-10 07:39:16+00:00
 draft: false
-lastmod: '2025-04-06T18:47:40.944009'
+lastmod: '2026-09-04'
 related:
 - 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
 - 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md

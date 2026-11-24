@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-06-17 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:40.742133'
+lastmod: '2026-11-23'
 related:
 - 2018-10-05-licitaciones-por-insaculacion-ponderada.md
 - 2021-04-15-el-mejor-negocio-de-la-decada.md
@@ -20,7 +20,7 @@ url: /2020/06/17/un-mecanismo-para-fomentar-la-provision-privada-de-bienes-publi
 
 Tienes en mente un proyecto que cuesta 1000 euros pero solo dispones de 100. Puede ser el típico proyecto de [Patreon](http://patreon.com) o [Verkami](https://www.verkami.com/); o ya puestos, proyectos como el de [NadaEsGratis](https://nadaesgratis.es/admin/nada-es-gratis-y-neg-tampoco-lo-es-donaciones-2020) o, incluso, un curso de ciencia de datos (cuya realización es contingente a que se alcance un volumen de alumnos mínimo).
 
-Podrías, simplemente pedir 900 euros a voluntarios (como en los enlaces de más arriba). Pero podrías hacer [algo mejor](https://mason.gmu.edu/~atabarro/PrivateProvision.pdf): ofrecer un contrato condicional en el que a los potenciales patrones:
+Podrías, simplemente, pedir 900 euros a voluntarios (como en los enlaces de más arriba). Pero podrías hacer [algo mejor](https://mason.gmu.edu/~atabarro/PrivateProvision.pdf): ofrecer un contrato condicional en el que a los potenciales patrones:
 
 * Les pides 1000 / N euros, donde N es un número crítico.
 * Si el número de patrones final es K < N, les regalas 100 / K euros.

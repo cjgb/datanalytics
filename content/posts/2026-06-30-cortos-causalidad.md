@@ -5,7 +5,7 @@ categories:
 date: 2026-06-30
 description: Una serie de notas y artículos recientes sobre la causalidad, particularmente
   en economía.
-lastmod: '2026-06-25T19:11:33.827820'
+lastmod: '2026-06-25'
 related:
 - 2025-01-16-causalidad-util.md
 - 2026-01-12-cortos.md

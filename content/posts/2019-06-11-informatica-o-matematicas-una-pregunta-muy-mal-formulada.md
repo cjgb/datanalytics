@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2019-06-11 09:13:38+00:00
-lastmod: '2025-04-06T18:58:20.433776'
+lastmod: '2026-09-04'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

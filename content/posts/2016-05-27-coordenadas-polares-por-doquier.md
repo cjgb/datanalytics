@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-05-27 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T19:06:02.252015'
+lastmod: '2026-10-12'
 related:
 - 2014-03-10-guarjolizacion-de-fotos-con-r.md
 - 2014-05-12-grid-scala-y-arbolitos.md

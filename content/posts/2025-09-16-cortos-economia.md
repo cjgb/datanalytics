@@ -5,7 +5,7 @@ categories:
 date: 2025-09-16
 description: 'Modelos complejos en inversión, IA en Europa, esquemas Ponzi, salarios
   mínimos, y el Flatiron Institute: debates clave sobre economía y tecnología.'
-lastmod: '2025-09-29T18:51:49.123905'
+lastmod: '2026-01-20'
 related:
 - 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
 - 2025-07-02-esquemas-semi-ponzi.md

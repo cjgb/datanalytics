@@ -5,7 +5,7 @@ categories:
 - r
 date: 2021-05-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:13:01.213106'
+lastmod: '2025-11-02'
 related:
 - 2020-09-23-este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

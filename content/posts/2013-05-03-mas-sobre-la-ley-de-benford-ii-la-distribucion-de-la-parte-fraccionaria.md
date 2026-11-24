@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-05-03 07:21:09+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
 - 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md

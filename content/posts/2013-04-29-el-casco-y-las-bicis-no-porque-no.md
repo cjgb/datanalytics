@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-04-29 07:39:28+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-22'
 related:
 - 2012-04-30-contar-c2bffacil.md
 - 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md

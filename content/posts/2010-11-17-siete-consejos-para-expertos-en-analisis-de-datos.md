@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2010-11-17 22:53:32+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2022-09-20-tools-etl-memory.md
 - 2015-02-09-ejercicios-de-mi-clase-de-r.md

@@ -4,7 +4,7 @@ categories:
 - charlas
 date: 2018-09-28 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T19:02:33.799345'
+lastmod: '2026-09-04'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md

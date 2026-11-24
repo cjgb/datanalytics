@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-03 09:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:13:16.908003'
+lastmod: '2026-09-04'
 related:
 - 2016-01-29-el-test-rechaza-pero-el-intervalo-contiene-contraejemplos.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-08-15 07:13:22+00:00
 draft: false
-lastmod: '2025-04-06T18:45:58.012198'
+lastmod: '2025-04-07'
 related:
 - 2019-09-16-un-modelo-que-alimenta-una-simulacion.md
 - 2024-12-03-cortos-stats.md

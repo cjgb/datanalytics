@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-08-07 07:18:58+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:36.941459'
+lastmod: '2026-01-31'
 related:
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md
 - 2011-08-11-dont-be-loopy.md

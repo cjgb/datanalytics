@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-08-23 06:43:08+00:00
 draft: false
-lastmod: '2025-04-06T19:02:27.394550'
+lastmod: '2026-09-04'
 related:
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

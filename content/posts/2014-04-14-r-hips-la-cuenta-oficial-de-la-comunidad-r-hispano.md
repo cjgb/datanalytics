@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-04-14 07:10:57+00:00
 draft: false
-lastmod: '2025-04-06T19:12:34.389835'
+lastmod: '2026-09-26'
 related:
 - 2016-02-18-hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano.md
 - 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md

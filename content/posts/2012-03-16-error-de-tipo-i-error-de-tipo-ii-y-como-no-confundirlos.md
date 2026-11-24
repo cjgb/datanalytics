@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-03-16 08:14:02+00:00
 draft: false
-lastmod: '2025-04-06T18:49:58.719758'
+lastmod: '2025-07-22'
 related:
 - 2014-06-04-errores-de-tipo-m-y-de-tipo-s.md
 - 2017-07-13-gelmaneando.md

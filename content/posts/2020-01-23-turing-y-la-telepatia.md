@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-01-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:44.429610'
+lastmod: '2025-04-07'
 related:
 - 2018-07-24-la-reedicion-del-sueno-de-laplace.md
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md

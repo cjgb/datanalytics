@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-12-29 06:51:03+00:00
 draft: false
-lastmod: '2025-04-06T18:56:36.143076'
+lastmod: '2026-09-04'
 related:
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 - 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md

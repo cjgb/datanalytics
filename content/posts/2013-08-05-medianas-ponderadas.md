@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-08-05 07:57:34+00:00
 draft: false
-lastmod: '2025-04-06T19:04:41.344411'
+lastmod: '2026-09-04'
 related:
 - 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
 - 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md

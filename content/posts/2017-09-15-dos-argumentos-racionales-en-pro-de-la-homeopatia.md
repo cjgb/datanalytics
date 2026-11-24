@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-09-15 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:51:11.178018'
+lastmod: '2026-09-03'
 related:
 - 2018-04-18-es-racional-aparte-de-aburrido-nadar-contra-el-efecto-lindy.md
 - 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md

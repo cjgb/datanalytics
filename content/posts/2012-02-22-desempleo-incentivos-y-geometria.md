@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-02-22 08:18:13+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:19.168725'
+lastmod: '2026-09-04'
 related:
 - 2012-12-07-el-escaso-beneficio-marginal-de-trabajar.md
 - 2012-02-24-estoy-muy-de-acuerdo-con-la-ceoe.md

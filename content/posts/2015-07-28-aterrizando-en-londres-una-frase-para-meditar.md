@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-07-28 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:11:09.033180'
+lastmod: '2025-10-12'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2012-12-07-el-escaso-beneficio-marginal-de-trabajar.md

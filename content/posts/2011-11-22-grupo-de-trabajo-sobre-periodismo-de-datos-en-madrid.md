@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-11-22 07:51:25+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:00.860507'
+lastmod: '2026-10-12'
 related:
 - 2012-02-13-r-y-alrededores-en-medialab-prado.md
 - 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md

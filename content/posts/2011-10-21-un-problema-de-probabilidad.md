@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2011-10-21 07:03:57+00:00
 draft: false
-lastmod: '2025-04-06T18:45:25.688678'
+lastmod: '2025-09-14'
 related:
 - 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
 - 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md

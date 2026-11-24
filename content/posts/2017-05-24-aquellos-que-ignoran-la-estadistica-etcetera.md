@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-05-24 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:59:10.059943'
+lastmod: '2026-09-04'
 related:
 - 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
 - 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md

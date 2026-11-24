@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2010-10-09 23:01:06+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
 - 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md

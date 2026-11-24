@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2014-10-27 07:13:34+00:00
 noindex: true
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 - 2010-02-26-febrero.md

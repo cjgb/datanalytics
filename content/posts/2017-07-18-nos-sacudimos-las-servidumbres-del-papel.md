@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-07-18 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T19:04:59.166720'
+lastmod: '2025-11-02'
 related:
 - 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 - 2018-03-23-admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo.md

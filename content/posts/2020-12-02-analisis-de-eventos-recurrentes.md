@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-12-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:58:14.966163'
+lastmod: '2025-04-07'
 related:
 - 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
 - 2018-11-05-cuatro-paquetes-interesantes-de-r.md

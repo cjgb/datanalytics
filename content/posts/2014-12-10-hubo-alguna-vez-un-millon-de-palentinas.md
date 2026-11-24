@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-12-10 07:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:47:26.512497'
+lastmod: '2026-10-12'
 related:
 - 2012-03-07-esperanzador-no-varianzador.md
 - 2016-07-05-este-no-es-el-mapa-de-la-violencia-de-genero-en-espana.md

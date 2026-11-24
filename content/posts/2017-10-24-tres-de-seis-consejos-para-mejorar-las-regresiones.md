@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-10-24 08:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:48:23.859102'
+lastmod: '2025-04-07'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2011-06-22-diez-mandamientos-del-analisis-de-datos.md

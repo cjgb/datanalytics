@@ -6,7 +6,7 @@ categories:
 - varios
 date: 2019-01-30 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:45:23.028920'
+lastmod: '2025-04-07'
 related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md

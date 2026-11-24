@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-07-25
-lastmod: '2025-04-06T18:48:25.956439'
+lastmod: '2025-04-07'
 related:
 - 2023-07-04-modelo-3pl.md
 - 2023-07-20-coeficientes-no-identificables.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-02-17 09:22:41+00:00
 draft: false
-lastmod: '2025-04-06T18:59:03.051169'
+lastmod: '2026-09-04'
 related:
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 - 2020-03-09-seguimiento-del-coronavirus-en-tiempo-real-con-r.md

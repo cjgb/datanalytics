@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-09-25 08:13:08+00:00
 draft: false
-lastmod: '2025-04-06T18:47:15.025781'
+lastmod: '2025-10-22'
 related:
 - 2016-01-26-repensando-la-tirania-de-la-anarquia.md
 - 2017-09-29-bus-al-norte-bus-al-sur.md

@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2011-07-13 07:09:03+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:14.716150'
+lastmod: '2026-09-04'
 related:
 - 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
 - 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md

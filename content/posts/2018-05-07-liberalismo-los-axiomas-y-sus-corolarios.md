@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2018-05-07 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:07:09.166222'
+lastmod: '2026-09-04'
 related:
 - 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 - 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md

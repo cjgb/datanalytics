@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-21
 description: Respondiendo a una crítica hecha a MoMo
-lastmod: '2025-04-06T19:00:15.907577'
+lastmod: '2026-10-12'
 related:
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 - 2020-04-08-momo-una-documentacion-oficiosa.md

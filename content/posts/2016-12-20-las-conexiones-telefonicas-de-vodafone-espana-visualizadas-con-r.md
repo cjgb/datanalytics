@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-12-20 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:57:52.307803'
+lastmod: '2025-11-02'
 related:
 - 2015-05-18-grafos-sobre-mapas.md
 - 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md

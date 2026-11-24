@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-04 09:38:29+00:00
-lastmod: '2025-04-06T18:56:58.091605'
+lastmod: '2026-10-12'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md
 - 2011-02-07-c2bfun-torpedo-bajo-la-linea-de-flotacion-de-sas.md

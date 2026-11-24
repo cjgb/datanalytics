@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-12-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:33.205322'
+lastmod: '2026-09-04'
 related:
 - 2024-10-17-interpretacion-modelos.md
 - 2011-08-03-clustering-iii-sobresimplificacion.md

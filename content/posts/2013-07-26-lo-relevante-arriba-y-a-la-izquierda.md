@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2013-07-26 07:29:55+00:00
 draft: false
-lastmod: '2025-04-06T18:55:47.802806'
+lastmod: '2026-09-04'
 related:
 - 2015-06-10-ver-53000-filas.md
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md

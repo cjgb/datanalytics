@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-11-27 19:25:58+00:00
 draft: false
-lastmod: '2025-04-06T19:06:37.470280'
+lastmod: '2026-09-04'
 related:
 - 2018-11-16-colinealidad-y-posterioris.md
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md

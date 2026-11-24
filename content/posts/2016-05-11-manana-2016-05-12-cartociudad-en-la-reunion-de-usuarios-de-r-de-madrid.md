@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-05-11 08:13:25+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:46.822623'
+lastmod: '2026-01-31'
 related:
 - 2016-03-31-cartociudad.md
 - 2016-04-15-ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto.md

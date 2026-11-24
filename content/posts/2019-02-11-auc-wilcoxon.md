@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-02-11 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:01:59.849960'
+lastmod: '2026-09-04'
 related:
 - 2016-03-29-el-auc-es-la-probabilidad-de-que.md
 - 2019-05-24-cotas-superiores-para-el-auc.md

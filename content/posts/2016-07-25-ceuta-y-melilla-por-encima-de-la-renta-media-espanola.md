@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-07-25 08:13:20+00:00
 draft: false
-lastmod: '2025-04-06T19:10:56.971022'
+lastmod: '2025-04-07'
 related:
 - 2011-11-03-2872.md
 - 2017-07-04-dudas-razonables-que-me-asaltan.md

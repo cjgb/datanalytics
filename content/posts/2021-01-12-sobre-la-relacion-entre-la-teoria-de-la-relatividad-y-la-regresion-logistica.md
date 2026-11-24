@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-01-12 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:44.551839'
+lastmod: '2026-09-04'
 related:
 - 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

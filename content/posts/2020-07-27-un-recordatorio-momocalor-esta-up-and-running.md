@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-07-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:39.887101'
+lastmod: '2026-10-12'
 related:
 - 2022-07-21-critica-critica-momo.md
 - 2019-06-07-vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-02-18
 description: Sobre un inesperado factor que convierte subrepticialmente una distribución
   a priori en informativa
-lastmod: '2026-02-17T11:25:00.353396'
+lastmod: '2026-02-17'
 related:
 - 2016-07-06-glms-con-prioris-casi-a-voluntad.md
 - 2016-01-11-prioris-muy-informativas-y-vagamente-informativas-un-ejemplo.md

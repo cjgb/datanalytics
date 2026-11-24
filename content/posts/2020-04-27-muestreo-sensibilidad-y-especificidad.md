@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-04-27 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:00.058630'
+lastmod: '2026-10-08'
 related:
 - 2020-06-16-coronavirus-prevalencia-sensibilidad-y-especificidad.md
 - 2020-06-09-53-o-cual-es-la-prior.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-04-05 09:13:58+00:00
 noindex: true
-lastmod: '2025-04-06T19:02:13.572750'
+lastmod: '2026-01-31'
 related:
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md
 - 2016-02-08-rstan-y-rstanarm-en-medialab-prado-este-jueves.md

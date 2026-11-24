@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-05-25 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:02:49.281276'
+lastmod: '2026-10-12'
 related:
 - 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
 - 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md

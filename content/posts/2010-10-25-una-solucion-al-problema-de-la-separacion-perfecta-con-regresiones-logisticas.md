@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2010-10-25 22:56:39+00:00
-lastmod: '2025-04-06T18:58:22.868188'
+lastmod: '2026-09-04'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md

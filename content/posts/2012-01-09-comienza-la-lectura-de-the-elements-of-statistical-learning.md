@@ -5,7 +5,7 @@ categories:
 - estadística
 - r
 date: 2012-01-09 11:53:28+00:00
-lastmod: '2025-04-06T19:09:36.165704'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-12-23-c2bfnos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa.md

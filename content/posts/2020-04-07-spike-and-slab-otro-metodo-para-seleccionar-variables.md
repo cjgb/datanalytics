@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-04-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:01.724159'
+lastmod: '2025-11-02'
 related:
 - 2018-01-12-abc.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

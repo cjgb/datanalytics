@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2017-01-17 11:40:51+00:00
 draft: false
-lastmod: '2025-04-06T19:06:18.532030'
+lastmod: '2025-04-07'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2017-01-16-weapons-of-math-destruction.md

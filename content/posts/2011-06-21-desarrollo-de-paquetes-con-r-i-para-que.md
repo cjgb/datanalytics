@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-06-21 07:17:10+00:00
 draft: false
-lastmod: '2025-04-06T18:54:08.349617'
+lastmod: '2026-09-26'
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
 - 2010-02-27-creando-paquetes-con-r-r-forge.md

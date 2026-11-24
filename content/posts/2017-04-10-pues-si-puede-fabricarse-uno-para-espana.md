@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2017-04-10 08:13:28+00:00
-lastmod: '2025-04-06T19:04:48.304683'
+lastmod: '2026-10-06'
 related:
 - 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
 - 2018-02-27-estructura-poblacional-de-espana-2010-2050.md

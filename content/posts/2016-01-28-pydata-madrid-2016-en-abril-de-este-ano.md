@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2016-01-28 09:13:28+00:00
 noindex: true
-lastmod: '2025-10-06'
+lastmod: '2025-10-13'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

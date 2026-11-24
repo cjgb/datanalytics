@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2023-10-05
-lastmod: '2025-04-06T19:00:04.903635'
+lastmod: '2026-09-04'
 related:
 - 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
 - 2024-10-17-interpretacion-modelos.md

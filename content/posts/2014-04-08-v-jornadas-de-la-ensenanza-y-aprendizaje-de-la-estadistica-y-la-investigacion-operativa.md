@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2014-04-08 07:41:13+00:00
 noindex: true
-lastmod: '2025-04-06T19:12:53.193038'
+lastmod: '2026-01-31'
 related:
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
 - 2012-07-18-conferencia-sobre-grandes-datos.md

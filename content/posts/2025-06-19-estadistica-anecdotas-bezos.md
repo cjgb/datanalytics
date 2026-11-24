@@ -6,7 +6,7 @@ categories:
 - estadística bayesiana
 date: 2025-06-19
 description: TBA
-lastmod: '2025-07-17T18:50:37.098598'
+lastmod: '2025-11-05'
 related:
 - 2012-07-27-a-los-datos-mismos.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

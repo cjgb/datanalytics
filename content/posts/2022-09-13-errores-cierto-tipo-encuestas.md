@@ -5,7 +5,7 @@ categories:
 date: 2022-09-13
 description: Sobre un tipo de errores en cierto tipo de encuestas que no se suele
   tener en cuenta
-lastmod: '2025-04-06T18:44:30.651543'
+lastmod: '2026-10-12'
 related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

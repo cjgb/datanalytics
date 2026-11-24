@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2020-11-16 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:02.310965'
+lastmod: '2026-09-04'
 related:
 - 2011-09-15-la-ley-de-benford.md
 - 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md

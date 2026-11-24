@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-04-04 07:48:59+00:00
 draft: false
-lastmod: '2025-04-06T18:51:06.006754'
+lastmod: '2026-09-04'
 related:
 - 2010-09-06-tarea-lectores-resultados.md
 - 2014-11-12-descargar-ficheros-gz-detras-de-https-con-r.md

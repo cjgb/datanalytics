@@ -4,7 +4,7 @@ categories:
 - r
 date: 2022-12-27
 noindex: true
-lastmod: '2025-04-06T18:47:01.091244'
+lastmod: '2026-06-12'
 related:
 - 2022-12-29-economia-lenguaje-leyes-potenciales.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

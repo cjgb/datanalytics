@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-04-09 07:29:47+00:00
 draft: false
-lastmod: '2025-04-06T18:45:59.355941'
+lastmod: '2026-09-26'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2022-06-21-matriz-confusion-sensibilidad-etc.md

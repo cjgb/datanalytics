@@ -5,7 +5,7 @@ categories:
 date: 2022-06-30
 description: Análisis de la suma de variables de Bernoulli heterogéneas más notas
   sobre su importancia real e histórica
-lastmod: '2025-10-29'
+lastmod: '2025-11-02'
 related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2023-07-20-coeficientes-no-identificables.md

@@ -4,7 +4,7 @@ categories:
 - youtube
 date: 2021-02-28 15:44:28+00:00
 draft: false
-lastmod: '2025-04-06T18:48:08.495538'
+lastmod: '2025-04-07'
 related:
 - 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md
 - 2012-03-02-el-modelo-lineal-en-youtube.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-09-11 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:46:12.017004'
+lastmod: '2025-11-02'
 related:
 - 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
 - 2024-02-01-optimizacion-generalizacion.md

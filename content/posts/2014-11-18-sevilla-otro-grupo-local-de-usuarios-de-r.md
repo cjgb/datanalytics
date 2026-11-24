@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-11-18
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2026-09-03'
 related:
 - 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
 - 2012-10-19-reunion-del-grupo-de-usuarios-de-r-de-madrid.md

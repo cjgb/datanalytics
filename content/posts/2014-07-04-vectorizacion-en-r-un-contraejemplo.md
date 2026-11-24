@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-07-04 07:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:50:18.308785'
+lastmod: '2026-09-04'
 related:
 - 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md

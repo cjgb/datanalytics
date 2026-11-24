@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-10-26 07:18:38+00:00
 draft: false
-lastmod: '2025-04-06T18:52:45.528514'
+lastmod: '2026-09-04'
 related:
 - 2015-01-07-juegos-justos-con-monedas-truchas.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

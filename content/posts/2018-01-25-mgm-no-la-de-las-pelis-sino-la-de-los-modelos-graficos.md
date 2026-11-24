@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-01-25 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T18:55:35.268888'
+lastmod: '2026-09-04'
 related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
 - 2017-09-06-python-y-r-una-perspectiva-markoviana.md

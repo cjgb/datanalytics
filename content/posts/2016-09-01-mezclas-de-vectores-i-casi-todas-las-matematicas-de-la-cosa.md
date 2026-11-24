@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-09-01 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:58:02.899415'
+lastmod: '2025-10-12'
 related:
 - 2016-09-02-mezclas-de-vectores-ii-un-caso-de-uso.md
 - 2022-07-14-proximidad-distribuciones.md

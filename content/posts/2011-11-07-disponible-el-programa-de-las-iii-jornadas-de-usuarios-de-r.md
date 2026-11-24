@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-11-07 15:08:27+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:45.326988'
+lastmod: '2025-09-14'
 related:
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

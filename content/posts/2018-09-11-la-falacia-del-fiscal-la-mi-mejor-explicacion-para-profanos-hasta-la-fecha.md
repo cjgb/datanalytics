@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2018-09-11 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:46:55.500899'
+lastmod: '2026-07-24'
 related:
 - 2024-10-08-cortos-stats.md
 - 2021-06-08-sobre-el-llamado-efecto-roseto.md

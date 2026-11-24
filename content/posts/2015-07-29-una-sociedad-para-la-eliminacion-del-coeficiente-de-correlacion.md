@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-07-29 08:13:28+00:00
-lastmod: '2025-04-06T18:58:33.483772'
+lastmod: '2025-10-12'
 related:
 - 2024-07-03-cortos-stats.md
 - 2018-03-27-que-mas-se-supo-de-la-correlacion-del-s-xxi.md

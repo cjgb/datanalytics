@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-04-08 07:26:41+00:00
-lastmod: '2025-04-06T18:48:37.488494'
+lastmod: '2026-10-06'
 related:
 - 2010-09-01-el-paquete-multicore-de-r.md
 - 2011-09-30-dont-be-loopy-iii-jackknife-y-paralelismo.md

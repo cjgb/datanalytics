@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-01-11 07:20:25+00:00
 draft: false
-lastmod: '2025-04-06T19:04:29.107892'
+lastmod: '2026-09-04'
 related:
 - 2014-04-25-una-de-graficos-casi-artisticos-con-r.md
 - 2011-08-29-2570.md

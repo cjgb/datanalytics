@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-04-24 07:47:56+00:00
 draft: false
-lastmod: '2025-04-06T19:11:00.751220'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2016-05-20-descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real.md

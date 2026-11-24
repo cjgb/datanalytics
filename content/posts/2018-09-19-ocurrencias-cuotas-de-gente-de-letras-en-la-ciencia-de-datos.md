@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-09-19 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:09:24.847491'
+lastmod: '2025-05-05'
 related:
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 - 2017-01-16-weapons-of-math-destruction.md

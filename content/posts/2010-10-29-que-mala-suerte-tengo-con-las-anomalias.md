@@ -4,7 +4,7 @@ categories:
 - estadística
 - finanzas
 date: 2010-10-29 00:16:28+00:00
-lastmod: '2025-04-06T18:49:43.361311'
+lastmod: '2026-09-26'
 related:
 - 2014-02-18-el-yuyuplot-en-perspectiva.md
 - 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md

@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2014-10-28 07:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:46:57.481405'
+lastmod: '2026-10-12'
 related:
 - 2024-07-03-cortos-stats.md
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md

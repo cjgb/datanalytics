@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-11-25
 description: Una descripción detallada del método de muestreo de distribuciones de
   probabilidad por rechazo.
-lastmod: '2025-11-22T18:20:30.455362'
+lastmod: '2026-09-04'
 related:
 - 2025-04-24-auc-vs-dispersion-p-ii.md
 - 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md

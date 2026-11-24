@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-03-14 19:22:02+00:00
 draft: false
-lastmod: '2025-04-06T19:04:03.877100'
+lastmod: '2025-11-02'
 related:
 - 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
 - 2014-10-10-bootstrap-bayesiano.md

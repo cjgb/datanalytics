@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-06-03 09:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:09:03.818347'
+lastmod: '2026-10-06'
 related:
 - 2021-01-28-simpson-sobre-la-desigualdad.md
 - 2013-08-13-suben-o-bajan.md

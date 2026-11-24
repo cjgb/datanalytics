@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2021-07-28 09:17:09+00:00
 draft: false
-lastmod: '2025-04-06T18:44:48.956446'
+lastmod: '2026-09-04'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
 - 2022-07-26-hueco-termico.md

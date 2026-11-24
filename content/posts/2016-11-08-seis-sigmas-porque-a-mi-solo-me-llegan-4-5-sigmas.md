@@ -5,7 +5,7 @@ categories:
 - números
 date: 2016-11-08 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T19:06:33.121648'
+lastmod: '2025-11-02'
 related:
 - 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
 - 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md

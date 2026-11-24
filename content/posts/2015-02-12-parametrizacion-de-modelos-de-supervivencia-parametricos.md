@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-02-12 08:13:34+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-10-12'
 related:
 - 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
 - 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md

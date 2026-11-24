@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-16 15:05:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:53.514199'
+lastmod: '2026-10-08'
 related:
 - 2020-06-09-53-o-cual-es-la-prior.md
 - 2020-04-27-muestreo-sensibilidad-y-especificidad.md

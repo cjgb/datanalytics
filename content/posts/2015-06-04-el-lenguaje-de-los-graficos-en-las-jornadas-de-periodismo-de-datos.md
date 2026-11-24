@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-06-04
 noindex: true
-lastmod: '2025-12-08'
+lastmod: '2026-10-12'
 related:
 - 2011-03-22-graficos-i-introduccion.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

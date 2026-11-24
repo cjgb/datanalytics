@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-06-02 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:05:29.028621'
+lastmod: '2025-04-07'
 related:
 - 2024-02-13-outliers-dos-modos.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

@@ -5,7 +5,7 @@ categories:
 - python
 date: 2019-06-06 09:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:57:33.931771'
+lastmod: '2026-09-04'
 related:
 - 2015-06-22-rpython-anaconda.md
 - 2016-03-17-jupyter-me-quedo-con-rodeo-creo.md

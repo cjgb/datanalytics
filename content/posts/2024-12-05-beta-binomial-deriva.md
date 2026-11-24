@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-12-05
-lastmod: '2025-04-06T18:52:12.723678'
+lastmod: '2025-09-29'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

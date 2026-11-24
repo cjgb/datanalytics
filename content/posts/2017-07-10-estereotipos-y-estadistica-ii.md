@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-07-10 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:03:26.429364'
+lastmod: '2026-04-24'
 related:
 - 2016-11-25-estereotipos-y-estadistica.md
 - 2012-03-07-esperanzador-no-varianzador.md

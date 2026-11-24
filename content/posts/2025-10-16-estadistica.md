@@ -5,7 +5,7 @@ categories:
 date: 2025-10-16
 description: 'Descubre avances en modelado estadístico: ruido vs sobreajuste, falacia
   NAXALT, mala ciencia, censos fallidos y estadística bayesiana con JAX.'
-lastmod: '2025-10-28T00:18:29.397957'
+lastmod: '2025-11-02'
 related:
 - 2025-04-22-cortos-stats.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

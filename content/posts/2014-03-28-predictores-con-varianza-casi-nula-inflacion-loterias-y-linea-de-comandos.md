@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-03-28 07:08:40+00:00
 draft: false
-lastmod: '2025-04-06T19:10:21.968937'
+lastmod: '2026-10-12'
 related:
 - 2022-05-17-como-calcula-inflacion.md
 - 2024-07-10-cortos-stats.md

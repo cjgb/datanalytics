@@ -4,7 +4,7 @@ categories:
 - programación
 - estadística
 date: 2012-03-08
-lastmod: '2025-04-06T19:02:08.048089'
+lastmod: '2026-09-04'
 related:
 - 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

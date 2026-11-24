@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2026-11-19
+lastmod: '2026-11-18'
 description: "Está pensada para ganar intuición sobre el concepto del AUC y entender por qué es alto o bajo en según qué circunstancias."
 tags:
 - auc

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-26
 description: Análisis del hueco térmico a través de un anállisis clúster
-lastmod: '2025-04-06T19:10:53.638277'
+lastmod: '2026-09-04'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md

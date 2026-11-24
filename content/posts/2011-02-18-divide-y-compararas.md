@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-02-18 09:34:57+00:00
 draft: false
-lastmod: '2025-04-06T18:54:21.726934'
+lastmod: '2026-09-26'
 related:
 - 2011-04-13-c2bfnos-leen-y-mas-en-el-pais.md
 - 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md

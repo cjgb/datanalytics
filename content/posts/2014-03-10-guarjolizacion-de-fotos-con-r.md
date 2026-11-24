@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-03-10 07:07:47+00:00
 draft: false
-lastmod: '2025-04-06T19:05:56.131853'
+lastmod: '2026-10-12'
 related:
 - 2014-08-01-coclustering-con-blockcluster.md
 - 2016-05-27-coordenadas-polares-por-doquier.md

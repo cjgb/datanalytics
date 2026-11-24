@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-01-13 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T19:10:24.103436'
+lastmod: '2026-09-04'
 related:
 - 2011-03-04-1680.md
 - 2013-11-04-un-record-personal.md

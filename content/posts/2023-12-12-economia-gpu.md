@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2023-12-12
 noindex: true
-lastmod: '2025-04-06T19:02:39.442511'
+lastmod: '2026-02-07'
 related:
 - 2024-06-25-consumo-llms.md
 - 2025-01-21-cortos-llms.md

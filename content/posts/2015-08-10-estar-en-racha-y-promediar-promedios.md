@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-08-10 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:49:56.044212'
+lastmod: '2026-09-04'
 related:
 - 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
 - 2014-02-12-de-ratios-apuestas-y-riesgos.md

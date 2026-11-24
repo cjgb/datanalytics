@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-05-09 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:58:50.201622'
+lastmod: '2026-09-04'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md

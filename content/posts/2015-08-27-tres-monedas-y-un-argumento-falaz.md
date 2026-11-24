@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-08-27 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:11:19.691427'
+lastmod: '2025-10-12'
 related:
 - 2021-10-28-monty-hall-reformulado.md
 - 2015-01-07-juegos-justos-con-monedas-truchas.md

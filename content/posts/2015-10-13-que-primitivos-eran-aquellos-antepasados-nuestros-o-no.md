@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2015-10-13 08:13:43+00:00
-lastmod: '2025-04-06T18:55:06.269105'
+lastmod: '2026-10-12'
 related:
 - 2015-10-15-google-maps-o-cartodb-etc-says-no.md
 - 2014-05-13-visual-explanations-de-tufte-el-primer-grafico-estadistico.md

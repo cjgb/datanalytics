@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-02-18 09:13:08+00:00
 draft: false
-lastmod: '2025-04-06T19:03:45.267092'
+lastmod: '2025-04-07'
 related:
 - 2015-12-02-cambio-de-logo-en-la-comunidad-r-hispano.md
 - 2012-06-07-hoy-hablaremos-de-r-es-org.md

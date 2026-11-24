@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-04-22 07:58:41+00:00
 draft: false
-lastmod: '2025-04-06T19:01:20.668149'
+lastmod: '2026-09-04'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md

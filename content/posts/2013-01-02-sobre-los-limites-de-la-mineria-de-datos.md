@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2013-01-02 07:27:52+00:00
 draft: false
-lastmod: '2025-04-06T18:59:08.539577'
+lastmod: '2026-09-04'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

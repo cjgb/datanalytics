@@ -5,7 +5,7 @@ categories:
 date: 2025-05-06
 description: Una serie de enlaces sobre la intersección de la economía, la estadística
   y el análisis de datos
-lastmod: '2025-06-17T23:17:05.968776'
+lastmod: '2026-11-05'
 related:
 - 2011-02-25-1605.md
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md

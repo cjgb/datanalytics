@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-10-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:11:40.042114'
+lastmod: '2026-10-12'
 related:
 - 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 - 2020-04-08-momo-una-documentacion-oficiosa.md

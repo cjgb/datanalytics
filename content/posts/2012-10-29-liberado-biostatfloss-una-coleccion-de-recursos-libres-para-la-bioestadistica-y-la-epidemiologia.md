@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-10-29 07:50:38+00:00
 draft: false
-lastmod: '2025-04-06T18:57:09.291941'
+lastmod: '2025-11-02'
 related:
 - 2011-12-01-creacion-de-un-r-portable.md
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md

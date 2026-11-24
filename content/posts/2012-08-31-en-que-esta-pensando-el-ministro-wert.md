@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-08-31 07:12:22+00:00
 draft: false
-lastmod: '2025-04-06T19:12:48.859073'
+lastmod: '2026-09-04'
 related:
 - 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
 - 2021-05-12-causalidad-y-paraisos-fiscales.md

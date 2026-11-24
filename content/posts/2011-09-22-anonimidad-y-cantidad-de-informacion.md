@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-09-22 07:10:32+00:00
 draft: false
-lastmod: '2025-04-06T18:51:29.795418'
+lastmod: '2026-09-04'
 related:
 - 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
 - 2013-10-08-sexo-deporte-y-la-cantidad-de-informacion-mutua.md

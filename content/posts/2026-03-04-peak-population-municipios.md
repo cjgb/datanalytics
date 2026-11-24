@@ -5,7 +5,7 @@ categories:
 date: 2026-03-05
 description: Un mapa del año del «peak population» por municipios en España usando
   la API del INE y R.
-lastmod: '2026-03-02T13:19:47.565619'
+lastmod: '2026-03-02'
 related:
 - 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 - 2018-02-27-estructura-poblacional-de-espana-2010-2050.md

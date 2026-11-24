@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-02-13
-lastmod: '2025-04-06T19:08:05.054651'
+lastmod: '2026-09-04'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

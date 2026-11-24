@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-02-23 09:13:34+00:00
 draft: false
-lastmod: '2025-04-06T18:58:13.528292'
+lastmod: '2026-10-12'
 related:
 - 2014-06-06-validacion-cruzada-en-paralelo.md
 - 2011-09-23-done28099t-be-loopy-ii.md

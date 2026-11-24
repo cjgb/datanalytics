@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-05-10 08:13:58+00:00
 draft: false
-lastmod: '2025-04-06T19:02:02.109279'
+lastmod: '2025-04-07'
 related:
 - 2020-07-23-por-supuesto-que-tengo-mas-variables-que-observaciones-y.md
 - 2024-09-12-cortos-stats.md

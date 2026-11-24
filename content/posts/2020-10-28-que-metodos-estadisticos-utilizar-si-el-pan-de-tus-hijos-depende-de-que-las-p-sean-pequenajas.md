@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-10-28 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:59.750445'
+lastmod: '2025-05-05'
 related:
 - 2012-04-19-variables-instrumentales-con-r.md
 - 2019-05-14-analisis-de-la-discontinuidad-polinomios-de-grado-alto.md

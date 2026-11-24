@@ -6,7 +6,7 @@ categories:
 - youtube
 date: 2021-06-20 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:10:47.403866'
+lastmod: '2025-04-07'
 related:
 - 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md
 - 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-07-18 16:01:59+00:00
-lastmod: '2025-04-06T18:53:03.213861'
+lastmod: '2026-09-26'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

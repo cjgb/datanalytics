@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-09-24 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:58.320180'
+lastmod: '2026-10-08'
 related:
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-09-24
 description: Un reanálisis de la cuestión usando hipótesis de partida igualmente razonables
   y que conduce a conclusiones opuestas.
-lastmod: '2026-09-18T14:52:46.976841'
+lastmod: '2026-09-18'
 related:
 - 2024-01-09-regresiones_pisa.md
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md

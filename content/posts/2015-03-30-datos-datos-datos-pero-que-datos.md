@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-03-30 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T19:07:47.897861'
+lastmod: '2026-09-04'
 related:
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md

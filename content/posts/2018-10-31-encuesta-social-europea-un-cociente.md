@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-10-31 08:13:59+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md

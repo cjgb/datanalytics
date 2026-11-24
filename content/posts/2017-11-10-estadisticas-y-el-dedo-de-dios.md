@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-10 08:13:12+00:00
 description: Los experimentos generan histogramas que convergen a funciones de densidad y distribución.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
 - 2018-04-13-un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios.md

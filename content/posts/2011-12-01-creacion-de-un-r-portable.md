@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-12-01 06:48:37+00:00
-lastmod: '2025-04-06T18:59:05.454133'
+lastmod: '2026-10-22'
 noindex: true
 related:
 - 2012-10-29-liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia.md

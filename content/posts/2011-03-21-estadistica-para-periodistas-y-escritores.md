@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2011-03-21 09:55:42+00:00
-lastmod: '2025-04-06T18:45:20.934731'
+lastmod: '2026-09-29'
 noindex: true
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md

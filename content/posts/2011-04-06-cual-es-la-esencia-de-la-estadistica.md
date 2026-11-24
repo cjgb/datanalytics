@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - estadística
 date: 2011-04-06 07:14:49+00:00
-lastmod: '2025-04-06T19:08:32.943153'
+lastmod: '2026-10-06'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md

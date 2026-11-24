@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-03-07 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T18:59:36.832204'
+lastmod: '2026-09-04'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2024-06-20-mas-r-cuadrado.md

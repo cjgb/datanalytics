@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-06-17 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:50:46.216035'
+lastmod: '2026-09-04'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

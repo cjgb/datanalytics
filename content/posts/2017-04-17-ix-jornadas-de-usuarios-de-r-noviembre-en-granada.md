@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2017-04-17 10:30:47+00:00
 noindex: true
-lastmod: '2025-04-06T19:07:20.294605'
+lastmod: '2026-10-12'
 related:
 - 2018-03-05-las-x-jornadas-de-usuarios-de-r-noviembre-de-2018-en-murcia.md
 - 2012-06-08-las-iv-jornadas-de-usuarios-de-r-estan-en-marcha.md

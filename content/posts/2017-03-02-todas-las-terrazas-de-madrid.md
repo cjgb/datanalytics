@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-03-02 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:10:19.657937'
+lastmod: '2026-10-12'
 related:
 - 2011-04-19-graficos-v-mapas.md
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md

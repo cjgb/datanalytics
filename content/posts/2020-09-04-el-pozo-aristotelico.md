@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-09-04 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:43.092197'
+lastmod: '2025-04-07'
 related:
 - 2022-03-31-experimento-fisico-causalidad-ii.md
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md

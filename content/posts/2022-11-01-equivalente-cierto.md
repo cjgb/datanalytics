@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-11-01
-lastmod: '2026-09-24'
+lastmod: '2026-11-23'
 related:
 - 2020-03-25-cuantificacion-y-riesgo.md
 - 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
@@ -21,10 +21,8 @@ url: /2022/11/01/equivalente-cierto/
 
 A veces toca comparar dos variables aleatorias: ¿cuál de dos juegos preferirías? Hay muchas maneras de resolver ese problema, de una larga historia, con mejor o peor fortuna. En el fondo, hay que crear un orden en el conjunto de las variables aleatorias y ---perdónenme mis excolegas matemáticos--- proyectarlas de alguna manera sobre los números reales.
 
-Si este número real se elige de alguna manera razonable (p.e., fijando las variables aleatorias constantes), bien puede recibir el nombre de _equivalente cierto_. Que es el nombre que recibe en algunas disciplinas, pero que me parece particularmente afortunado.
-
-_[Para ver una de sus versiones en acción, recomiendo encarecidamente el artículo
-[_Operational Risk Management_](http://web.archive.org/web/20221202210423id_/https://core.ac.uk/download/pdf/7056481.pdf)
-del muy ameno Jacques Pézier.]_
+Si este número real se elige de alguna manera razonable, bien puede recibir el nombre de _equivalente cierto_. Que es el nombre que recibe en algunas disciplinas, pero que me parece particularmente afortunado[^1].
 
 ¿Y qué tiene que ver esto con el monotema (y, de paso, ¿cuál es?)? Que es muy aburrido ver comparar GW _instalados_  de producción eléctrica usando diversas tecnologías como quien equipara un billete de veinte euros con un boleto de veinte euros para una rifa. Una formulación razonable del equivalente cierto en este contexto sería la mar de útil. El concepto tendría sus problemas y bastaría que se asomase al BOE para que Goodhart comenzase a operar en perjuicio de casi todos. Sin duda. Pero incluso medianamente bien operacionalizado sería infinitamente más útil que lo actualmente existente en el deprimente debate público.
+
+[^1]: Para ver una de sus versiones en acción, recomiendo encarecidamente el artículo [_Operational Risk Management_](http://web.archive.org/web/20221202210423id_/https://core.ac.uk/download/pdf/7056481.pdf) del muy ameno Jacques Pézier.

@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-05-05 08:13:16+00:00
 noindex: true
-lastmod: '2025-04-06T19:03:58.655468'
+lastmod: '2026-10-12'
 related:
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
 - 2013-09-23-recordatorio-v-jornadas-de-usuarios-de-r-diciembre-2013-zaragoza.md

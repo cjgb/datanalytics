@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-24 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:44:47.629567'
+lastmod: '2025-05-05'
 related:
 - 2014-02-06-experimentos-con-el-paquete-gbm.md
 - 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md

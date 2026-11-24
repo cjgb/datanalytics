@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-10-20 07:33:10+00:00
 draft: false
-lastmod: '2025-04-06T18:52:22.792967'
+lastmod: '2026-09-04'
 related:
 - 2012-02-27-desconfianza-en-la-estadistica-publica-argentina.md
 - 2024-04-18-estadistica-individuos.md

@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - economía
 date: 2026-11-12
+lastmod: '2026-11-09'
 description: "El PIB está más correlacionado con la felicidad en los libros que en la India."
 tags:
 - pib

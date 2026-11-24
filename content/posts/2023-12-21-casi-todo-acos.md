@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2023-12-21
 draft: false
-lastmod: '2025-04-06T18:51:49.831408'
+lastmod: '2025-04-07'
 related:
 - 2023-11-21-sumas-lognormales.md
 - 2014-10-23-la-aspiradora-acosadora.md

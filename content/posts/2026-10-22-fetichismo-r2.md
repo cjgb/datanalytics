@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2026-10-22
+lastmod: '2026-10-15'
 description: "Sobre cómo el fetichismod la R² puede sesgar los coeficientes de los modelos lineales mal usados en contextos causales."
 tags:
 - estadística

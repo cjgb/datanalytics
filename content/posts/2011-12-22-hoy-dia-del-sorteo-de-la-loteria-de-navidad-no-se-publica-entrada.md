@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2011-12-22 07:00:50+00:00
-lastmod: '2025-04-06T18:54:46.206681'
+lastmod: '2026-01-31'
 noindex: true
 related:
 - 2017-12-22-lo-racional-que-jueguen-a-la-loteria-los-demas.md

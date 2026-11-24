@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2017-02-22 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:11:09.795428'
+lastmod: '2026-09-26'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2011-04-12-c2a1que-prensa-tan-mala.md

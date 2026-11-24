@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2018-03-05 08:13:08+00:00
 noindex: true
-lastmod: '2025-04-06T18:46:26.100410'
+lastmod: '2026-10-12'
 related:
 - 2018-09-20-x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones.md
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md

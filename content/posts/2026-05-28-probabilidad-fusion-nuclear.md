@@ -5,7 +5,7 @@ categories:
 date: 2026-05-28
 description: Que se basa en la presunta y muy problemática independencia probabilística
   de las distintas tecnologías actualmente en desarrollo.
-lastmod: '2026-05-25T03:22:03.933649'
+lastmod: '2026-05-25'
 related:
 - 2023-09-05-superforecasting.md
 - 2024-07-02-ciencia-ingenieria.md

@@ -5,7 +5,7 @@ categories:
 date: 2025-10-09
 description: 'Selección de lecturas sobre tecnología: energía, agua, baterías, criptografía,
   computación cuántica y librerías de Python que facilitan crear interfaces.'
-lastmod: '2025-10-15T19:14:32.635863'
+lastmod: '2026-09-26'
 related:
 - 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
 - 2022-07-26-hueco-termico.md

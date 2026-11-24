@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2025-02-27
-lastmod: '2025-04-06T19:11:56.859679'
+lastmod: '2026-09-04'
 related:
 - 2023-02-14-sicologia-programacion.md
 - 2025-03-25-cortos-llms.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-04-26 06:44:51+00:00
 draft: false
-lastmod: '2025-04-06T18:52:26.811555'
+lastmod: '2026-09-26'
 related:
 - 2012-04-25-espana-c2bfradial-i.md
 - 2012-03-28-contrafactualidad-radial.md

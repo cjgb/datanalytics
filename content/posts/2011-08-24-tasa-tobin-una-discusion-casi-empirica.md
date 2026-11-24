@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2011-08-24 07:42:51+00:00
 draft: false
-lastmod: '2025-04-06T19:04:53.349095'
+lastmod: '2026-10-12'
 related:
 - 2023-09-14-gestion-liquidez.md
 - 2011-02-25-1605.md

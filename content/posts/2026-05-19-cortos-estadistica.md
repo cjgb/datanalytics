@@ -6,7 +6,7 @@ date: 2026-05-19
 description: 'Un recorrido por las últimas tendencias en estadística: desde la credibilidad
   de los datos en India hasta modelos bayesianos en R y el debate sobre métricas de
   ajuste.'
-lastmod: '2026-05-14T16:15:53.901121'
+lastmod: '2026-05-14'
 related:
 - 2026-04-07-cortos.md
 - 2025-11-20-estadistica.md

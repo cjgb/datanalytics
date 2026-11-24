@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-09-20 07:24:25+00:00
 draft: false
-lastmod: '2025-04-06T18:53:24.500211'
+lastmod: '2026-09-04'
 related:
 - 2018-11-08-siguen-votando-igual-los-diputados.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

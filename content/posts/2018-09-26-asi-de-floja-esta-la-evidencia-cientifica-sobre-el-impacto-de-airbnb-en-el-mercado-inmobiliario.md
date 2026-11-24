@@ -5,7 +5,7 @@ categories:
 - artículos
 date: 2018-09-26 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:07:31.365621'
+lastmod: '2026-06-12'
 related:
 - 2019-10-08-voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe.md
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md

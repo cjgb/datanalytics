@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-09-19 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:57:25.174674'
+lastmod: '2026-09-04'
 related:
 - 2017-11-08-todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania.md
 - 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md

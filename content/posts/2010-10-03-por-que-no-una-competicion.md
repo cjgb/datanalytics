@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-10-03 02:42:06+00:00
 draft: false
-lastmod: '2025-04-06T18:57:41.703044'
+lastmod: '2026-09-26'
 related:
 - 2011-03-09-una-propuesta-de-crowdsourcing-analitico.md
 - 2010-03-07-c2bfsabes-estadistica-c2bfquieres-ganar-100k-dolares-pues-lee.md

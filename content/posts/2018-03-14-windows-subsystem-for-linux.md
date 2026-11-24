@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2018-03-14 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:49:48.708815'
+lastmod: '2025-04-07'
 related:
 - 2011-06-15-una-herramienta-para-construir-paquetes-de-r-sobre-windows.md
 - 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-07-03 09:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:45:50.585408'
+lastmod: '2026-10-12'
 related:
 - 2017-09-13-trucos-cutrebayesianos.md
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md

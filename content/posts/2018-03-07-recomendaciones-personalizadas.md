@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2018-03-07 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:57:57.627095'
+lastmod: '2026-09-04'
 related:
 - 2014-10-09-experto-en-data-science-en-la-u-tad.md
 - 2013-01-02-sobre-los-limites-de-la-mineria-de-datos.md

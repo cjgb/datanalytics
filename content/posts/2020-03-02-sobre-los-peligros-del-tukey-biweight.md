@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-03-02 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:25.992129'
+lastmod: '2026-09-04'
 related:
 - 2020-02-24-to-irls-or-not-to-irls.md
 - 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-02-21 08:42:59+00:00
 draft: false
-lastmod: '2025-04-06T19:13:25.059941'
+lastmod: '2026-09-04'
 related:
 - 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
 - 2014-05-21-la-complejidad-de-la-ley.md

@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-08-29 13:11:11+00:00
 draft: false
-lastmod: '2025-04-06T19:02:20.672938'
+lastmod: '2025-04-07'
 related:
 - 2011-03-09-una-propuesta-de-crowdsourcing-analitico.md
 - 2015-06-05-herramientas-y-consejos-para-avanzar-en-tu-carrera.md

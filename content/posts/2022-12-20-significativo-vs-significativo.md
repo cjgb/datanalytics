@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-12-20
-lastmod: '2025-04-06T18:52:28.167872'
+lastmod: '2025-04-07'
 related:
 - 2019-03-14-lo-que-las-diferencias-de-medias-evocan.md
 - 2017-10-25-mismo-trabajo-noseque-cosa.md

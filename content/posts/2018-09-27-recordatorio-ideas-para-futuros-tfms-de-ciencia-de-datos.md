@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-09-27 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T19:10:05.028838'
+lastmod: '2025-04-07'
 related:
 - 2018-10-01-acerca-del-cis-y-la-cocina.md
 - 2016-10-10-acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable.md

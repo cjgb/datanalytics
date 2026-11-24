@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-03-20 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T18:44:58.261080'
+lastmod: '2026-09-04'
 related:
 - 2018-03-01-kriging-con-stan.md
 - 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md

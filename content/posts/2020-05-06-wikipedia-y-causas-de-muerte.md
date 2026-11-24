@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2020-05-06 09:13:00+00:00
-lastmod: '2025-04-06T18:53:52.162346'
+lastmod: '2026-09-04'
 related:
 - 2020-03-15-la-causa-de-muerte-no-es-la-causa-de-muerte.md
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md

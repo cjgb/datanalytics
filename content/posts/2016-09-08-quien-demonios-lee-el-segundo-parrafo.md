@@ -5,7 +5,7 @@ categories:
 - números
 date: 2016-09-08 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T19:08:10.074702'
+lastmod: '2025-04-07'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md

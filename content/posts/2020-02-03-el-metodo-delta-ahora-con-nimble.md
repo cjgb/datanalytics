@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-02-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:07.816126'
+lastmod: '2026-09-04'
 related:
 - 2020-03-10-mas-sobre-el-metodo-delta-propagate.md
 - 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md

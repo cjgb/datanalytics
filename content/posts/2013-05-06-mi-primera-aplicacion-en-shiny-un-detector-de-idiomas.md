@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-05-06 07:49:12+00:00
 draft: false
-lastmod: '2025-04-06T18:47:47.315185'
+lastmod: '2026-10-12'
 related:
 - 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
 - 2012-01-05-un-lematizador-para-el-espanol-con-r-ii.md

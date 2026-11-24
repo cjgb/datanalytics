@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-15 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T19:13:02.723796'
+lastmod: '2026-09-04'
 related:
 - 2014-06-06-validacion-cruzada-en-paralelo.md
 - 2014-05-15-r-en-paralelo.md

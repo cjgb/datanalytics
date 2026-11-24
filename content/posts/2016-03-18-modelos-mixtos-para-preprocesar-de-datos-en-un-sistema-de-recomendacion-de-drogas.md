@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-03-18 09:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:02:51.397337'
+lastmod: '2026-09-04'
 related:
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 - 2020-04-13-regresion-tradicional-vs-multinivel.md

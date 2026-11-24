@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-06-18 09:13:21+00:00
 draft: false
-lastmod: '2025-04-06T19:08:25.704274'
+lastmod: '2026-01-03'
 related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

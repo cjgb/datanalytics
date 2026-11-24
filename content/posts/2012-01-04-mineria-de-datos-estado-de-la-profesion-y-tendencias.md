@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2012-01-04 07:16:40+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:52.481157'
+lastmod: '2026-10-12'
 related:
 - 2011-04-06-c2bfcual-es-la-esencia-de-la-estadistica.md
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md

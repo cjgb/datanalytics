@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-05-07 06:59:50+00:00
 draft: false
-lastmod: '2025-04-06T19:02:49.977550'
+lastmod: '2026-09-04'
 related:
 - 2016-10-13-dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing.md
 - 2012-05-03-representacion-de-datos-asociados-a-grupos.md

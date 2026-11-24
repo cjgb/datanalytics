@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-02-13 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:09:29.396161'
+lastmod: '2026-10-12'
 related:
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md

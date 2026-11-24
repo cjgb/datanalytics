@@ -6,7 +6,7 @@ categories:
 - r
 date: 2012-08-13 08:57:36+00:00
 draft: false
-lastmod: '2025-04-06T18:57:06.295094'
+lastmod: '2026-09-04'
 related:
 - 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

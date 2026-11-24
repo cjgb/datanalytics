@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-02-19 08:34:17+00:00
 draft: false
-lastmod: '2025-04-06T18:51:16.515836'
+lastmod: '2026-09-04'
 related:
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 - 2024-03-14-precio-medio-diario-electricidad.md

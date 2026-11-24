@@ -5,7 +5,7 @@ categories:
 date: 2025-07-22
 description: Miedo y FOMO en finanzas, el auge del “compra ahora, paga después”, el
   modelo pay per crawl y debates sobre abundancia y nudge.
-lastmod: '2025-09-15T19:22:34.634424'
+lastmod: '2026-01-20'
 related:
 - 2013-02-20-si-lees-nudge-veras-las-cosas-de-otra-manera.md
 - 2023-09-14-gestion-liquidez.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-11-20 07:40:45+00:00
 draft: false
-lastmod: '2025-04-06T19:05:34.656145'
+lastmod: '2026-09-04'
 related:
 - 2013-11-22-un-pequeno-problema-de-probabilidad.md
 - 2021-02-23-tres-teoremas-que-son-casi-ciertos.md

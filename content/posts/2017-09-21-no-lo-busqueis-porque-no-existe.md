@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-09-21 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:09:12.479418'
+lastmod: '2026-10-12'
 related:
 - 2020-04-16-be-momo.md
 - 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md

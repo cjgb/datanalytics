@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-04-26 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:50:07.504375'
+lastmod: '2025-04-07'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2013-08-28-que-ha-hecho-el-csic-por-mi.md

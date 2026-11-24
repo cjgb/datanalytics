@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-05-16 07:18:05+00:00
 noindex: true
-lastmod: '2025-04-06T18:58:05.906400'
+lastmod: '2026-01-31'
 related:
 - 2012-03-26-2013-ano-internacional-de-la-estadistica.md
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md

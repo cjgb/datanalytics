@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2012-09-05 06:38:07+00:00
-lastmod: '2025-04-06T18:48:52.298666'
+lastmod: '2026-10-12'
 related:
 - 2017-04-03-tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

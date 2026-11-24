@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2011-04-28 07:58:46+00:00
-lastmod: '2025-04-06T18:50:24.927391'
+lastmod: '2026-10-12'
 related:
 - 2024-06-20-mas-r-cuadrado.md
 - 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md

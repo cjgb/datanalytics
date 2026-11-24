@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-12-04 07:43:34+00:00
 draft: false
-lastmod: '2025-04-06T18:49:59.381786'
+lastmod: '2026-09-04'
 related:
 - 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
 - 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md

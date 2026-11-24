@@ -6,7 +6,7 @@ date: 2026-03-26
 description: ¿Es real el crecimiento económico? Analizamos el concepto de «PIB fantasma»,
   desde los alquileres imputados hasta la IA, y cómo la contabilidad creativa infla
   las cifras.
-lastmod: '2026-03-27T18:05:50.661272'
+lastmod: '2026-03-27'
 related:
 - 2016-05-26-pib-y-progreso-mide-lo-que-debe-medir.md
 - 2026-01-14-pib-trabajos.md

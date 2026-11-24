@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-03-20 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T19:08:57.576858'
+lastmod: '2026-09-04'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2014-11-04-dislexia-probabilistica.md

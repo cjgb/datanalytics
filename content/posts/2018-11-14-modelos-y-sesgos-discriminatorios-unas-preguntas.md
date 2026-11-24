@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2018-11-14 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T18:48:25.259916'
+lastmod: '2026-09-04'
 related:
 - 2022-11-17-igualdad-oportunidades.md
 - 2023-05-25-evaluaciones-clinicas-actuariales.md

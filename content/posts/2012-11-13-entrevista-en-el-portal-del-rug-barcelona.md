@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2012-11-13 07:00:05+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:20.563101'
+lastmod: '2026-01-31'
 related:
 - 2012-02-13-r-y-alrededores-en-medialab-prado.md
 - 2017-04-17-ix-jornadas-de-usuarios-de-r-noviembre-en-granada.md

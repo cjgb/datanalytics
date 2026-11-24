@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-09-12
-lastmod: '2026-03-04'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md

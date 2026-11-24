@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2018-11-13 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:45:39.732772'
+lastmod: '2025-05-05'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md

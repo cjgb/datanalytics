@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-11-23 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:00:32.280312'
+lastmod: '2026-09-04'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2016-01-18-el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada.md

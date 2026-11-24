@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-01-16 08:13:58+00:00
 draft: false
-lastmod: '2025-04-06T18:56:59.614869'
+lastmod: '2026-01-10'
 related:
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md

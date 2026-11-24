@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2014-09-08
 noindex: true
-lastmod: '2025-12-08'
+lastmod: '2026-10-12'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
 - 2014-07-21-maddata-dataton-de-datos-abiertos.md

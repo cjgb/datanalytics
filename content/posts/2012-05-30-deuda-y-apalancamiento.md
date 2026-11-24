@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-05-30 06:34:34+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:29.124622'
+lastmod: '2026-09-04'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

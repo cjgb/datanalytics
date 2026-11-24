@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-08-28 17:24:29+00:00
 draft: false
-lastmod: '2025-04-06T19:12:54.664044'
+lastmod: '2026-09-04'
 related:
 - 2017-03-16-todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion.md
 - 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md

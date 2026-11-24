@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-11-19 07:13:54+00:00
 draft: false
-lastmod: '2025-04-06T18:52:16.739223'
+lastmod: '2026-09-04'
 related:
 - 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
 - 2012-04-23-graficos-dinamita-desaconsejados.md

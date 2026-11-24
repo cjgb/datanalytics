@@ -4,7 +4,7 @@ categories:
 - estadística
 - causalidad
 date: 2022-03-18
-lastmod: '2025-04-06T18:48:50.313076'
+lastmod: '2026-09-04'
 related:
 - 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md

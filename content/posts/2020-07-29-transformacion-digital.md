@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-07-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:43.487670'
+lastmod: '2025-04-07'
 related:
 - 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
 - 2020-07-29-un-instituto-nacional-de-datos.md

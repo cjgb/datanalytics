@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-03-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:57.132260'
+lastmod: '2025-05-05'
 related:
 - 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 - 2011-03-11-riesgo-e-incertidumbre.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-01-26
-lastmod: '2025-04-06T18:53:20.501797'
+lastmod: '2025-11-02'
 related:
 - 2024-01-09-regresiones_pisa.md
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md

@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - r
 date: 2010-05-05 20:52:34+00:00
-lastmod: '2025-04-06T19:04:49.832419'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-06-02-sobre-la-encuesta-sobre-mineria-de-datos-de-rexer-analytics.md

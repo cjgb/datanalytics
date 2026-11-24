@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-07-04 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:12:00.800626'
+lastmod: '2025-04-07'
 related:
 - 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
 - 2015-03-09-unas-preguntas-incomodas.md

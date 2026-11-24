@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-03-29 01:45:50+00:00
-lastmod: '2025-04-06T18:55:39.728866'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

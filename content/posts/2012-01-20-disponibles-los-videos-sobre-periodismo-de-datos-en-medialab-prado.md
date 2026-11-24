@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-01-20 06:57:13+00:00
-lastmod: '2025-04-06T18:55:01.182558'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2011-12-30-captura-de-datos-medialab-prado-y-needlebase.md

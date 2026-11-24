@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - estadística
 date: 2019-04-16 09:13:23+00:00
-lastmod: '2025-04-06T19:08:06.461634'
+lastmod: '2025-11-08'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md

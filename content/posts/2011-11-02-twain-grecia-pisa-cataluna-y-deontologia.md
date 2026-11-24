@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-11-02 07:12:47+00:00
 draft: false
-lastmod: '2025-04-06T19:10:39.309369'
+lastmod: '2026-09-04'
 related:
 - 2024-01-09-regresiones_pisa.md
 - 2014-04-23-demasiado-simple.md

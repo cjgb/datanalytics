@@ -5,7 +5,7 @@ categories:
 - libros
 - probabilidad
 date: 2021-10-28 00:36:19+00:00
-lastmod: '2026-03-22'
+lastmod: '2026-03-23'
 related:
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md

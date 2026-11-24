@@ -5,7 +5,7 @@ categories:
 date: 2022-07-19
 description: Scorings para evaluar predicciones expresadas en términos de uno o varios
   CIs
-lastmod: '2025-04-06T19:00:50.392419'
+lastmod: '2025-12-07'
 related:
 - 2022-02-17-examenes-probabilisticos.md
 - 2022-05-26-crps.md

@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2016-03-09
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2026-05-15'
 related:
 - 2023-12-05-estructuras-datos-probabilisticas.md
 - 2017-11-09-probabilismo-probabilorismo-y-todas-esas-cosas.md

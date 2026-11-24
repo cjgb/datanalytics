@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-05-05 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:57:17.335930'
+lastmod: '2026-09-04'
 related:
 - 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md
 - 2014-08-13-mis-procesos-puntuales-con-glm.md

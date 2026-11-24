@@ -5,7 +5,7 @@ categories:
 - nlp
 date: 2019-02-20 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:55:50.062932'
+lastmod: '2025-04-07'
 related:
 - 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md
 - 2019-04-08-demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2.md

@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2011-06-03 07:17:44+00:00
 draft: false
-lastmod: '2025-04-06T19:03:41.462458'
+lastmod: '2026-09-04'
 related:
 - 2011-03-22-graficos-i-introduccion.md
 - 2022-02-22-grafico-quitarse-sombrero.md

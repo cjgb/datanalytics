@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-02-23 08:13:01+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:26.593078'
+lastmod: '2026-09-26'
 related:
 - 2020-09-15-infradispersion-en-la-logistica.md
 - 2017-02-01-infradispersion-de-conteos-buenos-ejemplos.md

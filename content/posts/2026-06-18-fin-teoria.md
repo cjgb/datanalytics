@@ -5,7 +5,7 @@ categories:
 date: 2026-06-18
 description: Sobre las limitaciones de la teoría económica y cómo puede verse marginalizada
   por el análisis cuantitativo ad hoc.
-lastmod: '2026-06-12T00:16:17.908609'
+lastmod: '2026-06-12'
 related:
 - 2026-05-12-cortos-economia.md
 - 2026-03-02-cortos.md

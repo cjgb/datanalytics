@@ -6,7 +6,7 @@ categories:
 date: 2026-05-21
 description: Una revisión crítica a ese estudio del NIST sobre el retraso de los LLMs
   chinos con respecto a los de EEUU.
-lastmod: '2026-05-14T16:23:02.865473'
+lastmod: '2026-05-14'
 related:
 - 2026-03-30-cortos.md
 - 2023-10-05-llms-historia.md

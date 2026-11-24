@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-08-21 12:52:31+00:00
-lastmod: '2025-04-06T19:06:08.877590'
+lastmod: '2026-11-23'
 noindex: true
 related:
 - 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md
@@ -14,7 +14,7 @@ related:
 tags:
 - r
 - anuncio
-title: R en Youtube y Facebook
+title: R en YouTube y Facebook
 url: /2010/08/21/r-en-yotube-y-facebook/
 ---
 

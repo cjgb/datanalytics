@@ -5,7 +5,7 @@ categories:
 - consultoría
 - estadística
 date: 2012-01-25 07:11:07+00:00
-lastmod: '2025-12-13'
+lastmod: '2026-10-12'
 related:
 - 2024-07-03-cortos-stats.md
 - 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md

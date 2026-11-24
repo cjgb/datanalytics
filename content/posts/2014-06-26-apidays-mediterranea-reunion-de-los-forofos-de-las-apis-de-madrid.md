@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-06-26 07:00:22+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:48.726379'
+lastmod: '2026-09-04'
 related:
 - 2013-05-24-apidays-mediterranea-la-semana-que-viene.md
 - 2015-04-30-apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene.md

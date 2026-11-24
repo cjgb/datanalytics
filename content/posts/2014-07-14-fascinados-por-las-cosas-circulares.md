@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-07-14 07:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:04:39.818764'
+lastmod: '2026-10-12'
 related:
 - 2016-05-27-coordenadas-polares-por-doquier.md
 - 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md

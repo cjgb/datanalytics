@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2022-03-30
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2025-01-09-causalidad-sujeto-verbo-od.md
 - 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md

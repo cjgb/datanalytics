@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2018-10-15 08:13:11+00:00
 draft: false
-lastmod: '2025-04-06T18:56:25.569307'
+lastmod: '2025-10-12'
 related:
 - 2022-09-27-uso-abuso-embeddings.md
 - 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md

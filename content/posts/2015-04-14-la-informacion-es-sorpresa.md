@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-04-14 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:47:41.694253'
+lastmod: '2026-09-04'
 related:
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

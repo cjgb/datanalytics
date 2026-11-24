@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2017-06-30 08:13:19+00:00
-lastmod: '2025-03-22'
+lastmod: '2026-03-23'
 related:
 - 2017-10-06-una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia.md
 - 2022-07-28-temas-nadaesgratis.md

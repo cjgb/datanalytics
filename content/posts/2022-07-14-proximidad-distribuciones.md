@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-07-14
 description: Una introducción al MMD
-lastmod: '2025-04-06T18:52:12.045688'
+lastmod: '2026-02-17'
 related:
 - 2022-11-04-umap-tsne-etc.md
 - 2018-03-01-kriging-con-stan.md

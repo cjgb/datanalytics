@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-05-22 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:55:43.250928'
+lastmod: '2026-09-04'
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md
 - 2013-11-22-un-pequeno-problema-de-probabilidad.md

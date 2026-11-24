@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2014-03-11
-lastmod: '2026-08-31'
+lastmod: '2026-10-12'
 description: Una reseña al libro "Beautiful Evidence" de Edward Tufte.
 related:
 - 2012-09-12-el-arte-funcional-una-revision-personal.md

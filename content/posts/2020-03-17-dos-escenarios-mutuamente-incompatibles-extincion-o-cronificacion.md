@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2020-03-17
-lastmod: '2025-04-06T18:50:37.578460'
+lastmod: '2026-10-22'
 related:
 - 2020-05-07-coronavirus-cualitativo.md
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md

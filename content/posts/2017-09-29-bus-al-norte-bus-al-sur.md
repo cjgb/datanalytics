@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-09-29 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:53:17.634208'
+lastmod: '2026-09-04'
 related:
 - 2012-03-14-c2a1mano-que-mapa.md
 - 2012-04-25-espana-c2bfradial-i.md

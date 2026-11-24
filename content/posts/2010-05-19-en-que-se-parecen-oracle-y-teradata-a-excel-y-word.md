@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-05-19 20:48:10+00:00
-lastmod: '2025-04-06T18:49:06.358191'
+lastmod: '2026-09-26'
 related:
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
 - 2011-12-09-bajo-el-capo-de-teradatar.md

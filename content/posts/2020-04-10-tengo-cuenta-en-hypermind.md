@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-04-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:52:59.755798'
+lastmod: '2025-11-02'
 related:
 - 2010-05-27-google-prediction-api.md
 - 2023-02-07-numpyro-predictions.md

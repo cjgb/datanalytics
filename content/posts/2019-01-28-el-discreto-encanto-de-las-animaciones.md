@@ -4,8 +4,7 @@ categories:
 - gráficos
 - r
 date: 2019-01-28 08:13:45+00:00
-draft: false
-lastmod: '2025-04-06T18:58:22.037173'
+lastmod: '2026-11-23'
 related:
 - 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
@@ -22,11 +21,11 @@ title: El discreto encanto de las animaciones
 url: /2019/01/28/el-discreto-encanto-de-las-animaciones/
 ---
 
-Representando datos, una animación es un gráfico en el que unas facetas (en terminología de `ggplot2`) ocultan el resto, como en
+Representando datos, una animación es un gráfico en el que unas facetas (en terminología de `ggplot2`) ocultan el resto. Por ejemplo,
 
 ![](/img/2019/01/ezgif-4-3c3da54ff084.gif)
 
-extraído de [aquí](https://twitter.com/cocteautriplets/status/986394792329465857?s=03) y que representa la evolución del tamaño (superficie) de los coches _habituales_ a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
+[Representa la evolución del tamaño (superficie) de los coches _habituales_ a lo largo del último siglo](https://twitter.com/cocteautriplets/status/986394792329465857?s=03). Lo mismo pero evitando el efecto indeseado:
 
 ![](/img/2019/01/Rplot.png#center)
 

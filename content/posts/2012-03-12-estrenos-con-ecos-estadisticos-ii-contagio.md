@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-03-12 07:44:21+00:00
 draft: false
-lastmod: '2025-04-06T19:02:45.760819'
+lastmod: '2026-10-12'
 related:
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md

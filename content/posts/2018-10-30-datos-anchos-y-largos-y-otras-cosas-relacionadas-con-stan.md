@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-10-30 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T18:54:16.333246'
+lastmod: '2025-04-07'
 related:
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md
 - 2021-05-05-nuevo-video-en-youtube-charla-con-j-l-canadas.md

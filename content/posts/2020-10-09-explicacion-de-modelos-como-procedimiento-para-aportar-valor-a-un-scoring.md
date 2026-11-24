@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-10-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:47:50.176896'
+lastmod: '2026-09-04'
 related:
 - 2020-10-14-explicacion-de-los-scorings-de-ciertos-modelos.md
 - 2022-02-17-examenes-probabilisticos.md

@@ -5,7 +5,7 @@ categories:
 - cursos
 date: 2014-09-10 07:13:20+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:33.913472'
+lastmod: '2026-05-08'
 related:
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md
 - 2014-05-05-el-primer-databeers-de-madrid-el-martes-en-martinacocina.md

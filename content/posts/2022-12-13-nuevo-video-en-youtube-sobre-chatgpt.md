@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2022-12-13
-lastmod: '2025-04-06T19:05:53.059442'
+lastmod: '2025-04-07'
 related:
 - 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
 - 2022-10-18-nuevo-video-en-youtube-bayesianismo-edad.md

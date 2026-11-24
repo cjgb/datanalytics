@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-06-22
-lastmod: '2025-04-06T19:02:47.870552'
+lastmod: '2026-09-04'
 related:
 - 2013-09-09-la-paradoja-de-lord.md
 - 2020-11-13-de-a-b-a-did.md

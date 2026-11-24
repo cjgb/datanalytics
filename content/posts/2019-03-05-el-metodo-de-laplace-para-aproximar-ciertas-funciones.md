@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-03-05 08:13:09+00:00
 draft: false
-lastmod: '2025-04-06T18:49:35.179672'
+lastmod: '2025-11-01'
 related:
 - 2020-03-10-mas-sobre-el-metodo-delta-propagate.md
 - 2018-10-23-abc-2.md

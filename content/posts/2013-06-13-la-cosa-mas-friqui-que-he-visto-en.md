@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-06-13 07:00:19+00:00
 draft: false
-lastmod: '2025-04-06T19:06:19.233804'
+lastmod: '2026-09-04'
 related:
 - 2012-10-10-graficos-en-r-a-la-xkcd.md
 - 2010-10-26-a-vueltas-con-los-fractales.md

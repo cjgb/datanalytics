@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-04-30 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:45:14.938199'
+lastmod: '2025-11-02'
 related:
 - 2020-04-09-deberian-publicarse-datos-en-beta.md
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md

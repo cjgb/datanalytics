@@ -5,7 +5,7 @@ categories:
 date: 2025-07-15
 description: Reflexiones y artículos sobre peer review, fraudes científicos, crisis
   de reproducibilidad, mitos en fotografía y paradojas en el Derecho.
-lastmod: '2025-09-11T20:34:57.351055'
+lastmod: '2026-06-12'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md

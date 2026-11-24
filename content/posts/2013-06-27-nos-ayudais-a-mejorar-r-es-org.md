@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-06-27 07:36:56+00:00
 draft: false
-lastmod: '2025-04-06T19:01:28.559912'
+lastmod: '2025-04-07'
 related:
 - 2012-06-07-hoy-hablaremos-de-r-es-org.md
 - 2016-02-18-hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano.md

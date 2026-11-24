@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2019-07-01 09:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:47:17.728266'
+lastmod: '2026-10-12'
 related:
 - 2020-05-27-por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares.md
 - 2024-02-01-optimizacion-generalizacion.md

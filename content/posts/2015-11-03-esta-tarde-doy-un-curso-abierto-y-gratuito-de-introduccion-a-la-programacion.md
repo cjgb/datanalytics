@@ -4,7 +4,7 @@ categories:
 - cursos
 date: 2015-11-03 08:13:51+00:00
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2025-10-30'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md

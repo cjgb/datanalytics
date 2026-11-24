@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-02-25 07:26:34+00:00
 draft: false
-lastmod: '2025-04-06T18:49:13.661328'
+lastmod: '2026-09-04'
 related:
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md
 - 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md

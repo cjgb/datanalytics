@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-11-18
 description: 'Crítica a los argumentos contra la IA: supuestas alucinaciones vs. falta
   de creatividad, y la contradicción entre ambas ideas.'
-lastmod: '2025-11-16T16:10:40.987977'
+lastmod: '2025-11-16'
 related:
 - 2024-07-03-cortos-stats.md
 - 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md

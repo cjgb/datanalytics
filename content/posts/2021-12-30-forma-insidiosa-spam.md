@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2021-12-30
-lastmod: '2025-04-06T18:47:42.388624'
+lastmod: '2026-10-12'
 related:
 - 2015-04-14-la-informacion-es-sorpresa.md
 - 2021-12-29-migracion-blog-hugo.md

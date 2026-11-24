@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2015-04-23 08:13:48+00:00
 draft: false
-lastmod: '2025-04-06T18:50:44.217515'
+lastmod: '2026-09-04'
 related:
 - 2011-09-09-treemaps-en-r.md
 - 2014-11-19-dime-que-quieres-comparar-con-que.md

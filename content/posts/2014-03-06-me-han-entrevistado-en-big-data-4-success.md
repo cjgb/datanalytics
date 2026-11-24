@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2014-03-06 07:38:26+00:00
 draft: false
-lastmod: '2025-04-06T19:06:03.700312'
+lastmod: '2026-10-12'
 related:
 - 2016-11-14-podcast-vivir-analizando-datos.md
 - 2015-02-04-entrevista-en-principio-de-incertidumbre-big-data-sin-artificio.md

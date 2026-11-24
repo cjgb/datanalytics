@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-02-06 08:13:06+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:26.532356'
+lastmod: '2026-02-23'
 related:
 - 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
 - 2018-10-01-acerca-del-cis-y-la-cocina.md

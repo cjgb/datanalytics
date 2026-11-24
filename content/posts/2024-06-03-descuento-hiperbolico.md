@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-06-03
-lastmod: '2025-04-06T18:55:39.035777'
+lastmod: '2025-10-06'
 related:
 - 2023-02-16-descuento-hiperbolico.md
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md

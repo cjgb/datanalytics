@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2013-11-27 07:36:20+00:00
 draft: false
-lastmod: '2025-04-06T19:03:43.723005'
+lastmod: '2026-01-17'
 related:
 - 2011-06-22-diez-mandamientos-del-analisis-de-datos.md
 - 2011-04-25-seis-consejos-para-quienes-aspiran-a-la-excelencia.md

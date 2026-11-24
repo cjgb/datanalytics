@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-18 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T18:54:44.868241'
+lastmod: '2026-09-04'
 related:
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
 - 2014-06-27-disponible-una-nueva-version-de-microdatoses.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-04-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:34.185040'
+lastmod: '2025-11-02'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2016-07-11-k-medias-es-como-las-elecciones-k-vecinos-como-los-cumpleanos.md

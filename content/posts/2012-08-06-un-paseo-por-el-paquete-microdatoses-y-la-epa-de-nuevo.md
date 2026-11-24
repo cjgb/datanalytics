@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-08-06 07:31:47+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
 - 2012-08-13-fallecimientos-y-microdatos.md

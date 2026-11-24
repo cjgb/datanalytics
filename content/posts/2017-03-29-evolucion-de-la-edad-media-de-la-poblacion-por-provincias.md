@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-03-29 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:03:46.050449'
+lastmod: '2026-09-04'
 related:
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 - 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md

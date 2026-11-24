@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2016-11-09 08:13:41+00:00
 noindex: true
-lastmod: '2025-04-06T18:58:15.691445'
+lastmod: '2026-10-12'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md

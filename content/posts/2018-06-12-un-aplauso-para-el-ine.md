@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-06-12 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:12:30.179381'
+lastmod: '2025-04-07'
 related:
 - 2024-01-18-microdatoses-ultima-version.md
 - 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md

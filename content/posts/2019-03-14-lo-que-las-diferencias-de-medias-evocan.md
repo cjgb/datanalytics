@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2019-03-14 08:13:28+00:00
-lastmod: '2025-11-01'
+lastmod: '2026-09-04'
 related:
 - 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
 - 2022-01-04-la-altura-media-animales-zoo-madrid.md

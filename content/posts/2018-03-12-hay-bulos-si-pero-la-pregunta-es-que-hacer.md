@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-03-12 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T18:58:19.670922'
+lastmod: '2026-09-04'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2021-09-24-en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran.md

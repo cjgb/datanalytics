@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2022-02-28
-lastmod: '2025-04-06T18:48:57.632965'
+lastmod: '2025-05-05'
 related:
 - 2023-06-27-seeing-like-market.md
 - 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md

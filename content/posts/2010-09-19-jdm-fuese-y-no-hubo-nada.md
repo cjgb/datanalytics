@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-09-19 16:28:26+00:00
-lastmod: '2025-04-06T19:12:48.088129'
+lastmod: '2026-09-26'
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
 - 2024-11-28-cortos-stats.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-01-08 07:13:40+00:00
 draft: false
-lastmod: '2025-04-06T19:13:09.573250'
+lastmod: '2025-04-07'
 related:
 - 2019-06-04-feria-del-libro-2019.md
 - 2016-05-30-mis-conciudadanos-no-tienen-wifi.md

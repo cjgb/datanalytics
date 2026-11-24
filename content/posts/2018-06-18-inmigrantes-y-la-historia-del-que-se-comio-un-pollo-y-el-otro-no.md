@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-06-18 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:05:26.846513'
+lastmod: '2026-09-04'
 related:
 - 2024-01-09-regresiones_pisa.md
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md

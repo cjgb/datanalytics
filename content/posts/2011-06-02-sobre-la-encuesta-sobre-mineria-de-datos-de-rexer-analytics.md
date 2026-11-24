@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - r
 date: 2011-06-02 07:13:39+00:00
-lastmod: '2025-04-06T18:51:22.480629'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md

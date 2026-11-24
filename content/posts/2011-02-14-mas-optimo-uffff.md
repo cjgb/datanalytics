@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2011-02-14 09:51:19+00:00
 draft: false
-lastmod: '2025-04-06T19:06:55.880031'
+lastmod: '2026-09-26'
 related:
 - 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
 - 2011-03-15-metodologia-casuistica-y-tipologia.md

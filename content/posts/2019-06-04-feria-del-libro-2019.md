@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-06-04 09:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:58:10.412336'
+lastmod: '2026-11-23'
 related:
 - 2015-01-08-tres-libros-mas-una-biblioteca-menos.md
 - 2016-05-30-mis-conciudadanos-no-tienen-wifi.md
@@ -23,7 +23,7 @@ Fui a la Feria del Libro. El calor era el de L'Étranger. Comencé por la caseta
 
 _Libros, libros por todas partes..._
 
-Autoayuda. Autoayuda. Reverté (¿recopilatorio de artículos?). Libros rosas, libros con nombres y fotos de mujeres en la portada. Autoayuda. Infantil. Losantos y su Barcelona. Autoayuda. Dos pornógrafas. Los gatitos (y la filosofía) de Stoya. Autoayuda. DIY. Facsílmil de Voynich. Los mismos libros una y otra vez. Más autoayuda y libros facilongos. Marx y esas cosas.
+Autoayuda. Autoayuda. Reverté (¿recopilatorio de artículos?). Libros rosas, libros con nombres y fotos de mujeres en la portada. Autoayuda. Infantil. Losantos y su Barcelona. Autoayuda. Dos pornógrafas. Los gatitos (y la filosofía) de Stoya. Autoayuda. DIY. Facsímil de Voynich. Los mismos libros una y otra vez. Más autoayuda y libros facilongos. Marx y esas cosas.
 
 Una copia de [Taxi](https://es.wikipedia.org/wiki/Taxi_(novela)). Pilladlo si lo véis. El de Taleb que acababa de terminar pirata. Lo bueno, leído. El resto, psé. [Lindy](https://en.wikipedia.org/wiki/Lindy_effect) dirá.
 

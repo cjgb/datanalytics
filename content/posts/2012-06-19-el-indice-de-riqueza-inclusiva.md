@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-06-19 06:52:26+00:00
 draft: false
-lastmod: '2025-04-06T18:47:57.220529'
+lastmod: '2026-10-12'
 related:
 - 2011-02-25-1605.md
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md

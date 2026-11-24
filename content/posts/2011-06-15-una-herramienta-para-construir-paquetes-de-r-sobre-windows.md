@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-06-15 07:07:21+00:00
-lastmod: '2025-04-06T18:56:58.881828'
+lastmod: '2026-09-04'
 related:
 - 2010-02-27-creando-paquetes-con-r-r-forge.md
 - 2011-12-01-creacion-de-un-r-portable.md

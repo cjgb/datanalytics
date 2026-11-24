@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-12-19 08:13:06+00:00
 draft: false
-lastmod: '2025-04-06T19:11:12.144791'
+lastmod: '2026-09-04'
 related:
 - 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md

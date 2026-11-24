@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-01-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:51.819900'
+lastmod: '2025-05-05'
 related:
 - 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md

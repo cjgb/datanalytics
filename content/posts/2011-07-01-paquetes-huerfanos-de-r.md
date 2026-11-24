@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-07-01 07:13:49+00:00
-lastmod: '2025-04-06T19:12:29.453287'
+lastmod: '2026-10-12'
 related:
 - 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
 - 2010-02-27-creando-paquetes-con-r-r-forge.md

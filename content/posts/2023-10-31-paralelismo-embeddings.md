@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-10-31
-lastmod: '2025-04-06T18:48:31.488206'
+lastmod: '2026-09-04'
 related:
 - 2023-06-15-paralelismo-textos.md
 - 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md

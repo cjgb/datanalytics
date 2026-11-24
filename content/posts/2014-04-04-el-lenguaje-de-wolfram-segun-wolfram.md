@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-04-04 07:45:34+00:00
 draft: false
-lastmod: '2025-04-06T19:02:58.116914'
+lastmod: '2025-04-07'
 related:
 - 2024-05-07-cortos.md
 - 2014-10-15-watson-no-es-nada-elemental.md

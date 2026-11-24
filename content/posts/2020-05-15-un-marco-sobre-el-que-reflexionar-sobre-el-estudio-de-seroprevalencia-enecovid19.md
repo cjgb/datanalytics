@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:05:47.700074'
+lastmod: '2026-10-08'
 related:
 - 2020-06-09-53-o-cual-es-la-prior.md
 - 2020-05-21-analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida.md

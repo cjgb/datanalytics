@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2018-02-14 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T19:02:03.654591'
+lastmod: '2025-04-07'
 related:
 - 2014-01-07-diagramas-de-caja-44-anos-despues.md
 - 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md

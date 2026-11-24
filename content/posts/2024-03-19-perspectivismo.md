@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2024-03-19 00:00:00
-lastmod: '2025-04-06T18:48:19.302833'
+lastmod: '2026-09-26'
 related:
 - 2020-01-07-la-probabilidad-algo-subjetivo.md
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md

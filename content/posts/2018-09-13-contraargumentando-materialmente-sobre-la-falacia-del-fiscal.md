@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-09-13 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T19:03:24.963684'
+lastmod: '2026-06-28'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 - 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md

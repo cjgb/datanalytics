@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2023-03-09
-lastmod: '2025-04-06T18:47:25.820335'
+lastmod: '2026-09-04'
 related:
 - 2011-02-25-1605.md
 - 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md

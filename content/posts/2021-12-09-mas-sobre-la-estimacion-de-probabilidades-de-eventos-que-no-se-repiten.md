@@ -5,7 +5,7 @@ categories:
 - libros
 date: 2021-12-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:49:19.654063'
+lastmod: '2026-09-04'
 related:
 - 2023-09-05-superforecasting.md
 - 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md

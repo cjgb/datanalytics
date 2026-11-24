@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-02-07 08:28:42+00:00
 draft: false
-lastmod: '2025-04-06T19:04:54.075075'
+lastmod: '2025-04-07'
 related:
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
 - 2014-10-28-tres-sigmas-o-nanay.md

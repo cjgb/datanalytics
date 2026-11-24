@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-08-01 07:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:52:21.471089'
+lastmod: '2026-09-04'
 related:
 - 2014-03-10-guarjolizacion-de-fotos-con-r.md
 - 2018-07-20-kamila-clustering-con-variables-categoricas.md

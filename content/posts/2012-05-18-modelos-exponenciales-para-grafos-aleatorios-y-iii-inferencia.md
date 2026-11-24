@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-05-18 07:20:48+00:00
 draft: false
-lastmod: '2025-04-06T18:48:18.591004'
+lastmod: '2026-10-31'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

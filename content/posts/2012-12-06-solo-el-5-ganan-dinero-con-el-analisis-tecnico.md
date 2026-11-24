@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2012-12-06 07:54:07+00:00
 draft: false
-lastmod: '2025-04-06T19:06:46.428493'
+lastmod: '2026-01-17'
 related:
 - 2014-10-28-tres-sigmas-o-nanay.md
 - 2024-07-03-cortos-stats.md

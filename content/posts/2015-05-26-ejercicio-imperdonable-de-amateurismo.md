@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-05-26 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:56:41.321692'
+lastmod: '2025-04-07'
 related:
 - 2023-06-01-vender-algoritmos.md
 - 2012-11-22-las-ocho-peores-tecnicas-analiticas.md

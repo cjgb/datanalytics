@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-03-21 19:37:43+00:00
 draft: false
-lastmod: '2025-04-06T18:51:41.773071'
+lastmod: '2026-09-04'
 related:
 - 2016-05-30-mis-conciudadanos-no-tienen-wifi.md
 - 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md

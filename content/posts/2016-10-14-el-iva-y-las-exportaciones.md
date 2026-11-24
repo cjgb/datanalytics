@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-10-14 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T19:11:24.299023'
+lastmod: '2026-09-04'
 related:
 - 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
 - 2011-02-25-1605.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-03-28 08:13:06+00:00
 draft: false
-lastmod: '2025-04-06T19:06:02.983721'
+lastmod: '2026-09-04'
 related:
 - 2017-04-19-guadalajara-joven-guadalajara-inconclusa.md
 - 2019-07-15-cartogramas-con-recmap.md

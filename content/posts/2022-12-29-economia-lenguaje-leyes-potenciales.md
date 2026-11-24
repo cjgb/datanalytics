@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2022-12-29
-lastmod: '2025-04-06T18:52:48.860768'
+lastmod: '2026-09-04'
 related:
 - 2022-12-27-curso-luz-frias.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-02-03
-lastmod: '2025-04-06T19:01:52.805757'
+lastmod: '2025-04-07'
 related:
 - 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md
 - 2016-02-29-los-tres-contraargumentos-habituales.md

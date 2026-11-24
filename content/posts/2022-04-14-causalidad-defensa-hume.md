@@ -5,7 +5,7 @@ categories:
 date: 2022-04-14
 description: Es habitual hacer constar un defecto lógico en la definición de causalidad
   de Hume que aquí interpreto bajo una óptica distinta de la habitual
-lastmod: '2025-10-06T19:04:22.878141'
+lastmod: '2026-09-04'
 related:
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
 - 2025-01-09-causalidad-sujeto-verbo-od.md

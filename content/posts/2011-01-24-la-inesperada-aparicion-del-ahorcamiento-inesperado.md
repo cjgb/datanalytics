@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-24 11:18:09+00:00
 draft: false
-lastmod: '2025-04-06T18:59:58.811284'
+lastmod: '2026-09-04'
 related:
 - 2024-07-10-cortos-stats.md
 - 2014-10-14-amanece-me-cuenta-que-no-es-poco.md

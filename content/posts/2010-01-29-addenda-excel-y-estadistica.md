@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-01-29 19:43:50+00:00
-lastmod: '2025-04-06T19:08:08.621214'
+lastmod: '2025-09-25'
 related:
 - 2010-01-25-excel-y-estadistica.md
 - 2011-12-26-ibm-sobre-excel-como-herramienta-estadistica.md

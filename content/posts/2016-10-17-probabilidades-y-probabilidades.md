@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-10-17 08:13:59+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:17.641493'
+lastmod: '2025-11-10'
 related:
 - 2016-11-29-probabilidades-de-empates-en-elecciones.md
 - 2022-12-29-aristoteles-probable-improbable.md

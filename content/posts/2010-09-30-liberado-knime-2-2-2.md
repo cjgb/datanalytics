@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-09-30 22:12:11+00:00
-lastmod: '2025-04-06T18:48:56.960177'
+lastmod: '2026-01-31'
 noindex: true
 related:
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md

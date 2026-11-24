@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-07-18 07:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:00:33.934411'
+lastmod: '2026-09-04'
 related:
 - 2014-09-15-componentes-conexas-de-grafos-en-spark.md
 - 2014-07-09-estrategias-escalables-con-r.md

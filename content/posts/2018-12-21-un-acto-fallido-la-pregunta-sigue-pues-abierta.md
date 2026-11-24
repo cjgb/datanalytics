@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-12-21 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:48:14.822655'
+lastmod: '2026-10-12'
 related:
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md

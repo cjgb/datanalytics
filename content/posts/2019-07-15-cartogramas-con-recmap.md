@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-07-15 09:13:02+00:00
 draft: false
-lastmod: '2025-04-06T18:50:40.224893'
+lastmod: '2026-09-04'
 related:
 - 2016-05-10-cartogramas-rectangulares-con-r.md
 - 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md

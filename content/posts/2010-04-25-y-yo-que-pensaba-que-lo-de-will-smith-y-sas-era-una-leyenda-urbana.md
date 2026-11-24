@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-04-25 18:57:17+00:00
-lastmod: '2025-04-06T19:00:01.812502'
+lastmod: '2026-09-26'
 related:
 - 2014-10-20-roi-de-ida-y-vuelta.md
 - 2023-10-03-muestreo-superricos.md

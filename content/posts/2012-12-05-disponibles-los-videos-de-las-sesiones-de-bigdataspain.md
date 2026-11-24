@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2012-12-05 07:49:27+00:00
 noindex: true
-lastmod: '2025-04-06T19:06:28.927581'
+lastmod: '2026-01-31'
 related:
 - 2012-07-18-conferencia-sobre-grandes-datos.md
 - 2012-12-18-infografia-sobre-big-data-spain.md

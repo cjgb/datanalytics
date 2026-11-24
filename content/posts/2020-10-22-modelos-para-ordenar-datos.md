@@ -6,7 +6,7 @@ categories:
 - estadística
 date: 2020-10-22 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:02:52.812292'
+lastmod: '2025-04-07'
 related:
 - 2021-05-18-un-viejo-truco-para-que-r-vuele.md
 - 2019-08-07-mas-sobre-factores-strings-y-ordenacion.md

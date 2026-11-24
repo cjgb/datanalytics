@@ -6,7 +6,7 @@ categories:
 - r
 date: 2015-10-05 08:13:46+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:59.045089'
+lastmod: '2025-10-22'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md
 - 2016-04-13-quieres-aprender-r-matriculate-en-mi-curso-en-kschool.md

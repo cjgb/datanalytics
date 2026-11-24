@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-02-13 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:12:19.536598'
+lastmod: '2025-04-07'
 related:
 - 2020-02-06-model4you.md
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md

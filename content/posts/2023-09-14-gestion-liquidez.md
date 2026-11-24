@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-09-14
-lastmod: '2026-07-21'
+lastmod: '2026-09-04'
 related:
 - 2023-09-21-inversiones-renta-variable.md
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md

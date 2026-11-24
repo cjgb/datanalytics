@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-11-08 10:14:56+00:00
 draft: false
-lastmod: '2025-04-06T18:53:18.338835'
+lastmod: '2026-10-22'
 related:
 - 2018-10-05-licitaciones-por-insaculacion-ponderada.md
 - 2024-11-14-simpson-productividad.md

@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-01-29 08:13:40+00:00
 draft: false
-lastmod: '2025-04-06T19:02:10.323955'
+lastmod: '2026-09-04'
 related:
 - 2013-08-05-medianas-ponderadas.md
 - 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md

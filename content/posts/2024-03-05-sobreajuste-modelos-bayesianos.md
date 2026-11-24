@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-03-05
-lastmod: '2025-04-06T18:59:53.467007'
+lastmod: '2026-09-04'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

@@ -12,7 +12,7 @@ date: 2025-09-11
 description: 'Análisis crítico sobre la paradoja de la significancia estadística:
   cómo pequeños cambios no significativos pueden acumularse en transformaciones importantes.
   Reflexión sobre metodología científica y sentido común.'
-lastmod: '2025-09-27T17:40:04.315109'
+lastmod: '2025-11-05'
 related:
 - 2021-05-20-por-que-nos-habremos-acostumbrado-a-esto.md
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md

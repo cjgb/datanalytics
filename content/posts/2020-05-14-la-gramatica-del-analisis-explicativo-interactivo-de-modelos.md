@@ -7,7 +7,7 @@ categories:
 - r
 date: 2020-05-14 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:17.981369'
+lastmod: '2025-04-07'
 related:
 - 2020-06-12-explicacion-de-modelos.md
 - 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md

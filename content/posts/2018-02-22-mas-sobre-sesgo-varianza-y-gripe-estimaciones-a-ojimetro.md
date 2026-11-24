@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-02-22 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:46:40.067166'
+lastmod: '2025-05-05'
 related:
 - 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md

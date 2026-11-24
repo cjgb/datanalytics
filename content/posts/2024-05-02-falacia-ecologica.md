@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-05-02
-lastmod: '2025-04-06T19:12:35.825988'
+lastmod: '2026-09-26'
 related:
 - 2022-03-03-error-sesgo-modelos-lineales.md
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md

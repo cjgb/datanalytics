@@ -4,7 +4,7 @@ categories:
 - programación
 - r
 date: 2014-07-09 07:13:41+00:00
-lastmod: '2026-03-22'
+lastmod: '2026-09-04'
 related:
 - 2015-07-22-estrategias-escalables-con-r-2.md
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md

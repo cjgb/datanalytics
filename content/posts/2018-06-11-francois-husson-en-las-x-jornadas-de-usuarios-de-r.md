@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-06-11 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:06:29.748435'
+lastmod: '2026-10-12'
 related:
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md
 - 2015-02-06-romain-francois-y-francisco-viciana-en-el-grupo-de-usuarios-de-r-de-sevilla.md

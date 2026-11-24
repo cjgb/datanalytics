@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-03-20 08:44:17+00:00
 draft: false
-lastmod: '2025-04-06T19:09:05.965754'
+lastmod: '2026-10-12'
 related:
 - 2022-09-20-tools-etl-memory.md
 - 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md

@@ -5,7 +5,7 @@ categories:
 date: 2022-05-10
 description: Cómo replantear las encuestas electorales para que den respuesta a las
   preguntas que realmente importan
-lastmod: '2025-04-06T19:08:27.161109'
+lastmod: '2025-11-02'
 related:
 - 2023-05-09-encuestas-predicciones-electorales.md
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md

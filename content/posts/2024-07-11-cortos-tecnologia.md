@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-07-11
-lastmod: '2025-04-06T19:03:42.217597'
+lastmod: '2025-10-06'
 related:
 - 2024-06-25-consumo-llms.md
 - 2025-03-18-cortos-tecnologia.md

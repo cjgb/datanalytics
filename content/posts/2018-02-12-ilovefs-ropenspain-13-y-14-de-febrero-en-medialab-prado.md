@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2018-02-12 08:13:46+00:00
 noindex: true
-lastmod: '2025-04-06T19:05:40.699502'
+lastmod: '2026-01-31'
 related:
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

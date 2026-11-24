@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-10-03
-lastmod: '2025-04-06T19:11:05.514796'
+lastmod: '2026-09-03'
 related:
 - 2018-04-02-sobre-lo-de-cambridge-analytica.md
 - 2017-01-16-weapons-of-math-destruction.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-12-20 12:52:39+00:00
-lastmod: '2025-04-06T18:45:46.570318'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

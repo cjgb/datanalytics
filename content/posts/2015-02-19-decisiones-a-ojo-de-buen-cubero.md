@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2015-02-19 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:10:17.309284'
+lastmod: '2026-09-04'
 related:
 - 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
 - 2011-03-11-riesgo-e-incertidumbre.md

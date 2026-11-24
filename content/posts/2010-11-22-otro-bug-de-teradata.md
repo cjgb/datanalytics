@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-11-22 09:29:04+00:00
-lastmod: '2025-04-06T19:11:34.211458'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md

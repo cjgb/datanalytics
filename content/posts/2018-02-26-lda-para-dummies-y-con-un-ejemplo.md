@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-02-26 08:13:36+00:00
 draft: false
-lastmod: '2025-04-06T19:09:57.549016'
+lastmod: '2025-04-07'
 related:
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
 - 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md

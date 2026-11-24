@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-02-17 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T19:10:52.200659'
+lastmod: '2025-04-07'
 related:
 - 2015-08-27-tres-monedas-y-un-argumento-falaz.md
 - 2021-10-28-monty-hall-reformulado.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-05-10 23:10:48+00:00
-lastmod: '2025-04-06T18:56:42.181986'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md

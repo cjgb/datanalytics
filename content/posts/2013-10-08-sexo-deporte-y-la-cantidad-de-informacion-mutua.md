@@ -5,7 +5,7 @@ categories:
 - estadística
 - r
 date: 2013-10-08
-lastmod: '2025-04-06T18:59:40.485876'
+lastmod: '2026-09-04'
 related:
 - 2011-09-22-anonimidad-y-cantidad-de-informacion.md
 - 2024-06-20-mas-r-cuadrado.md

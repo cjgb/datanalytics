@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2022-10-27
-lastmod: '2025-04-06T19:10:41.470167'
+lastmod: '2025-11-02'
 related:
 - 2022-01-27-inflacion-media.md
 - 2022-05-17-como-calcula-inflacion.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-06-09
 description: La semántica de los modelos está proporcionada por la y
-lastmod: '2025-04-06T18:56:02.926900'
+lastmod: '2026-09-04'
 related:
 - 2017-12-04-la-magnitud-de-la-sequia.md
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md

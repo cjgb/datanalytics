@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-06-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:51.510820'
+lastmod: '2026-09-04'
 related:
 - 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
 - 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md

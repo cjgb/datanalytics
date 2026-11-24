@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2010-11-23 09:39:55+00:00
 draft: false
-lastmod: '2025-04-06T19:01:30.771911'
+lastmod: '2026-09-03'
 related:
 - 2017-10-24-tres-de-seis-consejos-para-mejorar-las-regresiones.md
 - 2012-02-23-higiene-numerica-para-periodistas.md

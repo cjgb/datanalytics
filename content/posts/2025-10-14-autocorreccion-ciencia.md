@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-10-14
 description: Analogía entre bases de datos distribuidas y el mecanismo autocorrector
   de la ciencia, con el cotilleo como pieza clave del proceso científico.
-lastmod: '2025-10-26T17:19:33.649219'
+lastmod: '2026-01-10'
 related:
 - 2025-07-15-cortos-mala-ciencia.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

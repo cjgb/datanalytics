@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2024-03-14 00:00:00
-lastmod: '2025-04-06T19:02:22.224256'
+lastmod: '2026-09-26'
 related:
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 - 2012-03-01-como-poner-una-lavadora.md

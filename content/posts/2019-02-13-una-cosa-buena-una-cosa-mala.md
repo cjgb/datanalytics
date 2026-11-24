@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-02-13 08:13:09+00:00
 draft: false
-lastmod: '2025-04-06T19:06:21.441485'
+lastmod: '2026-10-31'
 related:
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md
 - 2018-06-12-un-aplauso-para-el-ine.md

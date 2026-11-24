@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2015-08-31 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T19:08:15.078264'
+lastmod: '2025-10-12'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2024-10-03-ergodicidad.md

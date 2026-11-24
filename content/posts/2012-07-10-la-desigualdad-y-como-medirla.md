@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2012-07-10 06:48:45+00:00
 draft: false
-lastmod: '2025-04-06T18:47:04.405898'
+lastmod: '2026-09-04'
 related:
 - 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
 - 2011-02-25-1605.md

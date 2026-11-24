@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-02-08 08:13:54+00:00
 noindex: true
-lastmod: '2025-04-06T18:54:03.049105'
+lastmod: '2026-01-31'
 related:
 - 2010-04-11-google-public-data-explorer.md
 - 2018-03-15-si-te-tienen-que-explicar-por-que-algo-es-bueno-es-que-igual-no-es-tan-bueno.md

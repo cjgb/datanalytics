@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-11-29 06:58:02+00:00
 draft: false
-lastmod: '2025-04-06T18:58:17.206597'
+lastmod: '2026-09-04'
 related:
 - 2011-02-10-1440.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

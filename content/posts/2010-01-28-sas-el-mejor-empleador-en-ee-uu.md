@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2010-01-28 02:54:41+00:00
 noindex: true
-lastmod: '2025-04-06T19:09:23.308064'
+lastmod: '2026-09-26'
 related:
 - 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md

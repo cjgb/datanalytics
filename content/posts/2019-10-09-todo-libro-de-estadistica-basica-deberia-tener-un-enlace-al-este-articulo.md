@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-10-09 09:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:12:39.746551'
+lastmod: '2025-04-07'
 related:
 - 2018-03-19-lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies.md
 - 2020-10-08-usa-uno-u-otro-mapa-segun-tus-intereses.md

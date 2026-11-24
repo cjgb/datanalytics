@@ -6,7 +6,7 @@ categories:
 - r
 date: 2011-07-26 07:55:41+00:00
 draft: false
-lastmod: '2025-04-06T18:55:30.412101'
+lastmod: '2026-09-26'
 related:
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
 - 2024-02-22-probabilidad-banca.md

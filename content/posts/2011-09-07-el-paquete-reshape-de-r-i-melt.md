@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-07 07:45:36+00:00
 draft: false
-lastmod: '2025-04-06T18:56:09.047646'
+lastmod: '2026-09-04'
 related:
 - 2016-05-17-melt-y-cast-en-spark-con-scala.md
 - 2015-03-12-datos-en-formato-largo-y-melt.md

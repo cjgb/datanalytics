@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2020-12-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:58.861189'
+lastmod: '2026-10-08'
 related:
 - 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 - 2021-12-02-por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid.md

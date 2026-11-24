@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2014-05-16 07:14:27+00:00
 draft: false
-lastmod: '2025-04-06T19:00:03.361538'
+lastmod: '2026-09-04'
 related:
 - 2014-03-10-guarjolizacion-de-fotos-con-r.md
 - 2016-09-05-mezclas-de-vectores-iii-las-funciones-involucradas.md

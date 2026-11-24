@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-07-13 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:54:10.352775'
+lastmod: '2025-11-02'
 related:
 - 2016-04-25-discretizacion-de-variables-continuas-con-arboles.md
 - 2024-01-23-arboles-olvidadizos.md

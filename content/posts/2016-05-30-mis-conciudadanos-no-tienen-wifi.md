@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-05-30 08:13:01+00:00
-lastmod: '2026-01-23'
+lastmod: '2026-09-04'
 related:
 - 2015-01-08-tres-libros-mas-una-biblioteca-menos.md
 - 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md

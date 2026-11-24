@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-05-10 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T18:59:30.019404'
+lastmod: '2026-09-04'
 related:
 - 2014-11-04-dislexia-probabilistica.md
 - 2018-05-11-cis-ideologia-graficos-y-si-este-blog.md

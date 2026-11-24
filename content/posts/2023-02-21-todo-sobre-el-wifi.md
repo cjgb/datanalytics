@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-02-21
-lastmod: '2025-04-06T19:02:25.981061'
+lastmod: '2026-09-03'
 related:
 - 2021-04-06-sobre-helium.md
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md

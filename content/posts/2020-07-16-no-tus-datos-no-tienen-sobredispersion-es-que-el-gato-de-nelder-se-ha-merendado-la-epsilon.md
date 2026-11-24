@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-07-16 12:05:57+00:00
 draft: false
-lastmod: '2025-04-06T19:12:47.351661'
+lastmod: '2025-04-07'
 related:
 - 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
 - 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2012-05-22 07:40:52+00:00
 draft: false
-lastmod: '2025-04-06T18:53:19.788361'
+lastmod: '2026-09-04'
 related:
 - 2014-02-05-el-otro-problema-del-cumpleanos.md
 - 2017-02-06-1e-por-doquier.md

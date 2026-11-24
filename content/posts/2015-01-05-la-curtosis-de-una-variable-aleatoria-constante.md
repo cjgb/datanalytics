@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-01-05 07:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:46:40.765217'
+lastmod: '2025-10-12'
 related:
 - 2020-09-24-un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

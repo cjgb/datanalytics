@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-04-26 08:13:37+00:00
 draft: false
-lastmod: '2025-04-06T19:07:40.091673'
+lastmod: '2025-10-12'
 related:
 - 2015-05-05-intervalos-de-credibilidad-para-la-beta-una-alternativa.md
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md

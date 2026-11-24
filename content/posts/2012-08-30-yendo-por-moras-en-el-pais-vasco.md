@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-08-30 07:18:47+00:00
 draft: false
-lastmod: '2025-04-06T18:54:25.093638'
+lastmod: '2026-10-12'
 related:
 - 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
 - 2012-03-07-esperanzador-no-varianzador.md

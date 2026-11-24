@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2014-11-26 07:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:55:47.077595'
+lastmod: '2026-09-04'
 related:
 - 2022-02-01-abundancia-roja.md
 - 2012-03-28-contrafactualidad-radial.md

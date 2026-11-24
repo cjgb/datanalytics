@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-10-02 08:12:35+00:00
 draft: false
-lastmod: '2025-04-06T19:13:05.744909'
+lastmod: '2026-10-12'
 related:
 - 2018-02-19-podeis-probarme-le-catastro-porfa.md
 - 2017-06-12-la-anticonferencia-una-idea-que-me-ronda-la-cabeza.md

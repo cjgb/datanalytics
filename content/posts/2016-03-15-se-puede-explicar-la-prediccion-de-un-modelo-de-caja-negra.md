@@ -6,7 +6,7 @@ categories:
 - r
 date: 2016-03-15 09:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:55:52.310837'
+lastmod: '2026-09-04'
 related:
 - 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
 - 2014-10-06-el-problema-del-100-y-un-ensayo-de-solucion.md

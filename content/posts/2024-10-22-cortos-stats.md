@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-10-22
-lastmod: '2025-04-06T19:08:44.912439'
+lastmod: '2026-02-23'
 related:
 - 2024-03-05-sobreajuste-modelos-bayesianos.md
 - 2024-02-01-optimizacion-generalizacion.md

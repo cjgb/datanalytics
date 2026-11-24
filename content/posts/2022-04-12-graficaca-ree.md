@@ -5,7 +5,7 @@ categories:
 date: 2022-04-12
 description: REE debería replantearse cuál es la manera más efectiva de representar
   la 'estructura de generación' eléctrica
-lastmod: '2025-04-06T18:53:49.497961'
+lastmod: '2025-11-02'
 related:
 - 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
 - 2022-09-08-regresion-perdida-asimetrica.md

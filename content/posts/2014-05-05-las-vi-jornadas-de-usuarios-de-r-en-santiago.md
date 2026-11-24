@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-05-05 09:20:17+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:45.193329'
+lastmod: '2026-01-31'
 related:
 - 2013-07-15-las-v-jornadas-de-usuarios-de-r-en-zaragoza.md
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

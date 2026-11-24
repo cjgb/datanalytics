@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-09-05
-lastmod: '2025-04-06T18:48:41.525481'
+lastmod: '2026-09-04'
 related:
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 - 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md

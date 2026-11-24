@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2017-06-02 08:13:06+00:00
 noindex: true
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
 - 2019-10-08-voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe.md

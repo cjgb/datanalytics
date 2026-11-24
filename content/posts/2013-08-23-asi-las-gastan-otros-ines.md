@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-08-23 07:46:19+00:00
 draft: false
-lastmod: '2025-04-06T19:04:37.538201'
+lastmod: '2026-10-12'
 related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md

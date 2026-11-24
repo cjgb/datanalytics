@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-08-29 09:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:49:54.705521'
+lastmod: '2025-05-05'
 related:
 - 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md
 - 2011-12-19-la-correlacion-del-siglo-xxi.md

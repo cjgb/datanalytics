@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-10-19 21:50:25+00:00
-lastmod: '2025-04-06T18:59:52.733147'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-06-08-20-10-2010-dia-mundial-de-la-estadistica-y-terremotos.md

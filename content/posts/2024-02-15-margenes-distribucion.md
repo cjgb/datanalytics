@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2024-02-15
-lastmod: '2025-04-06T19:04:06.222994'
+lastmod: '2026-09-04'
 related:
 - 2023-11-21-sumas-lognormales.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md

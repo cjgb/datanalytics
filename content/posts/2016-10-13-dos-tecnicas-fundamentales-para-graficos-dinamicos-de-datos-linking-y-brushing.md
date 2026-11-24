@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2016-10-13 08:13:39+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2014-05-07-graficos-de-mosaico-si-o-no.md
 - 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md

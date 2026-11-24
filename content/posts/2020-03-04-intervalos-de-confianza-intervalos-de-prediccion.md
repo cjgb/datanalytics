@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-03-04 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:07.728255'
+lastmod: '2026-11-23'
 related:
 - 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
 - 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
@@ -28,12 +28,6 @@ modelo <- lm(dist ~ speed, data = cars)
 ```
 
 Intervalos de confianza:
-
-
-
-
-
-
 
 ```r
 head(predict(modelo, interval = "confidence"))
@@ -59,4 +53,4 @@ head(predict(modelo, interval = "prediction"))
 #6 17.812584 -13.87225 49.49741
 ```
 
-Creo que la diferencia (y el significado) es claro. Para todos los demás, [esto](https://datascienceplus.com/prediction-interval-the-wider-sister-of-confidence-interval/).
+Creo que la diferencia (y el significado) está clara. Para todos los demás, [esto](https://datascienceplus.com/prediction-interval-the-wider-sister-of-confidence-interval/).

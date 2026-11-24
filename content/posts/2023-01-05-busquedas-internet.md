@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-01-05
-lastmod: '2025-04-06T19:11:12.914445'
+lastmod: '2026-09-03'
 related:
 - 2023-10-19-errores-chatgpt.md
 - 2017-11-14-advertencias-sobre-el-uso-de-los-n-gramas-de-google.md

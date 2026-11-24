@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-02-27 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:08:40.973449'
+lastmod: '2026-10-12'
 related:
 - 2017-03-03-wikipedia-prophet.md
 - 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md

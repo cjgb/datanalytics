@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-07-08 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:19.580656'
+lastmod: '2025-10-12'
 related:
 - 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
 - 2020-02-24-to-irls-or-not-to-irls.md

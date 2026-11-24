@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-02-07
-lastmod: '2025-04-06T18:57:28.784290'
+lastmod: '2026-09-04'
 related:
 - 2023-01-18-modelo-poisson-numpyro.md
 - 2022-07-26-hueco-termico.md

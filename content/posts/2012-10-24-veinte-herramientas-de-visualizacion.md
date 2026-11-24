@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-10-24 07:54:41+00:00
 draft: false
-lastmod: '2025-04-06T18:52:20.772365'
+lastmod: '2026-10-12'
 related:
 - 2011-03-29-graficos-ii-herramientas.md
 - 2016-04-27-graficos-interactivos-con-r-un-resumen.md

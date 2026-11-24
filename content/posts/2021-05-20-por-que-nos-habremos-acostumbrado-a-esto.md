@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-05-20 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:52:36.237481'
+lastmod: '2025-04-07'
 related:
 - 2015-09-10-ayer-me-puse-el-sombrero-negro.md
 - 2024-09-26-exigencias-aisladas-rigor.md

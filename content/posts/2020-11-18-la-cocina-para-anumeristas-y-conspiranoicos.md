@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2020-11-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:06.360364'
+lastmod: '2026-09-04'
 related:
 - 2018-10-01-acerca-del-cis-y-la-cocina.md
 - 2023-05-09-encuestas-predicciones-electorales.md

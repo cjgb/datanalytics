@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-02-11
-lastmod: '2025-04-06T19:06:10.406447'
+lastmod: '2025-09-29'
 related:
 - 2023-10-19-errores-chatgpt.md
 - 2024-03-21-cortos.md

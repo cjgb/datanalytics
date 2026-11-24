@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-07-13 22:18:03+00:00
-lastmod: '2025-04-06T18:45:55.912764'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-05-24-se-buscan-alpha-testers-para-rpython.md

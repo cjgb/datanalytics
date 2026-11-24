@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-11-09 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T18:52:36.904620'
+lastmod: '2025-04-07'
 related:
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
 - 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2017-01-30 08:13:33+00:00
 noindex: true
-lastmod: '2025-04-06T19:00:07.975698'
+lastmod: '2026-07-17'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
 - 2017-03-07-en-contra-del-estado-de-derecho.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-01-25
-lastmod: '2025-04-06T18:52:42.205931'
+lastmod: '2026-09-04'
 related:
 - 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

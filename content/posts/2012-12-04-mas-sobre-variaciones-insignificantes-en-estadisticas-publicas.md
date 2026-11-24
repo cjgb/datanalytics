@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-12-04 07:56:48+00:00
 draft: false
-lastmod: '2025-04-06T19:09:51.026765'
+lastmod: '2026-05-08'
 related:
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md

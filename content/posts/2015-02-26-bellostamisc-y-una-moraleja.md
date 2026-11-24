@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2015-02-26 08:13:59+00:00
 draft: false
-lastmod: '2025-04-06T18:52:59.086487'
+lastmod: '2026-10-12'
 related:
 - 2024-10-29-cortos-stats.md
 - 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md

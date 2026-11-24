@@ -6,7 +6,7 @@ date: 2025-04-17
 description: 'Se estudia la relación entre la dispersión de las probabilidades y el
   AUC en modelos bien calibrados: para obtener AUC alto, hace falta que no haya scorings
   cerca de 0.5.'
-lastmod: '2025-05-10T18:01:48.688140'
+lastmod: '2025-11-02'
 related:
 - 2016-03-29-el-auc-es-la-probabilidad-de-que.md
 - 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md

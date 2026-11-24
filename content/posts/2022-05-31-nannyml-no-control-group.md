@@ -5,7 +5,7 @@ categories:
 date: 2022-05-31
 description: Evaluando NannyML y la promesa de que estima la bondad de un modelo sin
   necesidad de un grupo de control
-lastmod: '2025-04-06T19:05:10.818831'
+lastmod: '2026-09-04'
 related:
 - 2023-03-02-conformal-prediction.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

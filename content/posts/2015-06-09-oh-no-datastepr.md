@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-09 08:12:02+00:00
 draft: false
-lastmod: '2025-04-06T18:59:06.244389'
+lastmod: '2025-04-07'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md

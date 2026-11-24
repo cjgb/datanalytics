@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2018-02-07 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:57:56.873297'
+lastmod: '2025-04-07'
 related:
 - 2015-10-14-del-hombre-medio-a-la-factura-media.md
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md

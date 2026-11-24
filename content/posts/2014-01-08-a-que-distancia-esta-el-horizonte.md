@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-01-08 07:09:09+00:00
 noindex: true
-lastmod: '2025-04-06T18:55:09.919568'
+lastmod: '2026-07-10'
 related:
 - 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md

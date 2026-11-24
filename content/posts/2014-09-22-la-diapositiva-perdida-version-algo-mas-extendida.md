@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-09-22 07:13:49+00:00
 draft: false
-lastmod: '2025-04-06T18:54:50.862135'
+lastmod: '2026-09-04'
 related:
 - 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

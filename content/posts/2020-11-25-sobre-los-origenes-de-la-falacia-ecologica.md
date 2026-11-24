@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-11-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:17.844468'
+lastmod: '2026-09-04'
 related:
 - 2024-04-30-falacia-ecologica.md
 - 2024-05-02-falacia-ecologica.md

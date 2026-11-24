@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-05-21 07:01:29+00:00
 draft: false
-lastmod: '2025-04-06T19:10:22.677136'
+lastmod: '2026-09-04'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md

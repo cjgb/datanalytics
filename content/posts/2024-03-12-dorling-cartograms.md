@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2024-03-12
-lastmod: '2025-04-06T18:45:06.327173'
+lastmod: '2026-09-26'
 related:
 - 2019-07-15-cartogramas-con-recmap.md
 - 2013-12-10-te-queda-lejos-el-aeropuerto.md

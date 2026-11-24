@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-10-06 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:03:36.766076'
+lastmod: '2025-11-02'
 related:
 - 2015-10-09-madrid-decide-propone-vota-etc.md
 - 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md

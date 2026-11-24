@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-07-18 06:59:35+00:00
-lastmod: '2025-04-06T18:47:13.026740'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2013-09-23-recordatorio-v-jornadas-de-usuarios-de-r-diciembre-2013-zaragoza.md

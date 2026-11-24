@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-04-11 09:13:38+00:00
 draft: false
-lastmod: '2025-04-06T18:47:11.703105'
+lastmod: '2025-04-07'
 related:
 - 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
 - 2015-02-18-vernacularidades-no-gracias.md

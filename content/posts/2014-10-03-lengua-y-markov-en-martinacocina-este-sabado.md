@@ -4,7 +4,7 @@ categories:
 - nlp
 date: 2014-10-03
 noindex: true
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2015-03-03-iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones.md
 - 2013-05-13-charla-un-lematizador-probabilistico-con-r.md

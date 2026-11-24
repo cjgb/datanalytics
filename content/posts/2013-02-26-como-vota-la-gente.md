@@ -4,6 +4,7 @@ categories:
 - consultoría
 - estadística
 date: 2013-02-26 07:04:39+00:00
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2012-05-14-c2bfse-puede-predecir-con-twitter.md

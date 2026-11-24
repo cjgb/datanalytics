@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-06-11 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:49:03.709171'
+lastmod: '2026-09-04'
 related:
 - 2010-07-04-exagerados.md
 - 2014-02-17-donde-estoy-donde-estare.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-10-08 07:26:14+00:00
 noindex: true
-lastmod: '2025-04-06T19:11:06.601520'
+lastmod: '2026-10-12'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

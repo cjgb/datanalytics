@@ -6,7 +6,7 @@ categories:
 - r
 date: 2014-07-17 07:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:11:04.733274'
+lastmod: '2026-09-04'
 related:
 - 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

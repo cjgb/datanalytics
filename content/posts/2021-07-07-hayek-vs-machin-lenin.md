@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2021-07-07 23:10:00+00:00
 draft: false
-lastmod: '2025-04-06T18:57:53.770121'
+lastmod: '2025-04-07'
 related:
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 - 2022-02-01-abundancia-roja.md

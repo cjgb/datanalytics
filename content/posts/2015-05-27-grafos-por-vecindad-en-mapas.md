@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-05-27 08:13:53+00:00
 draft: false
-lastmod: '2025-04-06T19:00:10.860648'
+lastmod: '2026-09-04'
 related:
 - 2019-07-15-cartogramas-con-recmap.md
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md

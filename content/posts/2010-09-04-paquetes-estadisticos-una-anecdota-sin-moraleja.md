@@ -5,7 +5,7 @@ categories:
 - r
 date: 2010-09-04 13:11:19+00:00
 draft: false
-lastmod: '2025-04-06T19:12:18.142526'
+lastmod: '2026-09-04'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2012-07-27-a-los-datos-mismos.md

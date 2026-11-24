@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2012-06-29 06:23:58+00:00
 draft: false
-lastmod: '2025-04-06T19:10:06.533734'
+lastmod: '2026-09-04'
 related:
 - 2017-09-29-bus-al-norte-bus-al-sur.md
 - 2019-02-05-taxis-y-su-huelga-y-trafico-en-madrid.md

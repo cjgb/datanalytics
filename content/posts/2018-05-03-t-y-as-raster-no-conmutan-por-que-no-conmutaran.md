@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-05-03 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T19:11:35.758654'
+lastmod: '2026-09-04'
 related:
 - 2017-09-06-python-y-r-una-perspectiva-markoviana.md
 - 2014-05-12-grid-scala-y-arbolitos.md

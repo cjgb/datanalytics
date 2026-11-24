@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-01-23 08:41:09+00:00
 draft: false
-lastmod: '2025-04-06T19:09:00.245916'
+lastmod: '2026-10-12'
 related:
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 - 2011-06-14-la-historia-de-cart-una-segunda-parte.md

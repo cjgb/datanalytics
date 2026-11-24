@@ -5,7 +5,7 @@ categories:
 date: 2025-05-13
 description: Una serie de enlaces y noticias sobre el mundo de los LLMs y su intersección
   con la estadística, el análisis de datos y, en particular, las series temporales.
-lastmod: '2025-06-20T00:23:38.956615'
+lastmod: '2025-09-29'
 related:
 - 2025-04-15-cortos-llm.md
 - 2025-03-25-cortos-llms.md

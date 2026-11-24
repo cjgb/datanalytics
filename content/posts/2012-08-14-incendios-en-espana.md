@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-08-14 07:03:50+00:00
 draft: false
-lastmod: '2025-04-06T19:01:41.368374'
+lastmod: '2026-10-12'
 related:
 - 2011-12-12-estadisticas-de-incendios-forestales-en-espana.md
 - 2012-07-20-deshaucios-en-espana-y-su-estructura-geografica.md

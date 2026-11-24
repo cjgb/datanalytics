@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-01-14 07:57:32+00:00
 noindex: true
-lastmod: '2025-04-06T18:58:11.931590'
+lastmod: '2026-01-31'
 related:
 - 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md

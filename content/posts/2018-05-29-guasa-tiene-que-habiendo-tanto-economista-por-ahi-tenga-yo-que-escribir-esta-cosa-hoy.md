@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2018-05-29 08:13:28+00:00
 draft: false
-lastmod: '2025-04-06T18:52:46.191690'
+lastmod: '2026-10-12'
 related:
 - 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md

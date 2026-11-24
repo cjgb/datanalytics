@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-01-12 07:14:49+00:00
 draft: false
-lastmod: '2025-04-06T18:53:11.393618'
+lastmod: '2026-09-04'
 related:
 - 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

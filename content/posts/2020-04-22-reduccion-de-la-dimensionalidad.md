@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-04-22 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:52.656871'
+lastmod: '2025-11-02'
 related:
 - 2017-03-08-reduccion-de-la-dimensionalidad-con-t-sne.md
 - 2015-03-24-compresion-con-svd.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-11-16 08:13:02+00:00
 draft: false
-lastmod: '2025-04-06T18:56:40.590646'
+lastmod: '2026-09-04'
 related:
 - 2020-09-17-una-herramienta-para-el-analisis-no-parametrico-de-series-temporales.md
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-13 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:34.004587'
+lastmod: '2026-10-08'
 related:
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 - 2012-04-30-contar-c2bffacil.md

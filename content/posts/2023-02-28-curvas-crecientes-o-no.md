@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-02-28
-lastmod: '2025-04-06T18:54:34.560880'
+lastmod: '2025-11-02'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2022-12-06-lineal-o-exponencial.md

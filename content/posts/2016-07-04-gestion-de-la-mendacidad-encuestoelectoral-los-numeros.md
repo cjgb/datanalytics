@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-07-04 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:08:17.305574'
+lastmod: '2026-09-04'
 related:
 - 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-12-13 08:13:05+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:10.723162'
+lastmod: '2026-09-04'
 related:
 - 2015-04-07-telegram-me.md
 - 2017-01-04-que-la-imaginacion-te-acompane.md

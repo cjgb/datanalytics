@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2014-01-16 08:31:50+00:00
 draft: false
-lastmod: '2025-04-06T18:46:08.695456'
+lastmod: '2026-09-04'
 related:
 - 2010-08-28-la-funcion-ifelse-a-la-sas.md
 - 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md

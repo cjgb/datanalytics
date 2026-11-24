@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-09-25 14:04:15+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
 - 2012-01-24-c2bfque-es-un-data-scientist.md

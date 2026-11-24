@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2026-06-16
 description: null
-lastmod: '2026-06-16T13:20:22.187009'
+lastmod: '2026-06-30'
 noindex: true
 related:
 - 2023-11-10-charla-universidad-oviedo.md

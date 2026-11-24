@@ -5,7 +5,7 @@ categories:
 - mala ciencia
 date: 2019-01-10 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T18:58:26.402444'
+lastmod: '2025-04-07'
 related:
 - 2015-09-10-ayer-me-puse-el-sombrero-negro.md
 - 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md

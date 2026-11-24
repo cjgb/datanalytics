@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-07-22 07:28:00+00:00
 draft: false
-lastmod: '2025-04-06T18:49:07.682301'
+lastmod: '2025-04-07'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 - 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md

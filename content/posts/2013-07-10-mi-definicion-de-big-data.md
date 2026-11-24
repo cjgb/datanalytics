@@ -5,7 +5,7 @@ categories:
 - programación
 date: 2013-07-10 07:33:03+00:00
 draft: false
-lastmod: '2025-04-06T18:52:19.400935'
+lastmod: '2025-07-22'
 related:
 - 2014-07-09-estrategias-escalables-con-r.md
 - 2011-09-28-datos-grandes-colas-largas.md

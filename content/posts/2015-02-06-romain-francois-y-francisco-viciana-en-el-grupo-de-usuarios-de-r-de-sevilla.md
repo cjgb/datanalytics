@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-02-06 07:13:17+00:00
 noindex: true
-lastmod: '2025-04-06T19:01:00.034585'
+lastmod: '2026-10-12'
 related:
 - 2014-11-18-sevilla-otro-grupo-local-de-usuarios-de-r.md
 - 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md

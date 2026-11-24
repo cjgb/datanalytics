@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2012-05-10 06:46:30+00:00
 draft: false
-lastmod: '2025-04-06T19:05:02.265581'
+lastmod: '2026-10-22'
 related:
 - 2012-05-09-modelos-exponenciales-para-grafos-aleatorios-i-motivacion.md
 - 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md

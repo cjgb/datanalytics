@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-04-30 06:51:55+00:00
 draft: false
-lastmod: '2025-04-06T18:44:34.957942'
+lastmod: '2026-09-04'
 related:
 - 2012-09-05-los-principales-problemas-de-espana.md
 - 2014-10-30-y-si-no-se-mantuvieran.md

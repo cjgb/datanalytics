@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2014-01-21 06:56:22+00:00
 draft: false
-lastmod: '2025-04-06T18:49:02.390782'
+lastmod: '2026-09-04'
 related:
 - 2015-02-10-vuelvo-a-espana.md
 - 2010-10-03-cambios-cosmeticos-en-el-blog.md

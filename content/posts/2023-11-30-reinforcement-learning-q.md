@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2023-11-30
 draft: false
-lastmod: '2025-04-06T19:13:15.338483'
+lastmod: '2026-09-03'
 related:
 - 2022-07-26-hueco-termico.md
 - 2024-02-01-optimizacion-generalizacion.md

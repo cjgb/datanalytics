@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-10-03 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:04:36.737360'
+lastmod: '2026-07-10'
 related:
 - 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 - 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md

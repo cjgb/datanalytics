@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2011-05-04 07:04:13+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2011-06-02-sobre-la-encuesta-sobre-mineria-de-datos-de-rexer-analytics.md
 - 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md

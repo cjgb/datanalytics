@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-10-02 08:13:54+00:00
-lastmod: '2025-04-06T19:04:13.691589'
+lastmod: '2026-09-04'
 related:
 - 2014-05-14-y-sin-embargo-te-quiero.md
 - 2010-11-24-programacion-funcional-en-r-filter.md

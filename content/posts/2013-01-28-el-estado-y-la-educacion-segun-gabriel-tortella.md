@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2013-01-28 07:13:59+00:00
-draft: false
-lastmod: '2025-04-06T19:02:54.226793'
+lastmod: '2026-11-23'
 related:
 - 2023-01-26-educacion-tabarrok.md
 - 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
@@ -13,11 +12,12 @@ related:
 - 2011-08-24-tasa-tobin-una-discusion-casi-empirica.md
 tags:
 - números
+- gabriel tortella
 title: El estado y  la educación, según Gabriel Tortella
 url: /2013/01/28/el-estado-y-la-educacion-segun-gabriel-tortella/
 ---
 
-Mi copia de [El desarrollo de la España contemporánea](http://dialnet.unirioja.es/servlet/libro?codigo=97563), de [Gabriel Tortella](http://es.wikipedia.org/wiki/Gabriel_Tortella), ya amarillea. Igual hace 15 años que lo compré y lo leí.
+Mi copia de [El desarrollo de la España contemporánea](http://dialnet.unirioja.es/servlet/libro?codigo=97563), de [Gabriel Tortella](http://es.wikipedia.org/wiki/Gabriel_Tortella), ya amarillea. Igual hace 15 años que lo compré y leí.
 
 Aparte de ese sustrato de conocimiento que se le puede quedar a uno prendido tras leer lo que lee, de este libro me han venido resonando con fuerza en la memoria unas cuantas líneas que se me quedaron grabadas desde fines del siglo pasado. Son estas:
 

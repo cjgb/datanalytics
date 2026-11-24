@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-10-22 22:59:24+00:00
-lastmod: '2025-04-06T18:53:55.517810'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md

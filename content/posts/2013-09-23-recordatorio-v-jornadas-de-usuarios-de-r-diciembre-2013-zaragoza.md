@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2013-09-23 07:19:46+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:04.274364'
+lastmod: '2026-10-06'
 related:
 - 2013-07-15-las-v-jornadas-de-usuarios-de-r-en-zaragoza.md
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-04-08 09:13:10+00:00
 noindex: true
-lastmod: '2025-04-06T18:55:54.793569'
+lastmod: '2026-07-17'
 related:
 - 2019-04-22-ml-y-estadistica-cosas-distintas.md
 - 2019-02-20-todo-lo-que-deberias-saber-sobre-encodings.md

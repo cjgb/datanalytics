@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-10-26 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:09:08.775559'
+lastmod: '2025-04-07'
 related:
 - 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 - 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md

@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-10-17 07:08:24+00:00
 description: Sobre el riesgo de los proyectos de IT y la distribución de los casos extremos en sobrecostes.
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md

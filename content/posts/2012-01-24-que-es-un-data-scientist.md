@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2012-01-24 07:24:01+00:00
 draft: false
-lastmod: '2025-04-06T18:49:27.701226'
+lastmod: '2026-10-12'
 related:
 - 2014-10-08-eres-un-buen-cientifico-de-datos.md
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md

@@ -5,7 +5,7 @@ categories:
 date: 2026-10-01
 description: Los LLMs han supuesto un «shock» hiperinflacionista en el sistema económico
   tradicional de las matemáticas.
-lastmod: '2026-09-25T10:55:47.684927'
+lastmod: '2026-10-12'
 related:
 - 2026-03-12-llms-conocimiento-legible.md
 - 2026-05-12-cortos-economia.md

@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2015-12-15 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:04:27.585761'
+lastmod: '2026-09-04'
 related:
 - 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
 - 2011-11-25-escalas-logaritimicas-puede-pero.md

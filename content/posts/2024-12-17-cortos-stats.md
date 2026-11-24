@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-12-17
-lastmod: '2025-04-06T18:50:28.899184'
+lastmod: '2026-10-12'
 related:
 - 2016-09-26-encuestas-electorales-una-propuesta.md
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-01-31 09:52:58+00:00
-lastmod: '2025-04-06T18:52:17.416983'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2012-12-11-prueba-r-gentileza-de-code-school-com.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-10-18 09:15:10+00:00
 draft: false
-lastmod: '2025-04-06T18:59:28.621719'
+lastmod: '2026-09-03'
 related:
 - 2012-08-14-incendios-en-espana.md
 - 2013-06-14-teruel-orense-palencia-y-adenoidectomias.md

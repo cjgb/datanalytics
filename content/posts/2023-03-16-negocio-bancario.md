@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-03-16
-lastmod: '2025-04-06T19:00:17.370483'
+lastmod: '2025-04-07'
 related:
 - 2023-09-14-gestion-liquidez.md
 - 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md

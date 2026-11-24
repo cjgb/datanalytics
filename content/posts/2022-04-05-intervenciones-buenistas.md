@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-04-05
-lastmod: '2025-04-06T18:55:38.241341'
+lastmod: '2025-04-07'
 related:
 - 2022-03-08-estadistica-ciencias-blandas.md
 - 2020-05-26-poor-economics-el-resumen.md

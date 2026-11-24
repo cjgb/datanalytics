@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-04-18 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T19:06:55.098388'
+lastmod: '2025-04-07'
 related:
 - 2012-10-30-cultura-numerica-incultura-numerica.md
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-05-14 08:20:38+00:00
 draft: false
-lastmod: '2025-04-06T18:58:43.032993'
+lastmod: '2025-04-07'
 related:
 - 2020-12-04-sobre-la-carta-de-derechos-digitales.md
 - 2017-11-29-antropocentrismo-cansino.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-09-09 07:13:03+00:00
 draft: false
-lastmod: '2025-04-06T19:09:52.817635'
+lastmod: '2026-09-04'
 related:
 - 2014-05-12-grid-scala-y-arbolitos.md
 - 2015-03-24-compresion-con-svd.md

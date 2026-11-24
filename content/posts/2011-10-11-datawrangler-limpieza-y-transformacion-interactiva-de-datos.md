@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2011-10-11 07:05:16+00:00
 draft: false
-lastmod: '2025-04-06T18:47:27.967161'
+lastmod: '2026-09-04'
 related:
 - 2011-06-28-google-refine-para-analizar-estudiar-y-limpiar-los-datos.md
 - 2010-11-12-google-refine-2-0-una-herramienta-con-muy-buen-aspecto.md

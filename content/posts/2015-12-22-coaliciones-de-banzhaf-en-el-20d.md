@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-12-22 08:13:22+00:00
 draft: false
-lastmod: '2025-04-06T19:11:41.554359'
+lastmod: '2026-09-04'
 related:
 - 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
 - 2012-04-04-de-dhondt-a-banzhaf.md

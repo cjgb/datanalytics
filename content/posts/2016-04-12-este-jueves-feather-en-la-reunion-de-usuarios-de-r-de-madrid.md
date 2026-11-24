@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-04-12 09:13:01+00:00
 noindex: true
-lastmod: '2025-04-06T19:02:04.423672'
+lastmod: '2026-01-31'
 related:
 - 2016-04-19-diapositivas-de-mi-charla-sobre-feather.md
 - 2012-04-24-segunda-reunion-de-usuarios-de-r-de-madrid-recordatorio.md

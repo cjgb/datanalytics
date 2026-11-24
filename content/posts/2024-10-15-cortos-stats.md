@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-10-15
-lastmod: '2025-04-06T19:00:04.135272'
+lastmod: '2026-07-30'
 related:
 - 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
 - 2024-07-10-cortos-stats.md

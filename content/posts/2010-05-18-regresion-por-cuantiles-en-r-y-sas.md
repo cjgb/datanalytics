@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2010-05-18 20:52:08+00:00
-lastmod: '2025-04-06T18:55:04.739736'
+lastmod: '2026-09-26'
 related:
 - 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
 - 2013-08-05-medianas-ponderadas.md

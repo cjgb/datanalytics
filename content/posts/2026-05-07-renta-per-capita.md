@@ -5,7 +5,7 @@ categories:
 date: 2026-05-07
 description: ¿Por qué un bajo crecimiento del PIB per cápita no siempre es negativo?
   La relación de este indicador con la llamada «paradoja de Simpson».
-lastmod: '2026-05-02T01:54:26.594569'
+lastmod: '2026-09-04'
 related:
 - 2024-11-14-simpson-productividad.md
 - 2026-01-14-pib-trabajos.md

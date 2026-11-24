@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-04 09:13:51+00:00
 draft: false
-lastmod: '2025-04-06T19:07:06.776553'
+lastmod: '2026-09-04'
 related:
 - 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 - 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md

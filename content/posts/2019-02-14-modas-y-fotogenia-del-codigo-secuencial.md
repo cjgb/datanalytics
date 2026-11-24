@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-02-14 08:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:09:54.415317'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2015-02-11-recurrencia-recurrente.md

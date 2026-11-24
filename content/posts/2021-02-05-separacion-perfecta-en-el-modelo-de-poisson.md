@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2021-02-05 09:13:00+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md

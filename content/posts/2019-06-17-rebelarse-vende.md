@@ -4,7 +4,7 @@ categories:
 - libros
 date: 2019-06-17 09:13:01+00:00
 draft: false
-lastmod: '2025-04-06T18:54:57.573823'
+lastmod: '2025-11-02'
 related:
 - 2018-01-19-poor-economics-una-microcritica.md
 - 2012-10-25-predictably-irrational.md

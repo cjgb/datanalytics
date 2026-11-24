@@ -8,7 +8,7 @@ categories:
 - estadística bayesiana
 date: 2025-06-12
 description: Sobre el efecto de los tipos de interés en los mercados de apuestas y de cómo sesgan las probabilidades
-lastmod: '2025-07-15T12:14:45.682726'
+lastmod: '2025-11-05'
 related:
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
 - 2022-09-15-perder-ganando.md

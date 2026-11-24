@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-04-30
-lastmod: '2025-04-06T18:44:19.152646'
+lastmod: '2026-09-26'
 related:
 - 2020-11-25-sobre-los-origenes-de-la-falacia-ecologica.md
 - 2024-05-02-falacia-ecologica.md

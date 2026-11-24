@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-10-03 09:13:02+00:00
 draft: false
-lastmod: '2025-04-06T19:02:21.445682'
+lastmod: '2026-09-04'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2013-05-02-data-table-i-cruces.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-04-18
-lastmod: '2025-04-06T18:53:12.058040'
+lastmod: '2025-11-02'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

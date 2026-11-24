@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-06-01 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:46:12.720561'
+lastmod: '2025-04-07'
 related:
 - 2014-05-05-accurate-acurado-preciso-y-todas-esas-cosas.md
 - 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md

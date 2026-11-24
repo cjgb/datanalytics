@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-09-12 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:57:12.141362'
+lastmod: '2026-10-12'
 related:
 - 2018-04-27-redundancias-o-por-que-empenarnos-en-tener-tantos-datos-cuando-con-una-fraccion-sobra.md
 - 2023-09-28-potencia-tests.md

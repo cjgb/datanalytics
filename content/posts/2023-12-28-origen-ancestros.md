@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2023-12-28
 draft: false
-lastmod: '2025-04-06T18:50:20.949494'
+lastmod: '2025-11-02'
 related:
 - 2014-07-28-60-generaciones.md
 - 2022-09-06-problema-estadistica-frecuencias-naturales.md

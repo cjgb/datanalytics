@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2018-04-10 07:43:39+00:00
 draft: false
-lastmod: '2025-04-06T19:07:05.901783'
+lastmod: '2026-07-10'
 related:
 - 2018-03-06-soy-parte-del-concilabulo-heteropatriarcal.md
 - 2024-01-02-medida-inflacion-stealthflaction.md

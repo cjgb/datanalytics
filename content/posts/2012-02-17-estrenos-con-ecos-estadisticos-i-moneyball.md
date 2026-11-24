@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-02-17 07:44:41+00:00
 draft: false
-lastmod: '2025-04-06T18:57:59.170505'
+lastmod: '2026-09-04'
 related:
 - 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
 - 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md

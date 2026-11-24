@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-05-14 07:29:52+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:56.192276'
+lastmod: '2026-06-12'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md

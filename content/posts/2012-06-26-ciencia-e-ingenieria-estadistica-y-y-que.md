@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-06-26 06:38:04+00:00
 draft: false
-lastmod: '2025-04-06T19:03:44.464306'
+lastmod: '2025-04-07'
 related:
 - 2017-04-04-llego-llego-el-tiempo-de-la-ingenieria-estadistica.md
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md

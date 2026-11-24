@@ -7,7 +7,7 @@ categories:
 - mala ciencia
 date: 2020-10-01 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:13:08.827380'
+lastmod: '2026-09-04'
 related:
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
 - 2020-07-28-modelos-como-hechos-estilizados.md

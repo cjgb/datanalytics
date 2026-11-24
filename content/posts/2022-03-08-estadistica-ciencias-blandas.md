@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-03-08
-lastmod: '2025-04-06T18:58:09.653286'
+lastmod: '2026-09-04'
 related:
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 - 2022-04-05-intervenciones-buenistas.md

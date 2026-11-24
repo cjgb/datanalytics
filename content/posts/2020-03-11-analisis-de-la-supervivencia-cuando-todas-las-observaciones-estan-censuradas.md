@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-03-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:16.984918'
+lastmod: '2025-05-05'
 related:
 - 2016-11-28-analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto.md
 - 2020-12-02-analisis-de-eventos-recurrentes.md

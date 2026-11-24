@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-07-16 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:51:30.458273'
+lastmod: '2026-09-04'
 related:
 - 2015-09-29-la-funesta-mania-de-querer-acertar.md
 - 2023-05-09-encuestas-predicciones-electorales.md

@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-05-25 08:13:06+00:00
 noindex: true
-lastmod: '2025-04-06T19:05:53.819217'
+lastmod: '2026-01-31'
 related:
 - 2018-11-08-siguen-votando-igual-los-diputados.md
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md

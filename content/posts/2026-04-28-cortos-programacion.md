@@ -5,7 +5,7 @@ categories:
 date: 2026-04-28
 description: Selección de artículos sobre programación, geometría, «pipelines» en
   R y algunos asuntos más.
-lastmod: '2026-04-24T13:53:51.461187'
+lastmod: '2026-09-04'
 related:
 - 2024-03-11-cortos-01.md
 - 2025-11-20-estadistica.md

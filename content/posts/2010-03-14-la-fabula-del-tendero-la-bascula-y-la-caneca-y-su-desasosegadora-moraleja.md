@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-03-14 23:50:16+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:32.236745'
+lastmod: '2026-09-26'
 related:
 - 2024-09-26-exigencias-aisladas-rigor.md
 - 2014-11-10-remuestreos-y-tests-de-hipotesis.md

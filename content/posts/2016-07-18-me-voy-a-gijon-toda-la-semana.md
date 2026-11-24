@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-07-18 08:13:40+00:00
 noindex: true
-lastmod: '2025-04-06T19:05:15.497131'
+lastmod: '2026-01-31'
 related:
 - 2017-05-02-curso-de-introduccion-a-r-en-gijon.md
 - 2017-09-04-ix-jornadas-de-usuarios-de-r-en-granada-recordatorio.md

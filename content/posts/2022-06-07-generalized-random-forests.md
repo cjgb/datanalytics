@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2022-06-07
 description: Una introducción a los generalized random forests
-lastmod: '2025-04-06T19:01:36.110779'
+lastmod: '2025-04-07'
 related:
 - 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
 - 2010-06-16-algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests.md

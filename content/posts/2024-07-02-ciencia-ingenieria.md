@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2024-07-02
-lastmod: '2025-04-06T18:49:56.717602'
+lastmod: '2026-01-21'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2024-06-27-vida-media-neutrones.md

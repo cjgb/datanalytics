@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2011-08-09 07:15:33+00:00
 draft: false
-lastmod: '2025-04-06T19:01:01.647089'
+lastmod: '2026-09-26'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 - 2011-02-25-1605.md

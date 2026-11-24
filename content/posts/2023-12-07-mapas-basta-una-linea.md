@@ -4,7 +4,7 @@ categories:
 - r
 date: 2023-12-07
 draft: false
-lastmod: '2025-04-06T18:59:38.305032'
+lastmod: '2026-09-04'
 related:
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
 - 2019-07-15-cartogramas-con-recmap.md

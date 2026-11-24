@@ -5,7 +5,7 @@ categories:
 - probabilidad
 - r
 date: 2011-08-21
-lastmod: 2026-02-24
+lastmod: '2026-10-12'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md

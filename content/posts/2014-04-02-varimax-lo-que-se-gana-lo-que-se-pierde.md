@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2014-04-02 07:50:42+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-10-12'
 description: Si PCA es «óptimo», al aplicar varimax, ¿qué cosa se pierde?
 related:
 - 2014-04-07-analisis-factorial-e-ideas-que-se-resisten-a-morir.md

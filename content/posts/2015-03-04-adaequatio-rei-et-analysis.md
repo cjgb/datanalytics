@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-03-04 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T18:44:16.344459'
+lastmod: '2026-09-04'
 related:
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
 - 2018-06-20-hoy-estoy-participando-en-un-evento-sobre-big-data.md

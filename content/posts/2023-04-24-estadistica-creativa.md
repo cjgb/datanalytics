@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-04-25
-lastmod: '2025-04-06T19:00:10.114662'
+lastmod: '2026-09-04'
 related:
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
 - 2011-11-03-2872.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-22 08:13:25+00:00
 noindex: true
-lastmod: '2025-04-06T19:04:45.967245'
+lastmod: '2026-10-06'
 related:
 - 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md
 - 2015-03-05-iv-meetup-machine-learning-spain-diapositivas-y-enlaces.md

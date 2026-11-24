@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-02-04 07:37:07+00:00
 noindex: true
-lastmod: '2025-04-06T19:08:16.545189'
+lastmod: '2026-10-12'
 related:
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2020-07-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:52:14.078680'
+lastmod: '2025-04-07'
 related:
 - 2014-06-10-a-vueltas-con-el-t-test.md
 - 2014-10-21-mas-alla-del-teorema-central-del-limite.md

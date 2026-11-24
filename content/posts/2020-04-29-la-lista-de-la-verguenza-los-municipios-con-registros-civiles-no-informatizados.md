@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-04-29 11:21:46+00:00
 draft: false
-lastmod: '2025-04-06T18:45:05.006369'
+lastmod: '2026-09-04'
 related:
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
 - 2020-04-21-defunciones-ine-vs-momo.md

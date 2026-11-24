@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-10-10 09:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:53:07.268059'
+lastmod: '2025-04-07'
 related:
 - 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
 - 2022-06-28-que-hace-avanzar-la-estadistica.md

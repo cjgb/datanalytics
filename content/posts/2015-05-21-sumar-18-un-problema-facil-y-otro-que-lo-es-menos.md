@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2015-05-21 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:48:54.293383'
+lastmod: '2025-04-07'
 related:
 - 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md

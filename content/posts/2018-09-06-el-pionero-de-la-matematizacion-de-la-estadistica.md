@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-09-06 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:46:09.355100'
+lastmod: '2025-10-12'
 related:
 - 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 - 2024-10-17-interpretacion-modelos.md

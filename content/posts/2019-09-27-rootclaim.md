@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-09-27 09:13:15+00:00
 draft: false
-lastmod: '2025-04-06T18:45:04.345669'
+lastmod: '2025-11-02'
 related:
 - 2020-07-06-un-articulo-muy-raro-raro-raro.md
 - 2014-10-10-bootstrap-bayesiano.md

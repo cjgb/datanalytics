@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-08-06 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T18:47:39.544055'
+lastmod: '2025-10-12'
 related:
 - 2011-02-25-1605.md
 - 2024-11-14-simpson-productividad.md

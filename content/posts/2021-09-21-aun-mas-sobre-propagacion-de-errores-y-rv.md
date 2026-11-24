@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2021-09-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:21.317673'
+lastmod: '2026-10-12'
 related:
 - 2020-03-10-mas-sobre-el-metodo-delta-propagate.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md

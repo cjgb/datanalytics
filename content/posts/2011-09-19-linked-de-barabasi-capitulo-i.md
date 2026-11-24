@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-09-19 07:23:49+00:00
 draft: false
-lastmod: '2025-04-06T19:12:16.736121'
+lastmod: '2026-10-12'
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md

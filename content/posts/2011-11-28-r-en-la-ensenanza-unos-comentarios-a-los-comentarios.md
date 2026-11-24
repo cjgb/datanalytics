@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-11-28 07:07:46+00:00
 draft: false
-lastmod: '2025-04-06T19:01:03.223071'
+lastmod: '2026-10-12'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2015-01-28-la-profesionalizacion-de-r.md

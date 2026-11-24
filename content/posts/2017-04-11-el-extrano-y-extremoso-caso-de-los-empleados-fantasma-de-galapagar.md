@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-04-11 08:13:19+00:00
 draft: false
-lastmod: '2025-04-06T18:54:13.670402'
+lastmod: '2025-05-05'
 related:
 - 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
 - 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md

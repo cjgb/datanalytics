@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-07-07 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:44:49.619302'
+lastmod: '2025-11-08'
 related:
 - 2015-05-27-grafos-por-vecindad-en-mapas.md
 - 2017-09-28-geofacetas.md

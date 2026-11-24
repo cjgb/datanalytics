@@ -9,7 +9,7 @@ categories:
 date: 2025-09-18
 description: 'Análisis crítico del barómetro del CIS 2025: uso real de cajeros, recuerdo
   de voto y dudas sobre la credibilidad de sus cifras.'
-lastmod: '2025-09-30T19:46:13.804454'
+lastmod: '2025-11-05'
 related:
 - 2017-05-11-cosas-de-twitter-y-encuestas.md
 - 2018-10-01-acerca-del-cis-y-la-cocina.md

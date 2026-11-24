@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2023-12-05
 draft: false
-lastmod: '2025-04-06T18:52:49.530173'
+lastmod: '2025-09-07'
 related:
 - 2016-03-09-lenguajes-de-programacion-probabilisticos.md
 - 2020-07-24-rarezas-ml-algebraico.md

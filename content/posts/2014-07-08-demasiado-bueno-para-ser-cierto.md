@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-07-08 07:13:48+00:00
 draft: false
-lastmod: '2025-04-06T18:58:56.209274'
+lastmod: '2026-09-04'
 related:
 - 2024-02-13-outliers-dos-modos.md
 - 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md

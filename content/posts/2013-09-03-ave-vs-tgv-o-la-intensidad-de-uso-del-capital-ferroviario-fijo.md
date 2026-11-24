@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-09-03 07:18:58+00:00
 noindex: true
-lastmod: '2025-04-06T18:47:33.065826'
+lastmod: '2026-09-04'
 related:
 - 2017-09-29-bus-al-norte-bus-al-sur.md
 - 2012-03-28-contrafactualidad-radial.md

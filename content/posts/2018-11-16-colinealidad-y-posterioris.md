@@ -5,7 +5,7 @@ categories:
 - r
 date: 2018-11-16 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T18:50:47.581311'
+lastmod: '2026-09-04'
 related:
 - 2019-03-04-offset-porque-el-coeficiente-es-1-necesariamente.md
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md

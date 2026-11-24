@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-10-02 09:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:54:50.200130'
+lastmod: '2025-04-07'
 related:
 - 2010-10-06-matlab-es-mas-rapido-que-r-c2bfy.md
 - 2020-02-24-to-irls-or-not-to-irls.md

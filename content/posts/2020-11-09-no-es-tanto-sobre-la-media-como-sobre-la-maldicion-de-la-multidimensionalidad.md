@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-11-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:28.750592'
+lastmod: '2026-09-03'
 related:
 - 2011-08-03-clustering-iii-sobresimplificacion.md
 - 2023-10-26-bmi.md

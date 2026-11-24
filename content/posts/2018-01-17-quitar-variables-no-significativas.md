@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-17 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:09:30.797801'
+lastmod: '2026-10-22'
 related:
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 - 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md

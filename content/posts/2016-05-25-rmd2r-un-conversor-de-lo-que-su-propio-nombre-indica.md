@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-05-25 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:59:09.302054'
+lastmod: '2025-04-07'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2017-06-26-como-preambulais-vuestros-rmd.md

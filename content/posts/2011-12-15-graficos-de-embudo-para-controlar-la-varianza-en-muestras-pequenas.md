@@ -7,7 +7,7 @@ categories:
 - r
 date: 2011-12-15 06:43:13+00:00
 draft: false
-lastmod: '2025-04-06T18:57:20.939099'
+lastmod: '2026-09-04'
 related:
 - 2011-08-10-de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital.md
 - 2015-12-04-os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola.md

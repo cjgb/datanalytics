@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-02-04 08:03:18+00:00
 draft: false
-lastmod: '2025-04-06T19:00:36.888217'
+lastmod: '2026-09-04'
 related:
 - 2011-12-19-la-correlacion-del-siglo-xxi.md
 - 2022-02-15-mas-correlaciones-siglo-xxi.md

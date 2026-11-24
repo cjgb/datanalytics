@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-07 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:59:49.006960'
+lastmod: '2026-05-08'
 related:
 - 2018-07-11-las-tres-culturas.md
 - 2021-07-21-quien-invento-los-random-forests.md

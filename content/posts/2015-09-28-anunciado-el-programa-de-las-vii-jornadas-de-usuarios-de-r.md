@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-09-28 08:13:03+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:21.835237'
+lastmod: '2025-10-22'
 related:
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md
 - 2015-04-13-las-vii-jornadas-de-usuarios-de-r-en-salamanca-este-noviembre.md

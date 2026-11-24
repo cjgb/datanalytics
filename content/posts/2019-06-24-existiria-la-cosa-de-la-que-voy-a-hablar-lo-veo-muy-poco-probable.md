@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2019-06-24 09:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:56:33.032606'
+lastmod: '2025-11-02'
 related:
 - 2016-02-17-evidencialidad.md
 - 2022-12-29-aristoteles-probable-improbable.md

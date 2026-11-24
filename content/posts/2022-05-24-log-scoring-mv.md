@@ -5,7 +5,7 @@ categories:
 date: 2022-05-24
 description: Seleccionar modelos usando el log scoring es usar el principio de la
   máxima verosimilitud
-lastmod: '2025-04-06T19:07:53.041293'
+lastmod: '2026-01-10'
 related:
 - 2020-12-09-maxima-verosimilitud-vs-decisiones.md
 - 2022-02-17-examenes-probabilisticos.md

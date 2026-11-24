@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-11-28 07:49:05+00:00
 draft: false
-lastmod: '2025-04-06T18:58:05.149198'
+lastmod: '2026-09-04'
 related:
 - 2018-01-29-donde-estan-las-letras.md
 - 2013-09-05-donde-deberian-comenzar-los-ejes.md

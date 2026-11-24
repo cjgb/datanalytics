@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-02-15
-lastmod: '2025-04-06T18:49:58.055007'
+lastmod: '2026-09-04'
 related:
 - 2018-03-27-que-mas-se-supo-de-la-correlacion-del-s-xxi.md
 - 2011-12-19-la-correlacion-del-siglo-xxi.md

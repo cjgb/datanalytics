@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-03-15 21:41:40+00:00
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
 - 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md

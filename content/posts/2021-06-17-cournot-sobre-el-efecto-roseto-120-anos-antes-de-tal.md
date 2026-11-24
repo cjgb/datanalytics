@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2021-06-17 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:56.542198'
+lastmod: '2026-09-04'
 related:
 - 2022-06-30-sumas-bernuillis-heterogenas.md
 - 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md

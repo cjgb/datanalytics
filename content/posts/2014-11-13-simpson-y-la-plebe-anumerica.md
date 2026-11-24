@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2014-11-13 07:13:19+00:00
 draft: false
-lastmod: '2025-04-06T19:02:05.132598'
+lastmod: '2026-09-04'
 related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

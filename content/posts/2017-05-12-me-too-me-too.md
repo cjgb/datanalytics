@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-05-12 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T18:50:48.284071'
+lastmod: '2026-10-12'
 related:
 - 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 - 2019-07-15-cartogramas-con-recmap.md

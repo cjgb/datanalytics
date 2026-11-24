@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - estadística
 date: 2014-12-29 07:13:48+00:00
-lastmod: '2026-08-31'
+lastmod: '2026-09-03'
 description: Una interpretación basada en los modelos mixtos de cierto tipo de manipulación «sospechosa» de datos categóricos con muchos niveles.
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-01-27 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:24.809007'
+lastmod: '2025-04-07'
 related:
 - 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
 - 2016-04-07-un-libro-recomendable-de-estadistica-basica.md

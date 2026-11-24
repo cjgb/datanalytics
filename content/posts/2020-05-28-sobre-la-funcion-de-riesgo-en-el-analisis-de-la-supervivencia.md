@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-05-28 09:13:20+00:00
 draft: false
-lastmod: '2025-04-06T19:11:38.579507'
+lastmod: '2026-09-04'
 related:
 - 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
 - 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md

@@ -4,7 +4,7 @@ categories:
 - artículos
 date: 2020-03-24 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:09.363939'
+lastmod: '2026-10-08'
 related:
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 - 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md

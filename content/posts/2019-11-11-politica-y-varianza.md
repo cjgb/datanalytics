@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-11-11 11:16:18+00:00
 draft: false
-lastmod: '2025-04-06T19:09:47.762985'
+lastmod: '2025-11-02'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2016-03-10-hoy-que-me-he-puesto-traje-y-corbata.md

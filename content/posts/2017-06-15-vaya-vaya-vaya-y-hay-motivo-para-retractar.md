@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-06-15 08:13:01+00:00
 draft: false
-lastmod: '2025-04-06T18:55:34.499913'
+lastmod: '2025-05-05'
 related:
 - 2015-09-30-el-curioso-caso-de-los-suicidios-en-madrid.md
 - 2015-12-03-el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid.md

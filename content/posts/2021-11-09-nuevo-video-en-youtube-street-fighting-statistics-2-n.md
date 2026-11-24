@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2021-11-09 09:13:00+00:00
-lastmod: '2025-04-06T18:51:46.471516'
+lastmod: '2026-07-24'
 related:
 - 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md
 - 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md

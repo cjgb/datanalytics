@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-10-01 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:49:21.639660'
+lastmod: '2026-01-10'
 related:
 - 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md

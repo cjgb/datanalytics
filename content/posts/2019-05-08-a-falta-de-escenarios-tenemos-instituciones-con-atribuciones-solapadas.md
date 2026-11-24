@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2019-05-08
-lastmod: '2025-04-06T19:03:11.737213'
+lastmod: '2025-11-02'
 related:
 - 2014-10-30-y-si-no-se-mantuvieran.md
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md

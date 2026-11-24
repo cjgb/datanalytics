@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-29 08:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:55:17.814438'
+lastmod: '2025-11-02'
 related:
 - 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md

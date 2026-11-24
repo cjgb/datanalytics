@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-02-14 09:13:00+00:00
-lastmod: '2025-04-06T18:58:27.106124'
+lastmod: '2026-10-22'
 related:
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
 - 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md

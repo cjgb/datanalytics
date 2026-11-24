@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-05-25 07:49:14+00:00
 noindex: true
-lastmod: '2025-04-06T19:02:28.821106'
+lastmod: '2025-09-14'
 related:
 - 2011-03-28-por-la-apertura-de-los-datos-publicos.md
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

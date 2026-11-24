@@ -6,7 +6,7 @@ categories:
 - python
 date: 2020-01-14 14:17:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:35.336280'
+lastmod: '2026-09-04'
 related:
 - 2022-12-29-economia-lenguaje-leyes-potenciales.md
 - 2022-12-27-curso-luz-frias.md

@@ -4,7 +4,7 @@ categories:
 - cortos
 date: 2025-09-02
 description: "Reflexión crítica sobre la era de los metaanálisis, los debates del salario mínimo, la fiabilidad de las estadísticas públicas y el papel del INE en la comunicación de datos. Entre ciencia, ruido y política, ¿qué pesa más?"
-lastmod: '2025-09-20T13:22:01.606296'
+lastmod: '2026-01-20'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

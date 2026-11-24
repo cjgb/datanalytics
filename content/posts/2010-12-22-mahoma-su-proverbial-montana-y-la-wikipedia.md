@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2010-12-22 09:07:18+00:00
 draft: false
-lastmod: '2025-04-06T18:48:10.633713'
+lastmod: '2026-09-26'
 related:
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md

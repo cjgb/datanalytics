@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-07-03 07:11:41+00:00
 draft: false
-lastmod: '2025-04-06T18:55:57.000817'
+lastmod: '2026-10-12'
 related:
 - 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
 - 2024-06-03-descuento-hiperbolico.md

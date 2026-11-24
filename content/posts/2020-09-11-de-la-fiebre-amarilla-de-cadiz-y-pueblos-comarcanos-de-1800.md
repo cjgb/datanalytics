@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-09-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:27.954715'
+lastmod: '2026-09-04'
 related:
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md

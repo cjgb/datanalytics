@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-03-16 15:44:30+00:00
 draft: false
-lastmod: '2025-04-06T18:47:07.747358'
+lastmod: '2026-09-04'
 related:
 - 2010-08-28-la-funcion-ifelse-a-la-sas.md
 - 2016-06-27-r-es-un-vago.md

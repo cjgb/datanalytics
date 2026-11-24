@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-05-20 08:13:54+00:00
 noindex: true
-lastmod: '2025-04-06T18:57:40.266835'
+lastmod: '2026-09-04'
 related:
 - 2013-01-09-el-ibex-35-estilo-gapminder.md
 - 2014-04-24-aventuras-de-web-scraping-como-bajarse-todo-el-boe.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-16 09:13:25+00:00
 draft: false
-lastmod: '2025-04-06T18:50:34.278309'
+lastmod: '2025-04-07'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md

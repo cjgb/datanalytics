@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-06-13 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T19:02:38.747902'
+lastmod: '2026-09-04'
 related:
 - 2012-08-13-fallecimientos-y-microdatos.md
 - 2024-01-18-microdatoses-ultima-version.md

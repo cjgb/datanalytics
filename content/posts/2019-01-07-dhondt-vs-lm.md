@@ -4,7 +4,7 @@ categories:
 - números
 date: 2019-01-07 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:00:05.662253'
+lastmod: '2025-04-07'
 related:
 - 2019-03-19-si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-dhondt.md
 - 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md

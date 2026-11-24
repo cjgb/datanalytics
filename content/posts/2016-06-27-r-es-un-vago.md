@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-06-27 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T19:09:58.288379'
+lastmod: '2026-09-04'
 related:
 - 2017-03-16-todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion.md
 - 2020-01-21-de-texto-a-funcion.md

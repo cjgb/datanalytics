@@ -5,7 +5,7 @@ categories:
 - números
 date: 2017-04-19 08:13:24+00:00
 draft: false
-lastmod: '2025-04-06T18:53:57.523484'
+lastmod: '2026-10-12'
 related:
 - 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md

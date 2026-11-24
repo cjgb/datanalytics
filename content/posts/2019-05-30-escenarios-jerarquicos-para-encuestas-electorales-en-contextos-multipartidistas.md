@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2019-05-30 09:13:55+00:00
-lastmod: '2025-04-06T19:02:08.798383'
+lastmod: '2025-11-12'
 related:
 - 2023-05-09-encuestas-predicciones-electorales.md
 - 2022-05-10-encuestas-electorales-cualitativas.md

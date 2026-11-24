@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2019-12-10 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:23.474503'
+lastmod: '2025-04-07'
 related:
 - 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
 - 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-09-28
-lastmod: '2025-04-06T19:10:32.674870'
+lastmod: '2026-09-04'
 related:
 - 2017-07-13-gelmaneando.md
 - 2023-10-10-potencia-tests-ii.md

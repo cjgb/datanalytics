@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2014-04-10 07:35:33+00:00
 draft: false
-lastmod: '2025-04-06T18:58:34.989229'
+lastmod: '2026-09-04'
 related:
 - 2018-04-02-sobre-lo-de-cambridge-analytica.md
 - 2020-09-02-hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente.md

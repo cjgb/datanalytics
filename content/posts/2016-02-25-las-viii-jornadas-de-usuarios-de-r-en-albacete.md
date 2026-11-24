@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-02-25 07:13:12+00:00
 noindex: true
-lastmod: '2025-04-06T18:58:23.589416'
+lastmod: '2026-10-12'
 related:
 - 2016-10-07-recordatorio-las-viii-jornadas-de-usuarios-de-r.md
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

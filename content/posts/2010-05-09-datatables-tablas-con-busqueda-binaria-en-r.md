@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-05-09 15:28:47+00:00
-lastmod: '2025-04-06T19:10:01.301166'
+lastmod: '2026-09-04'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
 - 2013-05-02-data-table-i-cruces.md

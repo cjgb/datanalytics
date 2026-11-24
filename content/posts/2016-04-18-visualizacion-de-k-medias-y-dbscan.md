@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-04-18 09:13:22+00:00
 draft: false
-lastmod: '2025-04-06T18:50:58.250483'
+lastmod: '2025-11-02'
 related:
 - 2015-11-04-dbscan-algo-nuevo-bajo-el-sol.md
 - 2014-10-09-experto-en-data-science-en-la-u-tad.md

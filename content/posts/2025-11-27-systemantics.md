@@ -4,7 +4,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-11-27
 description: Una invitación a leer la obra 'Systemantics' de John Gall
-lastmod: '2025-11-24T19:29:58.958711'
+lastmod: '2025-11-24'
 related:
 - 2012-10-25-predictably-irrational.md
 - 2019-07-02-aprender-deprisa-aprender-despacio.md

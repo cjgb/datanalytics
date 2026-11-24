@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-09-12 09:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:02:12.724731'
+lastmod: '2025-11-02'
 related:
 - 2019-05-21-que-puede-colgar-de-un-arbol.md
 - 2018-12-18-data-tree-porque-no-todos-los-datos-son-tabulares.md

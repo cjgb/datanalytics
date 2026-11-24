@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-11-30 06:44:01+00:00
 draft: false
-lastmod: '2025-04-06T19:09:30.098129'
+lastmod: '2026-09-26'
 related:
 - 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md
 - 2012-07-27-a-los-datos-mismos.md

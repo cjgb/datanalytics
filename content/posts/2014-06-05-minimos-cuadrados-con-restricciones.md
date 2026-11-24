@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-06-05 07:09:02+00:00
 draft: false
-lastmod: '2025-04-06T19:07:37.857704'
+lastmod: '2026-09-04'
 related:
 - 2014-06-09-por-que-de-los-minimos-cuadrados-con-restricciones.md
 - 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md

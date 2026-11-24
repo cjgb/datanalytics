@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-05-14 08:13:21+00:00
 draft: false
-lastmod: '2025-04-06T18:49:26.359242'
+lastmod: '2026-10-12'
 related:
 - 2018-03-22-poblacion-el-padron-y-la-otra-cosa.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md

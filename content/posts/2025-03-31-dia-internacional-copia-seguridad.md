@@ -5,7 +5,7 @@ categories:
 date: 2025-03-31
 description: Recordatorio anual del día internacional de la copia de seguridad y el
   backup.
-lastmod: '2025-04-06T19:09:59.761345'
+lastmod: '2025-11-02'
 related:
 - 2024-03-31-dia-internacional-copia-seguridad.md
 - 2023-03-31-dia-internacional-copia-seguridad.md

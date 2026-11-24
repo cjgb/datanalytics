@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2014-06-24 07:06:49+00:00
 draft: false
-lastmod: '2025-04-06T18:44:54.274795'
+lastmod: '2026-10-31'
 related:
 - 2024-09-10-causalidad.md
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md

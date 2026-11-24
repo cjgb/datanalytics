@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-08-13
 description: Sobre cómo la paradoja de Simpson puede hacer que parezca que sube lo que baja realmente (o a la inversa).
-lastmod: '2026-08-31'
+lastmod: '2026-09-04'
 related:
 - 2021-01-28-simpson-sobre-la-desigualdad.md
 - 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md

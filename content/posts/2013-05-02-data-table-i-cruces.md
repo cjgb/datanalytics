@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-05-02 07:16:30+00:00
 draft: false
-lastmod: '2025-04-06T18:56:39.147811'
+lastmod: '2026-10-12'
 related:
 - 2013-05-09-data-table-ii-agregaciones.md
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md

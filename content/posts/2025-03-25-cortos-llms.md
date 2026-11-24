@@ -5,7 +5,7 @@ categories:
 date: 2025-03-25
 description: Colección de enlaces sobre LLMs, IA generativa, embeddings y asuntos
   relacionados, con particular énfasis en las aplicaciones para el desarrollo de código.
-lastmod: '2025-04-06T18:51:23.815659'
+lastmod: '2026-10-12'
 related:
 - 2024-07-18-cortos-llms.md
 - 2024-04-19-cortos.md

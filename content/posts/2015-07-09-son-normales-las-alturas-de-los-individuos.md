@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-07-09 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:55:23.981403'
+lastmod: '2026-09-04'
 related:
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
 - 2015-03-09-unas-preguntas-incomodas.md

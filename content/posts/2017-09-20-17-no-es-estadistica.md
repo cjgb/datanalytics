@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-09-20 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T18:53:50.163339'
+lastmod: '2025-04-07'
 related:
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
 - 2012-04-30-contar-c2bffacil.md

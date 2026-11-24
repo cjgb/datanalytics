@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-21 08:13:04+00:00
 draft: false
-lastmod: '2025-04-06T18:59:20.012694'
+lastmod: '2025-04-07'
 related:
 - 2023-10-03-muestreo-superricos.md
 - 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md

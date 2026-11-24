@@ -4,7 +4,7 @@ categories:
 - números
 date: 2020-04-06 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:48:24.571421'
+lastmod: '2026-09-04'
 related:
 - 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-04-09 07:43:12+00:00
 draft: false
-lastmod: '2025-04-06T19:09:11.716759'
+lastmod: '2026-10-12'
 related:
 - 2014-04-22-reponderacion-de-componentes-un-ejemplo.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

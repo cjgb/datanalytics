@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-09-16 08:13:13+00:00
 draft: false
-lastmod: '2025-04-06T19:00:15.204505'
+lastmod: '2026-01-10'
 related:
 - 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md

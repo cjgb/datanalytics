@@ -5,7 +5,7 @@ categories:
 - consultoría
 date: 2014-03-26 07:46:09+00:00
 draft: false
-lastmod: '2025-04-06T19:13:13.230383'
+lastmod: '2026-09-04'
 related:
 - 2011-07-19-clustering-ii-c2bfes-replicable.md
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md

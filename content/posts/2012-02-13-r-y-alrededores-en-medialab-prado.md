@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-02-13 17:58:56+00:00
-lastmod: '2025-04-06T18:58:38.723754'
+lastmod: '2026-10-12'
 noindex: true
 related:
 - 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md

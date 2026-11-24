@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2010-02-27 19:58:01+00:00
-lastmod: '2026-09-01'
+lastmod: '2026-09-24'
 noindex: true
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md

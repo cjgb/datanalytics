@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-10-01 07:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:48:32.147656'
+lastmod: '2026-10-12'
 related:
 - 2012-03-14-c2a1mano-que-mapa.md
 - 2017-09-29-bus-al-norte-bus-al-sur.md

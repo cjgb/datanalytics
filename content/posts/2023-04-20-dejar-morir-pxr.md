@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2023-04-20
-lastmod: '2025-04-06T18:49:08.345618'
+lastmod: '2026-09-26'
 related:
 - 2011-07-28-el-paquete-pxr-en-cran.md
 - 2011-09-08-codigos-de-caracteres-en-r.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-11-06 19:09:43+00:00
 draft: false
-lastmod: '2025-04-06T18:47:52.982496'
+lastmod: '2026-09-26'
 related:
 - 2010-06-08-20-10-2010-dia-mundial-de-la-estadistica-y-terremotos.md
 - 2011-06-03-explica-el-portal-divulgativo-del-ine.md

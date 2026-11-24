@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2019-05-09 09:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:54:21.060430'
+lastmod: '2026-09-04'
 related:
 - 2010-05-25-sobre-la-media-y-la-mediana.md
 - 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md

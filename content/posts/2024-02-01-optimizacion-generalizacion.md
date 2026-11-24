@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-02-01
-lastmod: '2025-04-06T18:53:23.835252'
+lastmod: '2026-01-03'
 related:
 - 2024-03-05-sobreajuste-modelos-bayesianos.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-10-15 09:13:06+00:00
 draft: false
-lastmod: '2025-04-06T18:59:07.773338'
+lastmod: '2025-11-02'
 related:
 - 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
 - 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md

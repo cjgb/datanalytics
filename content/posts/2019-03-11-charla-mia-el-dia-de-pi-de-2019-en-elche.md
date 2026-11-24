@@ -4,7 +4,7 @@ categories:
 - anuncio
 - charlas
 date: 2019-03-11 08:13:26+00:00
-lastmod: '2025-11-01'
+lastmod: '2026-09-04'
 noindex: true
 related:
 - 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md

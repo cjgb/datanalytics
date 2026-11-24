@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-08-12 07:17:48+00:00
 draft: false
-lastmod: '2025-04-06T18:58:52.444388'
+lastmod: '2026-09-04'
 related:
 - 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md

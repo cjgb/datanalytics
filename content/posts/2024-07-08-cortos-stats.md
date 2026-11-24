@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2024-07-08
-lastmod: '2025-04-06T19:08:07.869351'
+lastmod: '2025-10-06'
 related:
 - 2024-05-27-cortos.md
 - 2022-04-05-intervenciones-buenistas.md

@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2012-02-21 07:01:23+00:00
 draft: false
-lastmod: '2025-04-06T19:11:15.203927'
+lastmod: '2025-04-07'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 - 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-03-08 09:59:28+00:00
 draft: false
-lastmod: '2025-04-06T18:49:17.655530'
+lastmod: '2026-09-26'
 related:
 - 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md
 - 2014-01-27-guia-de-estilo-de-r-de-google.md

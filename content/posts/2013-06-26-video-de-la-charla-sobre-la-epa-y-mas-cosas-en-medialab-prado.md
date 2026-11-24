@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-06-26 07:04:33+00:00
 draft: false
-lastmod: '2025-04-06T19:03:50.704170'
+lastmod: '2026-11-23'
 related:
 - 2022-09-22-nuevo-video-en-youtube-charla-epa.md
 - 2013-06-17-hablare-de-la-epa-y-mas-cosas-en-medialab-prado.md
@@ -27,4 +27,4 @@ Ya ha salido publicado el [vídeo](https://www.medialab-matadero.es/videos/la-en
 
 ### Coda
 
-El enlace anterior puede no estar ya operativo. He logrado rescatar el vídeo y subirlo a mi canal de Youtube. Ahora puede verse [aquí](/2022/09/22/nuevo-video-en-youtube-charla-epa/).
+El enlace anterior puede no estar ya operativo. He logrado rescatar el vídeo y subirlo a mi canal de YouTube. Ahora puede verse [aquí](/2022/09/22/nuevo-video-en-youtube-charla-epa/).

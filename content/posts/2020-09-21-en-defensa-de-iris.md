@@ -4,7 +4,7 @@ categories:
 - r
 date: 2020-09-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:58:02.171668'
+lastmod: '2026-09-24'
 related:
 - 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
 - 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md

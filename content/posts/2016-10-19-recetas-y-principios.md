@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2016-10-19 08:13:52+00:00
 draft: false
-lastmod: '2025-04-06T19:02:00.592592'
+lastmod: '2026-07-27'
 related:
 - 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
 - 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md

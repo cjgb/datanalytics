@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2018-04-25 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:05:32.543301'
+lastmod: '2026-10-12'
 related:
 - 2017-06-26-como-preambulais-vuestros-rmd.md
 - 2024-02-06-llm-obsidian.md

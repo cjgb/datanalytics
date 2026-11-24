@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-10-09 07:35:49+00:00
 noindex: true
-lastmod: '2025-04-06T19:00:48.900605'
+lastmod: '2026-09-04'
 related:
 - 2012-04-13-balanzas-fiscales-asi-en-plural.md
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md

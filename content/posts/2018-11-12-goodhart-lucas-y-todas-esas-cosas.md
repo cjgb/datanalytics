@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-11-12 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T19:10:35.013458'
+lastmod: '2026-09-03'
 related:
 - 2022-04-05-intervenciones-buenistas.md
 - 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-01-27 09:13:56+00:00
 draft: false
-lastmod: '2025-04-06T19:06:33.853479'
+lastmod: '2026-09-04'
 related:
 - 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
 - 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md

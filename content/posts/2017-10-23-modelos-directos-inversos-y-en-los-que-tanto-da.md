@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2017-10-23
-lastmod: '2025-04-06T19:05:06.240231'
+lastmod: '2026-09-04'
 related:
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

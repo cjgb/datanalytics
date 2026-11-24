@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-24 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T19:11:28.254670'
+lastmod: '2026-05-08'
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md

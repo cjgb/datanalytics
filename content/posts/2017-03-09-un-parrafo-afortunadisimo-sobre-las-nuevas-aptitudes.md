@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-03-09 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:58:54.691623'
+lastmod: '2025-04-07'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2014-03-17-sobre-el-articulo-de-domingos.md

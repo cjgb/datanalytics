@@ -5,7 +5,7 @@ categories:
 - r
 date: 2017-10-11 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:59:46.122511'
+lastmod: '2026-09-04'
 related:
 - 2018-02-02-ropenspain-esta-en-marcha.md
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md

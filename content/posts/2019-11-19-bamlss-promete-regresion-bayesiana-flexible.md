@@ -4,7 +4,7 @@ categories:
 - r
 date: 2019-11-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:07:32.781316'
+lastmod: '2025-10-12'
 related:
 - 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
 - 2016-07-06-glms-con-prioris-casi-a-voluntad.md

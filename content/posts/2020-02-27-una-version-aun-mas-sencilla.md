@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2020-02-27 17:31:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:12.939448'
+lastmod: '2025-05-05'
 related:
 - 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
 - 2022-11-17-igualdad-oportunidades.md

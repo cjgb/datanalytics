@@ -5,7 +5,7 @@ categories:
 - nlp
 date: 2011-09-29 06:48:17+00:00
 draft: false
-lastmod: '2025-04-06T19:08:18.046674'
+lastmod: '2026-10-12'
 related:
 - 2011-02-21-mineria-de-datos-promesas-y-realidades.md
 - 2023-09-05-superforecasting.md

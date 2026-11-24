@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2014-01-07 07:47:04+00:00
 draft: false
-lastmod: '2025-04-06T18:57:53.068358'
+lastmod: '2026-10-06'
 related:
 - 2018-02-14-diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas.md
 - 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md

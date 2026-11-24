@@ -5,7 +5,7 @@ categories:
 date: 2025-03-18
 description: Una serie de notas sobre tecnología, LLMs, vibe coding, H3, geodesia,
   Z3, solvers, postgres y otros asuntos contados con afán divulgativo.
-lastmod: '2025-04-06T18:46:49.519484'
+lastmod: '2026-09-04'
 related:
 - 2024-05-09-cortos-tecnologia.md
 - 2025-03-04-cortos-stats.md

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2013-10-28 07:51:25+00:00
 draft: false
-lastmod: '2025-04-06T18:59:51.217963'
+lastmod: '2026-10-12'
 related:
 - 2012-05-23-patrones-hexagonales-con-r.md
 - 2016-05-27-coordenadas-polares-por-doquier.md

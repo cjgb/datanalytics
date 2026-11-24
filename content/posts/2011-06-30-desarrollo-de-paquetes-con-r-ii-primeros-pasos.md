@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-06-30 07:36:54+00:00
 noindex: true
-lastmod: '2025-10-29'
+lastmod: '2026-10-12'
 related:
 - 2011-07-12-desarrollo-de-paquetes-con-r-iii-check-check-check.md
 - 2010-02-27-creando-paquetes-con-r-r-forge.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-05-11 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:55:04.032959'
+lastmod: '2025-11-02'
 related:
 - 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
 - 2016-06-01-alguien-podria-identificar-tirios-y-troyanos.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-03 08:13:23+00:00
 draft: false
-lastmod: '2025-04-06T18:56:52.494529'
+lastmod: '2025-11-02'
 related:
 - 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2013-09-17 07:07:26+00:00
 noindex: true
-lastmod: '2025-04-06T18:59:13.927458'
+lastmod: '2026-10-12'
 related:
 - 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md
 - 2024-05-02-falacia-ecologica.md

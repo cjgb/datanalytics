@@ -5,7 +5,7 @@ categories:
 date: 2026-07-09
 description: Una revisión crítica a las predicciones de población para España realizadas
   por la ONU hace casi diez años.
-lastmod: '2026-07-02T17:29:39.603652'
+lastmod: '2026-07-02'
 related:
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 - 2017-01-31-proyecciones-probabilisticas-de-poblacion.md

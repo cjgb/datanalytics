@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2012-07-30 07:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:05:18.449145'
+lastmod: '2026-09-04'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 - 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md

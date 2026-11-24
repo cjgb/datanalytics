@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-06-13
-lastmod: '2025-04-06T19:04:36.019662'
+lastmod: '2026-09-04'
 related:
 - 2019-12-04-p-valores-y-decisiones.md
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md

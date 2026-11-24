@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-10-21 09:13:18+00:00
 draft: false
-lastmod: '2025-04-06T18:53:51.488782'
+lastmod: '2026-09-04'
 related:
 - 2022-07-26-hueco-termico.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md

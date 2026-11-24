@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2018-04-12 08:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:00:26.768317'
+lastmod: '2025-11-02'
 related:
 - 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md
 - 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md

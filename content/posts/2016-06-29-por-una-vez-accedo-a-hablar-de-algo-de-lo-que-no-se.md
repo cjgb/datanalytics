@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-06-29 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:50:20.287070'
+lastmod: '2026-09-04'
 related:
 - 2022-03-15-infraestimacion-error-encuestas.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

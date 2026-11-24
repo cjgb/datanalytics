@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-06-07 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:06:45.707624'
+lastmod: '2026-09-04'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2012-01-12-cosa-prodigiosa-sin-palabras-i.md

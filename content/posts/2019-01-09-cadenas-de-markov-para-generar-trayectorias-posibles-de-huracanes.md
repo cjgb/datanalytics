@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-01-09 08:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:04:08.575671'
+lastmod: '2026-09-04'
 related:
 - 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md
 - 2023-10-05-llms-historia.md

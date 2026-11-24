@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2022-09-29
-lastmod: '2025-04-06T18:52:26.151984'
+lastmod: '2026-09-04'
 related:
 - 2022-06-09-el-modelo-es-y.md
 - 2024-10-31-efectividad-alertas.md

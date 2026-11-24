@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2017-09-14 08:13:38+00:00
 draft: false
-lastmod: '2025-04-06T18:54:23.058861'
+lastmod: '2025-05-05'
 related:
 - 2011-02-22-solo-quiero-saber-si-basta-con-tres-casos.md
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md

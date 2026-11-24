@@ -5,7 +5,7 @@ categories:
 - anuncio
 date: 2016-09-19 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:52:48.191001'
+lastmod: '2025-04-07'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md
 - 2015-11-03-esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion.md

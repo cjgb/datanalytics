@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2020-11-16 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:09.733321'
+lastmod: '2026-01-31'
 related:
 - 2021-05-09-nuevo-video-en-youtube-una-breve-introduccion-a-la-causalidad-a-la-pearl.md
 - 2020-04-23-charla-mia-sobre-impacto-causal-manana-viernes-24.md

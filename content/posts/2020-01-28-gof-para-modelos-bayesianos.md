@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-01-28 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:38.435166'
+lastmod: '2025-05-05'
 related:
 - 2020-02-04-comparacion-y-seleccion-de-modelos-bayesianos.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - economía
 date: 2022-01-27
-lastmod: '2025-04-06T19:01:52.030821'
+lastmod: '2026-01-10'
 related:
 - 2022-10-27-los-muchos-nombres-inflacion.md
 - 2022-05-17-como-calcula-inflacion.md

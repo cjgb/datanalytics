@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-02-25 09:07:06+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-11-09'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md

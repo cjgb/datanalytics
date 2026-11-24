@@ -4,7 +4,7 @@ categories:
 - r
 date: 2014-05-15 07:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:10:48.297579'
+lastmod: '2026-09-04'
 related:
 - 2015-06-15-paralelismo-en-r-memorandum.md
 - 2010-09-01-el-paquete-multicore-de-r.md

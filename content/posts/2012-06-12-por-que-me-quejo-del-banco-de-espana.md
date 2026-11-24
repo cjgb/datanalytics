@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-06-12 06:37:25+00:00
 draft: false
-lastmod: '2025-04-06T19:03:34.614436'
+lastmod: '2026-09-04'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md

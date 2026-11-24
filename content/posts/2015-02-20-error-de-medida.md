@@ -5,7 +5,7 @@ categories:
 - finanzas
 date: 2015-02-20 08:13:30+00:00
 draft: false
-lastmod: '2025-04-06T18:57:18.065943'
+lastmod: '2026-09-04'
 related:
 - 2015-02-23-mas-sobre-el-error-de-medida.md
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md

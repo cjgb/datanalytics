@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2016-01-19 08:13:33+00:00
 draft: false
-lastmod: '2025-04-06T19:08:30.792300'
+lastmod: '2026-09-04'
 related:
 - 2021-10-28-monty-hall-reformulado.md
 - 2015-02-19-decisiones-a-ojo-de-buen-cubero.md

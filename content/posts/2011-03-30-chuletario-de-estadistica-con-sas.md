@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2011-03-30 09:35:14+00:00
 noindex: true
-lastmod: '2025-04-06T18:48:36.138991'
+lastmod: '2025-09-14'
 related:
 - 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md
 - 2011-08-11-dont-be-loopy.md

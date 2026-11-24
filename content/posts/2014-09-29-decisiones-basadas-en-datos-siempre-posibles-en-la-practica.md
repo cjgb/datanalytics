@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2014-09-29 07:13:08+00:00
-lastmod: '2025-04-06T18:53:48.832096'
+lastmod: '2026-09-04'
 related:
 - 2019-07-22-proporciones-pequenas-y-teoremas-de-imposibilidad.md
 - 2018-05-29-guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy.md

@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2017-06-27 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:12:04.722142'
+lastmod: '2025-11-02'
 related:
 - 2013-03-19-mapas-realmente-necesarios.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md

@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-04-10 06:56:04+00:00
 draft: false
-lastmod: '2025-04-06T18:58:55.509972'
+lastmod: '2026-09-04'
 related:
 - 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md
 - 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md

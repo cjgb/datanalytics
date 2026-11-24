@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2021-11-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:29.495645'
+lastmod: '2026-09-04'
 related:
 - 2013-07-09-conceptos-estadisticos-que-desaprender-suficiencia.md
 - 2022-06-28-que-hace-avanzar-la-estadistica.md

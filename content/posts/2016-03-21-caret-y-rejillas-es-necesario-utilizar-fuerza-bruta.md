@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-03-21 09:13:25+00:00
 draft: false
-lastmod: '2025-04-06T18:52:24.161113'
+lastmod: '2026-10-12'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md

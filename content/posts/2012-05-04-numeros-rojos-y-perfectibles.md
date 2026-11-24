@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-05-04 07:09:29+00:00
 draft: false
-lastmod: '2025-04-06T18:54:42.876283'
+lastmod: '2026-09-04'
 related:
 - 2011-02-25-1605.md
 - 2018-12-12-fui-a-costa-rica-y-volvi-convencido-de-que-el-indice-goblal-de-felicidad-es-una-basura.md

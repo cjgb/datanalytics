@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2019-07-22 09:59:21+00:00
 draft: false
-lastmod: '2025-04-06T19:07:14.372095'
+lastmod: '2026-10-12'
 related:
 - 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
 - 2024-07-08-cortos-stats.md

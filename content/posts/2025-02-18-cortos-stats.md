@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-02-18
-lastmod: '2025-04-06T18:53:33.191931'
+lastmod: '2025-09-29'
 related:
 - 2024-06-12-cortos.md
 - 2023-09-05-superforecasting.md

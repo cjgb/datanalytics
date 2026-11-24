@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-06-08 07:36:35+00:00
 draft: false
-lastmod: '2025-04-06T19:11:49.899548'
+lastmod: '2026-09-04'
 related:
 - 2022-06-02-orgamizacion-proyectos-datos.md
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md

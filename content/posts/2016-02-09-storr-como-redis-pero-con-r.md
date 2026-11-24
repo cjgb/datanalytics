@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-02-09 09:13:43+00:00
 draft: false
-lastmod: '2025-04-06T18:45:14.274559'
+lastmod: '2026-09-04'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md
 - 2015-01-21-donde-guardar-los-paquetes-de-r-en-linux-al-menos.md

@@ -5,7 +5,7 @@ categories:
 - python
 date: 2019-07-17 09:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:49:10.994833'
+lastmod: '2026-10-12'
 related:
 - 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md

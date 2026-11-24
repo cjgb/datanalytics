@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-09-05 07:20:30+00:00
 draft: false
-lastmod: '2025-04-06T18:44:39.074272'
+lastmod: '2026-09-04'
 related:
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md

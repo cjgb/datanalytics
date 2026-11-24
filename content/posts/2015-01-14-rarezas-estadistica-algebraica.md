@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-01-14 07:13:13+00:00
-lastmod: '2025-01-03'
+lastmod: '2026-09-04'
 related:
 - 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-11-03 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:59:44.019131'
+lastmod: '2026-09-04'
 related:
 - 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
 - 2020-11-02-distancias-i-el-planteamiento-del-problema.md

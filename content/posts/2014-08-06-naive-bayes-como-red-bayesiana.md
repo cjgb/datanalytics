@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-08-06 07:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:11:02.979116'
+lastmod: '2026-09-04'
 related:
 - 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
 - 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md

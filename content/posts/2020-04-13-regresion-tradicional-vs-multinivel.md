@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-04-13 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:52.824735'
+lastmod: '2026-09-04'
 related:
 - 2020-03-18-lme4-simulate.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md

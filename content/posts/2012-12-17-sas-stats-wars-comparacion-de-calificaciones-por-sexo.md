@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2012-12-17 07:25:08+00:00
 draft: false
-lastmod: '2025-04-06T18:46:10.016816'
+lastmod: '2025-04-07'
 related:
 - 2021-11-09-nuevo-video-en-youtube-street-fighting-statistics-2-n.md
 - 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md

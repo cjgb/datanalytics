@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-02-22 09:13:40+00:00
 draft: false
-lastmod: '2025-04-06T18:55:24.686995'
+lastmod: '2025-04-07'
 related:
 - 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
 - 2023-05-16-promedio-predicciones-electorales.md

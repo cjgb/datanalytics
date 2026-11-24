@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2011-09-28 06:57:52+00:00
 draft: false
-lastmod: '2025-04-06T19:03:19.583835'
+lastmod: '2026-06-28'
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
 - 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md

@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2011-05-16 07:10:13+00:00
 draft: false
-lastmod: '2025-04-06T19:04:40.597196'
+lastmod: '2026-09-26'
 related:
 - 2011-05-12-c2bfque-nos-jugamos.md
 - 2014-01-09-como-apostar-si-tienes-que.md

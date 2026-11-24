@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-05-12 08:13:58+00:00
 draft: false
-lastmod: '2025-04-06T18:57:07.047718'
+lastmod: '2026-09-04'
 related:
 - 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
 - 2022-04-12-graficaca-ree.md

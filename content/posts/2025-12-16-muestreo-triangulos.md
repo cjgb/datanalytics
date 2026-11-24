@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-12-16
 description: ¿Cómo obtener distribuciones uniformes dentro de triángulos? (Y qué tiene
   que ver con la distribución de Dirichlet)
-lastmod: '2025-12-12T12:50:20.387528'
+lastmod: '2026-09-04'
 related:
 - 2025-12-09-muestreo-triangulos.md
 - 2025-11-25-muestreo-rechazo.md

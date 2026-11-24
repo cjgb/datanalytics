@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-06-08 08:13:34+00:00
 draft: false
-lastmod: '2025-04-06T18:48:12.025493'
+lastmod: '2026-10-12'
 related:
 - 2019-07-15-cartogramas-con-recmap.md
 - 2015-05-27-grafos-por-vecindad-en-mapas.md

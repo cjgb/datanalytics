@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-07-30 07:13:24+00:00
 draft: false
-lastmod: '2025-04-06T19:01:38.432394'
+lastmod: '2026-09-04'
 related:
 - 2014-09-12-bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos.md
 - 2017-01-10-repensando-la-codificacion-por-impacto.md

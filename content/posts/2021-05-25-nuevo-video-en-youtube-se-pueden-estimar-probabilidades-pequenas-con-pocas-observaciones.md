@@ -5,7 +5,7 @@ categories:
 - youtube
 date: 2021-05-25 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:09:14.937324'
+lastmod: '2026-11-23'
 related:
 - 2021-04-18-nuevo-video-en-youtube-micromuertes.md
 - 2021-04-04-nuevo-video-en-youtube-esta-vez-sobre-encuestas.md
@@ -22,7 +22,7 @@ title: 'Nuevo vídeo en YouTube: "¿Se pueden estimar probabilidades pequeñas c
 url: /2021/05/25/nuevo-video-en-youtube-se-pueden-estimar-probabilidades-pequenas-con-pocas-observaciones/
 ---
 
-Acabo de subir un nuevo vídeo a Youtube,
+Acabo de subir un nuevo vídeo a YouTube,
 
 {{< youtube Uv1mEmsiUKM>}}
 

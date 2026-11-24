@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2010-07-12 22:15:30+00:00
-lastmod: '2025-04-06T18:48:48.987919'
+lastmod: '2026-09-26'
 noindex: true
 related:
 - 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-01-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:05:13.149474'
+lastmod: '2026-09-04'
 related:
 - 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 - 2021-09-24-en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran.md

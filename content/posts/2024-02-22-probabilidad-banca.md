@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2024-02-22
-lastmod: '2025-04-06T18:54:51.529128'
+lastmod: '2025-10-06'
 related:
 - 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
 - 2023-03-16-negocio-bancario.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-02-27 07:20:02+00:00
 draft: false
-lastmod: '2025-04-06T18:44:22.649085'
+lastmod: '2025-04-07'
 related:
 - 2011-04-06-c2bfcual-es-la-esencia-de-la-estadistica.md
 - 2013-01-02-sobre-los-limites-de-la-mineria-de-datos.md

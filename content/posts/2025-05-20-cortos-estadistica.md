@@ -5,7 +5,7 @@ categories:
 date: 2025-05-20
 description: Unos cuantos apuntes sobre estadística, estadística bayesiana, gráficos
   estadísticos y cuestiones relacionadas con el análisis de datos.
-lastmod: '2025-06-25T20:51:42.965395'
+lastmod: '2026-10-12'
 related:
 - 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 - 2025-04-22-cortos-stats.md

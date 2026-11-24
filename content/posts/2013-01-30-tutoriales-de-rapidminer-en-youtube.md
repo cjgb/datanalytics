@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2013-01-30 07:19:05+00:00
 draft: false
-lastmod: '2025-04-06T18:48:33.474195'
+lastmod: '2026-11-23'
 related:
 - 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md
 - 2010-09-08-mas-sobre-la-integracion-de-r-y-rapidminer.md
@@ -14,11 +14,11 @@ related:
 tags:
 - ciencia de datos
 - rapidminer
-title: Tutoriales de RapidMiner en Youtube
+title: Tutoriales de RapidMiner en YouTube
 url: /2013/01/30/tutoriales-de-rapidminer-en-youtube/
 ---
 
-[RapidMiner](http://rapid-i.com/) ha colgado en Youtube tres vídeos que componen un tutorial rápido que cubre la instalación y los primeros pasos de su producto:
+[RapidMiner](http://rapid-i.com/) ha colgado en YouTube tres vídeos que componen un tutorial rápido que cubre la instalación y los primeros pasos de su producto:
 
 ![](/img/2013/01/rapidminer_logo.gif)
 

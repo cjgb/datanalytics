@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-07-19 22:00:40+00:00
-lastmod: '2025-04-06T18:47:14.349355'
+lastmod: '2026-09-03'
 related:
 - 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 - 2010-08-05-un-ilustrador-problema-de-compatibilidad-de-licencias-libres.md

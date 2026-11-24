@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2019-03-19 16:55:07+00:00
-lastmod: '2025-11-01'
+lastmod: '2026-10-12'
 related:
 - 2019-01-07-dhondt-vs-lm.md
 - 2012-04-04-de-dhondt-a-banzhaf.md

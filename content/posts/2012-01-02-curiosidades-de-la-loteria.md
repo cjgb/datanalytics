@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2012-01-02 06:39:42+00:00
 draft: false
-lastmod: '2025-04-06T19:01:06.403276'
+lastmod: '2025-04-07'
 related:
 - 2017-02-28-al-cabo-de-mas-de-50-meses-hemos-observado-un-fenomeno-que-ocurriria-en-uno-de-cada-cincuenta.md
 - 2012-05-22-la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-futbolistas.md

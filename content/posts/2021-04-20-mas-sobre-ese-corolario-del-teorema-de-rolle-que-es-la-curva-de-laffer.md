@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2021-04-20 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:03:49.929477'
+lastmod: '2026-10-12'
 related:
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 - 2011-02-25-1605.md

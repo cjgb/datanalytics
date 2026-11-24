@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-04-20 06:59:36+00:00
 draft: false
-lastmod: '2025-04-06T19:01:05.639589'
+lastmod: '2026-10-12'
 related:
 - 2022-04-12-graficaca-ree.md
 - 2014-03-31-graficaca-en-gas-natural-fenosa.md

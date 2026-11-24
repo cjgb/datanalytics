@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-01-04
-lastmod: '2025-04-06T19:07:09.894992'
+lastmod: '2026-09-04'
 related:
 - 2024-11-14-simpson-productividad.md
 - 2021-01-28-simpson-sobre-la-desigualdad.md

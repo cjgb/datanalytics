@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-06-13 08:13:47+00:00
 draft: false
-lastmod: '2025-04-06T18:59:49.800951'
+lastmod: '2025-04-07'
 related:
 - 2017-12-07-un-articulo-que-esta-esperando-a-ser-escrito.md
 - 2011-04-15-canada-1-ee-uu-0.md

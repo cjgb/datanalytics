@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-09-15 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:06:58.345375'
+lastmod: '2025-11-02'
 related:
 - 2017-02-01-infradispersion-de-conteos-buenos-ejemplos.md
 - 2022-03-24-infradispersion-fraude.md

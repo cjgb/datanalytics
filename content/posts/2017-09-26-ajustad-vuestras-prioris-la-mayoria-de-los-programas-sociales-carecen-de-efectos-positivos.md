@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-09-26 08:13:46+00:00
 draft: false
-lastmod: '2025-04-06T18:56:11.633428'
+lastmod: '2025-04-07'
 related:
 - 2018-09-12-funcionan-los-programas-sociales.md
 - 2022-04-05-intervenciones-buenistas.md

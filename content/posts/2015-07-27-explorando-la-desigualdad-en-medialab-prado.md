@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2015-07-27 08:13:52+00:00
 noindex: true
-lastmod: '2025-04-06T18:56:23.303299'
+lastmod: '2025-10-12'
 related:
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
 - 2020-01-24-estan-los-hogares-preparados-para-una-nueva-recesion.md

@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-02-26 08:13:35+00:00
 draft: false
-lastmod: '2025-04-06T18:54:07.029328'
+lastmod: '2025-10-08'
 related:
 - 2021-09-16-sobre-la-economia-conductual.md
 - 2016-07-19-mi-argumento-no-era-cientifico-sino-empirico.md

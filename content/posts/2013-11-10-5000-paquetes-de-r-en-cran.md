@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-11-10 23:10:02+00:00
 draft: false
-lastmod: '2025-04-06T18:58:51.722460'
+lastmod: '2025-04-07'
 related:
 - 2011-07-28-el-paquete-pxr-en-cran.md
 - 2011-07-01-paquetes-huerfanos-de-r.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-04-08 09:13:23+00:00
-lastmod: '2025-04-06T18:46:04.683191'
+lastmod: '2026-09-04'
 related:
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
 - 2013-01-09-el-ibex-35-estilo-gapminder.md

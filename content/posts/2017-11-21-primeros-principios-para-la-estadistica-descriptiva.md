@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-11-21 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:07:39.387752'
+lastmod: '2026-09-04'
 related:
 - 2015-11-30-estadistica-cualitativa.md
 - 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md

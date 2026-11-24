@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-04-03 07:00:00+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md
 - 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md

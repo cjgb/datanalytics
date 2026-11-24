@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-03-15
-lastmod: '2025-04-06T19:01:26.407780'
+lastmod: '2025-09-07'
 related:
 - 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md

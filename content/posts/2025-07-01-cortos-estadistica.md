@@ -5,7 +5,7 @@ categories:
 date: 2025-07-01
 description: Sobre los efectos heterogéneos, la menguante calidad de las estadísticas
   públicas y algunos asuntos estadísticos más
-lastmod: '2025-09-04T14:00:42.221883'
+lastmod: '2025-09-29'
 related:
 - 2022-03-08-estadistica-ciencias-blandas.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

@@ -5,7 +5,7 @@ categories:
 - ciencia de datos
 date: 2020-07-07 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:55:15.411192'
+lastmod: '2025-10-12'
 related:
 - 2017-01-23-polinomios-monotonos.md
 - 2012-11-22-las-ocho-peores-tecnicas-analiticas.md

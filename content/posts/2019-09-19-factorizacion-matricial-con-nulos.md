@@ -4,7 +4,7 @@ categories:
 - programación
 date: 2019-09-19 09:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:45:45.894409'
+lastmod: '2025-10-12'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md

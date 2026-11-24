@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-05-04 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:04:18.254405'
+lastmod: '2026-10-12'
 related:
 - 2020-10-13-ign-r-leaflet.md
 - 2019-07-15-cartogramas-con-recmap.md

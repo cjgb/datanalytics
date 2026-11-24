@@ -4,7 +4,7 @@ categories:
 - artículos
 date: 2018-09-07 08:13:01+00:00
 draft: false
-lastmod: '2025-04-06T19:10:43.697826'
+lastmod: '2025-05-05'
 related:
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
 - 2012-02-23-higiene-numerica-para-periodistas.md

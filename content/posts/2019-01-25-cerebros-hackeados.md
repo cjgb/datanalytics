@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2019-01-25 08:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:57:38.165288'
+lastmod: '2025-04-07'
 related:
 - 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 - 2018-04-02-sobre-lo-de-cambridge-analytica.md

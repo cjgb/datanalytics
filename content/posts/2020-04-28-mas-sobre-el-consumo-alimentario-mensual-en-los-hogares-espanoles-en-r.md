@@ -5,7 +5,7 @@ categories:
 - r
 date: 2020-04-28 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:50:15.635576'
+lastmod: '2025-05-05'
 related:
 - 2020-04-01-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r.md
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md

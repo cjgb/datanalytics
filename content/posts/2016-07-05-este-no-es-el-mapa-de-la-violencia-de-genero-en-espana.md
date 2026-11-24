@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-07-05 08:13:32+00:00
 draft: false
-lastmod: '2025-04-06T18:56:47.352016'
+lastmod: '2026-10-12'
 related:
 - 2012-03-07-esperanzador-no-varianzador.md
 - 2014-12-10-hubo-alguna-vez-un-millon-de-palentinas.md

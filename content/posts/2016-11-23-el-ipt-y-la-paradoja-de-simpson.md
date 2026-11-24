@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-11-23 08:13:38+00:00
 draft: false
-lastmod: '2025-04-06T19:13:25.784686'
+lastmod: '2026-09-04'
 related:
 - 2021-01-28-simpson-sobre-la-desigualdad.md
 - 2013-08-13-suben-o-bajan.md

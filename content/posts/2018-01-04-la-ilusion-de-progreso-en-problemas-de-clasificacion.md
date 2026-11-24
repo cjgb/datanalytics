@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-04 08:13:18+00:00
 draft: false
-lastmod: '2025-04-06T19:06:44.053935'
+lastmod: '2025-04-07'
 related:
 - 2017-03-09-un-parrafo-afortunadisimo-sobre-las-nuevas-aptitudes.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

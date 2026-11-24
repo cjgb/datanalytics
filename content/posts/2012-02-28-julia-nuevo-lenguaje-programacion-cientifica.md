@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-02-28 08:02:29+00:00
 draft: false
-lastmod: '2025-04-06T18:58:18.843051'
+lastmod: '2026-09-04'
 related:
 - 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
 - 2012-03-06-mas-sobre-julia-ii-mi-primer-programa.md

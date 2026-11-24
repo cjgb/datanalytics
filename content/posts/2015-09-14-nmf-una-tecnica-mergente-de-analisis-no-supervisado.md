@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-09-14 08:13:50+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-10-12'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2019-01-24-nmds-y-un-poquito-mas-alla.md

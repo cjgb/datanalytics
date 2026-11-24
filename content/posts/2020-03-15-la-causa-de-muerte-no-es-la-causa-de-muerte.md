@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-03-15 15:06:44+00:00
 draft: false
-lastmod: '2025-04-06T19:06:00.052637'
+lastmod: '2026-09-04'
 related:
 - 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
 - 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md

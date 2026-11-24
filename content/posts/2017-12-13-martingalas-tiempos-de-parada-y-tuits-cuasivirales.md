@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2017-12-13 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T18:50:44.881175'
+lastmod: '2026-09-04'
 related:
 - 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
 - 2012-01-31-cosa-prodigiosa-iii-epilogo.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2015-08-04 08:13:23+00:00
-lastmod: '2025-04-06T19:06:19.969143'
+lastmod: '2025-11-02'
 related:
 - 2014-12-10-hubo-alguna-vez-un-millon-de-palentinas.md
 - 2012-03-07-esperanzador-no-varianzador.md

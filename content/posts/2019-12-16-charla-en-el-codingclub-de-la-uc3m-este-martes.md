@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2019-12-16 09:13:00+00:00
 noindex: true
-lastmod: '2025-04-06T18:53:28.511546'
+lastmod: '2025-11-02'
 related:
 - 2020-01-08-rebanos-de-modelos-el-resumen.md
 - 2019-03-11-charla-mia-el-dia-de-pi-de-2019-en-elche.md

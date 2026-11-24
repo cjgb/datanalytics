@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2014-06-25 07:11:26+00:00
 draft: false
-lastmod: '2025-04-06T19:10:07.248535'
+lastmod: '2026-09-04'
 related:
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md

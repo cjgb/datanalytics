@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-03-19 08:13:03+00:00
 draft: false
-lastmod: '2025-04-06T18:46:18.700123'
+lastmod: '2026-10-12'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md

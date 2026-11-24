@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-03-02 08:13:03+00:00
 noindex: true
-lastmod: '2025-04-06T18:48:43.610868'
+lastmod: '2026-10-12'
 related:
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

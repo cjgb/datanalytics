@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-23 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:12.735310'
+lastmod: '2025-04-07'
 related:
 - 2020-06-19-rulefit.md
 - 2024-07-03-cortos-stats.md

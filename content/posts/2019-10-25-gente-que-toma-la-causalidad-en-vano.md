@@ -6,7 +6,7 @@ categories:
 - mala ciencia
 date: 2019-10-25 09:13:51+00:00
 draft: false
-lastmod: '2025-04-06T18:52:41.545814'
+lastmod: '2025-04-07'
 related:
 - 2025-03-11-cortos-causalidad.md
 - 2022-03-08-estadistica-ciencias-blandas.md

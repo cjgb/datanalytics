@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-02-28 09:07:36+00:00
-lastmod: '2026-09-02'
+lastmod: '2026-09-03'
 related:
 - 2015-02-25-todos-contra-todos.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md

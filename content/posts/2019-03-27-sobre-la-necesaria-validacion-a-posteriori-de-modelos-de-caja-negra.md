@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2019-03-27 09:13:01+00:00
 draft: false
-lastmod: '2025-04-06T19:04:43.610055'
+lastmod: '2025-11-08'
 related:
 - 2023-03-02-conformal-prediction.md
 - 2024-02-01-optimizacion-generalizacion.md

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-02-10
-lastmod: '2025-04-06T19:06:09.681875'
+lastmod: '2025-11-02'
 related:
 - 2014-11-03-espanoles-hererodoxos-outliers-patrios.md
 - 2017-01-16-weapons-of-math-destruction.md

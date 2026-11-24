@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2021-01-14
 noindex: true
-lastmod: '2025-04-06T19:08:42.472211'
+lastmod: '2026-09-24'
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
 - 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md

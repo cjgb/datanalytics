@@ -5,7 +5,7 @@ categories:
 - probabilidad
 date: 2011-07-21 07:00:14+00:00
 draft: false
-lastmod: '2025-04-06T18:47:18.386876'
+lastmod: '2025-04-07'
 related:
 - 2017-01-16-weapons-of-math-destruction.md
 - 2012-03-30-tolstoi-sobre-los-mercados-ineficientes.md

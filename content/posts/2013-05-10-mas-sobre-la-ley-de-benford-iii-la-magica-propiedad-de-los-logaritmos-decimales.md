@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-05-10 07:08:38+00:00
 draft: false
-lastmod: '2025-04-06T18:57:31.007633'
+lastmod: '2026-09-04'
 related:
 - 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
 - 2013-04-02-las-leyes-de-benford.md

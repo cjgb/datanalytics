@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2016-12-02 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T19:09:21.884487'
+lastmod: '2026-09-04'
 related:
 - 2016-03-10-hoy-que-me-he-puesto-traje-y-corbata.md
 - 2022-02-22-grafico-quitarse-sombrero.md

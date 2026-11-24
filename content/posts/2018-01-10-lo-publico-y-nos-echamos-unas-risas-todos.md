@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2018-01-10 08:13:49+00:00
 draft: false
-lastmod: '2025-04-06T19:10:26.480676'
+lastmod: '2025-04-07'
 related:
 - 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 - 2012-06-22-las-auditorias-bancaria-de-ayer.md

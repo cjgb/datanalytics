@@ -6,7 +6,7 @@ categories:
 - r
 date: 2018-01-09 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:00:51.105936'
+lastmod: '2026-09-04'
 related:
 - 2012-04-30-contar-c2bffacil.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

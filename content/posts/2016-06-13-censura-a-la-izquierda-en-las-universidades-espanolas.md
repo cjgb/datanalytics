@@ -4,7 +4,7 @@ categories:
 - r
 date: 2016-06-13 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:59:02.301411'
+lastmod: '2026-09-04'
 related:
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
 - 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md

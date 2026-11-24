@@ -4,7 +4,7 @@ categories:
 - r
 date: 2012-07-26 07:07:07+00:00
 noindex: true
-lastmod: '2025-04-06T18:55:11.459893'
+lastmod: '2026-10-12'
 related:
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md

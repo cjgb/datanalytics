@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-11-24 09:08:05+00:00
-lastmod: '2025-04-06T18:52:56.922966'
+lastmod: '2026-10-06'
 related:
 - 2010-08-17-una-tarea-para-mis-lectores.md
 - 2020-01-29-x.md

@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-02-18 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:49:28.366901'
+lastmod: '2025-11-02'
 related:
 - 2024-04-04-sobre-cis.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-11-13 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T18:52:34.186107'
+lastmod: '2025-04-07'
 related:
 - 2022-03-15-infraestimacion-error-encuestas.md
 - 2016-11-30-la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado.md

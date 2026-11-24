@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-01-11 08:13:31+00:00
 draft: false
-lastmod: '2025-04-06T19:10:03.560465'
+lastmod: '2025-04-07'
 related:
 - 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md
 - 2018-05-24-prioris-informativas-un-ejemplo.md

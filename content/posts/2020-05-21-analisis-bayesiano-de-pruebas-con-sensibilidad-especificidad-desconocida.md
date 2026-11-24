@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-05-21 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:54:40.193812'
+lastmod: '2026-10-08'
 related:
 - 2020-06-16-coronavirus-prevalencia-sensibilidad-y-especificidad.md
 - 2020-04-27-muestreo-sensibilidad-y-especificidad.md

@@ -7,7 +7,7 @@ categories:
 - mala ciencia
 date: 2021-11-11 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:34.607491'
+lastmod: '2025-04-07'
 related:
 - 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md

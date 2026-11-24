@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-10-27 06:40:03+00:00
-lastmod: '2025-04-06T19:11:18.924510'
+lastmod: '2026-09-04'
 related:
 - 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md

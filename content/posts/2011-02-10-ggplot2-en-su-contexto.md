@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2011-02-10 09:56:44+00:00
 draft: false
-lastmod: '2026-09-24'
+lastmod: '2026-09-26'
 related:
 - 2013-11-29-oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2.md
 - 2011-04-26-graficos-vi-teoria.md

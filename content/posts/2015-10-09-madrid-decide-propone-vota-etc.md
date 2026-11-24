@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-10-09 08:13:44+00:00
 draft: false
-lastmod: '2025-04-06T18:58:00.667171'
+lastmod: '2026-10-12'
 related:
 - 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
 - 2012-09-20-como-votan-los-diputados.md

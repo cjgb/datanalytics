@@ -5,7 +5,7 @@ categories:
 - charlas
 date: 2017-05-03 08:13:51+00:00
 noindex: true
-lastmod: '2025-04-06T19:07:48.604232'
+lastmod: '2026-01-31'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md

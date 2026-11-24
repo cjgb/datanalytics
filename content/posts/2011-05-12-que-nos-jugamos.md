@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-05-12 07:18:12+00:00
 draft: false
-lastmod: '2025-04-06T19:05:39.151292'
+lastmod: '2026-09-26'
 related:
 - 2011-05-16-c2bfque-nos-jugamos-addenda-no-queremos-jugarnos-nada.md
 - 2014-01-09-como-apostar-si-tienes-que.md

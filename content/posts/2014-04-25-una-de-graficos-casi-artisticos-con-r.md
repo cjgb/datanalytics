@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-04-25 07:38:35+00:00
 draft: false
-lastmod: '2025-04-06T18:52:18.739821'
+lastmod: '2026-10-12'
 related:
 - 2013-01-11-arte-con-r-tres-enlaces.md
 - 2010-10-26-a-vueltas-con-los-fractales.md

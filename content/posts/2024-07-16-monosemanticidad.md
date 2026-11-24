@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2024-07-16
-lastmod: '2025-04-06T18:48:14.116232'
+lastmod: '2026-10-12'
 related:
 - 2024-05-07-cortos.md
 - 2023-10-05-llms-historia.md

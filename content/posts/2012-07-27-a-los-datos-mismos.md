@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2012-07-27 19:44:51+00:00
 draft: false
-lastmod: '2025-04-06T19:04:14.408698'
+lastmod: '2025-10-12'
 related:
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
 - 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md

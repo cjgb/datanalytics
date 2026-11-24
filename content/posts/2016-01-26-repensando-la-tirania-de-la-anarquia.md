@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-01-26 09:13:29+00:00
 draft: false
-lastmod: '2025-04-06T19:00:39.030294'
+lastmod: '2026-09-04'
 related:
 - 2015-09-25-la-huelga-del-metro-de-londres-y-sus-efectos-beneficiosos.md
 - 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md

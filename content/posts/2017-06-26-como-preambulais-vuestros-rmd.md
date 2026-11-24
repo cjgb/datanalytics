@@ -4,7 +4,7 @@ categories:
 - r
 date: 2017-06-26 08:13:12+00:00
 draft: false
-lastmod: '2025-04-06T19:07:53.860814'
+lastmod: '2026-09-04'
 related:
 - 2016-04-28-rmarkdown-en-el-panel-principal-de-shiny.md
 - 2018-04-25-diapositivas-con-reveal-js-y-yeoman.md

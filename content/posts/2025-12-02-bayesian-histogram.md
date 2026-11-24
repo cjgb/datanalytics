@@ -4,7 +4,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-12-02
 description: Reconstrucción de una distribución a partir de un histograma
-lastmod: '2025-11-29T15:38:45.860920'
+lastmod: '2026-09-04'
 related:
 - 2018-03-01-kriging-con-stan.md
 - 2022-06-16-modelos-difusion.md

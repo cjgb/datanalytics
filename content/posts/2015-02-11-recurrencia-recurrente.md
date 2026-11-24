@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-02-11 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:01:24.973804'
+lastmod: '2026-10-12'
 related:
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
 - 2014-05-12-grid-scala-y-arbolitos.md

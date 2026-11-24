@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-05-23 09:13:15+00:00
 draft: false
-lastmod: '2025-04-06T19:04:59.955649'
+lastmod: '2026-11-23'
 related:
 - 2012-03-07-esperanzador-no-varianzador.md
 - 2017-01-16-weapons-of-math-destruction.md
@@ -34,7 +34,7 @@ El resto del artículo es un ejercicio de matematización oscurantista para desc
 
 Cosas que echo de menos:
 
-* La primera, para cada nivel de riesgo, el número de casos totales, el número de denuncias, la probabilidad esperada y sus intervalos de confianza. ¿Crecen esas probabilidades con el nivel de riesgo? Ni lo cuentan ni lo sabemos. ¿Son razonables el número de observaciones en cada nivel de riesgo? Ni lo cuentan ni lo sabemos.
+* La primera, para cada nivel de riesgo, el número de casos totales, el número de denuncias, la probabilidad esperada y sus intervalos de confianza. ¿Crecen esas probabilidades con el nivel de riesgo? Ni lo cuentan ni lo sabemos. ¿Es razonable el número de observaciones en cada nivel de riesgo? Ni lo cuentan ni lo sabemos.
 * Una explicación de por qué el modelo existe en lugar de no existir: ¿qué tipo de problema operativo resuelve? ¿Permite optimizar la asignación de recursos de algún modo? ¿Lo hace eficazmente? ¿Vale, en definitiva, para algo?
 
 Acerca del primer punto, lo que sí que se hace en el artículo es agregar los cinco niveles en dos. Dos y no tres. Cortando por un punto y no por otro. ¿Por qué no malpensar que esas decisiones se tomaron para que los resultados resultasen más fotogénicos? Yo creo que los autores retuercen el hilo de la metodología para arrimar el ascua a su sardina. Y que el hecho de que no muestren la información que uno más naturalmente pediría significa, probablemente, que tienen un montón de basura debajo de la alfombra.

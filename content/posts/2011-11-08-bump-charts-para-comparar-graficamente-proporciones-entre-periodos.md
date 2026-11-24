@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-11-08 06:56:14+00:00
 draft: false
-lastmod: '2025-04-06T19:00:44.461623'
+lastmod: '2026-09-04'
 related:
 - 2014-11-19-dime-que-quieres-comparar-con-que.md
 - 2012-04-23-graficos-dinamita-desaconsejados.md

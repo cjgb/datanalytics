@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - causalidad
 date: 2024-09-10
-lastmod: '2025-04-06T18:48:42.251973'
+lastmod: '2026-09-04'
 related:
 - 2014-06-24-causalidad-a-la-pearl-y-el-operador-do.md
 - 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md

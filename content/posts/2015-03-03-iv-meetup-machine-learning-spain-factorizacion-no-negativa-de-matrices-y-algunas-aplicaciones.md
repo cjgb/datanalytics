@@ -4,7 +4,7 @@ categories:
 - anuncio
 date: 2015-03-03 08:13:34+00:00
 noindex: true
-lastmod: '2025-04-06T18:49:14.323787'
+lastmod: '2026-09-04'
 related:
 - 2015-03-05-iv-meetup-machine-learning-spain-diapositivas-y-enlaces.md
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md

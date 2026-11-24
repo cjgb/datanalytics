@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-04-25 07:05:16+00:00
 draft: false
-lastmod: '2025-04-06T18:54:36.779735'
+lastmod: '2026-09-26'
 related:
 - 2012-04-26-espana-c2bfradial-ii.md
 - 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md

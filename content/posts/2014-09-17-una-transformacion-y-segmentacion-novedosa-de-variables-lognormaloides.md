@@ -4,7 +4,7 @@ categories:
 - consultoría
 date: 2014-09-17 07:13:57+00:00
 draft: false
-lastmod: '2025-04-06T18:48:44.974486'
+lastmod: '2025-04-07'
 related:
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
 - 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md

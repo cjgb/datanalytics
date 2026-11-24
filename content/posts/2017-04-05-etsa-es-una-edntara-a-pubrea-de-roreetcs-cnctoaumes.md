@@ -5,7 +5,7 @@ categories:
 - varios
 date: 2017-04-05 08:13:07+00:00
 draft: false
-lastmod: '2025-04-06T18:56:13.084095'
+lastmod: '2026-09-04'
 related:
 - 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md

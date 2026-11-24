@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-14 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T18:50:16.980939'
+lastmod: '2026-09-04'
 related:
 - 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 - 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md

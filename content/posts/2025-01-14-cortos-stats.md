@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-01-14
-lastmod: '2025-04-06T18:53:39.258704'
+lastmod: '2026-09-04'
 related:
 - 2024-06-12-cortos.md
 - 2025-02-25-cortos-stats.md

@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2026-01-21
 description: Un ejemplo de la causalidad interpretada en sentido apelativo, como algo
   que invita a actuar a alguien concreto de una determinada forma.
-lastmod: '2026-01-17T07:09:48.904692'
+lastmod: '2026-01-17'
 related:
 - 2025-01-16-causalidad-util.md
 - 2025-03-20-causalidad-apelativa.md

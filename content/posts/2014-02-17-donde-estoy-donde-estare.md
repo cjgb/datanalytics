@@ -4,7 +4,7 @@ categories:
 - números
 date: 2014-02-17 07:47:33+00:00
 draft: false
-lastmod: '2025-04-06T18:59:30.737420'
+lastmod: '2026-09-04'
 related:
 - 2014-10-30-y-si-no-se-mantuvieran.md
 - 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md

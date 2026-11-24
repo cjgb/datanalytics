@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-04-19 07:30:54+00:00
 draft: false
-lastmod: '2025-04-06T19:07:36.353878'
+lastmod: '2026-09-04'
 related:
 - 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 - 2022-03-03-error-sesgo-modelos-lineales.md

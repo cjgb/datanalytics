@@ -4,7 +4,7 @@ categories:
 - r
 date: 2015-02-05 07:13:14+00:00
 draft: false
-lastmod: '2025-04-06T19:12:50.316568'
+lastmod: '2026-09-04'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
 - 2014-11-21-mi-querido-colega-de-iberia.md

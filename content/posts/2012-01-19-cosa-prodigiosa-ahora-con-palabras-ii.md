@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-01-19 06:32:41+00:00
 draft: false
-lastmod: '2025-04-06T18:45:51.919680'
+lastmod: '2026-09-04'
 related:
 - 2012-01-31-cosa-prodigiosa-iii-epilogo.md
 - 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md

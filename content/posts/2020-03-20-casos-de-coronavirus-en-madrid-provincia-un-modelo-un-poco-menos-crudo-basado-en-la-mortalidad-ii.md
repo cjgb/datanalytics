@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2020-03-20 09:18:28+00:00
 draft: false
-lastmod: '2025-04-06T19:12:11.085069'
+lastmod: '2026-10-08'
 related:
 - 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
 - 2020-05-07-coronavirus-cualitativo.md

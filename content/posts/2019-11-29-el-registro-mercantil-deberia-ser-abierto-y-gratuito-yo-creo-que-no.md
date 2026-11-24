@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2019-11-29 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:08:45.730236'
+lastmod: '2025-04-07'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2015-03-10-licencias-urbanisticas-datos-y-votos.md

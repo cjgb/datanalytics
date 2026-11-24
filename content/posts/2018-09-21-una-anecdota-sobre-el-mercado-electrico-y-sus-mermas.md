@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-09-21 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T18:45:53.919519'
+lastmod: '2025-04-07'
 related:
 - 2014-01-22-catorce-mitos-sobre-el-mercado-electrico.md
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md

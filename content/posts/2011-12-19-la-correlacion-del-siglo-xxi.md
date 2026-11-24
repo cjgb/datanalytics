@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2011-12-19 06:58:54+00:00
 draft: false
-lastmod: '2025-04-06T19:11:35.003171'
+lastmod: '2026-09-04'
 related:
 - 2022-02-15-mas-correlaciones-siglo-xxi.md
 - 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md

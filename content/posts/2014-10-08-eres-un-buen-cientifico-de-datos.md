@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2014-10-08 07:13:57+00:00
 draft: false
-lastmod: '2025-04-06T19:03:33.122659'
+lastmod: '2025-04-07'
 related:
 - 2012-01-24-c2bfque-es-un-data-scientist.md
 - 2015-07-08-un-problema-inverso-de-regresion.md

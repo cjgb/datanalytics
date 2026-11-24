@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2023-11-14
 draft: false
-lastmod: '2025-04-06T18:56:20.329734'
+lastmod: '2026-09-04'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

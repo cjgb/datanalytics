@@ -5,7 +5,7 @@ categories:
 - números
 date: 2019-07-04 09:13:16+00:00
 draft: false
-lastmod: '2025-04-06T18:45:28.357918'
+lastmod: '2025-11-02'
 related:
 - 2019-07-09-estacionalidad-semanal-de-la-mortalidad.md
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md

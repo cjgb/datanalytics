@@ -4,7 +4,7 @@ categories:
 - r
 date: 2010-11-02 22:18:21+00:00
 draft: false
-lastmod: '2025-04-06T18:59:37.565866'
+lastmod: '2026-09-26'
 related:
 - 2011-02-02-1387.md
 - 2017-12-11-cuidado-con-los.md

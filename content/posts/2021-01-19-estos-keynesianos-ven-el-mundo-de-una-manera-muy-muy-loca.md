@@ -4,7 +4,7 @@ categories:
 - probabilidad
 date: 2021-01-19 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:56:21.142106'
+lastmod: '2026-01-03'
 related:
 - 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
 - 2022-12-01-eventos-conjuntos.md

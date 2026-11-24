@@ -5,7 +5,7 @@ categories:
 - números
 date: 2020-05-20 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:53:35.927516'
+lastmod: '2025-11-02'
 related:
 - 2017-07-04-dudas-razonables-que-me-asaltan.md
 - 2021-05-12-causalidad-y-paraisos-fiscales.md

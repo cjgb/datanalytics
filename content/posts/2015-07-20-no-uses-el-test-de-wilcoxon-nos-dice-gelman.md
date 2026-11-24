@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-20 08:13:59+00:00
 draft: false
-lastmod: '2025-04-06T18:49:42.693313'
+lastmod: '2025-10-12'
 related:
 - 2022-06-28-que-hace-avanzar-la-estadistica.md
 - 2019-02-11-auc-wilcoxon.md

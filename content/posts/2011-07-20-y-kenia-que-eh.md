@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-07-20 07:14:30+00:00
 draft: false
-lastmod: '2025-04-06T19:04:15.150441'
+lastmod: '2026-09-26'
 related:
 - 2011-04-12-c2a1que-prensa-tan-mala.md
 - 2011-04-15-canada-1-ee-uu-0.md

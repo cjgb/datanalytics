@@ -5,7 +5,7 @@ categories:
 - r
 date: 2019-10-08 09:13:31+00:00
 draft: false
-lastmod: '2025-04-06T18:57:59.896996'
+lastmod: '2026-09-26'
 related:
 - 2018-09-26-asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario.md
 - 2019-10-25-gente-que-toma-la-causalidad-en-vano.md

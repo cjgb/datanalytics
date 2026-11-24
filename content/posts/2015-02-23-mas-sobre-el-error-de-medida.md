@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-02-23 08:13:45+00:00
 draft: false
-lastmod: '2025-04-06T18:57:20.210007'
+lastmod: '2026-09-04'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 - 2015-02-20-error-de-medida.md

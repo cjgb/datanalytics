@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2016-10-21 08:13:27+00:00
 draft: false
-lastmod: '2025-04-06T19:12:03.220079'
+lastmod: '2025-04-07'
 related:
 - 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
 - 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md

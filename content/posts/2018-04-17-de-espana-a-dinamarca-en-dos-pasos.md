@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-04-17 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T19:10:55.130597'
+lastmod: '2025-11-02'
 related:
 - 2021-05-12-causalidad-y-paraisos-fiscales.md
 - 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
